@@ -241,6 +241,115 @@
         }
 
         /* ═══════════════════════════════════════════════════
+           MARKET OVERVIEW BANNER
+           ═══════════════════════════════════════════════════ */
+        .market-overview-banner {
+            background: linear-gradient(135deg, #0f1a2e 0%, #0d2a2a 50%, #0f1a2e 100%);
+            border: 1px solid rgba(74, 158, 255, 0.15);
+            border-radius: var(--radius);
+            padding: 1.5rem 1.75rem;
+            margin-bottom: 1.5rem;
+            position: relative;
+            overflow: hidden;
+            display: none;
+        }
+
+        .market-overview-banner.visible { display: block; }
+
+        .market-overview-banner::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, var(--blue), var(--cyan), var(--green));
+        }
+
+        .market-overview-banner::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 300px;
+            height: 100%;
+            background: radial-gradient(ellipse at top right, rgba(74, 158, 255, 0.06) 0%, transparent 70%);
+            pointer-events: none;
+        }
+
+        .banner-top {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 1rem;
+            margin-bottom: 0.75rem;
+            flex-wrap: wrap;
+        }
+
+        .banner-title {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .banner-title .icon {
+            font-size: 1.2rem;
+        }
+
+        .banner-time {
+            font-family: var(--font-mono);
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            white-space: nowrap;
+            flex-shrink: 0;
+            align-self: flex-start;
+            margin-top: 0.25rem;
+        }
+
+        .banner-movers {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            flex-shrink: 0;
+        }
+
+        .banner-mover-chip {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.3rem;
+            padding: 0.2rem 0.55rem;
+            border-radius: 6px;
+            font-family: var(--font-mono);
+            font-size: 0.72rem;
+            font-weight: 600;
+        }
+
+        .banner-mover-chip.positive {
+            background: var(--green-bg);
+            border: 1px solid var(--green-border);
+            color: var(--green);
+        }
+
+        .banner-mover-chip.negative {
+            background: var(--red-bg);
+            border: 1px solid var(--red-border);
+            color: var(--red);
+        }
+
+        .banner-mover-chip .symbol {
+            color: var(--text-secondary);
+        }
+
+        .banner-text {
+            font-size: 0.88rem;
+            color: var(--text-secondary);
+            line-height: 1.7;
+        }
+
+        /* ═══════════════════════════════════════════════════
            ASSET CARDS GRID
            ═══════════════════════════════════════════════════ */
         .assets-grid {
@@ -254,10 +363,14 @@
             background: var(--bg-card);
             border: 1px solid var(--border);
             border-radius: var(--radius);
-            padding: 1.25rem;
-            transition: var(--transition);
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
             position: relative;
             overflow: hidden;
+            border-left: 3px solid transparent;
+        }
+
+        .asset-card .card-body {
+            padding: 1.25rem;
         }
 
         .asset-card::before {
@@ -266,19 +379,21 @@
             top: 0;
             left: 0;
             right: 0;
-            height: 2px;
-            background: var(--border);
-            transition: var(--transition);
+            bottom: 0;
+            background: linear-gradient(180deg, rgba(255,255,255,0.02) 0%, transparent 50%);
+            opacity: 0;
+            transition: opacity 0.25s ease;
+            pointer-events: none;
+            z-index: 1;
         }
 
-        .asset-card.positive::before { background: var(--green); }
-        .asset-card.negative::before { background: var(--red); }
+        .asset-card:hover::before { opacity: 1; }
 
         .asset-card:hover {
-            border-color: var(--blue);
+            border-color: rgba(74, 158, 255, 0.3);
             background: var(--bg-card-hover);
-            box-shadow: var(--shadow);
-            transform: translateY(-2px);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(74, 158, 255, 0.08);
+            transform: translateY(-3px) scale(1.005);
         }
 
         .card-top {
@@ -291,13 +406,13 @@
         .asset-info { display: flex; align-items: center; gap: 0.75rem; }
 
         .asset-icon {
-            width: 40px;
-            height: 40px;
-            border-radius: 10px;
+            width: 42px;
+            height: 42px;
+            border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 1.2rem;
+            font-size: 1.25rem;
             flex-shrink: 0;
         }
 
@@ -314,9 +429,9 @@
 
         .change-pct {
             font-family: var(--font-mono);
-            font-weight: 700;
-            font-size: 1rem;
-            padding: 0.2rem 0.6rem;
+            font-weight: 800;
+            font-size: 1.05rem;
+            padding: 0.25rem 0.7rem;
             border-radius: 6px;
         }
 
@@ -331,7 +446,7 @@
 
         .card-price {
             font-family: var(--font-mono);
-            font-size: 1.75rem;
+            font-size: 1.9rem;
             font-weight: 700;
             letter-spacing: -1px;
             margin-bottom: 0.75rem;
@@ -340,7 +455,7 @@
         /* Sparkline canvas */
         .sparkline-container {
             width: 100%;
-            height: 50px;
+            height: 60px;
             margin-bottom: 0.75rem;
             border-radius: 6px;
             overflow: hidden;
@@ -371,122 +486,32 @@
         .meta-value { font-size: 0.8rem; font-family: var(--font-mono); font-weight: 600; }
 
         /* ═══════════════════════════════════════════════════
-           AI COMMENTARY FEED
+           CARD COMMENTARY SECTION
            ═══════════════════════════════════════════════════ */
-        .commentary-feed {
-            max-height: 520px;
-            overflow-y: auto;
-            display: flex;
-            flex-direction: column;
-            gap: 0.75rem;
-            margin-bottom: 2rem;
-            padding-right: 0.25rem;
-        }
-
-        .commentary-entry {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            padding: 1.25rem;
-            transition: var(--transition);
+        .card-commentary {
+            padding: 0.85rem 1.25rem;
+            background: rgba(0, 0, 0, 0.12);
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
             position: relative;
         }
 
-        .commentary-entry::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            bottom: 0;
-            width: 3px;
-            border-radius: var(--radius) 0 0 var(--radius);
-            background: var(--blue);
-        }
-
-        .commentary-entry:hover {
-            border-color: var(--blue);
-            background: var(--bg-card-hover);
-        }
-
-        .commentary-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 0.6rem;
-            gap: 0.75rem;
-            flex-wrap: wrap;
-        }
-
-        .commentary-title {
-            font-weight: 700;
-            font-size: 0.95rem;
-            color: var(--text-primary);
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-
-        .commentary-time {
-            font-family: var(--font-mono);
-            font-size: 0.7rem;
-            color: var(--text-muted);
-            white-space: nowrap;
-            flex-shrink: 0;
-        }
-
-        .commentary-text {
-            font-size: 0.85rem;
+        .card-commentary-text {
+            font-size: 0.8rem;
             color: var(--text-secondary);
-            line-height: 1.65;
-            margin-bottom: 0.75rem;
+            line-height: 1.6;
+            margin-bottom: 0.3rem;
         }
 
-        .commentary-movers {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
+        .card-commentary-text .commentary-icon {
+            color: var(--blue);
+            margin-right: 0.3rem;
         }
 
-        .commentary-mover-chip {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.35rem;
-            padding: 0.25rem 0.6rem;
-            border-radius: 6px;
+        .card-commentary-time {
             font-family: var(--font-mono);
-            font-size: 0.75rem;
-            font-weight: 600;
-        }
-
-        .commentary-mover-chip.positive {
-            background: var(--green-bg);
-            border: 1px solid var(--green-border);
-            color: var(--green);
-        }
-
-        .commentary-mover-chip.negative {
-            background: var(--red-bg);
-            border: 1px solid var(--red-border);
-            color: var(--red);
-        }
-
-        .commentary-mover-chip .symbol {
-            color: var(--text-secondary);
-        }
-
-        .commentary-fallback {
-            text-align: center;
-            padding: 2.5rem 2rem;
+            font-size: 0.65rem;
             color: var(--text-muted);
-            font-size: 0.85rem;
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-        }
-
-        .commentary-fallback .icon {
-            font-size: 1.75rem;
-            margin-bottom: 0.6rem;
+            text-align: right;
         }
 
         /* ═══════════════════════════════════════════════════
@@ -679,14 +704,18 @@
             .assets-grid { grid-template-columns: 1fr; }
             .two-col { grid-template-columns: 1fr; }
             .news-grid { grid-template-columns: 1fr; }
-            .card-price { font-size: 1.4rem; }
+            .card-price { font-size: 1.5rem; }
             .logo-text { font-size: 1.1rem; }
             .header-meta { gap: 0.5rem; }
+            .banner-top { flex-direction: column; }
+            .banner-movers { margin-top: 0.5rem; }
+            .market-overview-banner { padding: 1.25rem; }
         }
 
         @media (max-width: 480px) {
             .assets-grid { gap: 0.75rem; }
-            .asset-card { padding: 1rem; }
+            .asset-card .card-body { padding: 1rem; }
+            .card-commentary { padding: 0.75rem 1rem; }
             .summary-chip { padding: 0.4rem 0.6rem; font-size: 0.75rem; }
         }
 
@@ -730,6 +759,11 @@
             <!-- Populated by JS -->
         </div>
 
+        <!-- Market Overview Banner (from commentary) -->
+        <div class="market-overview-banner" id="marketOverviewBanner">
+            <!-- Populated by JS -->
+        </div>
+
         <!-- Asset Cards -->
         <div class="section-header">
             <h2>📊 Asset Overview</h2>
@@ -737,18 +771,6 @@
         </div>
         <div class="assets-grid" id="assetsGrid">
             <!-- Populated by JS -->
-        </div>
-
-        <!-- AI Commentary -->
-        <div class="section-header">
-            <h2>🤖 AI Market Commentary</h2>
-            <span class="badge">Feed</span>
-        </div>
-        <div class="commentary-feed" id="commentaryFeed">
-            <div class="commentary-fallback">
-                <div class="icon">🤖</div>
-                <p>Loading commentary...</p>
-            </div>
         </div>
 
         <!-- Movers -->
@@ -811,6 +833,7 @@
 
     const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
     let assetData = {};
+    let commentaryData = null; // global commentary storage
     let refreshTimer = null;
     let dataUpdatedAt = null; // timestamp from market.json
 
@@ -1031,6 +1054,80 @@
         }).join('');
     }
 
+    /* ═══════════════════════════════════════════════════════════
+       COMMENTARY MATCHING
+       ═══════════════════════════════════════════════════════════ */
+
+    function getCommentaryForAsset(assetName, commentaryEntries) {
+        if (!commentaryEntries) return null;
+        return commentaryEntries.find(entry => {
+            const titleLower = entry.title.toLowerCase();
+            const nameLower = assetName.toLowerCase();
+            return titleLower.startsWith(nameLower) ||
+                   titleLower.includes(nameLower + ' —') ||
+                   titleLower.includes(nameLower + ' -');
+        });
+    }
+
+    function getMarketOverviewEntry(commentaryEntries) {
+        if (!commentaryEntries) return null;
+        // Look for entries not tied to a specific asset — "Market Overview", "Weekly Close", general titles
+        const assetNames = ASSETS.map(a => a.name.toLowerCase());
+        return commentaryEntries.find(entry => {
+            const titleLower = entry.title.toLowerCase();
+            // Check if it's NOT an asset-specific entry
+            const isAssetSpecific = assetNames.some(name =>
+                titleLower.startsWith(name) ||
+                titleLower.includes(name + ' —') ||
+                titleLower.includes(name + ' -')
+            );
+            return !isAssetSpecific;
+        });
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       MARKET OVERVIEW BANNER
+       ═══════════════════════════════════════════════════════════ */
+
+    function renderMarketOverview(entries) {
+        const banner = document.getElementById('marketOverviewBanner');
+        const overviewEntry = getMarketOverviewEntry(entries);
+
+        if (!overviewEntry) {
+            banner.classList.remove('visible');
+            return;
+        }
+
+        const moversHtml = (overviewEntry.movers && overviewEntry.movers.length > 0)
+            ? `<div class="banner-movers">
+                ${overviewEntry.movers.map(m => {
+                    const isPositive = m.change && m.change.trim().startsWith('+');
+                    const isNegative = m.change && m.change.trim().startsWith('-');
+                    const cls = isPositive ? 'positive' : isNegative ? 'negative' : 'positive';
+                    return `<span class="banner-mover-chip ${cls}">
+                        <span class="symbol">${escapeHtml(m.symbol)}</span> ${escapeHtml(m.change)}
+                    </span>`;
+                }).join('')}
+               </div>`
+            : '';
+
+        banner.innerHTML = `
+            <div class="banner-top">
+                <div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+                    <div class="banner-title"><span class="icon">🤖</span> ${escapeHtml(overviewEntry.title)}</div>
+                    ${moversHtml}
+                </div>
+                <div class="banner-time">${formatCommentaryTime(overviewEntry.timestamp)}</div>
+            </div>
+            <div class="banner-text">${escapeHtml(overviewEntry.commentary)}</div>
+        `;
+        banner.classList.add('visible');
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       ASSET CARDS
+       ═══════════════════════════════════════════════════════════ */
+
     function renderAssetCards(data) {
         const container = document.getElementById('assetsGrid');
         const items = Object.values(data);
@@ -1038,7 +1135,9 @@
         if (items.length === 0) {
             container.innerHTML = Array(9).fill(0).map(() =>
                 `<div class="asset-card">
-                    <div class="loading-skeleton" style="height: 200px;"></div>
+                    <div class="card-body">
+                        <div class="loading-skeleton" style="height: 200px;"></div>
+                    </div>
                 </div>`
             ).join('');
             return;
@@ -1047,19 +1146,21 @@
         container.innerHTML = items.map(d => {
             if (d.error) {
                 return `
-                    <div class="asset-card">
-                        <div class="card-top">
-                            <div class="asset-info">
-                                <div class="asset-icon" style="background: rgba(255,255,255,0.05);">${d.icon}</div>
-                                <div>
-                                    <div class="asset-name">${d.name}</div>
-                                    <div class="asset-symbol">${d.symbol}</div>
+                    <div class="asset-card" style="border-left-color: ${d.color || 'transparent'};">
+                        <div class="card-body">
+                            <div class="card-top">
+                                <div class="asset-info">
+                                    <div class="asset-icon" style="background: rgba(255,255,255,0.05);">${d.icon}</div>
+                                    <div>
+                                        <div class="asset-name">${d.name}</div>
+                                        <div class="asset-symbol">${d.symbol}</div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="error-state">
-                            <div class="icon">⚠️</div>
-                            <p style="font-size: 0.8rem;">Data unavailable</p>
+                            <div class="error-state">
+                                <div class="icon">⚠️</div>
+                                <p style="font-size: 0.8rem;">Data unavailable</p>
+                            </div>
                         </div>
                     </div>
                 `;
@@ -1069,43 +1170,57 @@
             const cls = isPositive ? 'positive' : 'negative';
             const canvasId = `spark-${d.symbol.replace(/[^a-zA-Z0-9]/g, '_')}`;
 
+            // Look up matching commentary
+            const commentary = getCommentaryForAsset(d.name, commentaryData);
+            const commentaryHtml = commentary ? `
+                <div class="card-commentary">
+                    <div class="card-commentary-text">
+                        <span class="commentary-icon">💬</span>${escapeHtml(commentary.commentary)}
+                    </div>
+                    <div class="card-commentary-time">${formatCommentaryTime(commentary.timestamp)}</div>
+                </div>
+            ` : '';
+
             return `
-                <div class="asset-card ${cls}">
-                    <div class="card-top">
-                        <div class="asset-info">
-                            <div class="asset-icon" style="background: ${d.color}22; color: ${d.color}; font-weight: 800;">${d.icon}</div>
-                            <div>
-                                <div class="asset-name">${d.name}</div>
-                                <div class="asset-symbol">${d.symbol}</div>
+                <div class="asset-card ${cls}" style="border-left-color: ${d.color};">
+                    <div class="card-body">
+                        <div class="card-top">
+                            <div class="asset-info">
+                                <div class="asset-icon" style="background: ${d.color}22; color: ${d.color}; font-weight: 800;">${d.icon}</div>
+                                <div>
+                                    <div class="asset-name">${d.name}</div>
+                                    <div class="asset-symbol">${d.symbol}</div>
+                                </div>
+                            </div>
+                            <div class="asset-change">
+                                <div class="change-pct ${cls}">${formatChange(d.dailyChangePct)}</div>
+                                <div class="change-abs">${formatAbsChange(d.dailyChange, d.symbol)}</div>
                             </div>
                         </div>
-                        <div class="asset-change">
-                            <div class="change-pct ${cls}">${formatChange(d.dailyChangePct)}</div>
-                            <div class="change-abs">${formatAbsChange(d.dailyChange, d.symbol)}</div>
+                        <div class="card-price">${d.currency === 'USD' ? '$' : ''}${formatPrice(d.price, d.symbol)}</div>
+                        <div class="sparkline-container">
+                            <canvas id="${canvasId}"></canvas>
+                        </div>
+                        <div class="card-meta">
+                            <div class="meta-item">
+                                <span class="meta-label">5D High</span>
+                                <span class="meta-value">${formatPrice(d.high, d.symbol)}</span>
+                            </div>
+                            <div class="meta-item">
+                                <span class="meta-label">5D Low</span>
+                                <span class="meta-value">${formatPrice(d.low, d.symbol)}</span>
+                            </div>
+                            <div class="meta-item">
+                                <span class="meta-label">Week</span>
+                                <span class="meta-value" style="color: ${d.weekChangePct >= 0 ? 'var(--green)' : 'var(--red)'}">${formatChange(d.weekChangePct)}</span>
+                            </div>
+                            <div class="meta-item">
+                                <span class="meta-label">State</span>
+                                <span class="meta-value" style="font-size: 0.7rem;">${d.marketState === 'REGULAR' ? '🟢 Open' : d.marketState === 'PRE' ? '🟡 Pre' : d.marketState === 'POST' ? '🟡 Post' : '⚪ Closed'}</span>
+                            </div>
                         </div>
                     </div>
-                    <div class="card-price">${d.currency === 'USD' ? '$' : ''}${formatPrice(d.price, d.symbol)}</div>
-                    <div class="sparkline-container">
-                        <canvas id="${canvasId}"></canvas>
-                    </div>
-                    <div class="card-meta">
-                        <div class="meta-item">
-                            <span class="meta-label">5D High</span>
-                            <span class="meta-value">${formatPrice(d.high, d.symbol)}</span>
-                        </div>
-                        <div class="meta-item">
-                            <span class="meta-label">5D Low</span>
-                            <span class="meta-value">${formatPrice(d.low, d.symbol)}</span>
-                        </div>
-                        <div class="meta-item">
-                            <span class="meta-label">Week</span>
-                            <span class="meta-value" style="color: ${d.weekChangePct >= 0 ? 'var(--green)' : 'var(--red)'}">${formatChange(d.weekChangePct)}</span>
-                        </div>
-                        <div class="meta-item">
-                            <span class="meta-label">State</span>
-                            <span class="meta-value" style="font-size: 0.7rem;">${d.marketState === 'REGULAR' ? '🟢 Open' : d.marketState === 'PRE' ? '🟡 Pre' : d.marketState === 'POST' ? '🟡 Post' : '⚪ Closed'}</span>
-                        </div>
-                    </div>
+                    ${commentaryHtml}
                 </div>
             `;
         }).join('');
@@ -1219,7 +1334,7 @@
 
     async function fetchCommentary() {
         try {
-            const resp = await fetch('./data/commentary.json', { signal: AbortSignal.timeout(8000) });
+            const resp = await fetch('./data/commentary.json?t=' + Date.now(), { signal: AbortSignal.timeout(8000) });
             if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
             return await resp.json();
         } catch (e) {
@@ -1250,49 +1365,6 @@
         }
     }
 
-    function renderCommentary(entries) {
-        const container = document.getElementById('commentaryFeed');
-
-        if (!entries || entries.length === 0) {
-            container.innerHTML = `
-                <div class="commentary-fallback">
-                    <div class="icon">🤖</div>
-                    <p>Commentary updates during US market hours (Mon–Fri, 9 AM – 4 PM ET)</p>
-                </div>
-            `;
-            return;
-        }
-
-        // Sort newest first
-        const sorted = [...entries].sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-
-        container.innerHTML = sorted.map(entry => {
-            const moversHtml = (entry.movers && entry.movers.length > 0)
-                ? `<div class="commentary-movers">
-                    ${entry.movers.map(m => {
-                        const isPositive = m.change && m.change.trim().startsWith('+');
-                        const isNegative = m.change && m.change.trim().startsWith('-');
-                        const cls = isPositive ? 'positive' : isNegative ? 'negative' : 'positive';
-                        return `<span class="commentary-mover-chip ${cls}">
-                            <span class="symbol">${escapeHtml(m.symbol)}</span> ${escapeHtml(m.change)}
-                        </span>`;
-                    }).join('')}
-                   </div>`
-                : '';
-
-            return `
-                <div class="commentary-entry">
-                    <div class="commentary-header">
-                        <div class="commentary-title">💬 ${escapeHtml(entry.title)}</div>
-                        <div class="commentary-time">${formatCommentaryTime(entry.timestamp)}</div>
-                    </div>
-                    <div class="commentary-text">${escapeHtml(entry.commentary)}</div>
-                    ${moversHtml}
-                </div>
-            `;
-        }).join('');
-    }
-
     /* ═══════════════════════════════════════════════════════════
        MAIN REFRESH LOGIC
        ═══════════════════════════════════════════════════════════ */
@@ -1316,9 +1388,12 @@
                 fetchCommentary(),
             ]);
 
+            // Store commentary globally for asset card rendering
+            commentaryData = commentary;
+
             renderSummaryBar(assetData);
+            renderMarketOverview(commentary);
             renderAssetCards(assetData);
-            renderCommentary(commentary);
             renderMovers(assetData);
             renderNews(articles);
 
