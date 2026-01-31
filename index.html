@@ -780,8 +780,8 @@
 
     <!-- FOOTER -->
     <footer class="footer">
-        <p>LogicalMarket — Data from Yahoo Finance • News from Google News RSS</p>
-        <p style="margin-top: 0.5rem;">Auto-refreshes every 5 minutes • Built with vanilla HTML/CSS/JS</p>
+        <p>LogicalMarket — Data from Yahoo Finance via GitHub Actions • News from Google News RSS</p>
+        <p style="margin-top: 0.5rem;">Data updates every 5 min (market hours) / 30 min (off-hours) • Built with vanilla HTML/CSS/JS</p>
         <p style="margin-top: 0.5rem;">
             <a href="https://github.com/melochanbot-cyber/logicalmarket" target="_blank">GitHub</a>
         </p>
@@ -812,9 +812,10 @@
     const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
     let assetData = {};
     let refreshTimer = null;
+    let dataUpdatedAt = null; // timestamp from market.json
 
     /* ═══════════════════════════════════════════════════════════
-       DATA FETCHING
+       DATA FETCHING — Static JSON (GitHub Actions) as primary
        ═══════════════════════════════════════════════════════════ */
 
     async function fetchWithProxy(url) {
@@ -831,79 +832,62 @@
         }
     }
 
-    async function fetchAsset(asset) {
-        const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(asset.symbol)}?range=5d&interval=15m&includePrePost=false`;
-        try {
-            const data = await fetchWithProxy(url);
-            const result = data.chart?.result?.[0];
-            if (!result) throw new Error('No data');
-
-            const meta = result.meta;
-            const quotes = result.indicators?.quote?.[0];
-            const timestamps = result.timestamp || [];
-            const closes = quotes?.close || [];
-
-            // Current price
-            const price = meta.regularMarketPrice ?? closes[closes.length - 1];
-            const prevClose = meta.chartPreviousClose ?? meta.previousClose;
-
-            // Daily change
-            const dailyChange = price - prevClose;
-            const dailyChangePct = prevClose ? ((dailyChange / prevClose) * 100) : 0;
-
-            // Week change: compare current to first close of the range
-            const firstClose = closes.find(c => c !== null && c !== undefined) ?? prevClose;
-            const weekChange = price - firstClose;
-            const weekChangePct = firstClose ? ((weekChange / firstClose) * 100) : 0;
-
-            // Sparkline data (last ~24 data points for a clean line)
-            const sparkData = closes.filter(c => c !== null).slice(-48);
-
-            // High / Low for the period
-            const validCloses = closes.filter(c => c !== null);
-            const high = Math.max(...validCloses);
-            const low = Math.min(...validCloses);
-
-            return {
-                ...asset,
-                price,
-                prevClose,
-                dailyChange,
-                dailyChangePct,
-                weekChange,
-                weekChangePct,
-                sparkData,
-                high,
-                low,
-                volume: meta.regularMarketVolume || 0,
-                currency: meta.currency || 'USD',
-                marketState: meta.marketState || 'CLOSED',
-                loaded: true,
-                error: false,
-            };
-        } catch (e) {
-            console.error(`Failed to fetch ${asset.symbol}:`, e);
-            return {
-                ...asset,
-                price: null,
-                dailyChange: 0,
-                dailyChangePct: 0,
-                weekChange: 0,
-                weekChangePct: 0,
-                sparkData: [],
-                high: null,
-                low: null,
-                loaded: true,
-                error: true,
-            };
-        }
+    function getDataAge(updatedAt) {
+        if (!updatedAt) return '';
+        const diff = Math.floor((Date.now() - new Date(updatedAt).getTime()) / 1000);
+        if (diff < 60) return `${diff}s old`;
+        if (diff < 3600) return `${Math.floor(diff / 60)}m old`;
+        if (diff < 86400) return `${Math.floor(diff / 3600)}h old`;
+        return `${Math.floor(diff / 86400)}d old`;
     }
 
     async function fetchAllAssets() {
-        const results = await Promise.allSettled(ASSETS.map(a => fetchAsset(a)));
-        results.forEach(r => {
-            if (r.status === 'fulfilled' && r.value) {
-                assetData[r.value.symbol] = r.value;
+        // Primary: fetch pre-built static JSON from GitHub Actions
+        try {
+            const resp = await fetch('./data/market.json?t=' + Date.now(), { signal: AbortSignal.timeout(10000) });
+            if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+            const json = await resp.json();
+
+            if (json.assets && json.updatedAt) {
+                dataUpdatedAt = json.updatedAt;
+                const assetMap = ASSETS.reduce((m, a) => { m[a.symbol] = a; return m; }, {});
+
+                for (const [sym, d] of Object.entries(json.assets)) {
+                    const meta = assetMap[sym] || {};
+                    if (d.error) {
+                        assetData[sym] = { ...meta, symbol: sym, price: null, dailyChange: 0, dailyChangePct: 0, weekChange: 0, weekChangePct: 0, sparkData: [], high: null, low: null, loaded: true, error: true };
+                    } else {
+                        assetData[sym] = {
+                            ...meta,
+                            symbol: sym,
+                            price: d.price,
+                            prevClose: d.prevClose,
+                            dailyChange: d.dailyChange,
+                            dailyChangePct: d.dailyChangePct,
+                            weekChange: d.price && d.sparkData?.length ? d.price - d.sparkData[0] : 0,
+                            weekChangePct: d.weekChangePct,
+                            sparkData: d.sparkData || [],
+                            high: d.high,
+                            low: d.low,
+                            volume: d.volume || 0,
+                            currency: d.currency || 'USD',
+                            marketState: d.marketState || 'CLOSED',
+                            loaded: true,
+                            error: false,
+                        };
+                    }
+                }
+                console.log(`Loaded ${Object.keys(json.assets).length} assets from static JSON (${getDataAge(json.updatedAt)})`);
+                return assetData;
+            }
+        } catch (e) {
+            console.warn('Static market.json fetch failed, no fallback available:', e);
+        }
+
+        // If static JSON failed, mark all assets as errored
+        ASSETS.forEach(a => {
+            if (!assetData[a.symbol]) {
+                assetData[a.symbol] = { ...a, price: null, dailyChange: 0, dailyChangePct: 0, weekChange: 0, weekChangePct: 0, sparkData: [], high: null, low: null, loaded: true, error: true };
             }
         });
         return assetData;
@@ -1339,7 +1323,8 @@
             renderNews(articles);
 
             const now = new Date();
-            updated.textContent = `Updated ${now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', second: '2-digit' })}`;
+            const ageStr = dataUpdatedAt ? ` · Data ${getDataAge(dataUpdatedAt)}` : '';
+            updated.textContent = `Updated ${now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', second: '2-digit' })}${ageStr}`;
 
             const loadedCount = Object.values(assetData).filter(d => d.loaded && !d.error).length;
             badge.innerHTML = `<div class="status-dot"></div><span>${loadedCount}/${ASSETS.length} Assets</span>`;
