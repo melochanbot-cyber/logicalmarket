@@ -1,8 +1,62 @@
 [
   {
-    "timestamp": "2026-01-31T16:00-05:00",
-    "title": "Weekly Close",
-    "commentary": "Dashboard live — AI commentary will begin updating automatically when US markets open Monday. Hourly updates during market hours (9 AM - 4 PM ET).",
-    "movers": []
+    "timestamp": "2026-01-31T23:38+08:00",
+    "title": "Market Overview — Metals Meltdown, Geopolitical Shocks, and a Weekend Shutdown",
+    "commentary": "A brutal week across asset classes as precious metals suffered a historic unwind, crypto extended losses on thin weekend liquidity, and geopolitical risks escalated with an explosion at Iran's Bandar Abbas port. President Trump's nomination of Kevin Warsh as Fed chair — perceived as hawkish — triggered a DXY reversal from its 95.34 multi-year low, pressuring risk assets broadly. Crude oil was the lone standout, surging on Middle East supply fears, while the U.S. government entered a partial shutdown heading into the weekend.",
+    "movers": [{"symbol": "ETH", "change": "-15.88%"}, {"symbol": "Silver", "change": "-14.41%"}, {"symbol": "BTC", "change": "-8.89%"}, {"symbol": "Oil", "change": "+8.11%"}]
+  },
+  {
+    "timestamp": "2026-01-31T23:38+08:00",
+    "title": "Gold — Recovering From $4,718 Flash Crash After Bubble Fears",
+    "commentary": "Gold has stabilized at $5,067 after a harrowing 12% intraday plunge on Friday that took it from Thursday's record $5,600 down to $4,718. The selloff was triggered by CME Group announcing up to 50% margin requirement hikes on gold and silver futures starting Monday, combined with the hawkish signal of Warsh's Fed nomination. The partial recovery suggests dip-buyers are still present, but the precedent of a $900 intraday range will keep volatility elevated.",
+    "movers": [{"symbol": "Gold", "change": "-0.24%"}]
+  },
+  {
+    "timestamp": "2026-01-31T23:38+08:00",
+    "title": "Silver — Historic 35% Crash Echoes Hunt Brothers Era",
+    "commentary": "Silver is attempting to stabilize near $98.50 after an extraordinary session that saw it touch a record $120 before plunging 35% to $75 — the most violent single-day move since the Hunt Brothers silver crash of 1980. Hedge funds had already cut net-long positions by 36% to a 23-month low in the week ending Jan. 27, and CME's margin hike announcement accelerated the unwind. Tokenized silver futures on crypto venues saw $142M in liquidations alone, overtaking bitcoin on the liquidation tables.",
+    "movers": [{"symbol": "Silver", "change": "-14.41%"}]
+  },
+  {
+    "timestamp": "2026-01-31T23:38+08:00",
+    "title": "Crude Oil — Surging on Iran Explosion and Strait of Hormuz Fears",
+    "commentary": "Crude oil jumped 8.1% to $65.55 after reports of an explosion at Iran's Bandar Abbas port, a critical shipping hub on the Strait of Hormuz that handles roughly 20% of the world's seaborne oil. While Iranian authorities said the cause remains under investigation, the incident amplified already elevated tensions between Tehran and Washington amid fresh U.S. arms sales to Israel and Saudi Arabia. Supply disruption risk is now the dominant driver, with traders watching for any escalation that could threaten Hormuz transit.",
+    "movers": [{"symbol": "Oil", "change": "+8.11%"}]
+  },
+  {
+    "timestamp": "2026-01-31T23:38+08:00",
+    "title": "Ethereum — Worst Daily Loss as Liquidation Cascade Hits",
+    "commentary": "Ethereum plunged 15.88% to $2,542 in the worst session for ETH in months, driven by a broad risk-off cascade and $139M in ether liquidations across crypto venues. The selloff deepened during thin weekend liquidity as the U.S. government shutdown, Middle East tensions, and negative spot ETF flows combined to crush sentiment. ETH has now given back nearly 13% on the week, with traders watching the $2,500 level as a key support zone.",
+    "movers": [{"symbol": "ETH", "change": "-15.88%"}]
+  },
+  {
+    "timestamp": "2026-01-31T23:38+08:00",
+    "title": "Bitcoin — Below $81K as Dollar Strength and Shutdown Compound Pressure",
+    "commentary": "Bitcoin fell 8.9% to $81,180 as the U.S. dollar's reversal from its 95.34 DXY low proved to be the week's dominant macro driver — BTC peaked near $91,000 on Wednesday exactly as the dollar bottomed. The Warsh Fed nomination, Iran headlines, and a weekend government shutdown compounded the selling, while spot bitcoin ETF flows turned negative this week for the first time in months. The $80,000–$82,000 zone is now the line in the sand; some crypto bulls see the metals crash as potentially freeing risk capital back toward BTC.",
+    "movers": [{"symbol": "BTC", "change": "-8.89%"}]
+  },
+  {
+    "timestamp": "2026-01-31T23:38+08:00",
+    "title": "S&P 500 — Modest Bounce After Friday's Warsh-Driven Selloff",
+    "commentary": "The S&P 500 eked out a 0.34% gain to 6,939 in a tentative recovery after Friday's 0.9% selloff triggered by the Warsh nomination and precious metals crash. Markets are recalibrating the hawkish implications of a Warsh-led Fed, with traders noting the initial reaction may have been a knee-jerk. The government shutdown adds headline risk for Monday's open, though it is expected to be short-lived with a House vote anticipated early in the week.",
+    "movers": [{"symbol": "S&P 500", "change": "+0.34%"}]
+  },
+  {
+    "timestamp": "2026-01-31T23:38+08:00",
+    "title": "Nasdaq — Tech Flat as Rate Sensitivity Lingers",
+    "commentary": "The Nasdaq slipped 0.17% to 23,461, underperforming the S&P as tech's rate sensitivity kept a lid on any recovery attempt. The Warsh nomination raised fears of a less dovish monetary policy path, which weighs disproportionately on growth and tech valuations. With the Nasdaq down 0.53% on the week, traders are watching whether Monday's government shutdown resolution can stabilize sentiment or if the hawkish Fed pivot narrative takes hold.",
+    "movers": [{"symbol": "Nasdaq", "change": "-0.17%"}]
+  },
+  {
+    "timestamp": "2026-01-31T23:38+08:00",
+    "title": "Dow Jones — Blue Chips Lag on Macro Uncertainty",
+    "commentary": "The Dow fell 0.42% to 48,892, the weakest of the three major indices as cyclical and financial stocks digested the confluence of a government shutdown, Middle East tensions, and a potential shift in Fed leadership. The Dow is down 0.79% on the week, reflecting broader caution among institutional investors. Monday's price action will hinge on shutdown resolution timing and any weekend escalation in the Iran situation.",
+    "movers": [{"symbol": "Dow Jones", "change": "-0.42%"}]
+  },
+  {
+    "timestamp": "2026-01-31T23:38+08:00",
+    "title": "USD Index — Strengthening on Hawkish Warsh Signal",
+    "commentary": "The dollar index firmed to 97.15, extending its sharp reversal from Wednesday's multi-year low of 95.34. The turnaround was driven by the nomination of Kevin Warsh — widely seen as a hawkish choice — as Fed chair, which repriced rate expectations and pulled capital back into the dollar. The DXY's recovery has been the week's stealth macro driver, correlating inversely with bitcoin, equities, and commodities across the board.",
+    "movers": [{"symbol": "USD Index", "change": "+0.11%"}]
   }
 ]
