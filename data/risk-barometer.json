@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T14:54:59Z",
+  "updatedAt": "2026-02-02T15:04:00Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -80,7 +80,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: -1.5%"
+          "detail": "NDX-SPX divergence: -1.4%"
         }
       ],
       "recommendation": "Elevated risk. Consider tightening stops."
@@ -115,7 +115,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -2.1%, 30d: +2.2%"
+          "detail": "60d: -2.1%, 30d: +2.3%"
         },
         {
           "name": "Volatility Spike",
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-24.3% vs 200-day MA"
+          "detail": "-25.2% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 5.61%"
+          "detail": "30-day volatility: 5.69%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -12.0%, 30d: -14.1%"
+          "detail": "60d gain: -12.0%, 30d: -15.2%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -12.2%, NDX: +0.1%"
+          "detail": "BTC: -13.2%, NDX: +0.1%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-37.1% from all-time high"
+          "detail": "-37.8% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
