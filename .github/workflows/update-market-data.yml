@@ -27,9 +27,13 @@ jobs:
       - name: Fetch market data
         run: python scripts/fetch_market_data.py
 
+      - name: Fetch risk barometer
+        # Risk signals are slower-moving than prices, but safe to run frequently
+        run: python scripts/fetch_risk_barometer.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/market.json
+          git add data/market.json data/risk-barometer.json
           git diff --cached --quiet || (git commit -m "📊 Update market data" && git push)

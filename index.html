@@ -515,6 +515,208 @@
         }
 
         /* ═══════════════════════════════════════════════════
+           RISK BAROMETER
+           ═══════════════════════════════════════════════════ */
+        .barometer-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        @media (max-width: 1200px) {
+            .barometer-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+
+        .barometer-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.25rem;
+            position: relative;
+            transition: var(--transition);
+            overflow: hidden;
+        }
+
+        .barometer-card:hover {
+            border-color: rgba(74, 158, 255, 0.3);
+            background: var(--bg-card-hover);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+        }
+
+        .barometer-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: linear-gradient(90deg, var(--green), var(--blue));
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .barometer-card:hover::before { opacity: 1; }
+
+        .barometer-card.level-LOW::before { background: var(--green); opacity: 0.5; }
+        .barometer-card.level-CAUTION::before { background: var(--yellow); opacity: 0.7; }
+        .barometer-card.level-WARNING::before { background: var(--orange); opacity: 0.8; }
+        .barometer-card.level-DANGER::before { background: var(--red); opacity: 1; }
+
+        .barometer-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 1rem;
+        }
+
+        .barometer-title {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .barometer-icon {
+            font-size: 1.5rem;
+        }
+
+        .barometer-name {
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .barometer-level {
+            padding: 0.3rem 0.7rem;
+            border-radius: 6px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .barometer-level.LOW {
+            background: var(--green-bg);
+            border: 1px solid var(--green-border);
+            color: var(--green);
+        }
+
+        .barometer-level.CAUTION {
+            background: rgba(255, 192, 72, 0.1);
+            border: 1px solid rgba(255, 192, 72, 0.3);
+            color: var(--yellow);
+        }
+
+        .barometer-level.WARNING {
+            background: rgba(251, 146, 60, 0.1);
+            border: 1px solid rgba(251, 146, 60, 0.3);
+            color: var(--orange);
+        }
+
+        .barometer-level.DANGER {
+            background: var(--red-bg);
+            border: 1px solid var(--red-border);
+            color: var(--red);
+        }
+
+        .barometer-gauge {
+            position: relative;
+            width: 120px;
+            height: 120px;
+            margin: 1rem auto;
+        }
+
+        .gauge-svg {
+            transform: rotate(-90deg);
+        }
+
+        .gauge-bg {
+            fill: none;
+            stroke: rgba(255, 255, 255, 0.05);
+            stroke-width: 10;
+        }
+
+        .gauge-fill {
+            fill: none;
+            stroke-width: 10;
+            stroke-linecap: round;
+            transition: stroke-dashoffset 1s ease, stroke 0.3s ease;
+        }
+
+        .gauge-score {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        .gauge-score-value {
+            font-size: 2rem;
+            font-weight: 800;
+            font-family: var(--font-mono);
+            line-height: 1;
+        }
+
+        .gauge-score-label {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 0.2rem;
+        }
+
+        .barometer-signals {
+            margin: 1rem 0;
+            padding: 0.75rem 0;
+            border-top: 1px solid rgba(255, 255, 255, 0.04);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+        }
+
+        .signal-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0.4rem 0;
+            font-size: 0.75rem;
+        }
+
+        .signal-name {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            color: var(--text-secondary);
+        }
+
+        .signal-check {
+            font-size: 0.9rem;
+        }
+
+        .signal-points {
+            font-family: var(--font-mono);
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .barometer-recommendation {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            padding: 0.75rem;
+            background: rgba(0, 0, 0, 0.15);
+            border-radius: 6px;
+            border-left: 3px solid var(--blue);
+        }
+
+        .barometer-error {
+            color: var(--red);
+            font-size: 0.8rem;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        /* ═══════════════════════════════════════════════════
            MOVERS TABLE
            ═══════════════════════════════════════════════════ */
         .two-col {
@@ -702,6 +904,7 @@
             .header { padding: 0.75rem 1rem; }
             .main { padding: 1rem; }
             .assets-grid { grid-template-columns: 1fr; }
+            .barometer-grid { grid-template-columns: 1fr; }
             .two-col { grid-template-columns: 1fr; }
             .news-grid { grid-template-columns: 1fr; }
             .card-price { font-size: 1.5rem; }
@@ -761,6 +964,15 @@
 
         <!-- Market Overview Banner (from commentary) -->
         <div class="market-overview-banner" id="marketOverviewBanner">
+            <!-- Populated by JS -->
+        </div>
+
+        <!-- Risk Barometer -->
+        <div class="section-header">
+            <h2>🎯 Crash Risk Barometer</h2>
+            <span class="badge">Multi-Signal Analysis</span>
+        </div>
+        <div class="barometer-grid" id="barometerGrid">
             <!-- Populated by JS -->
         </div>
 
@@ -1366,6 +1578,119 @@
     }
 
     /* ═══════════════════════════════════════════════════════════
+       RISK BAROMETER
+       ═══════════════════════════════════════════════════════════ */
+
+    async function fetchRiskBarometer() {
+        try {
+            const resp = await fetch('./data/risk-barometer.json?t=' + Date.now(), { signal: AbortSignal.timeout(10000) });
+            if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+            const json = await resp.json();
+            return json.barometers || {};
+        } catch (e) {
+            console.warn('Risk barometer fetch failed:', e);
+            return {};
+        }
+    }
+
+    function renderRiskBarometer(barometers) {
+        const container = document.getElementById('barometerGrid');
+        
+        const assetConfigs = [
+            { key: 'gold', name: 'Gold', icon: '🥇' },
+            { key: 'sp500', name: 'S&P 500', icon: '📈' },
+            { key: 'nasdaq', name: 'Nasdaq', icon: '💻' },
+            { key: 'bitcoin', name: 'Bitcoin', icon: '₿' },
+        ];
+
+        container.innerHTML = assetConfigs.map(config => {
+            const data = barometers[config.key];
+            
+            if (!data || data.error) {
+                return `
+                    <div class="barometer-card">
+                        <div class="barometer-header">
+                            <div class="barometer-title">
+                                <span class="barometer-icon">${config.icon}</span>
+                                <span class="barometer-name">${config.name}</span>
+                            </div>
+                        </div>
+                        <div class="barometer-error">
+                            ${data?.error ? '⚠️ ' + data.error : '⚠️ Data unavailable'}
+                        </div>
+                    </div>
+                `;
+            }
+
+            const { score, level, signals, recommendation } = data;
+            
+            // Determine color based on level
+            const colors = {
+                'LOW': '#00d4aa',
+                'CAUTION': '#ffc048',
+                'WARNING': '#fb923c',
+                'DANGER': '#ff4757'
+            };
+            const color = colors[level] || '#4a9eff';
+            
+            // Calculate gauge progress (0-100 maps to 0-75% of circle)
+            const circumference = 2 * Math.PI * 55; // radius = 55
+            const progress = (score / 100) * 0.75; // 75% of circle (270 degrees)
+            const dashOffset = circumference * (1 - progress);
+            
+            // Generate signals HTML
+            const signalsHTML = signals.map(s => `
+                <div class="signal-item" title="${s.detail}">
+                    <span class="signal-name">
+                        <span class="signal-check">${s.triggered ? '✅' : '⬜'}</span>
+                        ${s.name}
+                    </span>
+                    <span class="signal-points">${s.points}/${s.maxPoints}</span>
+                </div>
+            `).join('');
+
+            return `
+                <div class="barometer-card level-${level}">
+                    <div class="barometer-header">
+                        <div class="barometer-title">
+                            <span class="barometer-icon">${config.icon}</span>
+                            <span class="barometer-name">${config.name}</span>
+                        </div>
+                        <div class="barometer-level ${level}">${level}</div>
+                    </div>
+
+                    <div class="barometer-gauge">
+                        <svg class="gauge-svg" width="120" height="120" viewBox="0 0 120 120">
+                            <circle class="gauge-bg" cx="60" cy="60" r="55" />
+                            <circle 
+                                class="gauge-fill" 
+                                cx="60" 
+                                cy="60" 
+                                r="55"
+                                stroke="${color}"
+                                stroke-dasharray="${circumference}"
+                                stroke-dashoffset="${dashOffset}"
+                            />
+                        </svg>
+                        <div class="gauge-score">
+                            <div class="gauge-score-value" style="color: ${color}">${score}</div>
+                            <div class="gauge-score-label">/ 100</div>
+                        </div>
+                    </div>
+
+                    <div class="barometer-signals">
+                        ${signalsHTML}
+                    </div>
+
+                    <div class="barometer-recommendation">
+                        ${recommendation}
+                    </div>
+                </div>
+            `;
+        }).join('');
+    }
+
+    /* ═══════════════════════════════════════════════════════════
        MAIN REFRESH LOGIC
        ═══════════════════════════════════════════════════════════ */
 
@@ -1381,11 +1706,12 @@
         badge.style.color = 'var(--yellow)';
 
         try {
-            // Fetch assets, news, and commentary in parallel
-            const [_, articles, commentary] = await Promise.all([
+            // Fetch assets, news, commentary, and risk barometer in parallel
+            const [_, articles, commentary, barometers] = await Promise.all([
                 fetchAllAssets(),
                 fetchNews(),
                 fetchCommentary(),
+                fetchRiskBarometer(),
             ]);
 
             // Store commentary globally for asset card rendering
@@ -1393,6 +1719,7 @@
 
             renderSummaryBar(assetData);
             renderMarketOverview(commentary);
+            renderRiskBarometer(barometers);
             renderAssetCards(assetData);
             renderMovers(assetData);
             renderNews(articles);
