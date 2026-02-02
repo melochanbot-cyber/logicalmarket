@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-03T01:00+08:00",
+    "title": "Monday Midday \u2014 Nat Gas Implodes, Asia Bleeds, US Holds Firm",
+    "commentary": "Natural gas suffered a historic 22% single-session collapse while crude extended its Iran-diplomacy selloff to -4.7%, dragging energy into the red even as the broader U.S. tape held green \u2014 Dow +0.9%, S&P +0.55%, Nasdaq +0.65%. The real carnage was in Asia, where KOSPI cratered 5.3%, Shanghai shed 2.5%, and Hong Kong dropped 2.2% on renewed trade-war anxiety and China growth fears. Gold continued its post-margin-hike bleed at -1.25% to $4,686 while crypto quietly outperformed \u2014 BTC +1.6% to $78,569, ETH +2.3% \u2014 as the dollar firmed 0.6% to 97.58 on the Warsh-for-Fed-chair narrative.",
+    "movers": [
+      {
+        "symbol": "Nat Gas",
+        "change": "-22.03%"
+      },
+      {
+        "symbol": "KOSPI",
+        "change": "-5.26%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-4.68%"
+      },
+      {
+        "symbol": "Shanghai",
+        "change": "-2.48%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "+2.34%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+1.64%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-1.25%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.90%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "+0.60%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-03T00:00+08:00",
     "title": "Monday Close \u2014 Oil Craters on Iran D\u00e9tente, Equities Grind Higher",
     "commentary": "Oil cratered 5% to $61.94 as U.S.-Iran diplomatic talks revived supply-glut fears, while natural gas imploded nearly 20% \u2014 the commodity complex's worst day in months. U.S. equities shrugged it off: Dow led at +0.89% to 49,330, S&P +0.47%, Nasdaq +0.57%, with Disney's mixed earnings and a $58B Devon-Coterra shale mega-merger keeping energy sector crosscurrents alive. Gold and silver continued their post-$7T-wipeout bleed, down 1.2% and 1.5% respectively as margin hike fallout lingered, while crypto staged a quiet rally \u2014 BTC +1.6% to $78,836, ETH +2.4% \u2014 as the dollar firmed another 0.7% to 97.63 on the Warsh trade.",
@@ -175,17 +218,6 @@
       {
         "symbol": "BTC",
         "change": "-8.89%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-01-31T23:38+08:00",
-    "title": "S&P 500 \u2014 Modest Bounce After Friday's Warsh-Driven Selloff",
-    "commentary": "The S&P 500 eked out a 0.34% gain to 6,939 in a tentative recovery after Friday's 0.9% selloff triggered by the Warsh nomination and precious metals crash. Markets are recalibrating the hawkish implications of a Warsh-led Fed, with traders noting the initial reaction may have been a knee-jerk. The government shutdown adds headline risk for Monday's open, though it is expected to be short-lived with a House vote anticipated early in the week.",
-    "movers": [
-      {
-        "symbol": "S&P 500",
-        "change": "+0.34%"
       }
     ]
   }
