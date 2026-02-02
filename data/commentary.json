@@ -1,8 +1,47 @@
 [
   {
+    "timestamp": "2026-02-03T00:00+08:00",
+    "title": "Monday Close \u2014 Oil Craters on Iran D\u00e9tente, Equities Grind Higher",
+    "commentary": "Oil cratered 5% to $61.94 as U.S.-Iran diplomatic talks revived supply-glut fears, while natural gas imploded nearly 20% \u2014 the commodity complex's worst day in months. U.S. equities shrugged it off: Dow led at +0.89% to 49,330, S&P +0.47%, Nasdaq +0.57%, with Disney's mixed earnings and a $58B Devon-Coterra shale mega-merger keeping energy sector crosscurrents alive. Gold and silver continued their post-$7T-wipeout bleed, down 1.2% and 1.5% respectively as margin hike fallout lingered, while crypto staged a quiet rally \u2014 BTC +1.6% to $78,836, ETH +2.4% \u2014 as the dollar firmed another 0.7% to 97.63 on the Warsh trade.",
+    "movers": [
+      {
+        "symbol": "Nat Gas",
+        "change": "-19.82%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-5.01%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "+2.43%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+1.62%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-1.46%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-1.16%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.89%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "+0.66%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-02T23:00+08:00",
-    "title": "Monday Close — Oil Slides on Iran Talks, Metals Recovery Extends",
-    "commentary": "Oil plunged another 4.5% to $62.26 as U.S.-Iran diplomatic talks raised hopes of eased sanctions and increased supply, while a Devon-Coterra $58B mega-merger reshuffled the energy landscape. U.S. equities ground higher — Dow +0.55%, S&P +0.25% — with Disney's earnings beat offsetting lingering AI capex doubts that kept Nasdaq gains to a whisper at +0.19%. Precious metals extended their recovery from Friday's historic rout, silver surging 3.6% and gold adding 0.9% to $4,788 as dip buyers emerged. Crypto held firm with BTC at $77.9K and ETH up 1.6%, while the dollar firmed 0.4% at 97.39 on the Warsh trade.",
+    "title": "Monday Close \u2014 Oil Slides on Iran Talks, Metals Recovery Extends",
+    "commentary": "Oil plunged another 4.5% to $62.26 as U.S.-Iran diplomatic talks raised hopes of eased sanctions and increased supply, while a Devon-Coterra $58B mega-merger reshuffled the energy landscape. U.S. equities ground higher \u2014 Dow +0.55%, S&P +0.25% \u2014 with Disney's earnings beat offsetting lingering AI capex doubts that kept Nasdaq gains to a whisper at +0.19%. Precious metals extended their recovery from Friday's historic rout, silver surging 3.6% and gold adding 0.9% to $4,788 as dip buyers emerged. Crypto held firm with BTC at $77.9K and ETH up 1.6%, while the dollar firmed 0.4% at 97.39 on the Warsh trade.",
     "movers": [
       {
         "symbol": "Oil",
@@ -32,8 +71,8 @@
   },
   {
     "timestamp": "2026-02-02T22:00+08:00",
-    "title": "Monday Open — Oil Reversal, Tech Under Pressure, VIX Spikes",
-    "commentary": "Crude oil gave back last week's Iran-driven gains with a brutal 5% drop to $61.98 as Bandar Abbas fears faded and demand concerns resurfaced, while natural gas cratered 18% — the day's biggest casualty. Tech led equities lower with Nasdaq down 0.94% as Nvidia's potentially smaller OpenAI stake and Europe's emerging 'kill switch' for U.S. tech platforms rattled sentiment; the VIX spiked 11% to 18.75. Bitcoin clung to $78,176 in a fragile holding pattern below the psychologically critical $80K level, while silver staged a 3.6% dead-cat bounce from Friday's historic crash. The dollar continued firming at 97.39 as the Warsh-as-Fed-chair trade consolidated — Morgan Stanley calling it a 'market stabilizing mechanism' even as everything else wobbled.",
+    "title": "Monday Open \u2014 Oil Reversal, Tech Under Pressure, VIX Spikes",
+    "commentary": "Crude oil gave back last week's Iran-driven gains with a brutal 5% drop to $61.98 as Bandar Abbas fears faded and demand concerns resurfaced, while natural gas cratered 18% \u2014 the day's biggest casualty. Tech led equities lower with Nasdaq down 0.94% as Nvidia's potentially smaller OpenAI stake and Europe's emerging 'kill switch' for U.S. tech platforms rattled sentiment; the VIX spiked 11% to 18.75. Bitcoin clung to $78,176 in a fragile holding pattern below the psychologically critical $80K level, while silver staged a 3.6% dead-cat bounce from Friday's historic crash. The dollar continued firming at 97.39 as the Warsh-as-Fed-chair trade consolidated \u2014 Morgan Stanley calling it a 'market stabilizing mechanism' even as everything else wobbled.",
     "movers": [
       {
         "symbol": "Nat Gas",
@@ -63,8 +102,8 @@
   },
   {
     "timestamp": "2026-01-31T23:38+08:00",
-    "title": "Market Overview — Metals Meltdown, Geopolitical Shocks, and a Weekend Shutdown",
-    "commentary": "A brutal week across asset classes as precious metals suffered a historic unwind, crypto extended losses on thin weekend liquidity, and geopolitical risks escalated with an explosion at Iran's Bandar Abbas port. President Trump's nomination of Kevin Warsh as Fed chair — perceived as hawkish — triggered a DXY reversal from its 95.34 multi-year low, pressuring risk assets broadly. Crude oil was the lone standout, surging on Middle East supply fears, while the U.S. government entered a partial shutdown heading into the weekend.",
+    "title": "Market Overview \u2014 Metals Meltdown, Geopolitical Shocks, and a Weekend Shutdown",
+    "commentary": "A brutal week across asset classes as precious metals suffered a historic unwind, crypto extended losses on thin weekend liquidity, and geopolitical risks escalated with an explosion at Iran's Bandar Abbas port. President Trump's nomination of Kevin Warsh as Fed chair \u2014 perceived as hawkish \u2014 triggered a DXY reversal from its 95.34 multi-year low, pressuring risk assets broadly. Crude oil was the lone standout, surging on Middle East supply fears, while the U.S. government entered a partial shutdown heading into the weekend.",
     "movers": [
       {
         "symbol": "ETH",
@@ -86,7 +125,7 @@
   },
   {
     "timestamp": "2026-01-31T23:38+08:00",
-    "title": "Gold — Recovering From $4,718 Flash Crash After Bubble Fears",
+    "title": "Gold \u2014 Recovering From $4,718 Flash Crash After Bubble Fears",
     "commentary": "Gold has stabilized at $5,067 after a harrowing 12% intraday plunge on Friday that took it from Thursday's record $5,600 down to $4,718. The selloff was triggered by CME Group announcing up to 50% margin requirement hikes on gold and silver futures starting Monday, combined with the hawkish signal of Warsh's Fed nomination. The partial recovery suggests dip-buyers are still present, but the precedent of a $900 intraday range will keep volatility elevated.",
     "movers": [
       {
@@ -97,8 +136,8 @@
   },
   {
     "timestamp": "2026-01-31T23:38+08:00",
-    "title": "Silver — Historic 35% Crash Echoes Hunt Brothers Era",
-    "commentary": "Silver is attempting to stabilize near $98.50 after an extraordinary session that saw it touch a record $120 before plunging 35% to $75 — the most violent single-day move since the Hunt Brothers silver crash of 1980. Hedge funds had already cut net-long positions by 36% to a 23-month low in the week ending Jan. 27, and CME's margin hike announcement accelerated the unwind. Tokenized silver futures on crypto venues saw $142M in liquidations alone, overtaking bitcoin on the liquidation tables.",
+    "title": "Silver \u2014 Historic 35% Crash Echoes Hunt Brothers Era",
+    "commentary": "Silver is attempting to stabilize near $98.50 after an extraordinary session that saw it touch a record $120 before plunging 35% to $75 \u2014 the most violent single-day move since the Hunt Brothers silver crash of 1980. Hedge funds had already cut net-long positions by 36% to a 23-month low in the week ending Jan. 27, and CME's margin hike announcement accelerated the unwind. Tokenized silver futures on crypto venues saw $142M in liquidations alone, overtaking bitcoin on the liquidation tables.",
     "movers": [
       {
         "symbol": "Silver",
@@ -108,7 +147,7 @@
   },
   {
     "timestamp": "2026-01-31T23:38+08:00",
-    "title": "Crude Oil — Surging on Iran Explosion and Strait of Hormuz Fears",
+    "title": "Crude Oil \u2014 Surging on Iran Explosion and Strait of Hormuz Fears",
     "commentary": "Crude oil jumped 8.1% to $65.55 after reports of an explosion at Iran's Bandar Abbas port, a critical shipping hub on the Strait of Hormuz that handles roughly 20% of the world's seaborne oil. While Iranian authorities said the cause remains under investigation, the incident amplified already elevated tensions between Tehran and Washington amid fresh U.S. arms sales to Israel and Saudi Arabia. Supply disruption risk is now the dominant driver, with traders watching for any escalation that could threaten Hormuz transit.",
     "movers": [
       {
@@ -119,7 +158,7 @@
   },
   {
     "timestamp": "2026-01-31T23:38+08:00",
-    "title": "Ethereum — Worst Daily Loss as Liquidation Cascade Hits",
+    "title": "Ethereum \u2014 Worst Daily Loss as Liquidation Cascade Hits",
     "commentary": "Ethereum plunged 15.88% to $2,542 in the worst session for ETH in months, driven by a broad risk-off cascade and $139M in ether liquidations across crypto venues. The selloff deepened during thin weekend liquidity as the U.S. government shutdown, Middle East tensions, and negative spot ETF flows combined to crush sentiment. ETH has now given back nearly 13% on the week, with traders watching the $2,500 level as a key support zone.",
     "movers": [
       {
@@ -130,8 +169,8 @@
   },
   {
     "timestamp": "2026-01-31T23:38+08:00",
-    "title": "Bitcoin — Below $81K as Dollar Strength and Shutdown Compound Pressure",
-    "commentary": "Bitcoin fell 8.9% to $81,180 as the U.S. dollar's reversal from its 95.34 DXY low proved to be the week's dominant macro driver — BTC peaked near $91,000 on Wednesday exactly as the dollar bottomed. The Warsh Fed nomination, Iran headlines, and a weekend government shutdown compounded the selling, while spot bitcoin ETF flows turned negative this week for the first time in months. The $80,000–$82,000 zone is now the line in the sand; some crypto bulls see the metals crash as potentially freeing risk capital back toward BTC.",
+    "title": "Bitcoin \u2014 Below $81K as Dollar Strength and Shutdown Compound Pressure",
+    "commentary": "Bitcoin fell 8.9% to $81,180 as the U.S. dollar's reversal from its 95.34 DXY low proved to be the week's dominant macro driver \u2014 BTC peaked near $91,000 on Wednesday exactly as the dollar bottomed. The Warsh Fed nomination, Iran headlines, and a weekend government shutdown compounded the selling, while spot bitcoin ETF flows turned negative this week for the first time in months. The $80,000\u2013$82,000 zone is now the line in the sand; some crypto bulls see the metals crash as potentially freeing risk capital back toward BTC.",
     "movers": [
       {
         "symbol": "BTC",
@@ -141,23 +180,12 @@
   },
   {
     "timestamp": "2026-01-31T23:38+08:00",
-    "title": "S&P 500 — Modest Bounce After Friday's Warsh-Driven Selloff",
+    "title": "S&P 500 \u2014 Modest Bounce After Friday's Warsh-Driven Selloff",
     "commentary": "The S&P 500 eked out a 0.34% gain to 6,939 in a tentative recovery after Friday's 0.9% selloff triggered by the Warsh nomination and precious metals crash. Markets are recalibrating the hawkish implications of a Warsh-led Fed, with traders noting the initial reaction may have been a knee-jerk. The government shutdown adds headline risk for Monday's open, though it is expected to be short-lived with a House vote anticipated early in the week.",
     "movers": [
       {
         "symbol": "S&P 500",
         "change": "+0.34%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-01-31T23:38+08:00",
-    "title": "Nasdaq — Tech Flat as Rate Sensitivity Lingers",
-    "commentary": "The Nasdaq slipped 0.17% to 23,461, underperforming the S&P as tech's rate sensitivity kept a lid on any recovery attempt. The Warsh nomination raised fears of a less dovish monetary policy path, which weighs disproportionately on growth and tech valuations. With the Nasdaq down 0.53% on the week, traders are watching whether Monday's government shutdown resolution can stabilize sentiment or if the hawkish Fed pivot narrative takes hold.",
-    "movers": [
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.17%"
       }
     ]
   }
