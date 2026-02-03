@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-02-04T04:00+08:00",
+    "title": "Wednesday Pre-Market \u2014 Crypto Reverses Hard, VIX Holds 19, Asia Stages Massive Rebound",
+    "commentary": "Crypto's Tuesday resilience evaporated overnight \u2014 BTC plunged 4.3% to $74,920 and ETH cratered 5.2% to $2,207, a sharp reversal from the +7-10% gains logged just hours ago, as the risk-off contagion finally caught up with digital assets. Precious metals consolidated their monster move but remain elevated: gold held $4,957 (+6.5%) and silver $84 (+9.1%), both well off intraday parabolic highs, with profit-taking trimming the froth but buyers defending levels aggressively. The VIX cemented itself above 19 at 19.28 (+18.0%) as Nasdaq bled another 2.03% and tech hemorrhaged -3.47% on the session \u2014 NVIDIA -4.67%, PayPal's -20% catastrophe now fully priced \u2014 while healthcare (+3.1%) and energy (+2.1%) continued absorbing the rotation flows. Asia staged a dramatic rebound overnight with KOSPI surging 6.84% and Nikkei rallying 3.92%, offering a glimmer of risk appetite that hasn't yet translated to U.S. futures.",
+    "movers": [
+      {
+        "symbol": "VIX",
+        "change": "+18.01%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+9.13%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+6.53%"
+      },
+      {
+        "symbol": "KOSPI",
+        "change": "+6.84%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-5.20%"
+      },
+      {
+        "symbol": "NVDA",
+        "change": "-4.67%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-4.27%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-2.03%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-04T03:00+08:00",
     "title": "Wednesday Pre-Dawn \u2014 VIX Smashes Through 19, Tech Bloodbath Deepens, Metals Hold Gains",
     "commentary": "The selloff deepened as VIX exploded 18.7% to 19.40 \u2014 breaching the 19 handle for the first time in weeks \u2014 with Nasdaq down 2.19% and S&P off 1.42% as tech absorbed another -3.31% session led by NVIDIA's -3.77% slide and PayPal's now-catastrophic -20.1% implosion. Precious metals held Tuesday's monster gains but cooled from parabolic peaks: gold settled at $4,927 (+5.90%) after retreating from the $5,000 breach, silver moderated to $83.18 (+8.01%) from earlier $88 highs, with profit-taking evident but no sign of capitulation. Crypto stayed bid despite the equity carnage \u2014 BTC +6.87% at $73,179 and ETH +9.59% at $2,120 on a 24h basis \u2014 though both trimmed intraday highs as the DXY drifted lower to 97.43 (-0.20%) and defensive sectors (healthcare +2.78%, basic materials +2.17%) continued hoovering up flows from the tech wreckage.",
@@ -347,45 +386,6 @@
       {
         "symbol": "DXY",
         "change": "+0.68%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-03T02:00+08:00",
-    "title": "Monday Close \u2014 Nat Gas Implodes 25%, Equities Shrug Off Shutdown",
-    "commentary": "U.S. equities closed broadly green \u2014 Dow +1.05%, S&P +0.72%, Nasdaq +0.88% \u2014 as the VIX collapsed 6.5% to 16.30 and risk appetite returned despite the ongoing government shutdown. The commodity complex remained under siege: natural gas imploded 24.6% in its worst session in years while crude sank another 5.2% to $61.83 as Iran d\u00e9tente supply fears dominated the Devon-Coterra mega-merger narrative. Crypto quietly outperformed with BTC firming to $78,940 (+1.6%) and ETH to $2,353 (+2.0%), while gold extended its post-margin-hike bleed to $4,693 (-1.09%) and the dollar strengthened to 97.53 on the Warsh trade.",
-    "movers": [
-      {
-        "symbol": "Nat Gas",
-        "change": "-24.62%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-5.18%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-6.54%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "+2.00%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "+1.60%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+1.05%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-1.09%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "+0.55%"
       }
     ]
   }
