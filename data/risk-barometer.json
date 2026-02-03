@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T11:57:40Z",
+  "updatedAt": "2026-02-03T14:34:22Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -24,7 +24,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+10.2% above 50-day MA"
+          "detail": "+10.1% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -66,21 +66,21 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "+8.4% vs 200-day MA"
+          "detail": "+8.3% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +1.1%"
+          "detail": "VIX 1-week change: +0.8%"
         },
         {
           "name": "Market Breadth",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: -2.1%"
+          "detail": "NDX-SPX divergence: -1.3%"
         }
       ],
       "recommendation": "Elevated risk. Consider tightening stops."
@@ -101,7 +101,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+9.7% vs 200-day MA"
+          "detail": "+9.6% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -2.1%, 30d: +2.5%"
+          "detail": "60d: +1.1%, 30d: +1.3%"
         },
         {
           "name": "Volatility Spike",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "20-day vol: 0.86%"
+          "detail": "20-day vol: 0.85%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -12.5%, NDX: +0.4%"
+          "detail": "BTC: -12.5%, NDX: +2.4%"
         },
         {
           "name": "Drawdown from ATH",
