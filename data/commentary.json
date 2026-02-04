@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-02-05T00:00+08:00",
+    "title": "Wednesday Close \u2014 Dow Diverges +0.69%, AMD Craters, Crypto Rebounds 5-6% as Metals Cool",
+    "commentary": "Dow diverged sharply from tech as old-economy names pushed blue chips +0.69% to 49,582 while Nasdaq bled -0.94% on AMD's post-earnings collapse \u2014 the chipmaker diving toward its worst session in years as AI capex doubts claimed another semiconductor victim. Silver cooled to $87.38 (+4.89%) from Tuesday's parabolic $90 peak and gold consolidated at $4,963 (+0.57%) after retreating from $5,000, with precious metals bulls taking profits but refusing to capitulate. Crypto staged a sharp reversal \u2014 BTC surged 5.2% to $74,064 and ETH rallied 6.6% to $2,151 \u2014 recapturing risk-off losses as digital assets found a bid precisely where metals momentum faded. DXY firmed marginally at 97.62 as VIX held 18.39 (+2.2%), reflecting a market caught between sector rotation and selective risk appetite ahead of Google earnings after the bell.",
+    "movers": [
+      {
+        "symbol": "ETH",
+        "change": "+6.59%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+5.16%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+4.89%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "+2.18%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.69%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+0.57%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.18%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.94%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-04T23:00+08:00",
     "title": "Wednesday Late \u2014 AMD Craters -12%, Gold Holds $5K, Silver Parabola Intact at $89",
     "commentary": "Dow diverged from tech once again as surprise ADP jobs data bolstered old-economy names (+0.35%) while Nasdaq bled -0.45% on AMD's post-earnings -12% implosion and AppLovin's -13.7% gutting \u2014 Google earnings loom after the bell as the arbiter of whether AI capex anxiety claims another victim. Gold teased $5,060 intraday (+2.5%) and silver continued its parabolic $89 run (+7%), with precious metals mania now so entrenched that even a flat DXY at 97.51 can't slow the bid. Crypto stayed on the ropes with BTC at $74,392 (-4%) and ETH at $2,178 (-3.5%), still bleeding from the rotation into hard assets that's defined February's opening sessions. SMCI surged +14.8% on AI infrastructure optimism, a rare bright spot in a tape where the gulf between metals euphoria and digital asset malaise widens by the hour.",
@@ -347,45 +386,6 @@
       {
         "symbol": "DXY",
         "change": "-0.08%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-03T22:00+08:00",
-    "title": "Tuesday Asia/EU Wrap \u2014 Silver Erupts 15.5%, Gold Blasts Through $4,970, Precious Metals Mania",
-    "commentary": "Precious metals went parabolic Tuesday \u2014 silver exploded 15.5% to $88.94 and gold surged 6.8% to $4,970, their most violent session in years, as a weakening dollar (DXY -0.09% to 97.54) and safe-haven flows collided with short-squeeze mechanics across the metals complex. Asia roared: KOSPI +6.84%, Nikkei +3.92%, Sensex +2.54%, while U.S. futures pointed higher with Dow +1.05% to 49,408, S&P +0.54% to 6,976, and Nasdaq +0.56% buoyed by Palantir-led tech optimism and a packed earnings slate. Copper joined the commodities rally at +4.27%, basic materials led U.S. sectors at +5.7%, and the VIX cratered another 7.3% to 16.16 \u2014 risk appetite remains insatiable despite Pfizer's post-earnings dive dragging healthcare down 4%. Crypto treaded water with BTC flat at $78,244 and ETH +0.8% at $2,310, sidelined as capital chased the metals breakout.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+15.50%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+6.84%"
-      },
-      {
-        "symbol": "KOSPI",
-        "change": "+6.84%"
-      },
-      {
-        "symbol": "Copper",
-        "change": "+4.27%"
-      },
-      {
-        "symbol": "Nikkei",
-        "change": "+3.92%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-7.34%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+1.05%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.09%"
       }
     ]
   }
