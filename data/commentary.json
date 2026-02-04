@@ -1,5 +1,52 @@
 [
   {
+    "timestamp": "2026-02-05T01:00+08:00",
+    "title": "Wednesday Close \u2014 Nasdaq Bleeds -1.49%, Gold Retreats From $5K, VIX Spikes 7% as Earnings Disappoint",
+    "commentary": "The Dow-Nasdaq divergence widened to its most extreme in weeks as blue chips gained +0.59% to 44,532 while Nasdaq hemorrhaged -1.49% \u2014 AMD's post-earnings slide despite a beat, Uber's disappointing profits, and AI capex anxiety continuing to gut growth names even as Amazon and Google loom after hours. Gold retreated 1.08% to $4,882 after Tuesday's historic $5,000 breach, with precious metals bulls finally taking profits while silver held firm at $83.94 (+0.77%), suggesting the pullback is healthy consolidation rather than trend reversal. Crypto extended its losing streak with BTC sliding 3.95% to $73,568 and ETH dropping 4.82% to $2,133, still bleeding from the metals-driven capital rotation that's defined this week's tape. VIX surged 7.22% to 19.30 \u2014 back above the 19 handle \u2014 as DXY firmed 0.27% to 97.70, with the fear gauge reflecting a market where defensive sectors and commodities are winning while growth and digital assets fight for a bid.",
+    "movers": [
+      {
+        "symbol": "VIX",
+        "change": "+7.22%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.77%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.59%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "+0.27%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.02%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.47%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-1.08%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.49%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-3.95%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-4.82%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-05T00:00+08:00",
     "title": "Wednesday Close \u2014 Dow Diverges +0.69%, AMD Craters, Crypto Rebounds 5-6% as Metals Cool",
     "commentary": "Dow diverged sharply from tech as old-economy names pushed blue chips +0.69% to 49,582 while Nasdaq bled -0.94% on AMD's post-earnings collapse \u2014 the chipmaker diving toward its worst session in years as AI capex doubts claimed another semiconductor victim. Silver cooled to $87.38 (+4.89%) from Tuesday's parabolic $90 peak and gold consolidated at $4,963 (+0.57%) after retreating from $5,000, with precious metals bulls taking profits but refusing to capitulate. Crypto staged a sharp reversal \u2014 BTC surged 5.2% to $74,064 and ETH rallied 6.6% to $2,151 \u2014 recapturing risk-off losses as digital assets found a bid precisely where metals momentum faded. DXY firmed marginally at 97.62 as VIX held 18.39 (+2.2%), reflecting a market caught between sector rotation and selective risk appetite ahead of Google earnings after the bell.",
@@ -347,45 +394,6 @@
       {
         "symbol": "Nasdaq",
         "change": "-0.96%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-03T23:00+08:00",
-    "title": "Tuesday US Close \u2014 Precious Metals Mania Continues, Silver +14.4%, PayPal Implodes -18%",
-    "commentary": "Precious metals mania intensified into Tuesday's close as silver surged 14.4% to $88.11 and gold blasted 6.2% to $4,940 \u2014 the precious metals complex now firmly detached from any semblance of mean reversion, with safe-haven flows and short-squeeze mechanics feeding on themselves. U.S. equities split: Dow eked out +0.13% to 49,473 while tech dragged the Nasdaq down 0.61%, with PayPal's -18.2% implosion on CEO turmoil and Palantir's +5.2% post-earnings surge canceling each other out across the tape. Healthcare led sectors at +4.6% while tech lagged at -1.5%, a rare defensive rotation for a session with VIX pinned at a sleepy 16.37. Bitcoin treaded water at $77,243 (+0.8%) as ETH outperformed at +4.9% to $2,257, with crypto capital still rotating into alts while the metals complex commands the room \u2014 DXY flat at 97.56 offering no headwinds.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+14.42%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+6.18%"
-      },
-      {
-        "symbol": "PYPL",
-        "change": "-18.24%"
-      },
-      {
-        "symbol": "PLTR",
-        "change": "+5.15%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "+4.89%"
-      },
-      {
-        "symbol": "Copper",
-        "change": "+4.45%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.61%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.08%"
       }
     ]
   }
