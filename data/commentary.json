@@ -1,8 +1,55 @@
 [
   {
+    "timestamp": "2026-02-05T03:00+08:00",
+    "title": "Thursday Pre-Dawn — VIX Eases From 21 Peak, Asia Mixed, Crypto Finds Overnight Bid",
+    "commentary": "Overnight stabilization trimmed the worst of Wednesday's tech rout as VIX eased to 20.49 from the session's 21.20 peak and Nasdaq clawed back to -1.77% from -2.13% at the close, though the damage remains real with Palantir's -13.6% crater and NVIDIA's -3.6% slide still defining the tape. Asia opened mixed — KOSPI surged +1.57% and Shanghai gained +0.85% while Nikkei slipped -0.78% — offering no decisive signal as crypto found a modest overnight bid with BTC reclaiming $73,416 (+0.42%) and ETH bouncing to $2,148 (+1.30%) after Wednesday's metals rotation exhausted selling pressure. Gold held $4,935 (flat) in the post-settlement lull while silver stayed firm at $85.53 (+2.68%) and oil rallied +2.58% to $64.84, though copper's -3.75% crash continues to flag selective industrial weakness beneath the commodity bid. The Dow's +0.17% outperformance over Nasdaq's -1.77% crystallizes the week's thesis: healthcare surged +4.67% on Lilly's Mounjaro/Zepbound doubling, defensive rotation is king, and Friday's payrolls loom as the next catalyst for a market trading on fear and sector dispersion.",
+    "movers": [
+      {
+        "symbol": "NatGas",
+        "change": "+4.11%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.68%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.58%"
+      },
+      {
+        "symbol": "KOSPI",
+        "change": "+1.57%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "+1.30%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+0.42%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "+0.24%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.65%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.77%"
+      },
+      {
+        "symbol": "Copper",
+        "change": "-3.75%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-05T02:00+08:00",
-    "title": "Thursday Early \u2014 Palantir Implodes -13.6%, VIX Breaks 21, Nasdaq -2.13% as Tech Rout Deepens",
-    "commentary": "The tech bloodbath accelerated Wednesday as Palantir cratered -13.6% \u2014 evaporating $44B in a single session \u2014 and NVIDIA shed -4.4%, dragging Nasdaq down -2.13% to 22,760 while the Dow eked out +0.11% as the growth-to-value rotation turned vicious with healthcare surging +4.5% on Lilly's Mounjaro/Zepbound sales doubling. VIX smashed through 21 at 21.20 (+17.9%), the highest fear reading of the week, as Russell 2000 dropped -2.0% confirming the risk-off contagion has spread beyond megacap tech into small caps. Gold consolidated at $4,929 (-0.12%) below the $5K barrier while silver held $85 (+2.1%) and oil rallied +3.0% to $65.08 \u2014 the commodity complex staying bid even as copper's -3.6% crash signals industrial demand concerns. Crypto continued its multi-day slide with BTC at $72,461 (-3.3%) and ETH at $2,123 (-3.6%), now down roughly 7% from the week's highs, as the DXY firmed marginally to 97.67 (+0.24%) and digital assets found zero safe-haven bid despite equities imploding.",
+    "title": "Thursday Early — Palantir Implodes -13.6%, VIX Breaks 21, Nasdaq -2.13% as Tech Rout Deepens",
+    "commentary": "The tech bloodbath accelerated Wednesday as Palantir cratered -13.6% — evaporating $44B in a single session — and NVIDIA shed -4.4%, dragging Nasdaq down -2.13% to 22,760 while the Dow eked out +0.11% as the growth-to-value rotation turned vicious with healthcare surging +4.5% on Lilly's Mounjaro/Zepbound sales doubling. VIX smashed through 21 at 21.20 (+17.9%), the highest fear reading of the week, as Russell 2000 dropped -2.0% confirming the risk-off contagion has spread beyond megacap tech into small caps. Gold consolidated at $4,929 (-0.12%) below the $5K barrier while silver held $85 (+2.1%) and oil rallied +3.0% to $65.08 — the commodity complex staying bid even as copper's -3.6% crash signals industrial demand concerns. Crypto continued its multi-day slide with BTC at $72,461 (-3.3%) and ETH at $2,123 (-3.6%), now down roughly 7% from the week's highs, as the DXY firmed marginally to 97.67 (+0.24%) and digital assets found zero safe-haven bid despite equities imploding.",
     "movers": [
       {
         "symbol": "VIX",
@@ -48,8 +95,8 @@
   },
   {
     "timestamp": "2026-02-05T01:00+08:00",
-    "title": "Wednesday Close \u2014 Nasdaq Bleeds -1.49%, Gold Retreats From $5K, VIX Spikes 7% as Earnings Disappoint",
-    "commentary": "The Dow-Nasdaq divergence widened to its most extreme in weeks as blue chips gained +0.59% to 44,532 while Nasdaq hemorrhaged -1.49% \u2014 AMD's post-earnings slide despite a beat, Uber's disappointing profits, and AI capex anxiety continuing to gut growth names even as Amazon and Google loom after hours. Gold retreated 1.08% to $4,882 after Tuesday's historic $5,000 breach, with precious metals bulls finally taking profits while silver held firm at $83.94 (+0.77%), suggesting the pullback is healthy consolidation rather than trend reversal. Crypto extended its losing streak with BTC sliding 3.95% to $73,568 and ETH dropping 4.82% to $2,133, still bleeding from the metals-driven capital rotation that's defined this week's tape. VIX surged 7.22% to 19.30 \u2014 back above the 19 handle \u2014 as DXY firmed 0.27% to 97.70, with the fear gauge reflecting a market where defensive sectors and commodities are winning while growth and digital assets fight for a bid.",
+    "title": "Wednesday Close — Nasdaq Bleeds -1.49%, Gold Retreats From $5K, VIX Spikes 7% as Earnings Disappoint",
+    "commentary": "The Dow-Nasdaq divergence widened to its most extreme in weeks as blue chips gained +0.59% to 44,532 while Nasdaq hemorrhaged -1.49% — AMD's post-earnings slide despite a beat, Uber's disappointing profits, and AI capex anxiety continuing to gut growth names even as Amazon and Google loom after hours. Gold retreated 1.08% to $4,882 after Tuesday's historic $5,000 breach, with precious metals bulls finally taking profits while silver held firm at $83.94 (+0.77%), suggesting the pullback is healthy consolidation rather than trend reversal. Crypto extended its losing streak with BTC sliding 3.95% to $73,568 and ETH dropping 4.82% to $2,133, still bleeding from the metals-driven capital rotation that's defined this week's tape. VIX surged 7.22% to 19.30 — back above the 19 handle — as DXY firmed 0.27% to 97.70, with the fear gauge reflecting a market where defensive sectors and commodities are winning while growth and digital assets fight for a bid.",
     "movers": [
       {
         "symbol": "VIX",
@@ -95,8 +142,8 @@
   },
   {
     "timestamp": "2026-02-05T00:00+08:00",
-    "title": "Wednesday Close \u2014 Dow Diverges +0.69%, AMD Craters, Crypto Rebounds 5-6% as Metals Cool",
-    "commentary": "Dow diverged sharply from tech as old-economy names pushed blue chips +0.69% to 49,582 while Nasdaq bled -0.94% on AMD's post-earnings collapse \u2014 the chipmaker diving toward its worst session in years as AI capex doubts claimed another semiconductor victim. Silver cooled to $87.38 (+4.89%) from Tuesday's parabolic $90 peak and gold consolidated at $4,963 (+0.57%) after retreating from $5,000, with precious metals bulls taking profits but refusing to capitulate. Crypto staged a sharp reversal \u2014 BTC surged 5.2% to $74,064 and ETH rallied 6.6% to $2,151 \u2014 recapturing risk-off losses as digital assets found a bid precisely where metals momentum faded. DXY firmed marginally at 97.62 as VIX held 18.39 (+2.2%), reflecting a market caught between sector rotation and selective risk appetite ahead of Google earnings after the bell.",
+    "title": "Wednesday Close — Dow Diverges +0.69%, AMD Craters, Crypto Rebounds 5-6% as Metals Cool",
+    "commentary": "Dow diverged sharply from tech as old-economy names pushed blue chips +0.69% to 49,582 while Nasdaq bled -0.94% on AMD's post-earnings collapse — the chipmaker diving toward its worst session in years as AI capex doubts claimed another semiconductor victim. Silver cooled to $87.38 (+4.89%) from Tuesday's parabolic $90 peak and gold consolidated at $4,963 (+0.57%) after retreating from $5,000, with precious metals bulls taking profits but refusing to capitulate. Crypto staged a sharp reversal — BTC surged 5.2% to $74,064 and ETH rallied 6.6% to $2,151 — recapturing risk-off losses as digital assets found a bid precisely where metals momentum faded. DXY firmed marginally at 97.62 as VIX held 18.39 (+2.2%), reflecting a market caught between sector rotation and selective risk appetite ahead of Google earnings after the bell.",
     "movers": [
       {
         "symbol": "ETH",
@@ -134,8 +181,8 @@
   },
   {
     "timestamp": "2026-02-04T23:00+08:00",
-    "title": "Wednesday Late \u2014 AMD Craters -12%, Gold Holds $5K, Silver Parabola Intact at $89",
-    "commentary": "Dow diverged from tech once again as surprise ADP jobs data bolstered old-economy names (+0.35%) while Nasdaq bled -0.45% on AMD's post-earnings -12% implosion and AppLovin's -13.7% gutting \u2014 Google earnings loom after the bell as the arbiter of whether AI capex anxiety claims another victim. Gold teased $5,060 intraday (+2.5%) and silver continued its parabolic $89 run (+7%), with precious metals mania now so entrenched that even a flat DXY at 97.51 can't slow the bid. Crypto stayed on the ropes with BTC at $74,392 (-4%) and ETH at $2,178 (-3.5%), still bleeding from the rotation into hard assets that's defined February's opening sessions. SMCI surged +14.8% on AI infrastructure optimism, a rare bright spot in a tape where the gulf between metals euphoria and digital asset malaise widens by the hour.",
+    "title": "Wednesday Late — AMD Craters -12%, Gold Holds $5K, Silver Parabola Intact at $89",
+    "commentary": "Dow diverged from tech once again as surprise ADP jobs data bolstered old-economy names (+0.35%) while Nasdaq bled -0.45% on AMD's post-earnings -12% implosion and AppLovin's -13.7% gutting — Google earnings loom after the bell as the arbiter of whether AI capex anxiety claims another victim. Gold teased $5,060 intraday (+2.5%) and silver continued its parabolic $89 run (+7%), with precious metals mania now so entrenched that even a flat DXY at 97.51 can't slow the bid. Crypto stayed on the ropes with BTC at $74,392 (-4%) and ETH at $2,178 (-3.5%), still bleeding from the rotation into hard assets that's defined February's opening sessions. SMCI surged +14.8% on AI infrastructure optimism, a rare bright spot in a tape where the gulf between metals euphoria and digital asset malaise widens by the hour.",
     "movers": [
       {
         "symbol": "SMCI",
@@ -173,8 +220,8 @@
   },
   {
     "timestamp": "2026-02-04T22:00+08:00",
-    "title": "Wednesday Evening \u2014 Silver Explodes +8.5%, Gold Holds $5K, Tech Bleeds as Rotation Accelerates",
-    "commentary": "Silver stole the show with a staggering +8.5% surge to $90.41 \u2014 breaching $90 for the first time \u2014 as the precious metals rally morphed from aggressive to parabolic, with gold consolidating above $5,000 at $5,062 (+2.6%) after MarketWatch flagged the move as a 'high-risk bet.' Tech continued hemorrhaging with Nasdaq down -1.43% and the sector shedding -2.38% on the session as PayPal breakup speculation and AI capex anxiety weighed, while healthcare (+2.9%), energy (+2.9%), and basic materials (+3.4%) absorbed the rotation flows. Crypto got caught in the crossfire \u2014 BTC slid -4.4% to $74,755 and ETH dropped -5.0% to $2,196 as risk assets outside commodities found no bid \u2014 while DXY flatlined at 97.49, offering zero headwind to metals but no lifeline to equities either. The VIX's +9% pop to 17.81 tells the story: this isn't panic, it's a slow grind of capital from growth to real assets, and the divergence is widening.",
+    "title": "Wednesday Evening — Silver Explodes +8.5%, Gold Holds $5K, Tech Bleeds as Rotation Accelerates",
+    "commentary": "Silver stole the show with a staggering +8.5% surge to $90.41 — breaching $90 for the first time — as the precious metals rally morphed from aggressive to parabolic, with gold consolidating above $5,000 at $5,062 (+2.6%) after MarketWatch flagged the move as a 'high-risk bet.' Tech continued hemorrhaging with Nasdaq down -1.43% and the sector shedding -2.38% on the session as PayPal breakup speculation and AI capex anxiety weighed, while healthcare (+2.9%), energy (+2.9%), and basic materials (+3.4%) absorbed the rotation flows. Crypto got caught in the crossfire — BTC slid -4.4% to $74,755 and ETH dropped -5.0% to $2,196 as risk assets outside commodities found no bid — while DXY flatlined at 97.49, offering zero headwind to metals but no lifeline to equities either. The VIX's +9% pop to 17.81 tells the story: this isn't panic, it's a slow grind of capital from growth to real assets, and the divergence is widening.",
     "movers": [
       {
         "symbol": "Silver",
@@ -212,8 +259,8 @@
   },
   {
     "timestamp": "2026-02-04T05:00+08:00",
-    "title": "Wednesday Pre-Market \u2014 Shutdown Ending Calms VIX, Metals Hold Gains, Crypto Recovers From Overnight Lows",
-    "commentary": "Markets stabilized as the House passed a funding bill to end the government shutdown, injecting a rare dose of certainty \u2014 VIX eased to 18.32 (+12.1%) after breaching 19 earlier, though fear remains elevated with Nasdaq absorbing a -1.45% session and PayPal's -20% implosion now the defining single-stock story. Precious metals consolidated their extraordinary run with gold holding $4,973 (+6.9%) and silver at $84.95 (+10.3%) \u2014 moves MarketWatch called 'memelike' \u2014 while oil firmed to $64.10 (+3.2%) as the commodity complex stayed bid. Crypto staged a partial recovery from overnight lows: BTC reclaimed $76,332 (-2.1%) after touching $74,920 and ETH bounced to $2,294 (-1.1%), both clawing back from the risk-off contagion that hit digital assets hardest in the Asia session. DXY drifted lower at 97.39 (-0.25%), offering no resistance to the metals bid as traders now eye Friday's January payrolls for the next directional catalyst.",
+    "title": "Wednesday Pre-Market — Shutdown Ending Calms VIX, Metals Hold Gains, Crypto Recovers From Overnight Lows",
+    "commentary": "Markets stabilized as the House passed a funding bill to end the government shutdown, injecting a rare dose of certainty — VIX eased to 18.32 (+12.1%) after breaching 19 earlier, though fear remains elevated with Nasdaq absorbing a -1.45% session and PayPal's -20% implosion now the defining single-stock story. Precious metals consolidated their extraordinary run with gold holding $4,973 (+6.9%) and silver at $84.95 (+10.3%) — moves MarketWatch called 'memelike' — while oil firmed to $64.10 (+3.2%) as the commodity complex stayed bid. Crypto staged a partial recovery from overnight lows: BTC reclaimed $76,332 (-2.1%) after touching $74,920 and ETH bounced to $2,294 (-1.1%), both clawing back from the risk-off contagion that hit digital assets hardest in the Asia session. DXY drifted lower at 97.39 (-0.25%), offering no resistance to the metals bid as traders now eye Friday's January payrolls for the next directional catalyst.",
     "movers": [
       {
         "symbol": "VIX",
@@ -251,8 +298,8 @@
   },
   {
     "timestamp": "2026-02-04T04:00+08:00",
-    "title": "Wednesday Pre-Market \u2014 Crypto Reverses Hard, VIX Holds 19, Asia Stages Massive Rebound",
-    "commentary": "Crypto's Tuesday resilience evaporated overnight \u2014 BTC plunged 4.3% to $74,920 and ETH cratered 5.2% to $2,207, a sharp reversal from the +7-10% gains logged just hours ago, as the risk-off contagion finally caught up with digital assets. Precious metals consolidated their monster move but remain elevated: gold held $4,957 (+6.5%) and silver $84 (+9.1%), both well off intraday parabolic highs, with profit-taking trimming the froth but buyers defending levels aggressively. The VIX cemented itself above 19 at 19.28 (+18.0%) as Nasdaq bled another 2.03% and tech hemorrhaged -3.47% on the session \u2014 NVIDIA -4.67%, PayPal's -20% catastrophe now fully priced \u2014 while healthcare (+3.1%) and energy (+2.1%) continued absorbing the rotation flows. Asia staged a dramatic rebound overnight with KOSPI surging 6.84% and Nikkei rallying 3.92%, offering a glimmer of risk appetite that hasn't yet translated to U.S. futures.",
+    "title": "Wednesday Pre-Market — Crypto Reverses Hard, VIX Holds 19, Asia Stages Massive Rebound",
+    "commentary": "Crypto's Tuesday resilience evaporated overnight — BTC plunged 4.3% to $74,920 and ETH cratered 5.2% to $2,207, a sharp reversal from the +7-10% gains logged just hours ago, as the risk-off contagion finally caught up with digital assets. Precious metals consolidated their monster move but remain elevated: gold held $4,957 (+6.5%) and silver $84 (+9.1%), both well off intraday parabolic highs, with profit-taking trimming the froth but buyers defending levels aggressively. The VIX cemented itself above 19 at 19.28 (+18.0%) as Nasdaq bled another 2.03% and tech hemorrhaged -3.47% on the session — NVIDIA -4.67%, PayPal's -20% catastrophe now fully priced — while healthcare (+3.1%) and energy (+2.1%) continued absorbing the rotation flows. Asia staged a dramatic rebound overnight with KOSPI surging 6.84% and Nikkei rallying 3.92%, offering a glimmer of risk appetite that hasn't yet translated to U.S. futures.",
     "movers": [
       {
         "symbol": "VIX",
@@ -290,8 +337,8 @@
   },
   {
     "timestamp": "2026-02-04T03:00+08:00",
-    "title": "Wednesday Pre-Dawn \u2014 VIX Smashes Through 19, Tech Bloodbath Deepens, Metals Hold Gains",
-    "commentary": "The selloff deepened as VIX exploded 18.7% to 19.40 \u2014 breaching the 19 handle for the first time in weeks \u2014 with Nasdaq down 2.19% and S&P off 1.42% as tech absorbed another -3.31% session led by NVIDIA's -3.77% slide and PayPal's now-catastrophic -20.1% implosion. Precious metals held Tuesday's monster gains but cooled from parabolic peaks: gold settled at $4,927 (+5.90%) after retreating from the $5,000 breach, silver moderated to $83.18 (+8.01%) from earlier $88 highs, with profit-taking evident but no sign of capitulation. Crypto stayed bid despite the equity carnage \u2014 BTC +6.87% at $73,179 and ETH +9.59% at $2,120 on a 24h basis \u2014 though both trimmed intraday highs as the DXY drifted lower to 97.43 (-0.20%) and defensive sectors (healthcare +2.78%, basic materials +2.17%) continued hoovering up flows from the tech wreckage.",
+    "title": "Wednesday Pre-Dawn — VIX Smashes Through 19, Tech Bloodbath Deepens, Metals Hold Gains",
+    "commentary": "The selloff deepened as VIX exploded 18.7% to 19.40 — breaching the 19 handle for the first time in weeks — with Nasdaq down 2.19% and S&P off 1.42% as tech absorbed another -3.31% session led by NVIDIA's -3.77% slide and PayPal's now-catastrophic -20.1% implosion. Precious metals held Tuesday's monster gains but cooled from parabolic peaks: gold settled at $4,927 (+5.90%) after retreating from the $5,000 breach, silver moderated to $83.18 (+8.01%) from earlier $88 highs, with profit-taking evident but no sign of capitulation. Crypto stayed bid despite the equity carnage — BTC +6.87% at $73,179 and ETH +9.59% at $2,120 on a 24h basis — though both trimmed intraday highs as the DXY drifted lower to 97.43 (-0.20%) and defensive sectors (healthcare +2.78%, basic materials +2.17%) continued hoovering up flows from the tech wreckage.",
     "movers": [
       {
         "symbol": "VIX",
@@ -329,8 +376,8 @@
   },
   {
     "timestamp": "2026-02-04T02:00+08:00",
-    "title": "Tuesday Overnight \u2014 Gold Retreats From $5K, VIX Spikes 15%, Crypto Rebounds",
-    "commentary": "The precious metals fever broke overnight as gold retreated from its historic $5,000 breach to settle at $4,935 (+6.1%) and silver cooled to $83 (+7.7%) from the session's $88 highs \u2014 still massive daily gains but a clear signal that the parabolic momentum is finding sellers at altitude. U.S. equities extended their rot: Nasdaq -1.73%, S&P -1.08%, Dow -0.71%, with VIX exploding 15.5% to 18.87 \u2014 the sharpest fear gauge spike in weeks \u2014 as tech (-3.0%) led the selloff and NVIDIA shed 3.7% while PayPal's CEO-crisis implosion deepened to -19.9%. Crypto staged a surprising reversal, with BTC rallying 5.2% to $74,888 and ETH surging 6.6% to $2,201 as digital assets decoupled from the equity weakness, possibly absorbing flows from metals profit-taking as the DXY drifted lower at 97.41 (-0.23%).",
+    "title": "Tuesday Overnight — Gold Retreats From $5K, VIX Spikes 15%, Crypto Rebounds",
+    "commentary": "The precious metals fever broke overnight as gold retreated from its historic $5,000 breach to settle at $4,935 (+6.1%) and silver cooled to $83 (+7.7%) from the session's $88 highs — still massive daily gains but a clear signal that the parabolic momentum is finding sellers at altitude. U.S. equities extended their rot: Nasdaq -1.73%, S&P -1.08%, Dow -0.71%, with VIX exploding 15.5% to 18.87 — the sharpest fear gauge spike in weeks — as tech (-3.0%) led the selloff and NVIDIA shed 3.7% while PayPal's CEO-crisis implosion deepened to -19.9%. Crypto staged a surprising reversal, with BTC rallying 5.2% to $74,888 and ETH surging 6.6% to $2,201 as digital assets decoupled from the equity weakness, possibly absorbing flows from metals profit-taking as the DXY drifted lower at 97.41 (-0.23%).",
     "movers": [
       {
         "symbol": "VIX",
@@ -363,45 +410,6 @@
       {
         "symbol": "NVDA",
         "change": "-3.69%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-04T01:01+08:00",
-    "title": "Tuesday Late \u2014 Gold Blasts Through $5,000, Silver +14%, Crypto Bleeds",
-    "commentary": "Gold breached the psychological $5,000 barrier for the first time, settling at $5,001 (+7.5%) as the precious metals supercycle entered a new phase \u2014 silver rode the wave even harder at +14.3% to $88, with short-squeeze mechanics and safe-haven panic compounding in real time. U.S. equities closed soft with Nasdaq down 1.24% and S&P off 0.65% as tech continued its rotation out (-2.45% sector) while healthcare (+3.86%) and basic materials (+4.06%) led the defensive bid. Crypto buckled under the metals-driven risk reallocation: Bitcoin slid 2.7% to $76,501 and Ethereum dropped 5.0% to $2,242, reversing earlier alt-season momentum as capital fled to hard assets. VIX spiked 7.3% to 17.54, the sharpest fear gauge move in weeks, while PayPal's -18.8% cratering and the SpaceX-xAI merger speculation kept single-stock volatility elevated across the tape.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+14.28%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+7.50%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "+7.33%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-5.01%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-2.70%"
-      },
-      {
-        "symbol": "PYPL",
-        "change": "-18.82%"
-      },
-      {
-        "symbol": "PLTR",
-        "change": "+5.42%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.24%"
       }
     ]
   }
