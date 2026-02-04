@@ -1,5 +1,52 @@
 [
   {
+    "timestamp": "2026-02-05T02:00+08:00",
+    "title": "Thursday Early \u2014 Palantir Implodes -13.6%, VIX Breaks 21, Nasdaq -2.13% as Tech Rout Deepens",
+    "commentary": "The tech bloodbath accelerated Wednesday as Palantir cratered -13.6% \u2014 evaporating $44B in a single session \u2014 and NVIDIA shed -4.4%, dragging Nasdaq down -2.13% to 22,760 while the Dow eked out +0.11% as the growth-to-value rotation turned vicious with healthcare surging +4.5% on Lilly's Mounjaro/Zepbound sales doubling. VIX smashed through 21 at 21.20 (+17.9%), the highest fear reading of the week, as Russell 2000 dropped -2.0% confirming the risk-off contagion has spread beyond megacap tech into small caps. Gold consolidated at $4,929 (-0.12%) below the $5K barrier while silver held $85 (+2.1%) and oil rallied +3.0% to $65.08 \u2014 the commodity complex staying bid even as copper's -3.6% crash signals industrial demand concerns. Crypto continued its multi-day slide with BTC at $72,461 (-3.3%) and ETH at $2,123 (-3.6%), now down roughly 7% from the week's highs, as the DXY firmed marginally to 97.67 (+0.24%) and digital assets found zero safe-haven bid despite equities imploding.",
+    "movers": [
+      {
+        "symbol": "VIX",
+        "change": "+17.91%"
+      },
+      {
+        "symbol": "NatGas",
+        "change": "+5.38%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.96%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.10%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.11%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.12%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.88%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-2.13%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-3.34%"
+      },
+      {
+        "symbol": "PLTR",
+        "change": "-13.62%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-05T01:00+08:00",
     "title": "Wednesday Close \u2014 Nasdaq Bleeds -1.49%, Gold Retreats From $5K, VIX Spikes 7% as Earnings Disappoint",
     "commentary": "The Dow-Nasdaq divergence widened to its most extreme in weeks as blue chips gained +0.59% to 44,532 while Nasdaq hemorrhaged -1.49% \u2014 AMD's post-earnings slide despite a beat, Uber's disappointing profits, and AI capex anxiety continuing to gut growth names even as Amazon and Google loom after hours. Gold retreated 1.08% to $4,882 after Tuesday's historic $5,000 breach, with precious metals bulls finally taking profits while silver held firm at $83.94 (+0.77%), suggesting the pullback is healthy consolidation rather than trend reversal. Crypto extended its losing streak with BTC sliding 3.95% to $73,568 and ETH dropping 4.82% to $2,133, still bleeding from the metals-driven capital rotation that's defined this week's tape. VIX surged 7.22% to 19.30 \u2014 back above the 19 handle \u2014 as DXY firmed 0.27% to 97.70, with the fear gauge reflecting a market where defensive sectors and commodities are winning while growth and digital assets fight for a bid.",
@@ -355,45 +402,6 @@
       {
         "symbol": "Nasdaq",
         "change": "-1.24%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-04T00:00+08:00",
-    "title": "Tuesday Final \u2014 Silver Erupts 14%, PayPal Craters -18%, Tech Drags Indices",
-    "commentary": "Precious metals stole Tuesday's show as silver exploded 14.1% to $87.84 and gold surged 6.3% to $4,946 \u2014 the most violent precious metals session in years, with short-squeeze mechanics and safe-haven flows feeding a self-reinforcing frenzy that's left every mean-reversion model in the dust. Tech weighed on U.S. indices as Nasdaq shed 0.96% and S&P slipped 0.40% while the Dow barely held green at +0.14%, with PayPal's -18.1% CEO-turmoil implosion and a partial government shutdown souring sentiment even as Palantir rallied 4.6% post-earnings. VIX ticked up 4.7% to 17.10 \u2014 the first meaningful uptick in days \u2014 as healthcare (+4.3%) and basic materials (+3.7%) rotated defensively while technology (-2.2%) dragged; crypto held its ground with BTC steady at $78,100 (+1.0%) and ETH outperforming at $2,299 (+3.1%), with a White House crypto legislation stalemate adding political uncertainty to an already fractured tape.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+14.06%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+6.30%"
-      },
-      {
-        "symbol": "PYPL",
-        "change": "-18.11%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "+4.66%"
-      },
-      {
-        "symbol": "PLTR",
-        "change": "+4.58%"
-      },
-      {
-        "symbol": "Copper",
-        "change": "+3.73%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "+3.11%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.96%"
       }
     ]
   }
