@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-02-04T23:00+08:00",
+    "title": "Wednesday Late \u2014 AMD Craters -12%, Gold Holds $5K, Silver Parabola Intact at $89",
+    "commentary": "Dow diverged from tech once again as surprise ADP jobs data bolstered old-economy names (+0.35%) while Nasdaq bled -0.45% on AMD's post-earnings -12% implosion and AppLovin's -13.7% gutting \u2014 Google earnings loom after the bell as the arbiter of whether AI capex anxiety claims another victim. Gold teased $5,060 intraday (+2.5%) and silver continued its parabolic $89 run (+7%), with precious metals mania now so entrenched that even a flat DXY at 97.51 can't slow the bid. Crypto stayed on the ropes with BTC at $74,392 (-4%) and ETH at $2,178 (-3.5%), still bleeding from the rotation into hard assets that's defined February's opening sessions. SMCI surged +14.8% on AI infrastructure optimism, a rare bright spot in a tape where the gulf between metals euphoria and digital asset malaise widens by the hour.",
+    "movers": [
+      {
+        "symbol": "SMCI",
+        "change": "+14.80%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+7.05%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+2.53%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.35%"
+      },
+      {
+        "symbol": "APP",
+        "change": "-13.70%"
+      },
+      {
+        "symbol": "AMD",
+        "change": "-12.10%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-3.98%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-3.50%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-04T22:00+08:00",
     "title": "Wednesday Evening \u2014 Silver Explodes +8.5%, Gold Holds $5K, Tech Bleeds as Rotation Accelerates",
     "commentary": "Silver stole the show with a staggering +8.5% surge to $90.41 \u2014 breaching $90 for the first time \u2014 as the precious metals rally morphed from aggressive to parabolic, with gold consolidating above $5,000 at $5,062 (+2.6%) after MarketWatch flagged the move as a 'high-risk bet.' Tech continued hemorrhaging with Nasdaq down -1.43% and the sector shedding -2.38% on the session as PayPal breakup speculation and AI capex anxiety weighed, while healthcare (+2.9%), energy (+2.9%), and basic materials (+3.4%) absorbed the rotation flows. Crypto got caught in the crossfire \u2014 BTC slid -4.4% to $74,755 and ETH dropped -5.0% to $2,196 as risk assets outside commodities found no bid \u2014 while DXY flatlined at 97.49, offering zero headwind to metals but no lifeline to equities either. The VIX's +9% pop to 17.81 tells the story: this isn't panic, it's a slow grind of capital from growth to real assets, and the divergence is widening.",
@@ -347,45 +386,6 @@
       {
         "symbol": "DXY",
         "change": "-0.09%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-03T05:00+08:00",
-    "title": "Monday Close Wrap \u2014 Oil Craters 4.6%, Nat Gas Posts Historic -25% Rout, Wall Street Grinds Higher",
-    "commentary": "Wall Street closed Monday's session firmly in the green \u2014 Dow +1.09% to 49,423, S&P 500 +0.57% to 6,979, Nasdaq +0.58% \u2014 as the VIX slid 4.8% to 16.61, signaling complacency heading into a stacked earnings week. The energy complex was a bloodbath: crude oil plunged 4.6% to $62.19 and natural gas posted a historic -25.2% single-day collapse to $3.26, the worst session in recent memory driven by warmer weather forecasts and oversupply fears. Silver bucked the metals trend, rallying 2.0% to $80.14 while gold retreated 1.1% to $4,691 on continued margin-hike fallout; crypto held quiet bids with BTC +1.1% at $77,966 and ETH flat at $2,322. The dollar firmed 0.65% to 97.62 as traders brace for Friday's January payrolls and a mega-cap earnings gauntlet featuring Alphabet, Amazon, AMD, and Disney.",
-    "movers": [
-      {
-        "symbol": "Nat Gas",
-        "change": "-25.17%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-4.63%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-4.76%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.04%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+1.09%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "+1.13%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-1.14%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "+0.65%"
       }
     ]
   }
