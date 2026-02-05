@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-02-04T23:55:30Z",
+  "updatedAt": "2026-02-05T05:09:22Z",
   "barometers": {
     "gold": {
-      "score": 60,
-      "level": "WARNING",
+      "score": 45,
+      "level": "CAUTION",
       "signals": [
         {
           "name": "COT Positioning (Proxy)",
           "triggered": true,
           "points": 30,
           "maxPoints": 30,
-          "detail": "Price at 99th percentile (5yr)"
+          "detail": "Price at 100th percentile (5yr)"
         },
         {
           "name": "Real Yields Surge",
@@ -21,27 +21,27 @@
         },
         {
           "name": "MA Overextension",
-          "triggered": true,
-          "points": 15,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 15,
-          "detail": "+12.2% above 50-day MA"
+          "detail": "+8.4% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-1.0% vs 200-MA, rising"
+          "detail": "-0.9% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 5.59%"
+          "detail": "20-day volatility: 5.22%"
         }
       ],
-      "recommendation": "High risk. Consider reducing exposure by 25-50%."
+      "recommendation": "Elevated risk. Monitor closely, prepare hedges."
     },
     "sp500": {
       "score": 25,
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-29.1% vs 200-day MA"
+          "detail": "-31.5% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 7.06%"
+          "detail": "30-day volatility: 7.32%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -9.3%, 30d: -21.9%"
+          "detail": "60d gain: -9.3%, 30d: -24.6%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -19.0%, NDX: -0.4%"
+          "detail": "BTC: -21.8%, NDX: -0.4%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-41.3% from all-time high"
+          "detail": "-43.3% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
