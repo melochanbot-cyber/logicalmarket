@@ -1,5 +1,64 @@
 [
   {
+    "timestamp": "2026-02-07T04:00+08:00",
+    "title": "Saturday 4AM SGT \u2014 Dow Breaches 50K Milestone, VIX Crushed -17%, Weekend Risk Rally Consolidates",
+    "commentary": "The week's cathartic relief rally culminated with Dow finally punching through 50,012 (+2.26%), breaking the psychological barrier that held firm on Friday's close, as Russell 2000 led the charge at +3.38% confirming broad risk-on participation. VIX collapsed to 18.02 (-17.2%) \u2014 its lowest since the pre-week selloff began \u2014 signaling complete capitulation in volatility as the market heads into the weekend with fear fully unwound. Crypto extended gains with BTC surging to $70,479 (+7.7%) and XRP ripping +19% on altcoin momentum, while gold held firm at $4,976 (+1.8%) and silver stabilized at $76.89 after the week's brutal $90-to-$71 roundtrip. Amazon's -7.29% post-earnings plunge on aggressive CapEx plans stood out as the week's notable casualty, but with all indices green and VIX crushed, bulls enter the weekend with the week's deleveraging firmly in the rearview.",
+    "movers": [
+      {
+        "symbol": "XRP",
+        "change": "+19.11%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+7.67%"
+      },
+      {
+        "symbol": "NVDA",
+        "change": "+7.70%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "+6.82%"
+      },
+      {
+        "symbol": "Russell 2000",
+        "change": "+3.38%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+2.26%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.90%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+1.76%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+1.75%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.36%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.24%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.19%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "-17.23%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-07T03:00+08:00",
     "title": "Saturday 3AM SGT \u2014 Weekend Consolidation: Dow Holds 50K, BTC Stable at $70K, Week's Volatility Washed Out",
     "commentary": "Weekend overnight sees markets in quiet consolidation mode after Friday's cathartic relief rally \u2014 Dow finished the week at 49,985 (+2.20%), just a whisker below the psychological 50K milestone, with S&P 500 +1.75% at 6,917 and Nasdaq +1.93% at 22,976 as all indices closed firmly green. The VIX collapse to 17.96 (-17.5%) signals complete capitulation in volatility as Thursday's panic has been fully unwound, leaving the market in a constructive posture heading into next week. Crypto holds gains in thin weekend trading with BTC stable at $69,812 (+6.8%) and ETH at $2,046 (+5.9%), while gold extended to $4,988 (+2.0%) and silver found footing at $77.29 (+0.75%) after the week's brutal $90-to-$71 roundtrip \u2014 a week of violent deleveraging ends with risk assets licking wounds but clearly off the lows.",
@@ -443,53 +502,6 @@
       {
         "symbol": "VIX",
         "change": "+12.53%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-05T22:00+08:00",
-    "title": "Thursday 10PM SGT \u2014 Silver Crashes -10.4% as Metals Bubble Pops, AMD -17%, BTC Slides Below $70K",
-    "commentary": "Silver's parabolic rally detonated spectacularly \u2014 crashing 10.36% to $75.65 from yesterday's $90 euphoria \u2014 dragging gold down 1.93% to $4,855 as the precious metals mania that defined the week reversed with brutal speed, vindicating the 'high-risk bet' warnings. AMD's -17.3% earnings-day bloodbath and Palantir's -11.6% continued slide kept Nasdaq pinned at -1.51% while the Dow diverged yet again at +0.53%, extending the value-over-growth rotation that Goldman flagged as producing winners' worst day in six years. Crypto joined the liquidation cascade with BTC plunging 7.0% to $69,525 \u2014 breaking below $70K for the first time this week \u2014 and ETH sliding 6.4% to $2,054, as risk assets broadly repriced with VIX surging 15.5% to 20.79. Oil dropped 2.76% to $63.34 amid the broad commodity unwind, while the DXY held flat at 97.70 \u2014 this isn't dollar strength killing assets, it's a pure positioning flush after an overextended week of metals euphoria and tech destruction.",
-    "movers": [
-      {
-        "symbol": "SMCI",
-        "change": "+13.79%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.53%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "+0.09%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.51%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.51%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-1.93%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-2.76%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-6.44%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-7.00%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-10.36%"
       }
     ]
   }
