@@ -1,5 +1,52 @@
 [
   {
+    "timestamp": "2026-02-06T23:00+08:00",
+    "title": "Friday 11PM SGT \u2014 Recovery Bounce as All US Indices Close Green, Gold Surges +3.5%, Silver +7.7% Snaps 4-Day Rout",
+    "commentary": "After Thursday's capitulation flush, markets staged a decisive relief rally with all three major indices closing firmly green \u2014 Dow +1.52% reclaiming 49,651, S&P 500 +1.08%, Nasdaq +0.79% \u2014 as investors bought the dip following the week's brutal tech and commodities unwind that sent VIX above 22. Precious metals snapped their multi-day bloodbath with gold surging +3.51% to $4,947 and silver ripping +7.66% to $76.26, though both remain far below Tuesday's euphoric peaks of $5K and $90 respectively \u2014 a bounce, not a resumption. Crypto found modest relief with BTC climbing 2.2% to $68,412 and ETH +3.9% to $1,989, still nursing wounds from the week's 17% drawdown as Strategy (MSTR) rallied despite the digital asset damage. Japan's Nikkei led global gains at +3.73%, while the DXY eased to 97.60 as Kevin Warsh's Fed chair nomination continued to reshape rate expectations toward a more hawkish equilibrium with two cuts still priced for 2026.",
+    "movers": [
+      {
+        "symbol": "Silver",
+        "change": "+7.66%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "+3.86%"
+      },
+      {
+        "symbol": "Nikkei",
+        "change": "+3.73%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+3.51%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+2.19%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+1.52%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+1.08%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.79%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.44%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.23%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-06T22:00+08:00",
     "title": "Friday 10PM SGT \u2014 Post-Payrolls Sell-Off, All US Indices Down 1.2%+, Gold Rebounds, VIX Spikes 7.6%",
     "commentary": "The payrolls hangover hit hard as all three major indices closed uniformly red \u2014 Nasdaq -1.59%, S&P 500 -1.23%, Dow -1.20% \u2014 with VIX surging 7.6% back above 20 as Friday's jobs data failed to calm a market already bruised by the week's tech rout and commodities unwind. Gold staged a relief rally to $4,954 (+1.33%), bouncing off Thursday's $4,821 capitulation low, though silver continued its brutal mean reversion at $75.32 (-1.81%) \u2014 now down $15 from Tuesday's $90 euphoria in four sessions. Crypto found no respite with BTC sliding to $67,450 (-2.72%) and ETH crashing through $2K to $1,955 (-4.72%), extending the week's digital asset rout as deleveraging cascaded through overleveraged positions. Europe diverged sharply with DAX +0.49% and STOXX 50 +0.67%, while Asia showed mixed signals \u2014 Nikkei +0.81% but Hang Seng -1.21% \u2014 as global markets closed the week fragmented, defensive, and bracing for more volatility ahead.",
@@ -431,45 +478,6 @@
       {
         "symbol": "ETH",
         "change": "-4.82%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-05T00:00+08:00",
-    "title": "Wednesday Close \u2014 Dow Diverges +0.69%, AMD Craters, Crypto Rebounds 5-6% as Metals Cool",
-    "commentary": "Dow diverged sharply from tech as old-economy names pushed blue chips +0.69% to 49,582 while Nasdaq bled -0.94% on AMD's post-earnings collapse \u2014 the chipmaker diving toward its worst session in years as AI capex doubts claimed another semiconductor victim. Silver cooled to $87.38 (+4.89%) from Tuesday's parabolic $90 peak and gold consolidated at $4,963 (+0.57%) after retreating from $5,000, with precious metals bulls taking profits but refusing to capitulate. Crypto staged a sharp reversal \u2014 BTC surged 5.2% to $74,064 and ETH rallied 6.6% to $2,151 \u2014 recapturing risk-off losses as digital assets found a bid precisely where metals momentum faded. DXY firmed marginally at 97.62 as VIX held 18.39 (+2.2%), reflecting a market caught between sector rotation and selective risk appetite ahead of Google earnings after the bell.",
-    "movers": [
-      {
-        "symbol": "ETH",
-        "change": "+6.59%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "+5.16%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+4.89%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "+2.18%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.69%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+0.57%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.18%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.94%"
       }
     ]
   }
