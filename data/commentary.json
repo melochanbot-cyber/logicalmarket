@@ -1,5 +1,60 @@
 [
   {
+    "timestamp": "2026-02-07T03:00+08:00",
+    "title": "Saturday 3AM SGT \u2014 Weekend Consolidation: Dow Holds 50K, BTC Stable at $70K, Week's Volatility Washed Out",
+    "commentary": "Weekend overnight sees markets in quiet consolidation mode after Friday's cathartic relief rally \u2014 Dow finished the week at 49,985 (+2.20%), just a whisker below the psychological 50K milestone, with S&P 500 +1.75% at 6,917 and Nasdaq +1.93% at 22,976 as all indices closed firmly green. The VIX collapse to 17.96 (-17.5%) signals complete capitulation in volatility as Thursday's panic has been fully unwound, leaving the market in a constructive posture heading into next week. Crypto holds gains in thin weekend trading with BTC stable at $69,812 (+6.8%) and ETH at $2,046 (+5.9%), while gold extended to $4,988 (+2.0%) and silver found footing at $77.29 (+0.75%) after the week's brutal $90-to-$71 roundtrip \u2014 a week of violent deleveraging ends with risk assets licking wounds but clearly off the lows.",
+    "movers": [
+      {
+        "symbol": "XRP",
+        "change": "+18.57%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+6.79%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "+5.90%"
+      },
+      {
+        "symbol": "Russell 2000",
+        "change": "+3.31%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+2.20%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+2.01%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.93%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+1.75%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+1.22%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.75%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.23%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "-17.49%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-07T02:00+08:00",
     "title": "Saturday 2AM SGT \u2014 Risk Rally Extends: Dow Crosses 50K Barrier, BTC Reclaims $71K, VIX Crushed -17%",
     "commentary": "The week-ending relief rally carried through Friday with all US indices closing firmly green \u2014 Dow surging +2.16% to break above the psychological 50,000 level at 49,967 (tantalizingly close), S&P 500 +1.70%, Nasdaq +1.95%, Russell 2000 leading at +3.17% as small caps caught the risk-on wave. VIX collapsed -17.4% to 17.99, completely erasing Thursday's fear spike and signaling capitulation in volatility sellers as the week's deleveraging appears fully washed out. Crypto extended gains in weekend trading with BTC pushing to $70,881 (+6.3%) firmly reclaiming the $70K handle, ETH +5.5% at $2,070, while XRP ripped +18.6% on altcoin momentum. Gold held above $4,979 (+1.8%) with oil firming at $64.19 (+1.4%), though silver lagged at -0.25% \u2014 the commodity complex stabilizing after the week's spectacular volatility as DXY eased to 97.61 and markets head into the weekend cautiously optimistic.",
@@ -435,53 +490,6 @@
       {
         "symbol": "Silver",
         "change": "-10.36%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-05T04:00+08:00",
-    "title": "Thursday 4AM SGT \u2014 Afternoon Recovery Cuts Losses, Dow +0.67% Leads as Tech Bleeds Narrow, Silver Surges +3.6%",
-    "commentary": "A late-session bid cut the worst of the tech rout as Nasdaq trimmed losses to -1.11% from midday's -1.77% trough and S&P 500 clawed back to -0.19% while the Dow extended gains to +0.67%, confirming the defensive rotation thesis with investors pouring into value, healthcare, and industrials at the expense of megacap growth \u2014 a pattern MarketWatch flagged as the defining trade of this cycle. VIX eased from 20.49 to 19.36, still elevated but no longer screaming panic, as the fear gauge's retreat from the 21-handle suggests the afternoon recovery has legs even if the underlying tech damage (Palantir -13.6%, NVIDIA bleeding) remains unresolved heading into tomorrow's payrolls. Commodities stayed hot with silver surging +3.55% to $86.25, NatGas ripping +5.13%, and oil firming +2.74% to $64.94, while copper's -3.51% crash continues to flash yellow on industrial demand \u2014 the metals complex is pricing in geopolitical premium and dollar weakness, not a broad growth impulse. Crypto stabilized modestly with BTC at $73,762 (-1.52%) and ETH at $2,182 (-1.04%), stemming the week's multi-day bleed but offering no conviction bounce as digital assets remain sidelined in the commodities-over-tech rotation.",
-    "movers": [
-      {
-        "symbol": "NatGas",
-        "change": "+5.13%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+3.55%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+2.74%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.67%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+0.54%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "+0.23%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.19%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.11%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-1.52%"
-      },
-      {
-        "symbol": "Copper",
-        "change": "-3.51%"
       }
     ]
   }
