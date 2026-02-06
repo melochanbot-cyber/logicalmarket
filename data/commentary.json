@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-02-07T00:00+08:00",
+    "title": "Saturday Midnight SGT \u2014 Week Ends on Rally Mode: Dow +1.7%, Gold $4,972, VIX Crushed -11.6%",
+    "commentary": "Markets closed the week with a decisive risk-on rally as all three major indices posted solid gains \u2014 Dow +1.72% reclaiming 49,751, S&P 500 +1.27%, Nasdaq +1.20% \u2014 with VIX cratering -11.6% to 19.24 as Friday's session erased Thursday's fear spike. Gold extended its recovery to $4,972 (+1.69%) while silver lagged at -0.67%, still nursing wounds from mid-week's $90-to-$76 collapse. Amazon's -7.96% post-earnings plunge stood out against NVIDIA's +6.17% rebound and Stellantis's brutal -23% crash on weak guidance. Bitcoin stabilized at $68,210 (+1.5%) with ETH at $1,970 (+1.5%), finding their footing after the week's 17% crypto drawdown as the DXY eased to 97.69 \u2014 a constructive weekly close that leaves bulls cautiously optimistic heading into next week.",
+    "movers": [
+      {
+        "symbol": "Russell 2000",
+        "change": "+2.27%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+1.72%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+1.69%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+1.50%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "+1.47%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+1.27%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.20%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.92%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.14%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-0.67%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "-11.64%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-06T23:00+08:00",
     "title": "Friday 11PM SGT \u2014 Recovery Bounce as All US Indices Close Green, Gold Surges +3.5%, Silver +7.7% Snaps 4-Day Rout",
     "commentary": "After Thursday's capitulation flush, markets staged a decisive relief rally with all three major indices closing firmly green \u2014 Dow +1.52% reclaiming 49,651, S&P 500 +1.08%, Nasdaq +0.79% \u2014 as investors bought the dip following the week's brutal tech and commodities unwind that sent VIX above 22. Precious metals snapped their multi-day bloodbath with gold surging +3.51% to $4,947 and silver ripping +7.66% to $76.26, though both remain far below Tuesday's euphoric peaks of $5K and $90 respectively \u2014 a bounce, not a resumption. Crypto found modest relief with BTC climbing 2.2% to $68,412 and ETH +3.9% to $1,989, still nursing wounds from the week's 17% drawdown as Strategy (MSTR) rallied despite the digital asset damage. Japan's Nikkei led global gains at +3.73%, while the DXY eased to 97.60 as Kevin Warsh's Fed chair nomination continued to reshape rate expectations toward a more hawkish equilibrium with two cuts still priced for 2026.",
@@ -431,53 +482,6 @@
       {
         "symbol": "PLTR",
         "change": "-13.62%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-05T01:00+08:00",
-    "title": "Wednesday Close \u2014 Nasdaq Bleeds -1.49%, Gold Retreats From $5K, VIX Spikes 7% as Earnings Disappoint",
-    "commentary": "The Dow-Nasdaq divergence widened to its most extreme in weeks as blue chips gained +0.59% to 44,532 while Nasdaq hemorrhaged -1.49% \u2014 AMD's post-earnings slide despite a beat, Uber's disappointing profits, and AI capex anxiety continuing to gut growth names even as Amazon and Google loom after hours. Gold retreated 1.08% to $4,882 after Tuesday's historic $5,000 breach, with precious metals bulls finally taking profits while silver held firm at $83.94 (+0.77%), suggesting the pullback is healthy consolidation rather than trend reversal. Crypto extended its losing streak with BTC sliding 3.95% to $73,568 and ETH dropping 4.82% to $2,133, still bleeding from the metals-driven capital rotation that's defined this week's tape. VIX surged 7.22% to 19.30 \u2014 back above the 19 handle \u2014 as DXY firmed 0.27% to 97.70, with the fear gauge reflecting a market where defensive sectors and commodities are winning while growth and digital assets fight for a bid.",
-    "movers": [
-      {
-        "symbol": "VIX",
-        "change": "+7.22%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.77%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.59%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "+0.27%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.02%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.47%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-1.08%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.49%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-3.95%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-4.82%"
       }
     ]
   }
