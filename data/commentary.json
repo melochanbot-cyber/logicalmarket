@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-02-07T01:00+08:00",
+    "title": "Saturday 1AM SGT \u2014 Weekend Quiet as Crypto Extends Friday's Rebound, BTC Nears $70K",
+    "commentary": "Weekend overnight trading sees crypto continuing Friday's recovery momentum with Bitcoin pushing to $69,784 (+2.0%), edging closer to reclaiming the $70K handle lost during Thursday's capitulation flush, while Ethereum firms at $2,034 (+1.4%) holding above the psychological $2K level. US markets closed the week on a constructive note \u2014 Dow +1.72% at 49,751, S&P +1.27%, Nasdaq +1.20% \u2014 with VIX crushed to 19.24 as Friday's relief rally erased Thursday's panic spike, leaving bulls cautiously optimistic heading into the new week. Gold ($4,972) and silver ($76) both found their footing after the week's spectacular volatility, though silver remains $14 below Tuesday's $90 euphoria peak \u2014 a reminder that the deleveraging is complete but the recovery has just begun.",
+    "movers": [
+      {
+        "symbol": "BTC",
+        "change": "+2.00%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "+1.44%"
+      },
+      {
+        "symbol": "Dow (Fri)",
+        "change": "+1.72%"
+      },
+      {
+        "symbol": "S&P 500 (Fri)",
+        "change": "+1.27%"
+      },
+      {
+        "symbol": "Nasdaq (Fri)",
+        "change": "+1.20%"
+      },
+      {
+        "symbol": "Gold (Fri)",
+        "change": "+1.69%"
+      },
+      {
+        "symbol": "VIX (Fri)",
+        "change": "-11.64%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-07T00:00+08:00",
     "title": "Saturday Midnight SGT \u2014 Week Ends on Rally Mode: Dow +1.7%, Gold $4,972, VIX Crushed -11.6%",
     "commentary": "Markets closed the week with a decisive risk-on rally as all three major indices posted solid gains \u2014 Dow +1.72% reclaiming 49,751, S&P 500 +1.27%, Nasdaq +1.20% \u2014 with VIX cratering -11.6% to 19.24 as Friday's session erased Thursday's fear spike. Gold extended its recovery to $4,972 (+1.69%) while silver lagged at -0.67%, still nursing wounds from mid-week's $90-to-$76 collapse. Amazon's -7.96% post-earnings plunge stood out against NVIDIA's +6.17% rebound and Stellantis's brutal -23% crash on weak guidance. Bitcoin stabilized at $68,210 (+1.5%) with ETH at $1,970 (+1.5%), finding their footing after the week's 17% crypto drawdown as the DXY eased to 97.69 \u2014 a constructive weekly close that leaves bulls cautiously optimistic heading into next week.",
@@ -435,53 +470,6 @@
       {
         "symbol": "Copper",
         "change": "-3.75%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-05T02:00+08:00",
-    "title": "Thursday Early \u2014 Palantir Implodes -13.6%, VIX Breaks 21, Nasdaq -2.13% as Tech Rout Deepens",
-    "commentary": "The tech bloodbath accelerated Wednesday as Palantir cratered -13.6% \u2014 evaporating $44B in a single session \u2014 and NVIDIA shed -4.4%, dragging Nasdaq down -2.13% to 22,760 while the Dow eked out +0.11% as the growth-to-value rotation turned vicious with healthcare surging +4.5% on Lilly's Mounjaro/Zepbound sales doubling. VIX smashed through 21 at 21.20 (+17.9%), the highest fear reading of the week, as Russell 2000 dropped -2.0% confirming the risk-off contagion has spread beyond megacap tech into small caps. Gold consolidated at $4,929 (-0.12%) below the $5K barrier while silver held $85 (+2.1%) and oil rallied +3.0% to $65.08 \u2014 the commodity complex staying bid even as copper's -3.6% crash signals industrial demand concerns. Crypto continued its multi-day slide with BTC at $72,461 (-3.3%) and ETH at $2,123 (-3.6%), now down roughly 7% from the week's highs, as the DXY firmed marginally to 97.67 (+0.24%) and digital assets found zero safe-haven bid despite equities imploding.",
-    "movers": [
-      {
-        "symbol": "VIX",
-        "change": "+17.91%"
-      },
-      {
-        "symbol": "NatGas",
-        "change": "+5.38%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+2.96%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.10%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.11%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.12%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.88%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-2.13%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-3.34%"
-      },
-      {
-        "symbol": "PLTR",
-        "change": "-13.62%"
       }
     ]
   }
