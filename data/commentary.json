@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-02-09T22:01+08:00",
+    "title": "Monday Night SGT \u2014 Small Caps Lead (+3.6%) as VIX Collapses, Crypto Diverges",
+    "commentary": "Wall Street surged Monday as risk appetite returned with a vengeance\u2014Russell 2000 led gains at +3.6%, signaling a rotation into small caps while the VIX collapsed 15%. Semiconductors outperformed with NVIDIA jumping nearly 8%, though Amazon bucked the trend, sliding 5.5%. Crypto diverged sharply from equities, with Bitcoin and Ethereum shedding 3-4% as digital assets failed to catch the risk-on bid. A weakening dollar (-0.6%) lifted precious metals, with silver outpacing gold at +2.7%.",
+    "movers": [
+      {
+        "symbol": "Russell 2000",
+        "change": "+3.60%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+2.47%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+2.18%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+1.97%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.67%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+0.87%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "change": "-0.38%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-3.62%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-4.32%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.56%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "-15.43%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-07T05:00+08:00",
     "title": "Saturday 5AM SGT \u2014 Dow Holds 50,146 Above Psychological Barrier, VIX Crushed -19%, Weekend Consolidation",
     "commentary": "Dow decisively conquered the 50K psychological level at 50,146 (+2.53%), confirming Friday's breakout as the week's relief rally extends into thin weekend trading with Russell 2000 (+3.61%) continuing to lead broad risk-on participation. VIX collapsed to 17.54 (-19.4%), its most violent weekly compression in months, signaling complete capitulation in volatility as the market heads into the weekend with fear fully purged from the tape. Crypto surged with BTC reclaiming $70,325 (+12.6%) and ETH back above $2K at $2,063 (+12.8%), while XRP ripped +22.8% leading the altcoin charge \u2014 the week's deleveraging cascade now firmly in the rearview as gold steadied at $4,965 (+1.6%) and DXY eased to 97.63.",
@@ -459,57 +510,6 @@
       {
         "symbol": "VIX",
         "change": "+10.61%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-06T00:00+08:00",
-    "title": "Friday Midnight SGT \u2014 Silver Implodes -15%, BTC Crashes to $67K, VIX Surges Past 22 as Capitulation Cascade Accelerates",
-    "commentary": "The deleveraging cascade that began with silver's parabolic pop morphed into full-blown capitulation Thursday \u2014 silver cratered -15% to $71.74, erasing nearly $20 from Tuesday's $90 euphoria in just two sessions, while gold shed -2.61% to $4,821 and oil dropped -3.50% to $62.86 as the entire commodity complex buckled under forced liquidation. Bitcoin crashed through $67K (-9.1%), its lowest since November 2024, with ETH mirroring the carnage at $1,956 (-9.0%) as crypto's correlation to risk assets proved inescapable \u2014 MarketWatch now openly questioning whether crypto faces a full market reset. All three major indices closed deep red \u2014 Nasdaq -1.83%, S&P -1.46%, Dow -1.30% \u2014 with VIX rocketing +18.6% to 22.12, its highest level of the week, as only healthcare (+3.7%) and consumer defensives (+0.5%) found any bid in a tape where Friday's payrolls report now arrives into a market already trading with panic-level fear and zero safe havens.",
-    "movers": [
-      {
-        "symbol": "DXY",
-        "change": "+0.28%"
-      },
-      {
-        "symbol": "Healthcare",
-        "change": "+3.68%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-1.30%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.46%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.83%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-2.61%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-3.50%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-9.05%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-9.05%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-15.00%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "+18.62%"
       }
     ]
   }
