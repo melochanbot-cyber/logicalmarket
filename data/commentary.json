@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-02-09T23:00+08:00",
+    "title": "Monday 11PM SGT \u2014 Silver Surges 5.7% as Dollar Slides, Asia Roars While Crypto Retreats",
+    "commentary": "Silver extends its rebound with a monster +5.67% gain, pushing gold up 1.61% as the dollar index slides 0.72% to 96.93 \u2014 precious metals clearly benefiting from USD weakness. US equities tread water in late Monday trade with Nasdaq barely green (+0.06%) while Dow sheds 0.36%, a muted consolidation after last week's relief rally. Asia is on fire \u2014 Nikkei surges 3.89%, KOSPI jumps 4.10%, Hang Seng adds 1.76% \u2014 with tech giant NVIDIA up 3.32%. Crypto diverges from the risk-on mood, with Bitcoin down 2.70% to $69,275 and ETH sliding 3.72% to $2,044 as digital assets fail to catch the precious metals bid.",
+    "movers": [
+      {
+        "symbol": "Silver",
+        "change": "+5.67%"
+      },
+      {
+        "symbol": "Nikkei",
+        "change": "+3.89%"
+      },
+      {
+        "symbol": "KOSPI",
+        "change": "+4.10%"
+      },
+      {
+        "symbol": "NVDA",
+        "change": "+3.32%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "+2.20%"
+      },
+      {
+        "symbol": "Hang Seng",
+        "change": "+1.76%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+1.61%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "change": "+0.88%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.06%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.07%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "-0.36%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.72%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-2.70%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-3.72%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-09T22:01+08:00",
     "title": "Monday Night SGT \u2014 Small Caps Lead (+3.6%) as VIX Collapses, Crypto Diverges",
     "commentary": "Wall Street surged Monday as risk appetite returned with a vengeance\u2014Russell 2000 led gains at +3.6%, signaling a rotation into small caps while the VIX collapsed 15%. Semiconductors outperformed with NVIDIA jumping nearly 8%, though Amazon bucked the trend, sliding 5.5%. Crypto diverged sharply from equities, with Bitcoin and Ethereum shedding 3-4% as digital assets failed to catch the risk-on bid. A weakening dollar (-0.6%) lifted precious metals, with silver outpacing gold at +2.7%.",
@@ -459,57 +522,6 @@
       {
         "symbol": "VIX",
         "change": "+7.61%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-06T01:00+08:00",
-    "title": "Friday 1AM SGT \u2014 Sell-Off Broadens as Silver Crashes -10%, BTC Hits 15-Month Low $68K, All Indices Red",
-    "commentary": "The capitulation cascade broadened into a full market rout Thursday as all three major indices traded uniformly red \u2014 S&P 500 -0.68%, Dow -0.77%, Nasdaq -0.66% \u2014 abandoning this week's Dow-vs-Nasdaq divergence in favor of indiscriminate selling, with VIX surging 10.6% past 20.6 as healthcare (+3.7%) remained the sole sector finding a bid. Silver's spectacular unwind continued with a -9.8% plunge to $76.12, now down $14 from Tuesday's $90 euphoria, dragging gold -1.03% to $4,900 and oil -2.69% to $63.39 as the entire commodity complex buckled under forced liquidation and rising jobless claims stoked labor market fears. Bitcoin crashed to $68,146 (-7.3%), its lowest since October 2024 with Stifel now warning of a potential drop to $38K, while ETH broke below $2K at $1,995 (-6.2%) \u2014 the crypto rout feeding on itself as OpenAI's Frontier agent platform launch added fresh pressure to software names and risk assets found zero safe haven ahead of Friday's critical payrolls report.",
-    "movers": [
-      {
-        "symbol": "Healthcare",
-        "change": "+3.70%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "+0.20%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.66%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.68%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-0.77%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-1.03%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-2.69%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-6.20%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-7.31%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-9.81%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "+10.61%"
       }
     ]
   }
