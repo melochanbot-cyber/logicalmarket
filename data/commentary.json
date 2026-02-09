@@ -1,8 +1,71 @@
 [
   {
+    "timestamp": "2026-02-10T01:00+08:00",
+    "title": "Tuesday 1AM SGT — Silver Explodes +8.2%, Gold Clears $5,100 as Dollar Slides; Crypto Flat",
+    "commentary": "Silver is on fire — the white metal ripped +8.19% to $83.19, its strongest single-session gain in weeks, as the dollar index slid 0.65% to 97.00 and precious metals continue their remarkable run with gold clearing $5,100 (+2.42%). US equities held Monday's gains into Tuesday overnight with Nasdaq +1.15%, S&P 500 +0.65%, and Dow barely budging at 50,136 (+0.04%), while VIX eased to 17.15 (-3.43%) keeping volatility contained. Asian markets roared — Nikkei +3.89%, KOSPI +4.10%, Hang Seng +1.76% — extending last week's relief rally into the new week. Crypto remains sidelined with BTC flat at $70,051 (-0.47%) and ETH at $2,090 (+0.55%), unable to catch the precious metals momentum as digital assets continue decoupling from traditional risk-on trades.",
+    "movers": [
+      {
+        "symbol": "Silver",
+        "change": "+8.19%"
+      },
+      {
+        "symbol": "KOSPI",
+        "change": "+4.10%"
+      },
+      {
+        "symbol": "Nikkei",
+        "change": "+3.89%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+2.42%"
+      },
+      {
+        "symbol": "Hang Seng",
+        "change": "+1.76%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "change": "+1.70%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.15%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.65%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "+0.55%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.04%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-0.47%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.65%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "-3.43%"
+      },
+      {
+        "symbol": "NatGas",
+        "change": "-7.10%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-10T00:00+08:00",
-    "title": "Tuesday Midnight SGT \u2014 Gold Breaches $5K, Silver Rips +4.3%, Crypto Retreats as Precious Metals Shine",
-    "commentary": "Gold punched through the $5,000 barrier at $5,083 (+2.09%), with silver exploding +4.28% as precious metals continue their relentless march higher \u2014 the gold/silver sector (XAU) surging +4.10% signals institutional rotation into hard assets. US equities held gains with S&P 500 +0.48%, Nasdaq +0.57%, and Dow crossing 50,176 (+0.12%) as the VIX eased to 17.23 (-2.98%), sustaining last week's risk-on mood despite software sector pressure from AI disruption fears. Crypto diverged sharply with Bitcoin sliding to $169,495 (-2.33%) and ETH down to $22,059 (-2.23%), unable to catch the precious metals bid as digital assets decouple from traditional risk sentiment.",
+    "title": "Tuesday Midnight SGT — Gold Breaches $5K, Silver Rips +4.3%, Crypto Retreats as Precious Metals Shine",
+    "commentary": "Gold punched through the $5,000 barrier at $5,083 (+2.09%), with silver exploding +4.28% as precious metals continue their relentless march higher — the gold/silver sector (XAU) surging +4.10% signals institutional rotation into hard assets. US equities held gains with S&P 500 +0.48%, Nasdaq +0.57%, and Dow crossing 50,176 (+0.12%) as the VIX eased to 17.23 (-2.98%), sustaining last week's risk-on mood despite software sector pressure from AI disruption fears. Crypto diverged sharply with Bitcoin sliding to $169,495 (-2.33%) and ETH down to $22,059 (-2.23%), unable to catch the precious metals bid as digital assets decouple from traditional risk sentiment.",
     "movers": [
       {
         "symbol": "Silver",
@@ -52,8 +115,8 @@
   },
   {
     "timestamp": "2026-02-09T23:00+08:00",
-    "title": "Monday 11PM SGT \u2014 Silver Surges 5.7% as Dollar Slides, Asia Roars While Crypto Retreats",
-    "commentary": "Silver extends its rebound with a monster +5.67% gain, pushing gold up 1.61% as the dollar index slides 0.72% to 96.93 \u2014 precious metals clearly benefiting from USD weakness. US equities tread water in late Monday trade with Nasdaq barely green (+0.06%) while Dow sheds 0.36%, a muted consolidation after last week's relief rally. Asia is on fire \u2014 Nikkei surges 3.89%, KOSPI jumps 4.10%, Hang Seng adds 1.76% \u2014 with tech giant NVIDIA up 3.32%. Crypto diverges from the risk-on mood, with Bitcoin down 2.70% to $69,275 and ETH sliding 3.72% to $2,044 as digital assets fail to catch the precious metals bid.",
+    "title": "Monday 11PM SGT — Silver Surges 5.7% as Dollar Slides, Asia Roars While Crypto Retreats",
+    "commentary": "Silver extends its rebound with a monster +5.67% gain, pushing gold up 1.61% as the dollar index slides 0.72% to 96.93 — precious metals clearly benefiting from USD weakness. US equities tread water in late Monday trade with Nasdaq barely green (+0.06%) while Dow sheds 0.36%, a muted consolidation after last week's relief rally. Asia is on fire — Nikkei surges 3.89%, KOSPI jumps 4.10%, Hang Seng adds 1.76% — with tech giant NVIDIA up 3.32%. Crypto diverges from the risk-on mood, with Bitcoin down 2.70% to $69,275 and ETH sliding 3.72% to $2,044 as digital assets fail to catch the precious metals bid.",
     "movers": [
       {
         "symbol": "Silver",
@@ -115,8 +178,8 @@
   },
   {
     "timestamp": "2026-02-09T22:01+08:00",
-    "title": "Monday Night SGT \u2014 Small Caps Lead (+3.6%) as VIX Collapses, Crypto Diverges",
-    "commentary": "Wall Street surged Monday as risk appetite returned with a vengeance\u2014Russell 2000 led gains at +3.6%, signaling a rotation into small caps while the VIX collapsed 15%. Semiconductors outperformed with NVIDIA jumping nearly 8%, though Amazon bucked the trend, sliding 5.5%. Crypto diverged sharply from equities, with Bitcoin and Ethereum shedding 3-4% as digital assets failed to catch the risk-on bid. A weakening dollar (-0.6%) lifted precious metals, with silver outpacing gold at +2.7%.",
+    "title": "Monday Night SGT — Small Caps Lead (+3.6%) as VIX Collapses, Crypto Diverges",
+    "commentary": "Wall Street surged Monday as risk appetite returned with a vengeance—Russell 2000 led gains at +3.6%, signaling a rotation into small caps while the VIX collapsed 15%. Semiconductors outperformed with NVIDIA jumping nearly 8%, though Amazon bucked the trend, sliding 5.5%. Crypto diverged sharply from equities, with Bitcoin and Ethereum shedding 3-4% as digital assets failed to catch the risk-on bid. A weakening dollar (-0.6%) lifted precious metals, with silver outpacing gold at +2.7%.",
     "movers": [
       {
         "symbol": "Russell 2000",
@@ -166,8 +229,8 @@
   },
   {
     "timestamp": "2026-02-07T05:00+08:00",
-    "title": "Saturday 5AM SGT \u2014 Dow Holds 50,146 Above Psychological Barrier, VIX Crushed -19%, Weekend Consolidation",
-    "commentary": "Dow decisively conquered the 50K psychological level at 50,146 (+2.53%), confirming Friday's breakout as the week's relief rally extends into thin weekend trading with Russell 2000 (+3.61%) continuing to lead broad risk-on participation. VIX collapsed to 17.54 (-19.4%), its most violent weekly compression in months, signaling complete capitulation in volatility as the market heads into the weekend with fear fully purged from the tape. Crypto surged with BTC reclaiming $70,325 (+12.6%) and ETH back above $2K at $2,063 (+12.8%), while XRP ripped +22.8% leading the altcoin charge \u2014 the week's deleveraging cascade now firmly in the rearview as gold steadied at $4,965 (+1.6%) and DXY eased to 97.63.",
+    "title": "Saturday 5AM SGT — Dow Holds 50,146 Above Psychological Barrier, VIX Crushed -19%, Weekend Consolidation",
+    "commentary": "Dow decisively conquered the 50K psychological level at 50,146 (+2.53%), confirming Friday's breakout as the week's relief rally extends into thin weekend trading with Russell 2000 (+3.61%) continuing to lead broad risk-on participation. VIX collapsed to 17.54 (-19.4%), its most violent weekly compression in months, signaling complete capitulation in volatility as the market heads into the weekend with fear fully purged from the tape. Crypto surged with BTC reclaiming $70,325 (+12.6%) and ETH back above $2K at $2,063 (+12.8%), while XRP ripped +22.8% leading the altcoin charge — the week's deleveraging cascade now firmly in the rearview as gold steadied at $4,965 (+1.6%) and DXY eased to 97.63.",
     "movers": [
       {
         "symbol": "XRP",
@@ -221,8 +284,8 @@
   },
   {
     "timestamp": "2026-02-07T04:00+08:00",
-    "title": "Saturday 4AM SGT \u2014 Dow Breaches 50K Milestone, VIX Crushed -17%, Weekend Risk Rally Consolidates",
-    "commentary": "The week's cathartic relief rally culminated with Dow finally punching through 50,012 (+2.26%), breaking the psychological barrier that held firm on Friday's close, as Russell 2000 led the charge at +3.38% confirming broad risk-on participation. VIX collapsed to 18.02 (-17.2%) \u2014 its lowest since the pre-week selloff began \u2014 signaling complete capitulation in volatility as the market heads into the weekend with fear fully unwound. Crypto extended gains with BTC surging to $70,479 (+7.7%) and XRP ripping +19% on altcoin momentum, while gold held firm at $4,976 (+1.8%) and silver stabilized at $76.89 after the week's brutal $90-to-$71 roundtrip. Amazon's -7.29% post-earnings plunge on aggressive CapEx plans stood out as the week's notable casualty, but with all indices green and VIX crushed, bulls enter the weekend with the week's deleveraging firmly in the rearview.",
+    "title": "Saturday 4AM SGT — Dow Breaches 50K Milestone, VIX Crushed -17%, Weekend Risk Rally Consolidates",
+    "commentary": "The week's cathartic relief rally culminated with Dow finally punching through 50,012 (+2.26%), breaking the psychological barrier that held firm on Friday's close, as Russell 2000 led the charge at +3.38% confirming broad risk-on participation. VIX collapsed to 18.02 (-17.2%) — its lowest since the pre-week selloff began — signaling complete capitulation in volatility as the market heads into the weekend with fear fully unwound. Crypto extended gains with BTC surging to $70,479 (+7.7%) and XRP ripping +19% on altcoin momentum, while gold held firm at $4,976 (+1.8%) and silver stabilized at $76.89 after the week's brutal $90-to-$71 roundtrip. Amazon's -7.29% post-earnings plunge on aggressive CapEx plans stood out as the week's notable casualty, but with all indices green and VIX crushed, bulls enter the weekend with the week's deleveraging firmly in the rearview.",
     "movers": [
       {
         "symbol": "XRP",
@@ -280,8 +343,8 @@
   },
   {
     "timestamp": "2026-02-07T03:00+08:00",
-    "title": "Saturday 3AM SGT \u2014 Weekend Consolidation: Dow Holds 50K, BTC Stable at $70K, Week's Volatility Washed Out",
-    "commentary": "Weekend overnight sees markets in quiet consolidation mode after Friday's cathartic relief rally \u2014 Dow finished the week at 49,985 (+2.20%), just a whisker below the psychological 50K milestone, with S&P 500 +1.75% at 6,917 and Nasdaq +1.93% at 22,976 as all indices closed firmly green. The VIX collapse to 17.96 (-17.5%) signals complete capitulation in volatility as Thursday's panic has been fully unwound, leaving the market in a constructive posture heading into next week. Crypto holds gains in thin weekend trading with BTC stable at $69,812 (+6.8%) and ETH at $2,046 (+5.9%), while gold extended to $4,988 (+2.0%) and silver found footing at $77.29 (+0.75%) after the week's brutal $90-to-$71 roundtrip \u2014 a week of violent deleveraging ends with risk assets licking wounds but clearly off the lows.",
+    "title": "Saturday 3AM SGT — Weekend Consolidation: Dow Holds 50K, BTC Stable at $70K, Week's Volatility Washed Out",
+    "commentary": "Weekend overnight sees markets in quiet consolidation mode after Friday's cathartic relief rally — Dow finished the week at 49,985 (+2.20%), just a whisker below the psychological 50K milestone, with S&P 500 +1.75% at 6,917 and Nasdaq +1.93% at 22,976 as all indices closed firmly green. The VIX collapse to 17.96 (-17.5%) signals complete capitulation in volatility as Thursday's panic has been fully unwound, leaving the market in a constructive posture heading into next week. Crypto holds gains in thin weekend trading with BTC stable at $69,812 (+6.8%) and ETH at $2,046 (+5.9%), while gold extended to $4,988 (+2.0%) and silver found footing at $77.29 (+0.75%) after the week's brutal $90-to-$71 roundtrip — a week of violent deleveraging ends with risk assets licking wounds but clearly off the lows.",
     "movers": [
       {
         "symbol": "XRP",
@@ -335,8 +398,8 @@
   },
   {
     "timestamp": "2026-02-07T02:00+08:00",
-    "title": "Saturday 2AM SGT \u2014 Risk Rally Extends: Dow Crosses 50K Barrier, BTC Reclaims $71K, VIX Crushed -17%",
-    "commentary": "The week-ending relief rally carried through Friday with all US indices closing firmly green \u2014 Dow surging +2.16% to break above the psychological 50,000 level at 49,967 (tantalizingly close), S&P 500 +1.70%, Nasdaq +1.95%, Russell 2000 leading at +3.17% as small caps caught the risk-on wave. VIX collapsed -17.4% to 17.99, completely erasing Thursday's fear spike and signaling capitulation in volatility sellers as the week's deleveraging appears fully washed out. Crypto extended gains in weekend trading with BTC pushing to $70,881 (+6.3%) firmly reclaiming the $70K handle, ETH +5.5% at $2,070, while XRP ripped +18.6% on altcoin momentum. Gold held above $4,979 (+1.8%) with oil firming at $64.19 (+1.4%), though silver lagged at -0.25% \u2014 the commodity complex stabilizing after the week's spectacular volatility as DXY eased to 97.61 and markets head into the weekend cautiously optimistic.",
+    "title": "Saturday 2AM SGT — Risk Rally Extends: Dow Crosses 50K Barrier, BTC Reclaims $71K, VIX Crushed -17%",
+    "commentary": "The week-ending relief rally carried through Friday with all US indices closing firmly green — Dow surging +2.16% to break above the psychological 50,000 level at 49,967 (tantalizingly close), S&P 500 +1.70%, Nasdaq +1.95%, Russell 2000 leading at +3.17% as small caps caught the risk-on wave. VIX collapsed -17.4% to 17.99, completely erasing Thursday's fear spike and signaling capitulation in volatility sellers as the week's deleveraging appears fully washed out. Crypto extended gains in weekend trading with BTC pushing to $70,881 (+6.3%) firmly reclaiming the $70K handle, ETH +5.5% at $2,070, while XRP ripped +18.6% on altcoin momentum. Gold held above $4,979 (+1.8%) with oil firming at $64.19 (+1.4%), though silver lagged at -0.25% — the commodity complex stabilizing after the week's spectacular volatility as DXY eased to 97.61 and markets head into the weekend cautiously optimistic.",
     "movers": [
       {
         "symbol": "XRP",
@@ -394,8 +457,8 @@
   },
   {
     "timestamp": "2026-02-07T01:00+08:00",
-    "title": "Saturday 1AM SGT \u2014 Weekend Quiet as Crypto Extends Friday's Rebound, BTC Nears $70K",
-    "commentary": "Weekend overnight trading sees crypto continuing Friday's recovery momentum with Bitcoin pushing to $69,784 (+2.0%), edging closer to reclaiming the $70K handle lost during Thursday's capitulation flush, while Ethereum firms at $2,034 (+1.4%) holding above the psychological $2K level. US markets closed the week on a constructive note \u2014 Dow +1.72% at 49,751, S&P +1.27%, Nasdaq +1.20% \u2014 with VIX crushed to 19.24 as Friday's relief rally erased Thursday's panic spike, leaving bulls cautiously optimistic heading into the new week. Gold ($4,972) and silver ($76) both found their footing after the week's spectacular volatility, though silver remains $14 below Tuesday's $90 euphoria peak \u2014 a reminder that the deleveraging is complete but the recovery has just begun.",
+    "title": "Saturday 1AM SGT — Weekend Quiet as Crypto Extends Friday's Rebound, BTC Nears $70K",
+    "commentary": "Weekend overnight trading sees crypto continuing Friday's recovery momentum with Bitcoin pushing to $69,784 (+2.0%), edging closer to reclaiming the $70K handle lost during Thursday's capitulation flush, while Ethereum firms at $2,034 (+1.4%) holding above the psychological $2K level. US markets closed the week on a constructive note — Dow +1.72% at 49,751, S&P +1.27%, Nasdaq +1.20% — with VIX crushed to 19.24 as Friday's relief rally erased Thursday's panic spike, leaving bulls cautiously optimistic heading into the new week. Gold ($4,972) and silver ($76) both found their footing after the week's spectacular volatility, though silver remains $14 below Tuesday's $90 euphoria peak — a reminder that the deleveraging is complete but the recovery has just begun.",
     "movers": [
       {
         "symbol": "BTC",
@@ -429,8 +492,8 @@
   },
   {
     "timestamp": "2026-02-07T00:00+08:00",
-    "title": "Saturday Midnight SGT \u2014 Week Ends on Rally Mode: Dow +1.7%, Gold $4,972, VIX Crushed -11.6%",
-    "commentary": "Markets closed the week with a decisive risk-on rally as all three major indices posted solid gains \u2014 Dow +1.72% reclaiming 49,751, S&P 500 +1.27%, Nasdaq +1.20% \u2014 with VIX cratering -11.6% to 19.24 as Friday's session erased Thursday's fear spike. Gold extended its recovery to $4,972 (+1.69%) while silver lagged at -0.67%, still nursing wounds from mid-week's $90-to-$76 collapse. Amazon's -7.96% post-earnings plunge stood out against NVIDIA's +6.17% rebound and Stellantis's brutal -23% crash on weak guidance. Bitcoin stabilized at $68,210 (+1.5%) with ETH at $1,970 (+1.5%), finding their footing after the week's 17% crypto drawdown as the DXY eased to 97.69 \u2014 a constructive weekly close that leaves bulls cautiously optimistic heading into next week.",
+    "title": "Saturday Midnight SGT — Week Ends on Rally Mode: Dow +1.7%, Gold $4,972, VIX Crushed -11.6%",
+    "commentary": "Markets closed the week with a decisive risk-on rally as all three major indices posted solid gains — Dow +1.72% reclaiming 49,751, S&P 500 +1.27%, Nasdaq +1.20% — with VIX cratering -11.6% to 19.24 as Friday's session erased Thursday's fear spike. Gold extended its recovery to $4,972 (+1.69%) while silver lagged at -0.67%, still nursing wounds from mid-week's $90-to-$76 collapse. Amazon's -7.96% post-earnings plunge stood out against NVIDIA's +6.17% rebound and Stellantis's brutal -23% crash on weak guidance. Bitcoin stabilized at $68,210 (+1.5%) with ETH at $1,970 (+1.5%), finding their footing after the week's 17% crypto drawdown as the DXY eased to 97.69 — a constructive weekly close that leaves bulls cautiously optimistic heading into next week.",
     "movers": [
       {
         "symbol": "Russell 2000",
@@ -475,53 +538,6 @@
       {
         "symbol": "VIX",
         "change": "-11.64%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-06T23:00+08:00",
-    "title": "Friday 11PM SGT \u2014 Recovery Bounce as All US Indices Close Green, Gold Surges +3.5%, Silver +7.7% Snaps 4-Day Rout",
-    "commentary": "After Thursday's capitulation flush, markets staged a decisive relief rally with all three major indices closing firmly green \u2014 Dow +1.52% reclaiming 49,651, S&P 500 +1.08%, Nasdaq +0.79% \u2014 as investors bought the dip following the week's brutal tech and commodities unwind that sent VIX above 22. Precious metals snapped their multi-day bloodbath with gold surging +3.51% to $4,947 and silver ripping +7.66% to $76.26, though both remain far below Tuesday's euphoric peaks of $5K and $90 respectively \u2014 a bounce, not a resumption. Crypto found modest relief with BTC climbing 2.2% to $68,412 and ETH +3.9% to $1,989, still nursing wounds from the week's 17% drawdown as Strategy (MSTR) rallied despite the digital asset damage. Japan's Nikkei led global gains at +3.73%, while the DXY eased to 97.60 as Kevin Warsh's Fed chair nomination continued to reshape rate expectations toward a more hawkish equilibrium with two cuts still priced for 2026.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+7.66%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "+3.86%"
-      },
-      {
-        "symbol": "Nikkei",
-        "change": "+3.73%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+3.51%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "+2.19%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+1.52%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+1.08%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.79%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.44%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.23%"
       }
     ]
   }
