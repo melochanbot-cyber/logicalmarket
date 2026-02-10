@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-02-11T00:00+08:00",
+    "title": "Wednesday Midnight SGT \u2014 Silver Gives Back Parabolic Gains, Crypto Slides Ahead of CPI",
+    "commentary": "Silver's explosive rally hit a wall \u2014 the white metal dropped -1.87% to $80.69, retracing a chunk of its +8% parabolic move earlier this week as profit-taking accelerated before Wednesday's CPI print. Gold followed suit, slipping -0.84% to $5,037 as precious metals cooled from their dollar-weakness-fueled highs. US equities tread water with Dow +0.41% at 50,343, S&P 500 +0.20%, and Nasdaq +0.14% as markets await the inflation data that could reshape rate expectations. Crypto continues bleeding with ETH down -2.08% to $2,020 and BTC -0.64% at $69,109 \u2014 digital assets still unable to catch a bid as the pre-CPI risk-off trade dominates. VIX flat at 17.38, suggesting traders are cautious but not panicking into the data release.",
+    "movers": [
+      {
+        "symbol": "Nikkei",
+        "change": "+2.28%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.41%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.20%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "change": "+0.16%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.14%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "+0.12%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.03%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-0.64%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.84%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-1.87%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-2.08%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-10T23:00+08:00",
     "title": "Tuesday 11PM SGT \u2014 Dow Extends Above 50K as Retail Weakness Surfaces, Crypto Bleeds",
     "commentary": "Dow pushed higher to 50,460 (+0.65%) led by AmEx and Disney as consumer discretionary caught a bid, while Nasdaq slipped -0.15% as megacap tech took a breather after Monday's run. Retail sales data showed holiday-season weakness as tariff uncertainty reshuffled American buying habits \u2014 macro concerns meeting market resilience. Silver gave back more of its meteoric gains (-0.30% at $82) with gold flat at $5,080, while crypto continued bleeding with BTC -1.39% to $68,316 and ETH -1.69% to $2,008 \u2014 digital assets still decoupled and drifting lower ahead of Wednesday's CPI print. VIX crept up +1.38% to 17.60 as volatility inches back before the inflation data drop.",
@@ -443,57 +494,6 @@
       {
         "symbol": "ETH",
         "change": "-3.72%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-09T22:01+08:00",
-    "title": "Monday Night SGT \u2014 Small Caps Lead (+3.6%) as VIX Collapses, Crypto Diverges",
-    "commentary": "Wall Street surged Monday as risk appetite returned with a vengeance\u2014Russell 2000 led gains at +3.6%, signaling a rotation into small caps while the VIX collapsed 15%. Semiconductors outperformed with NVIDIA jumping nearly 8%, though Amazon bucked the trend, sliding 5.5%. Crypto diverged sharply from equities, with Bitcoin and Ethereum shedding 3-4% as digital assets failed to catch the risk-on bid. A weakening dollar (-0.6%) lifted precious metals, with silver outpacing gold at +2.7%.",
-    "movers": [
-      {
-        "symbol": "Russell 2000",
-        "change": "+3.60%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+2.47%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+2.18%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+1.97%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.67%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+0.87%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "change": "-0.38%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-3.62%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-4.32%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.56%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-15.43%"
       }
     ]
   }
