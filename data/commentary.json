@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-02-10T22:00+08:00",
+    "title": "Tuesday 10PM SGT \u2014 Precious Metals Give Back Morning Gains, Nikkei Surges +2.3%",
+    "commentary": "Precious metals retreated from their explosive morning highs \u2014 silver now down -0.72% at $81.64 after earlier touching +8.75%, gold slipping -0.13% to $5,073 as profit-taking hit the dollar weakness trade. US equities held gains with Nasdaq +0.90%, S&P 500 +0.47%, and Dow flat at 50,136 (+0.04%) above the 50K milestone, while VIX edged up to 17.64 but remains subdued. Nikkei was the day's standout, surging +2.28% to 57,650 as yen weakness (+1.4% JPY Index) fueled export-heavy stocks. Crypto continues drifting sideways with BTC at $68,974 (+0.56%) and ETH $2,021 flat, still decoupled from equities as markets await Wednesday's CPI print.",
+    "movers": [
+      {
+        "symbol": "Nikkei",
+        "change": "+2.28%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.90%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+0.56%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.47%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "change": "+0.37%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.04%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "+0.04%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-0.10%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.13%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "-0.68%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-0.72%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-10T05:00+08:00",
     "title": "Tuesday 5AM SGT \u2014 Silver Rips +8.75% in Parabolic Move, Gold Holds $5,100 as Dollar Weakness Intensifies",
     "commentary": "Silver extends its explosive rally to +8.75% at $83.62, its best session in weeks, as precious metals continue to feast on persistent dollar weakness \u2014 gold firm at $5,104 (+2.5%) with dip-buyers aggressively defending the $5K psychological floor. US equities consolidated Monday's gains with S&P 500 +0.48%, Nasdaq +0.91%, and Dow flat at 50,144 (+0.06%) above the 50K milestone, while VIX eased to 17.36 (-2.3%) keeping volatility contained ahead of key CPI data this week. Oil edged higher to $64.23 (+1.1%) as US-Iran Hormuz tensions simmer with ships warned to avoid Iranian waters. Crypto flat-lining with BTC unchanged at $70,741 and ETH +1.1% at $2,126 \u2014 digital assets still decoupled from the precious metals frenzy as inflation hedges dominate the narrative.",
@@ -451,65 +502,6 @@
       {
         "symbol": "VIX",
         "change": "-19.43%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-07T04:00+08:00",
-    "title": "Saturday 4AM SGT \u2014 Dow Breaches 50K Milestone, VIX Crushed -17%, Weekend Risk Rally Consolidates",
-    "commentary": "The week's cathartic relief rally culminated with Dow finally punching through 50,012 (+2.26%), breaking the psychological barrier that held firm on Friday's close, as Russell 2000 led the charge at +3.38% confirming broad risk-on participation. VIX collapsed to 18.02 (-17.2%) \u2014 its lowest since the pre-week selloff began \u2014 signaling complete capitulation in volatility as the market heads into the weekend with fear fully unwound. Crypto extended gains with BTC surging to $70,479 (+7.7%) and XRP ripping +19% on altcoin momentum, while gold held firm at $4,976 (+1.8%) and silver stabilized at $76.89 after the week's brutal $90-to-$71 roundtrip. Amazon's -7.29% post-earnings plunge on aggressive CapEx plans stood out as the week's notable casualty, but with all indices green and VIX crushed, bulls enter the weekend with the week's deleveraging firmly in the rearview.",
-    "movers": [
-      {
-        "symbol": "XRP",
-        "change": "+19.11%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "+7.67%"
-      },
-      {
-        "symbol": "NVDA",
-        "change": "+7.70%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "+6.82%"
-      },
-      {
-        "symbol": "Russell 2000",
-        "change": "+3.38%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+2.26%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+1.90%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+1.76%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+1.75%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.36%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.24%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.19%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-17.23%"
       }
     ]
   }
