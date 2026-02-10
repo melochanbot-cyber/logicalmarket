@@ -1,5 +1,60 @@
 [
   {
+    "timestamp": "2026-02-11T01:00+08:00",
+    "title": "Wednesday 1AM SGT \u2014 Silver's Slide Deepens, ETH Tanks -3.4% as CPI Looms",
+    "commentary": "Silver's correction accelerated to -2.52% at $80.16, shedding nearly $4 from this week's highs as precious metals profit-taking intensifies ahead of today's CPI print \u2014 gold followed lower at -0.63% to $5,047. Ethereum took the biggest hit of the night, dumping -3.37% to $2,023 while BTC held relatively better at -0.97% ($69,317), with crypto now firmly in risk-off mode as inflation data anxiety grips markets. US equities barely moved \u2014 Dow +0.57% to 50,420, S&P 500 flat at 6,969, Nasdaq -0.09% \u2014 as traders refused to commit ahead of the CPI catalyst. Nikkei extended its rally (+2.28% to 57,650) bucking the cautious global tone, while VIX crept up +0.46% to 17.44 signaling nervousness without panic.",
+    "movers": [
+      {
+        "symbol": "Nikkei",
+        "change": "+2.28%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.57%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "+0.46%"
+      },
+      {
+        "symbol": "Russell",
+        "change": "+0.37%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.06%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.08%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.09%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "change": "-0.61%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.63%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-0.97%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-2.52%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-3.37%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-11T00:00+08:00",
     "title": "Wednesday Midnight SGT \u2014 Silver Gives Back Parabolic Gains, Crypto Slides Ahead of CPI",
     "commentary": "Silver's explosive rally hit a wall \u2014 the white metal dropped -1.87% to $80.69, retracing a chunk of its +8% parabolic move earlier this week as profit-taking accelerated before Wednesday's CPI print. Gold followed suit, slipping -0.84% to $5,037 as precious metals cooled from their dollar-weakness-fueled highs. US equities tread water with Dow +0.41% at 50,343, S&P 500 +0.20%, and Nasdaq +0.14% as markets await the inflation data that could reshape rate expectations. Crypto continues bleeding with ETH down -2.08% to $2,020 and BTC -0.64% at $69,109 \u2014 digital assets still unable to catch a bid as the pre-CPI risk-off trade dominates. VIX flat at 17.38, suggesting traders are cautious but not panicking into the data release.",
@@ -431,69 +486,6 @@
       {
         "symbol": "VIX",
         "change": "-2.98%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-09T23:00+08:00",
-    "title": "Monday 11PM SGT \u2014 Silver Surges 5.7% as Dollar Slides, Asia Roars While Crypto Retreats",
-    "commentary": "Silver extends its rebound with a monster +5.67% gain, pushing gold up 1.61% as the dollar index slides 0.72% to 96.93 \u2014 precious metals clearly benefiting from USD weakness. US equities tread water in late Monday trade with Nasdaq barely green (+0.06%) while Dow sheds 0.36%, a muted consolidation after last week's relief rally. Asia is on fire \u2014 Nikkei surges 3.89%, KOSPI jumps 4.10%, Hang Seng adds 1.76% \u2014 with tech giant NVIDIA up 3.32%. Crypto diverges from the risk-on mood, with Bitcoin down 2.70% to $69,275 and ETH sliding 3.72% to $2,044 as digital assets fail to catch the precious metals bid.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+5.67%"
-      },
-      {
-        "symbol": "Nikkei",
-        "change": "+3.89%"
-      },
-      {
-        "symbol": "KOSPI",
-        "change": "+4.10%"
-      },
-      {
-        "symbol": "NVDA",
-        "change": "+3.32%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "+2.20%"
-      },
-      {
-        "symbol": "Hang Seng",
-        "change": "+1.76%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+1.61%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "change": "+0.88%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.06%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.07%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-0.36%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.72%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-2.70%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-3.72%"
       }
     ]
   }
