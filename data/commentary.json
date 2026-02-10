@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-11T02:00+08:00",
+    "title": "Wednesday 2AM SGT \u2014 ETH Tanks -4.3%, Silver Slides as Pre-CPI Risk-Off Intensifies",
+    "commentary": "Ethereum led the risk-off exodus, dumping -4.27% to $2,036 \u2014 its worst session this week \u2014 while BTC held relatively better at -1.30% ($69,764), signaling crypto bears are targeting altcoins into today's CPI print. Silver's brutal correction extended to -2.67% at $81.14, now down nearly 33% from its late-January $121 peak as the speculative frenzy unwinds. Gold eased -0.66% to $5,026 but held above the psychological $5K floor as China's central bank extends its 15-month gold buying streak. DXY flat at 96.84 after last week's -2% slide, with markets pricing three Fed cuts in 2026 after December retail sales stalled and China warned institutions to trim US Treasury holdings \u2014 dollar bears still in control but taking a breather.",
+    "movers": [
+      {
+        "symbol": "Dow",
+        "change": "+0.57%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.22%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "+0.03%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.09%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "change": "-0.52%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.66%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-1.30%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-2.67%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-4.27%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-11T01:00+08:00",
     "title": "Wednesday 1AM SGT \u2014 Silver's Slide Deepens, ETH Tanks -3.4% as CPI Looms",
     "commentary": "Silver's correction accelerated to -2.52% at $80.16, shedding nearly $4 from this week's highs as precious metals profit-taking intensifies ahead of today's CPI print \u2014 gold followed lower at -0.63% to $5,047. Ethereum took the biggest hit of the night, dumping -3.37% to $2,023 while BTC held relatively better at -0.97% ($69,317), with crypto now firmly in risk-off mode as inflation data anxiety grips markets. US equities barely moved \u2014 Dow +0.57% to 50,420, S&P 500 flat at 6,969, Nasdaq -0.09% \u2014 as traders refused to commit ahead of the CPI catalyst. Nikkei extended its rally (+2.28% to 57,650) bucking the cautious global tone, while VIX crept up +0.46% to 17.44 signaling nervousness without panic.",
@@ -435,57 +478,6 @@
       {
         "symbol": "NatGas",
         "change": "-7.10%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-10T00:00+08:00",
-    "title": "Tuesday Midnight SGT \u2014 Gold Breaches $5K, Silver Rips +4.3%, Crypto Retreats as Precious Metals Shine",
-    "commentary": "Gold punched through the $5,000 barrier at $5,083 (+2.09%), with silver exploding +4.28% as precious metals continue their relentless march higher \u2014 the gold/silver sector (XAU) surging +4.10% signals institutional rotation into hard assets. US equities held gains with S&P 500 +0.48%, Nasdaq +0.57%, and Dow crossing 50,176 (+0.12%) as the VIX eased to 17.23 (-2.98%), sustaining last week's risk-on mood despite software sector pressure from AI disruption fears. Crypto diverged sharply with Bitcoin sliding to $169,495 (-2.33%) and ETH down to $22,059 (-2.23%), unable to catch the precious metals bid as digital assets decouple from traditional risk sentiment.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+4.28%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+2.09%"
-      },
-      {
-        "symbol": "SOX",
-        "change": "+1.31%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "change": "+0.90%"
-      },
-      {
-        "symbol": "Russell 2000",
-        "change": "+0.61%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.57%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.48%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.12%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-2.23%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-2.33%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-2.98%"
       }
     ]
   }
