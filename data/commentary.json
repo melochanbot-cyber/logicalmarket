@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-02-11T04:00+08:00",
+    "title": "Wednesday 4AM SGT \u2014 Crypto Rebounds as Dollar Weakness Accelerates, CPI Day Arrives",
+    "commentary": "Crypto staged a solid bounce with ETH surging +5.46% to $2,015 and BTC rallying +2.78% to $68,994, reversing this week's risk-off bleed as digital assets finally catch a bid ahead of today's CPI print. Dollar index slipped further to 96.80 after weak December retail sales sealed the deal on a more dovish Fed \u2014 markets now pricing three rate cuts in 2026 versus two a week ago, with China's Treasury warning adding fuel to the fire. Precious metals remained under pressure with silver extending its brutal correction (-2.56% to $81.23), now down over $40 from its late-January $121 peak, while gold held near $5,028 (-0.62%) defending the psychological floor. Equities treading water into CPI \u2014 S&P 500 flat at 6,963, Dow edging to fresh records \u2014 as the inflation print will either validate or demolish the rate cut narrative.",
+    "movers": [
+      {
+        "symbol": "ETH",
+        "change": "+5.46%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+2.78%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.40%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.03%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.02%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "change": "-0.31%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.62%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-2.56%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-11T03:00+08:00",
     "title": "Wednesday 3AM SGT \u2014 Silver Extends Correction to -2.2%, Markets Drift Pre-CPI",
     "commentary": "Silver's brutal correction deepened to -2.18% at $80.44, now down over $40 from its January $121 peak as the speculative unwind continues ahead of today's CPI print \u2014 gold followed suit at -0.84% to $5,037, slipping toward the $5K psychological floor. US equities treading water with S&P 500 -0.19%, Dow -0.02%, and Nasdaq -0.30% as traders refuse to commit before inflation data drops. VIX crept up +2.25% to 17.75, the highest reading this week, signaling mounting nervousness but no panic. Nikkei continues outperforming at +2.28%, riding yen weakness as the JPY index rose +0.90% \u2014 Japan's export-heavy stocks still catching a bid while the rest of Asia consolidates.",
@@ -415,49 +454,6 @@
       {
         "symbol": "VIX",
         "change": "-4.05%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-10T02:00+08:00",
-    "title": "Asia Session Open",
-    "commentary": "Silver surging 8% leads precious metals rally as dollar weakness accelerates, with gold breaking above $5,080. Asian markets on fire \u2014 Nikkei +3.9%, KOSPI +4.1% \u2014 as risk appetite returns. US equities closed mixed; tech-heavy Nasdaq outperformed (+0.96%) while Dow flat. Commodities broadly bid on inflation hedge flows and geopolitical jitters. Natural gas the outlier, dumping 7% on mild weather forecasts.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+8.08%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+2.16%"
-      },
-      {
-        "symbol": "Crude Oil",
-        "change": "+1.92%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.52%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.96%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.07%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "~0%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.97%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.71%"
       }
     ]
   }
