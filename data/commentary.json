@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-12T00:00+08:00",
+    "title": "Thursday Midnight SGT",
+    "commentary": "Crypto carnage deepens \u2014 Bitcoin plunges 3.9% to $66.5K while ETH tumbles 4.6% to $1,930, the worst session this week as digital assets extend their risk-off bleed. Silver refuses to quit, surging another 3% to $83 as precious metals continue their dollar-weakness-fueled rampage. Oil jumps 1.4% to $65 as US-Iran tensions simmer with warships massing in the Gulf. US equities flat-lining post-CPI \u2014 Dow slips below 50K (-0.40%), S&P treads water (+0.03%), Nasdaq drifts lower (-0.13%). DXY slides to 97 as dollar bears maintain control.",
+    "movers": [
+      {
+        "symbol": "Silver",
+        "change": "+3.07%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+1.41%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+0.68%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.03%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.13%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.17%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "-0.40%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-3.92%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-4.62%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-11T23:00+08:00",
     "title": "Wednesday 11PM SGT",
     "commentary": "Commodities rage as crypto bleeds \u2014 silver rockets +3.65% to $83 while oil surges 2.8% on supply tightness, extending the hard assets rally. US equities grind higher (S&P +0.46%, Dow +0.34%) with VIX crushed to 17.07 (-4%) signaling peak complacency despite 10Y yields ticking up to 4.18%. Bitcoin and Ethereum in freefall (-2.75% and -3.46% respectively) as digital assets decouple from the risk-on rotation into real assets.",
@@ -403,57 +446,6 @@
       {
         "symbol": "ETH",
         "change": "-1.69%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-10T22:00+08:00",
-    "title": "Tuesday 10PM SGT \u2014 Precious Metals Give Back Morning Gains, Nikkei Surges +2.3%",
-    "commentary": "Precious metals retreated from their explosive morning highs \u2014 silver now down -0.72% at $81.64 after earlier touching +8.75%, gold slipping -0.13% to $5,073 as profit-taking hit the dollar weakness trade. US equities held gains with Nasdaq +0.90%, S&P 500 +0.47%, and Dow flat at 50,136 (+0.04%) above the 50K milestone, while VIX edged up to 17.64 but remains subdued. Nikkei was the day's standout, surging +2.28% to 57,650 as yen weakness (+1.4% JPY Index) fueled export-heavy stocks. Crypto continues drifting sideways with BTC at $68,974 (+0.56%) and ETH $2,021 flat, still decoupled from equities as markets await Wednesday's CPI print.",
-    "movers": [
-      {
-        "symbol": "Nikkei",
-        "change": "+2.28%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.90%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "+0.56%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.47%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "change": "+0.37%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.04%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "+0.04%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-0.10%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.13%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-0.68%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-0.72%"
       }
     ]
   }
