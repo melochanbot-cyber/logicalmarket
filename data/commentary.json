@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-12T01:00+08:00",
+    "title": "Thursday 1AM SGT",
+    "commentary": "Crypto carnage deepens further \u2014 Bitcoin craters to $66K (-5.1%) and ETH plunges to $1,914 (-5.5%) as digital assets extend their brutal week-long selloff. Precious metals continue their divergent rally: gold breaks $5,100 (+1.4%) hitting fresh highs while silver surges 3.9% to $83.50. Oil rallies 2% to $65.20 as Iran tensions trump a huge US inventory build. US equities mixed \u2014 Dow flat at 50.2K, S&P barely green (+0.2%), Russell small caps bleeding -1% as risk rotation favors commodities over tech.",
+    "movers": [
+      {
+        "symbol": "Silver",
+        "change": "+3.88%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+1.94%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+1.37%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.17%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.07%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.09%"
+      },
+      {
+        "symbol": "Russell 2000",
+        "change": "-0.97%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-5.09%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-5.54%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-12T00:00+08:00",
     "title": "Thursday Midnight SGT",
     "commentary": "Crypto carnage deepens \u2014 Bitcoin plunges 3.9% to $66.5K while ETH tumbles 4.6% to $1,930, the worst session this week as digital assets extend their risk-off bleed. Silver refuses to quit, surging another 3% to $83 as precious metals continue their dollar-weakness-fueled rampage. Oil jumps 1.4% to $65 as US-Iran tensions simmer with warships massing in the Gulf. US equities flat-lining post-CPI \u2014 Dow slips below 50K (-0.40%), S&P treads water (+0.03%), Nasdaq drifts lower (-0.13%). DXY slides to 97 as dollar bears maintain control.",
@@ -399,53 +442,6 @@
       {
         "symbol": "ETH",
         "change": "-2.08%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-10T23:00+08:00",
-    "title": "Tuesday 11PM SGT \u2014 Dow Extends Above 50K as Retail Weakness Surfaces, Crypto Bleeds",
-    "commentary": "Dow pushed higher to 50,460 (+0.65%) led by AmEx and Disney as consumer discretionary caught a bid, while Nasdaq slipped -0.15% as megacap tech took a breather after Monday's run. Retail sales data showed holiday-season weakness as tariff uncertainty reshuffled American buying habits \u2014 macro concerns meeting market resilience. Silver gave back more of its meteoric gains (-0.30% at $82) with gold flat at $5,080, while crypto continued bleeding with BTC -1.39% to $68,316 and ETH -1.69% to $2,008 \u2014 digital assets still decoupled and drifting lower ahead of Wednesday's CPI print. VIX crept up +1.38% to 17.60 as volatility inches back before the inflation data drop.",
-    "movers": [
-      {
-        "symbol": "Nikkei",
-        "change": "+2.28%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.65%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.08%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+0.01%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "change": "-0.08%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.14%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.15%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-0.30%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-1.39%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-1.69%"
       }
     ]
   }
