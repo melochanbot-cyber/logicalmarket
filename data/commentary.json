@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-12T05:00+08:00",
+    "title": "Thursday 5AM SGT",
+    "commentary": "Precious metals domination continues \u2014 silver rockets +4.56% to $84.05, gold adds +1.57% to $5,110 as the safe-haven trade refuses to quit. Crypto bleeding accelerates with BTC sliding -2.26% to $67,299 and ETH down -2.89% to $1,955, extending the weeklong risk-off exodus from digital assets into hard commodities. US equities flatlined post-jobs \u2014 S&P 500 +0.09%, Dow -0.06%, Nasdaq -0.09% \u2014 while oil climbed +1.63% to $65 on fresh US-Iran tensions. Nikkei outperforms at +2.28% as Asia catches the global equity bid.",
+    "movers": [
+      {
+        "symbol": "Silver",
+        "change": "+4.56%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-2.89%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-2.26%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+1.63%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+1.57%"
+      },
+      {
+        "symbol": "Nikkei",
+        "change": "+2.28%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.09%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.09%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "-0.06%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-11T15:00:00-05:00",
     "title": "Market Close",
     "commentary": "Precious metals surge as safe-haven demand intensifies\u2014gold rallies 1.6% to $5,111 while silver explodes 4.8% higher. Equities end mixed with the S&P 500 holding near record highs despite crypto weakness, as Bitcoin slides 1.8% to $67.5K. Crude oil firms 1.5% on tight supply concerns while the dollar index barely budges, suggesting markets are in wait-and-see mode ahead of key economic data.",
@@ -363,49 +406,6 @@
       {
         "symbol": "Silver",
         "change": "-2.56%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-11T03:00+08:00",
-    "title": "Wednesday 3AM SGT \u2014 Silver Extends Correction to -2.2%, Markets Drift Pre-CPI",
-    "commentary": "Silver's brutal correction deepened to -2.18% at $80.44, now down over $40 from its January $121 peak as the speculative unwind continues ahead of today's CPI print \u2014 gold followed suit at -0.84% to $5,037, slipping toward the $5K psychological floor. US equities treading water with S&P 500 -0.19%, Dow -0.02%, and Nasdaq -0.30% as traders refuse to commit before inflation data drops. VIX crept up +2.25% to 17.75, the highest reading this week, signaling mounting nervousness but no panic. Nikkei continues outperforming at +2.28%, riding yen weakness as the JPY index rose +0.90% \u2014 Japan's export-heavy stocks still catching a bid while the rest of Asia consolidates.",
-    "movers": [
-      {
-        "symbol": "Nikkei",
-        "change": "+2.28%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "+2.25%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "+0.07%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-0.02%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.19%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.30%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "change": "-0.56%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.84%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-2.18%"
       }
     ]
   }
