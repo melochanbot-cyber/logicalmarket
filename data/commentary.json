@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-11T22:00+08:00",
+    "title": "Asia Evening",
+    "commentary": "Silver explodes 4.6% to $84 as precious metals defy dollar strength, with gold climbing 1.1% past $5,085. Crypto bleeds red\u2014Bitcoin down 2.8% at $67K, Ethereum tumbles 3.5%. US equities mixed: Dow ekes out gains while tech drags Nasdaq lower by 0.6%. Oil rallies 2.2% on supply tightness. Japan's Nikkei leads Asia with a 2.3% surge.",
+    "movers": [
+      {
+        "symbol": "Silver",
+        "change": "+4.64%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-3.50%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-2.77%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.20%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+1.08%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.59%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.33%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.19%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.10%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-11T05:00+08:00",
     "title": "Wednesday 5AM SGT \u2014 Crypto Extends Recovery as CPI Day Begins, Dow Hits Fresh Record",
     "commentary": "Crypto's pre-CPI bounce accelerated with ETH surging +5.52% to $2,010 and BTC rallying +2.88% to $68,777 as risk appetite returns ahead of today's pivotal inflation print. Dow pushed to a fresh record at 50,270 (+0.27%) while tech lagged with Nasdaq -0.55% and S&P 500 -0.24%, reflecting rotation into defensive megacaps as chip stocks consolidate. Silver's brutal correction extended to -2.81% at $81.02, now down over $40 from its January $121 peak, while gold defended the $5,030 psychological floor (-0.57%). DXY flat at 96.86 after last week's dollar massacre \u2014 all eyes on CPI to validate the three Fed cuts now priced for 2026.",
@@ -411,49 +454,6 @@
       {
         "symbol": "VIX",
         "change": "-2.26%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-10T04:00+08:00",
-    "title": "Tuesday 4AM SGT \u2014 Metals Consolidate Near Highs, Crypto Finds Footing",
-    "commentary": "Precious metals pausing for breath after their explosive run \u2014 silver steady at $82.50 (+7.3%) and gold holding firm at $5,078 (+1.9%) as the dollar weakness narrative plays out in thin overnight trade. US equities closed Monday with modest gains, S&P 500 +0.54% and Nasdaq +0.97%, consolidating near Friday's relief rally highs as VIX remains subdued at 17.15. BTC finding support at $70,892 (-0.7%) after testing lower, with ETH stable at $2,129 (+0.2%) \u2014 crypto stabilizing but still failing to catch the precious metals bid. All eyes on CPI print later this week as inflation hedges continue to outperform.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+7.30%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+1.90%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "change": "+1.35%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.97%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.54%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "+0.16%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.05%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-0.66%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-4.00%"
       }
     ]
   }
