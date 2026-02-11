@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T21:51:52Z",
+  "updatedAt": "2026-02-11T23:03:38Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -24,7 +24,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+11.5% above 50-day MA"
+          "detail": "+11.6% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 4.36%"
+          "detail": "20-day volatility: 4.37%"
         }
       ],
       "recommendation": "High risk. Consider reducing exposure by 25-50%."
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-33.1% vs 200-day MA"
+          "detail": "-33.7% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "30-day volatility: 12.35%"
+          "detail": "30-day volatility: 12.39%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +1.0%, 30d: -28.7%"
+          "detail": "60d gain: +1.0%, 30d: -29.3%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -23.0%, NDX: +0.7%"
+          "detail": "BTC: -23.6%, NDX: +0.7%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-45.6% from all-time high"
+          "detail": "-46.0% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
