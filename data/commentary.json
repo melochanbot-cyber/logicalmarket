@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-11T23:00+08:00",
+    "title": "Wednesday 11PM SGT",
+    "commentary": "Commodities rage as crypto bleeds \u2014 silver rockets +3.65% to $83 while oil surges 2.8% on supply tightness, extending the hard assets rally. US equities grind higher (S&P +0.46%, Dow +0.34%) with VIX crushed to 17.07 (-4%) signaling peak complacency despite 10Y yields ticking up to 4.18%. Bitcoin and Ethereum in freefall (-2.75% and -3.46% respectively) as digital assets decouple from the risk-on rotation into real assets.",
+    "movers": [
+      {
+        "symbol": "Silver",
+        "change": "+3.65%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.80%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+0.64%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.46%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.41%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.34%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "+0.21%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-2.75%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-3.46%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-11T22:00+08:00",
     "title": "Asia Evening",
     "commentary": "Silver explodes 4.6% to $84 as precious metals defy dollar strength, with gold climbing 1.1% past $5,085. Crypto bleeds red\u2014Bitcoin down 2.8% at $67K, Ethereum tumbles 3.5%. US equities mixed: Dow ekes out gains while tech drags Nasdaq lower by 0.6%. Oil rallies 2.2% on supply tightness. Japan's Nikkei leads Asia with a 2.3% surge.",
@@ -411,49 +454,6 @@
       {
         "symbol": "Silver",
         "change": "-0.72%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-10T05:00+08:00",
-    "title": "Tuesday 5AM SGT \u2014 Silver Rips +8.75% in Parabolic Move, Gold Holds $5,100 as Dollar Weakness Intensifies",
-    "commentary": "Silver extends its explosive rally to +8.75% at $83.62, its best session in weeks, as precious metals continue to feast on persistent dollar weakness \u2014 gold firm at $5,104 (+2.5%) with dip-buyers aggressively defending the $5K psychological floor. US equities consolidated Monday's gains with S&P 500 +0.48%, Nasdaq +0.91%, and Dow flat at 50,144 (+0.06%) above the 50K milestone, while VIX eased to 17.36 (-2.3%) keeping volatility contained ahead of key CPI data this week. Oil edged higher to $64.23 (+1.1%) as US-Iran Hormuz tensions simmer with ships warned to avoid Iranian waters. Crypto flat-lining with BTC unchanged at $70,741 and ETH +1.1% at $2,126 \u2014 digital assets still decoupled from the precious metals frenzy as inflation hedges dominate the narrative.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+8.75%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+2.50%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "change": "+1.07%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "+1.06%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.91%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.48%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.06%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-0.06%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-2.26%"
       }
     ]
   }
