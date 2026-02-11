@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-02-12T03:00+08:00",
+    "title": "Thursday 3AM SGT",
+    "commentary": "Crypto bleeding continues \u2014 BTC sinks to $67.2K (-2.6%) and ETH tumbles to $1,943 (-3.5%) extending the risk-off unwind even as Dow defended fresh records above 50.2K. Silver's parabolic rally takes a breather at $84.03 (+4.0%) after the week's wild ride, while gold holds firm at $5,083 (+1.2%). AI chip stocks remain the market darlings \u2014 Micron, TI, Lam all +5% \u2014 as software names like Salesforce and ServiceNow hemorrhage -5% on displacement fears. Oil steady at $64.62 (+1.0%) as geopolitical bid meets demand uncertainty.",
+    "movers": [
+      {
+        "symbol": "Silver",
+        "change": "+4.02%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+1.18%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+1.03%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.16%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.16%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.01%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "-2.57%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-3.50%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-12T02:00+08:00",
     "title": "Thursday 2AM SGT",
     "commentary": "Silver's parabolic run extends \u2014 the white metal surges 4.8% to $84.60, now up 162% YoY as the precious metals mania accelerates despite dollar stability. Crypto remains in the penalty box with BTC at $66.5K (-4.7%) and ETH at $1,931 (-5.3%), extending this week's brutal risk-off unwind. Dow defended record highs above 50.2K on strong labor data \u2014 ADP private payrolls doubled estimates at 130K, unemployment dropped to 4.3% \u2014 while AI chip stocks ripped (Micron, TI, Lam +5% each) and software names got crushed on AI displacement fears (Salesforce, ServiceNow -5%). Oil ticked up 1.4% to $64.88 as geopolitical premium builds.",
@@ -371,61 +410,6 @@
       {
         "symbol": "ETH",
         "change": "-4.27%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-11T01:00+08:00",
-    "title": "Wednesday 1AM SGT \u2014 Silver's Slide Deepens, ETH Tanks -3.4% as CPI Looms",
-    "commentary": "Silver's correction accelerated to -2.52% at $80.16, shedding nearly $4 from this week's highs as precious metals profit-taking intensifies ahead of today's CPI print \u2014 gold followed lower at -0.63% to $5,047. Ethereum took the biggest hit of the night, dumping -3.37% to $2,023 while BTC held relatively better at -0.97% ($69,317), with crypto now firmly in risk-off mode as inflation data anxiety grips markets. US equities barely moved \u2014 Dow +0.57% to 50,420, S&P 500 flat at 6,969, Nasdaq -0.09% \u2014 as traders refused to commit ahead of the CPI catalyst. Nikkei extended its rally (+2.28% to 57,650) bucking the cautious global tone, while VIX crept up +0.46% to 17.44 signaling nervousness without panic.",
-    "movers": [
-      {
-        "symbol": "Nikkei",
-        "change": "+2.28%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.57%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "+0.46%"
-      },
-      {
-        "symbol": "Russell",
-        "change": "+0.37%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.06%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.08%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.09%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "change": "-0.61%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.63%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-0.97%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-2.52%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-3.37%"
       }
     ]
   }
