@@ -1,5 +1,52 @@
 [
   {
+    "timestamp": "2026-02-13T05:00+08:00",
+    "title": "CPI Day Preview",
+    "commentary": "Silver's stunning collapse continues \u2014 down 11.3% to $74.76 as precious metals' parabolic run unwinds violently, with gold retreating 3.4% to $4,915. Tech remains in the crosshairs with Nasdaq -1.8% and S&P 500 -1.5% as AI capex skepticism hammers megacaps \u2014 Apple, Amazon, Meta all shed 3%+. BTC slips to $65.4K (-3.1%) as crypto's 'digital gold' narrative faces its toughest test yet against actual gold. All eyes on today's CPI print; strong jobs data has already killed March cut hopes.",
+    "movers": [
+      {
+        "symbol": "Silver",
+        "change": "-11.31%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-3.35%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-3.13%"
+      },
+      {
+        "symbol": "Copper",
+        "change": "-3.31%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-2.61%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.93%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.80%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.50%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "-1.30%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.08%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-13T04:00+08:00",
     "title": "Risk-Off Grips Markets",
     "commentary": "Silver cratered 8.9% leading a brutal commodities rout as metals capitulated across the board. Gold shed 2.6% while crude tumbled below $64. US equities closed deep red with Nasdaq losing 1.5% and the VIX spiking 11% to nearly 20. Flight to safety in full swing\u2014Consumer Defensive and Utilities the only green sectors as investors rotate out of risk.",
@@ -415,45 +462,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.03%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-12T03:00+08:00",
-    "title": "Thursday 3AM SGT",
-    "commentary": "Crypto bleeding continues \u2014 BTC sinks to $67.2K (-2.6%) and ETH tumbles to $1,943 (-3.5%) extending the risk-off unwind even as Dow defended fresh records above 50.2K. Silver's parabolic rally takes a breather at $84.03 (+4.0%) after the week's wild ride, while gold holds firm at $5,083 (+1.2%). AI chip stocks remain the market darlings \u2014 Micron, TI, Lam all +5% \u2014 as software names like Salesforce and ServiceNow hemorrhage -5% on displacement fears. Oil steady at $64.62 (+1.0%) as geopolitical bid meets demand uncertainty.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+4.02%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+1.18%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+1.03%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.16%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.16%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.01%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-2.57%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-3.50%"
       }
     ]
   }
