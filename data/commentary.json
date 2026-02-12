@@ -1,5 +1,52 @@
 [
   {
+    "timestamp": "2026-02-13T01:00+08:00",
+    "title": "Friday 1AM SGT",
+    "commentary": "Crypto continues to leak \u2014 BTC slides another 2% to $65,751 and ETH dips to $1,904 as the week's risk-off exodus persists, now down 5-7% for the week. US session closed ugly with 72% of issues declining in an AI/megacap rout as traders rotated hard into value and cyclicals \u2014 semis hit especially hard with SOXS bear ETF ripping 5.8%. Gold holding firm near $5,100 as the precious metals vs. crypto divergence trade extends into its second week. VIX elevated at 18.14 signals lingering jitters heading into Friday.",
+    "movers": [
+      {
+        "symbol": "BTC",
+        "change": "-2.01%"
+      },
+      {
+        "symbol": "ETH",
+        "change": "-2.26%"
+      },
+      {
+        "symbol": "SOL",
+        "change": "-2.10%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+0.05%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-0.50%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.94%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.42%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.03%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "+2.78%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-1.59%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-13T00:00+08:00",
     "title": "Friday Midnight SGT",
     "commentary": "Tech selloff accelerates into Friday \u2014 Nasdaq slides -0.94% and S&P 500 drops -0.42% while Dow scrapes into green at +0.03%, VIX spikes to 18.14 (+2.78%) signaling rising jitters. Precious metals cool off after the week's fireworks \u2014 gold flat at $5,098, silver retreating -1.36% to $83 as profit-taking kicks in. Crypto finds a floor with BTC +0.96% at $67.1K and ETH +0.97% near $1,948, stabilizing after the week's carnage. Oil extends losses -1.59% to $63.60 as demand concerns outweigh geopolitics; KOSPI rips +3.13% leading Asia.",
@@ -395,49 +442,6 @@
       {
         "symbol": "ETH",
         "change": "-4.62%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-11T23:00+08:00",
-    "title": "Wednesday 11PM SGT",
-    "commentary": "Commodities rage as crypto bleeds \u2014 silver rockets +3.65% to $83 while oil surges 2.8% on supply tightness, extending the hard assets rally. US equities grind higher (S&P +0.46%, Dow +0.34%) with VIX crushed to 17.07 (-4%) signaling peak complacency despite 10Y yields ticking up to 4.18%. Bitcoin and Ethereum in freefall (-2.75% and -3.46% respectively) as digital assets decouple from the risk-on rotation into real assets.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+3.65%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+2.80%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+0.64%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.46%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.41%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.34%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "+0.21%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-2.75%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-3.46%"
       }
     ]
   }
