@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-13T03:01+08:00",
+    "title": "Asia Morning Brief",
+    "commentary": "Tech bloodbath deepens as AI capex skepticism hammers mega-caps \u2014 Apple, Amazon, Meta, and Palantir all shed 3%+, dragging the Nasdaq down 1.7%. Strong January jobs data (130K payrolls, unemployment at 4.3%) is killing any hopes of a March cut, with CPI looming Friday. Silver collapsed 9.7% while gold retreated nearly 3% as risk-off meets dollar resilience. Crypto joined the selloff with Bitcoin sliding to $65.5K as the broader de-risking continues.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-2.94%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-9.66%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-3.10%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.99%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.74%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "-1.30%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.18%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.11%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.15%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-13T02:00+08:00",
     "title": "Friday 2AM SGT",
     "commentary": "Tech rout intensifies as Nasdaq plunges -1.71% and S&P 500 tumbles -1.28% ahead of Friday's CPI print \u2014 AI skepticism hammers Apple, Amazon, Meta, Palantir (-3%+) while Cisco craters -11% on weak guidance. Silver implodes -10.27% to $75.60 and gold retreats -2.81% to $4,942 as precious metals' parabolic run finally hits resistance. BTC slides to $65.3K (-2.46%) as crypto continues bleeding for a second week; ETH holds marginally better at $1,910 (-1.54%). Oil tumbles -3.13% to $62.60 on demand concerns \u2014 CPI could determine if Fed stays hawkish.",
@@ -403,49 +446,6 @@
       {
         "symbol": "ETH",
         "change": "-5.25%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-12T01:00+08:00",
-    "title": "Thursday 1AM SGT",
-    "commentary": "Crypto carnage deepens further \u2014 Bitcoin craters to $66K (-5.1%) and ETH plunges to $1,914 (-5.5%) as digital assets extend their brutal week-long selloff. Precious metals continue their divergent rally: gold breaks $5,100 (+1.4%) hitting fresh highs while silver surges 3.9% to $83.50. Oil rallies 2% to $65.20 as Iran tensions trump a huge US inventory build. US equities mixed \u2014 Dow flat at 50.2K, S&P barely green (+0.2%), Russell small caps bleeding -1% as risk rotation favors commodities over tech.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+3.88%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+1.94%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+1.37%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.17%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.07%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.09%"
-      },
-      {
-        "symbol": "Russell 2000",
-        "change": "-0.97%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "-5.09%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-5.54%"
       }
     ]
   }
