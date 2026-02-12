@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T08:00:46Z",
+  "updatedAt": "2026-02-12T11:11:03Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 17.6 (threshold: 25)"
+          "detail": "VIX at 17.4 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -1.9%"
+          "detail": "VIX 1-week change: -6.5%"
         },
         {
           "name": "Market Breadth",
@@ -94,7 +94,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 17.6"
+          "detail": "VIX at 17.4"
         },
         {
           "name": "MA Overextension",
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-33.7% vs 200-day MA"
+          "detail": "-33.0% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "30-day volatility: 12.72%"
+          "detail": "30-day volatility: 12.67%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +1.4%, 30d: -30.7%"
+          "detail": "60d gain: +1.4%, 30d: -29.9%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -22.3%, NDX: +0.7%"
+          "detail": "BTC: -21.4%, NDX: +0.7%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-46.2% from all-time high"
+          "detail": "-45.6% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
