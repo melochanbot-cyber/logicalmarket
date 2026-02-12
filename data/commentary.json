@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-12T22:00+08:00",
+    "title": "Thursday 10PM SGT",
+    "commentary": "Crypto staging a relief rally \u2014 BTC bounces +1.5% to $68K and ETH climbs +1.7% to $1,989 after yesterday's bloodbath, though still well below last week's levels. US equities grinding higher with S&P 500 +0.43%, Nasdaq +0.51%, and Dow +0.36% as jobs data surprise refocuses attention on Fed's rate path. Precious metals cooling after the week's fireworks \u2014 gold -0.2% at $5,075, silver retreating -1.5% to $83 from $84+ highs. Oil slipping -0.6% to $64.25 as supply concerns ease. Dollar index flat at 96.80 awaiting next catalyst.",
+    "movers": [
+      {
+        "symbol": "ETH",
+        "change": "+1.72%"
+      },
+      {
+        "symbol": "BTC",
+        "change": "+1.48%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.51%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.43%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.36%"
+      },
+      {
+        "symbol": "DXY",
+        "change": "-0.04%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.20%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.59%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-1.50%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-12T05:00+08:00",
     "title": "Thursday 5AM SGT",
     "commentary": "Precious metals domination continues \u2014 silver rockets +4.56% to $84.05, gold adds +1.57% to $5,110 as the safe-haven trade refuses to quit. Crypto bleeding accelerates with BTC sliding -2.26% to $67,299 and ETH down -2.89% to $1,955, extending the weeklong risk-off exodus from digital assets into hard commodities. US equities flatlined post-jobs \u2014 S&P 500 +0.09%, Dow -0.06%, Nasdaq -0.09% \u2014 while oil climbed +1.63% to $65 on fresh US-Iran tensions. Nikkei outperforms at +2.28% as Asia catches the global equity bid.",
@@ -367,45 +410,6 @@
       {
         "symbol": "Silver",
         "change": "-2.81%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-11T04:00+08:00",
-    "title": "Wednesday 4AM SGT \u2014 Crypto Rebounds as Dollar Weakness Accelerates, CPI Day Arrives",
-    "commentary": "Crypto staged a solid bounce with ETH surging +5.46% to $2,015 and BTC rallying +2.78% to $68,994, reversing this week's risk-off bleed as digital assets finally catch a bid ahead of today's CPI print. Dollar index slipped further to 96.80 after weak December retail sales sealed the deal on a more dovish Fed \u2014 markets now pricing three rate cuts in 2026 versus two a week ago, with China's Treasury warning adding fuel to the fire. Precious metals remained under pressure with silver extending its brutal correction (-2.56% to $81.23), now down over $40 from its late-January $121 peak, while gold held near $5,028 (-0.62%) defending the psychological floor. Equities treading water into CPI \u2014 S&P 500 flat at 6,963, Dow edging to fresh records \u2014 as the inflation print will either validate or demolish the rate cut narrative.",
-    "movers": [
-      {
-        "symbol": "ETH",
-        "change": "+5.46%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "+2.78%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.40%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.03%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.02%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "change": "-0.31%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.62%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-2.56%"
       }
     ]
   }
