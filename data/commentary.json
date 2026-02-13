@@ -1,5 +1,52 @@
 [
   {
+    "timestamp": "2026-02-13T22:00+08:00",
+    "title": "Friday Evening SGT",
+    "commentary": "VIX explodes 17.6% above 20 as Wall Street's Friday the 13th massacre deepens \u2014 S&P 500 dumps 1.6%, Nasdaq sheds 2.0%, Russell 2000 craters 2.0% as the post-CPI selloff accelerates. Silver stages a violent 4.3% snap-back rally to $79 after yesterday's 11% implosion, while gold reclaims $5,000 (+1.2%) in a classic flight-to-safety bid. Crypto offers no shelter \u2014 BTC slips 1.1% to $67.3K as digital assets track equities lower. Tech remains the epicenter with INTC -3.7% and NVDA -1.6%; Fastly +72% the lone bright spot on earnings surprise.",
+    "movers": [
+      {
+        "symbol": "VIX",
+        "change": "+17.64%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+4.33%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+1.23%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.21%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.07%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-0.87%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.07%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "-1.34%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.57%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-2.03%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-13T05:00+08:00",
     "title": "CPI Day Preview",
     "commentary": "Silver's stunning collapse continues \u2014 down 11.3% to $74.76 as precious metals' parabolic run unwinds violently, with gold retreating 3.4% to $4,915. Tech remains in the crosshairs with Nasdaq -1.8% and S&P 500 -1.5% as AI capex skepticism hammers megacaps \u2014 Apple, Amazon, Meta all shed 3%+. BTC slips to $65.4K (-3.1%) as crypto's 'digital gold' narrative faces its toughest test yet against actual gold. All eyes on today's CPI print; strong jobs data has already killed March cut hopes.",
@@ -423,45 +470,6 @@
       {
         "symbol": "Dow",
         "change": "-0.06%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-11T15:00:00-05:00",
-    "title": "Market Close",
-    "commentary": "Precious metals surge as safe-haven demand intensifies\u2014gold rallies 1.6% to $5,111 while silver explodes 4.8% higher. Equities end mixed with the S&P 500 holding near record highs despite crypto weakness, as Bitcoin slides 1.8% to $67.5K. Crude oil firms 1.5% on tight supply concerns while the dollar index barely budges, suggesting markets are in wait-and-see mode ahead of key economic data.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "+4.80%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+1.60%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+1.55%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.81%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.50%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.01%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-0.13%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.03%"
       }
     ]
   }
