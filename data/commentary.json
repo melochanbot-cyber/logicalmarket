@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-14T03:00+08:00",
+    "title": "Valentine's Weekend",
+    "commentary": "Valentine's weekend kicks off with crypto on fire \u2014 BTC +5.3% at $69.1K and ETH +7.2% at $2,056 as risk appetite roars back post-CPI relief. Precious metals extend gains with gold +2.1% reclaiming $5,053 and silver +2.5% at $77.60 as Fed cut bets revive on soft inflation print. US equities closed the week green: S&P +0.48%, Nasdaq +0.41%, Dow +0.27%, with VIX collapsing -7.4% to 19.28 signaling calm ahead. Oil the laggard at -0.7% on OPEC+ output hike speculation.",
+    "movers": [
+      {
+        "symbol": "Ethereum",
+        "change": "+7.22%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+5.35%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.53%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+2.11%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.48%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.41%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.27%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.70%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "-7.40%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-14T02:00+08:00",
     "title": "Weekend Early Hours",
     "commentary": "Risk-on mode returns as crypto stages a Valentine's rally \u2014 BTC surges +5.5% back above $69K while ETH rips +7.9% reclaiming $2,050 in the strongest 24-hour move in weeks. VIX collapses -7% to 19.3 signaling the Friday the 13th panic is fading fast. Gold extends its run +1.9% to $5,044 and silver +2.5% to $77.50 as precious metals shrug off profit-taking. US equities closed the week green with Russell 2000 leading +1.9%, S&P +0.6% \u2014 a full reversal from Thursday's bloodbath.",
@@ -387,53 +430,6 @@
       {
         "symbol": "DXY",
         "change": "+0.13%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-13T01:00+08:00",
-    "title": "Friday 1AM SGT",
-    "commentary": "Crypto continues to leak \u2014 BTC slides another 2% to $65,751 and ETH dips to $1,904 as the week's risk-off exodus persists, now down 5-7% for the week. US session closed ugly with 72% of issues declining in an AI/megacap rout as traders rotated hard into value and cyclicals \u2014 semis hit especially hard with SOXS bear ETF ripping 5.8%. Gold holding firm near $5,100 as the precious metals vs. crypto divergence trade extends into its second week. VIX elevated at 18.14 signals lingering jitters heading into Friday.",
-    "movers": [
-      {
-        "symbol": "BTC",
-        "change": "-2.01%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "-2.26%"
-      },
-      {
-        "symbol": "SOL",
-        "change": "-2.10%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+0.05%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-0.50%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.94%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.42%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.03%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "+2.78%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-1.59%"
       }
     ]
   }
