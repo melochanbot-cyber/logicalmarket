@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-02-14T02:00+08:00",
+    "title": "Weekend Early Hours",
+    "commentary": "Risk-on mode returns as crypto stages a Valentine's rally \u2014 BTC surges +5.5% back above $69K while ETH rips +7.9% reclaiming $2,050 in the strongest 24-hour move in weeks. VIX collapses -7% to 19.3 signaling the Friday the 13th panic is fading fast. Gold extends its run +1.9% to $5,044 and silver +2.5% to $77.50 as precious metals shrug off profit-taking. US equities closed the week green with Russell 2000 leading +1.9%, S&P +0.6% \u2014 a full reversal from Thursday's bloodbath.",
+    "movers": [
+      {
+        "symbol": "Ethereum",
+        "change": "+7.86%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+5.52%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.46%"
+      },
+      {
+        "symbol": "Russell 2000",
+        "change": "+1.94%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+1.92%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.61%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.49%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.47%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.43%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.07%"
+      },
+      {
+        "symbol": "VIX",
+        "change": "-7.16%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-14T01:01+08:00",
     "title": "Asia Early Session",
     "commentary": "Crypto surges ahead of Valentine's Day weekend as Bitcoin reclaims $69K territory on fresh institutional inflows. Ethereum outpaces with an 8% rally, leading altcoin recovery. Gold holds firm above $2,900 as safe-haven demand persists amid geopolitical uncertainties. US futures point to a quiet Friday open with markets digesting Thursday's mixed data.",
@@ -379,65 +430,6 @@
       {
         "symbol": "VIX",
         "change": "+2.78%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-1.59%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-13T00:00+08:00",
-    "title": "Friday Midnight SGT",
-    "commentary": "Tech selloff accelerates into Friday \u2014 Nasdaq slides -0.94% and S&P 500 drops -0.42% while Dow scrapes into green at +0.03%, VIX spikes to 18.14 (+2.78%) signaling rising jitters. Precious metals cool off after the week's fireworks \u2014 gold flat at $5,098, silver retreating -1.36% to $83 as profit-taking kicks in. Crypto finds a floor with BTC +0.96% at $67.1K and ETH +0.97% near $1,948, stabilizing after the week's carnage. Oil extends losses -1.59% to $63.60 as demand concerns outweigh geopolitics; KOSPI rips +3.13% leading Asia.",
-    "movers": [
-      {
-        "symbol": "KOSPI",
-        "change": "+3.13%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "+2.78%"
-      },
-      {
-        "symbol": "CAC 40",
-        "change": "+1.04%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "+0.97%"
-      },
-      {
-        "symbol": "BTC",
-        "change": "+0.96%"
-      },
-      {
-        "symbol": "DAX",
-        "change": "+0.95%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.03%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.02%"
-      },
-      {
-        "symbol": "DXY",
-        "change": "-0.04%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.42%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.94%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-1.36%"
       },
       {
         "symbol": "Oil",
