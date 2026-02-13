@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-14T05:00+08:00",
+    "title": "Valentine's Day Early SGT",
+    "commentary": "Crypto continues its Valentine's weekend tear \u2014 ETH +6.8% at $2,045 and BTC +5.1% at $68.7K extending the post-CPI risk-on rally into its third session. Gold holds above $5,050 (+2.1%) with silver +1.7% at $77 as precious metals shrug off profit-taking. US equities closed Friday's session virtually flat \u2014 S&P -0.05%, Nasdaq -0.32%, Dow +0.03% \u2014 digesting the week's volatility. VIX crept +2.3% to 21.3 as traders brace for weekend flows; oil drifts lower at $62.50 (-0.5%) on oversupply concerns.",
+    "movers": [
+      {
+        "symbol": "Ethereum",
+        "change": "+6.84%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+5.14%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+2.06%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.72%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.03%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.01%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.05%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.32%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.53%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-14T04:00+08:00",
     "title": "Valentine's Morning",
     "commentary": "Valentine's rally extends into the weekend as crypto keeps flying \u2014 ETH +5.8% at $2,060 and BTC +4.2% at $69K, both best performers for a second straight session. Precious metals maintain momentum with gold +2.2% at $5,057 and silver +2.7% at $77.75 as inflation fears recede. US equities closed Friday's session flat \u2014 S&P +0.2%, Dow +0.1%, Nasdaq flat \u2014 consolidating last week's CPI relief bounce. Oil and dollar both unchanged; weekend flows favor risk assets.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.14%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-13T03:01+08:00",
-    "title": "Asia Morning Brief",
-    "commentary": "Tech bloodbath deepens as AI capex skepticism hammers mega-caps \u2014 Apple, Amazon, Meta, and Palantir all shed 3%+, dragging the Nasdaq down 1.7%. Strong January jobs data (130K payrolls, unemployment at 4.3%) is killing any hopes of a March cut, with CPI looming Friday. Silver collapsed 9.7% while gold retreated nearly 3% as risk-off meets dollar resilience. Crypto joined the selloff with Bitcoin sliding to $65.5K as the broader de-risking continues.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-2.94%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-9.66%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-3.10%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.99%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.74%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-1.30%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.18%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-1.11%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.15%"
       }
     ]
   }
