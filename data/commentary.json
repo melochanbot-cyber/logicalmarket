@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-18T23:00+08:00",
+    "title": "Late Asia Session",
+    "commentary": "Crypto steadied in late Asian trading with Bitcoin hovering at $67,149 (+0.4%) and Ethereum reclaiming $1,971 (+1.3%) after the earlier session dip. Gold's pullback below $5,000 is being viewed as corrective rather than structural \u2014 WSJ notes dips are likely to attract renewed buying interest as geopolitical hedging demand persists. Crude oil remains volatile as geopolitics clash with oversupply fears; Vance's military-action warning on Iran kept a bid under WTI even as U.S. natural gas slid below $3 on mild weather. The \"sell everything American\" call from a 40-year Wall Street veteran continues to reverberate, adding to the cautious tone heading into Wednesday's full session.",
+    "movers": [
+      {
+        "symbol": "Ethereum",
+        "change": "+1.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-1.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Nat Gas",
+        "change": "-2.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-18T22:00+08:00",
     "title": "Asia Evening Wrap",
     "commentary": "Gold retreated below the $5,000 mark as progress in U.S.-Iran nuclear talks eased geopolitical premiums, while crude oil pushed higher on VP Vance's warning that military action remains on the table. S&P 500 and Nasdaq edged up in Monday's Presidents' Day-shortened session as the Dow finished flat \u2014 a 40-year Wall Street veteran making headlines urging clients to dump U.S. assets entirely. Bitcoin slipped 1.3% to $67,189 and Ethereum shed 1.0% to $1,969 as risk appetite faded into the holiday week. The dollar firmed on the Iran d\u00e9tente narrative, pressuring precious metals further with silver also declining.",
@@ -379,53 +422,6 @@
       {
         "symbol": "Nasdaq",
         "change": "-2.03%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-13T05:00+08:00",
-    "title": "CPI Day Preview",
-    "commentary": "Silver's stunning collapse continues \u2014 down 11.3% to $74.76 as precious metals' parabolic run unwinds violently, with gold retreating 3.4% to $4,915. Tech remains in the crosshairs with Nasdaq -1.8% and S&P 500 -1.5% as AI capex skepticism hammers megacaps \u2014 Apple, Amazon, Meta all shed 3%+. BTC slips to $65.4K (-3.1%) as crypto's 'digital gold' narrative faces its toughest test yet against actual gold. All eyes on today's CPI print; strong jobs data has already killed March cut hopes.",
-    "movers": [
-      {
-        "symbol": "Silver",
-        "change": "-11.31%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-3.35%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-3.13%"
-      },
-      {
-        "symbol": "Copper",
-        "change": "-3.31%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-2.61%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-1.93%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.80%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.50%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-1.30%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.08%"
       }
     ]
   }
