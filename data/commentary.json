@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-19T02:00+08:00",
+    "title": "Early Morning Asia",
+    "commentary": "Global equities pushed higher as U.S.-Iran diplomatic progress lifted risk appetite \u2014 the Dow gained ground with tech stocks leading, while the dollar firmed on the d\u00e9tente narrative. Bitcoin flatlined at $67,132 (essentially unchanged on 24h) and ETH held $1,973 (+0.4%) as crypto traded in a tight overnight range with no fresh catalysts. Gold remains pinned below $5,000 as the stronger dollar and easing geopolitical fears sap safe-haven demand, though analysts maintain the pullback is corrective. The session's tone is cautiously constructive heading into Wednesday's full trading day, with the \"sell America\" contrarian call providing the only counterweight to the broad risk-on tilt.",
+    "movers": [
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-1.0%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-19T01:00+08:00",
     "title": "Post-Midnight Asia",
     "commentary": "Bitcoin surrendered its late-session bounce, sliding back to $67,111 (-0.6%) as ETH drifted to $1,971 (-0.4%) in thin overnight liquidity. Crude oil found fresh support on a dual catalyst \u2014 a Russia-Ukraine peace deadlock and escalating U.S.-Iran rhetoric \u2014 keeping WTI elevated despite broader oversupply headwinds. Gold continues to consolidate just below $5,000 with dip-buyers lurking; the corrective pullback thesis remains intact as geopolitical hedging demand shows no signs of abating. Markets enter the Wednesday session with a cautious undertone as the \"sell America\" narrative lingers and traders await fresh catalysts.",
@@ -371,57 +414,6 @@
       {
         "symbol": "Gold",
         "change": "+1.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-14T00:00+08:00",
-    "title": "Valentine's Day Weekend Open",
-    "commentary": "Crypto stages a Valentine's Day relief rally \u2014 ETH rips +4.4% back above $2,000 and BTC climbs +2.2% to $68.6K as risk appetite returns. Precious metals extend their winning streak with gold +1.7% reclaiming $5,030 and silver +2.4% at $77.50. US equities close the week quietly \u2014 S&P 500 +0.23%, Nasdaq +0.08%, Dow +0.15% as volatility subsides with VIX dropping to 20.6 (-1.2%). Defensives lead the tape: Utilities +2%, Basic Materials +1.7%; Asia lags overnight with Nikkei -1.2% and Hang Seng -1.7% on China growth concerns.",
-    "movers": [
-      {
-        "symbol": "Ethereum",
-        "change": "+4.40%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.38%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.20%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+1.69%"
-      },
-      {
-        "symbol": "Russell 2000",
-        "change": "+1.15%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.23%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.15%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.08%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.06%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.08%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-1.20%"
       }
     ]
   }
