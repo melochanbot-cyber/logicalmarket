@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-19T03:00+08:00",
+    "title": "Asia Pre-Dawn Selloff",
+    "commentary": "Crypto took a sharp leg lower in the 2-3 AM SGT window \u2014 Bitcoin dropped 2.4% to $66,316 and Ethereum shed 2.3% to $1,953 as the brief constructive tone evaporated in thin overnight liquidity. The move came despite equities holding gains (Nikkei +1.0%, Hang Seng +0.5%) and the dollar strengthening on U.S.-Iran progress, suggesting crypto-specific deleveraging rather than a broad risk-off event. Gold remains under pressure below $5,000 with the stronger greenback capping any recovery attempts. Oil continues to find support on the dual geopolitical bid from Iran tensions and the Russia-Ukraine stalemate, keeping crude elevated even as macro headwinds persist.",
+    "movers": [
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.3%"
+      },
+      {
+        "symbol": "Nikkei 225",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "Hang Seng",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-1.0%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-19T02:00+08:00",
     "title": "Early Morning Asia",
     "commentary": "Global equities pushed higher as U.S.-Iran diplomatic progress lifted risk appetite \u2014 the Dow gained ground with tech stocks leading, while the dollar firmed on the d\u00e9tente narrative. Bitcoin flatlined at $67,132 (essentially unchanged on 24h) and ETH held $1,973 (+0.4%) as crypto traded in a tight overnight range with no fresh catalysts. Gold remains pinned below $5,000 as the stronger dollar and easing geopolitical fears sap safe-haven demand, though analysts maintain the pullback is corrective. The session's tone is cautiously constructive heading into Wednesday's full trading day, with the \"sell America\" contrarian call providing the only counterweight to the broad risk-on tilt.",
@@ -391,29 +434,6 @@
       {
         "symbol": "VIX",
         "change": "-7.16%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-14T01:01+08:00",
-    "title": "Asia Early Session",
-    "commentary": "Crypto surges ahead of Valentine's Day weekend as Bitcoin reclaims $69K territory on fresh institutional inflows. Ethereum outpaces with an 8% rally, leading altcoin recovery. Gold holds firm above $2,900 as safe-haven demand persists amid geopolitical uncertainties. US futures point to a quiet Friday open with markets digesting Thursday's mixed data.",
-    "movers": [
-      {
-        "symbol": "BTC",
-        "change": "+4.7%"
-      },
-      {
-        "symbol": "ETH",
-        "change": "+8.0%"
-      },
-      {
-        "symbol": "SOL",
-        "change": "+7.5%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+1.1%"
       }
     ]
   }
