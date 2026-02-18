@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-19T05:00+08:00",
+    "title": "Post-Close Extended Session",
+    "commentary": "The commodity complex stole the show in late U.S. trading \u2014 gold consolidated above $5,000 at $5,004 (+2.0%), silver ripped 4.9%, and crude surged 5% past $65 on escalating supply risks. Equities extended gains into the close with the Nasdaq leading at +0.78% as AI worries receded and Fed minutes confirmed a patient rate stance. Crypto continues to bleed in the opposite direction \u2014 Bitcoin down 2.2% to $66,253 and ETH off 2.7% \u2014 underperforming as institutional flows rotate into precious metals. The dollar index held firm at 97.73 (+0.6%), making gold's breakout above the psychological $5,000 level all the more impressive against a strengthening greenback.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+2.0%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+4.9%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+5.0%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.56%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.78%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.26%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.7%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.6%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-19T04:00+08:00",
     "title": "Overnight US Close Recap",
     "commentary": "Wall Street closed modestly higher with Nvidia leading a tech rally \u2014 S&P 500 +0.35%, Nasdaq +0.52% \u2014 as traders digested Fed minutes showing policymakers in no rush to cut rates further. The real fireworks were in commodities: gold punched through $5,000 to close at $5,001 (+1.9%), silver surged 4.4%, and crude oil jumped 4.3% on escalating geopolitical tensions and supply concerns. Crypto went the opposite direction \u2014 Bitcoin slid 2.5% to $66,077 and ETH dropped 3.3% to $1,932 in a clear risk-rotation into hard assets. The dollar index firmed 0.6% to 97.72, adding to gold's remarkable run that now defies traditional correlations.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.03%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-14T03:00+08:00",
-    "title": "Valentine's Weekend",
-    "commentary": "Valentine's weekend kicks off with crypto on fire \u2014 BTC +5.3% at $69.1K and ETH +7.2% at $2,056 as risk appetite roars back post-CPI relief. Precious metals extend gains with gold +2.1% reclaiming $5,053 and silver +2.5% at $77.60 as Fed cut bets revive on soft inflation print. US equities closed the week green: S&P +0.48%, Nasdaq +0.41%, Dow +0.27%, with VIX collapsing -7.4% to 19.28 signaling calm ahead. Oil the laggard at -0.7% on OPEC+ output hike speculation.",
-    "movers": [
-      {
-        "symbol": "Ethereum",
-        "change": "+7.22%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+5.35%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.53%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+2.11%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.48%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.41%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.27%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.70%"
-      },
-      {
-        "symbol": "VIX",
-        "change": "-7.40%"
       }
     ]
   }
