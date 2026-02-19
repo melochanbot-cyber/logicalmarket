@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2026-02-19T16:00-05:00",
+    "title": "Pre-Market Update",
+    "commentary": "Market data feed temporarily offline. Live market commentary will resume once API connectivity is restored. Dashboard remains operational.",
+    "movers": []
+  },
+  {
     "timestamp": "2026-02-19T15:00-05:00",
     "title": "Market Update",
     "commentary": "Market data temporarily unavailable due to API configuration. Dashboard will resume live updates once connectivity is restored.",
@@ -346,49 +352,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.6%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-19T03:00+08:00",
-    "title": "Asia Pre-Dawn Selloff",
-    "commentary": "Crypto took a sharp leg lower in the 2-3 AM SGT window \u2014 Bitcoin dropped 2.4% to $66,316 and Ethereum shed 2.3% to $1,953 as the brief constructive tone evaporated in thin overnight liquidity. The move came despite equities holding gains (Nikkei +1.0%, Hang Seng +0.5%) and the dollar strengthening on U.S.-Iran progress, suggesting crypto-specific deleveraging rather than a broad risk-off event. Gold remains under pressure below $5,000 with the stronger greenback capping any recovery attempts. Oil continues to find support on the dual geopolitical bid from Iran tensions and the Russia-Ukraine stalemate, keeping crude elevated even as macro headwinds persist.",
-    "movers": [
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.4%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.3%"
-      },
-      {
-        "symbol": "Nikkei 225",
-        "change": "+1.0%"
-      },
-      {
-        "symbol": "Hang Seng",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-1.0%"
       }
     ]
   }
