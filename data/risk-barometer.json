@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-19T10:27:23Z",
+  "updatedAt": "2026-02-19T12:02:41Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,14 +24,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+7.7% above 50-day MA"
+          "detail": "+7.5% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-0.9% vs 200-MA, rising"
+          "detail": "-0.8% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 20.7 (threshold: 25)"
+          "detail": "VIX at 20.2 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +16.2%"
+          "detail": "VIX 1-week change: +13.7%"
         },
         {
           "name": "Market Breadth",
@@ -94,7 +94,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 20.7"
+          "detail": "VIX at 20.2"
         },
         {
           "name": "MA Overextension",
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-32.9% vs 200-day MA"
+          "detail": "-33.3% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "30-day volatility: 12.13%"
+          "detail": "30-day volatility: 12.15%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +5.6%, 30d: -25.2%"
+          "detail": "60d gain: +5.6%, 30d: -25.6%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -24.4%, NDX: +3.1%"
+          "detail": "BTC: -24.9%, NDX: +3.1%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-46.4% from all-time high"
+          "detail": "-46.7% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
