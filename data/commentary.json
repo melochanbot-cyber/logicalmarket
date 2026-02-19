@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-20T02:00+08:00",
+    "title": "US Late Session Slide",
+    "commentary": "The selling intensified into the close \u2014 Dow tumbled 0.76%, S&P 500 lost 0.59%, Nasdaq dropped 0.63% \u2014 erasing Wednesday's gains in a broad-based retreat as risk appetite evaporated heading into Friday. Gold gave back most of its intraday gains but clung to the $5,010 handle, essentially flat on the day after touching the $5,034 record earlier. Oil remained stubbornly elevated at $66.49 (+2.2%), the one asset class traders seem reluctant to sell this week. Crypto drifted sideways in the wreckage \u2014 BTC $66,304 (-1.2%), ETH $1,918 (-2.7%) \u2014 with the broader digital asset complex clearly in a holding pattern awaiting a macro catalyst.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.03%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.24%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.59%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.63%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.76%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.7%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.19%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-20T01:00+08:00",
     "title": "US Afternoon Selloff",
     "commentary": "Equities accelerated to the downside into the afternoon \u2014 S&P 500 fell 0.41%, Dow dropped 0.58% \u2014 as the early-session drift became a proper risk-off move with no single catalyst, just fading momentum after a week of mixed signals. Gold pulled back from its $5,034 intraday high but held above $5,020 (+0.23%), consolidating at nosebleed levels as bulls refuse to give ground. Crude oil remained the week's standout performer at $66.61 (+2.4%) while crypto treaded water \u2014 Bitcoin flat at $66,299 (-1.3% on 24h), ETH at $1,922 (-2.5%). The late-session weakness in equities heading into Friday could set up a cautious tone for the week's final trading day.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-19T00:00+08:00",
-    "title": "Midnight Asia Crossover",
-    "commentary": "Crypto caught a late bid as Bitcoin climbed to $67,733 (+0.7%) and Ethereum pushed toward $1,989 (+1.3%), recovering from earlier weakness as Asian overnight flows turned constructive. U.S. equities closed the Presidents' Day-shortened Tuesday session mixed \u2014 S&P 500 and Nasdaq barely green, Dow flat \u2014 with the \"sell everything American\" call from a veteran strategist keeping a lid on enthusiasm. Gold stabilized just below $5,000 after its Iran-diplomacy-driven selloff, with analysts calling the pullback corrective and dip-buying interest building. Oil remains caught between Vance's military-action rhetoric on Iran and persistent oversupply concerns, while natural gas slipped under $3 on mild weather forecasts.",
-    "movers": [
-      {
-        "symbol": "Ethereum",
-        "change": "+1.3%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-1.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.3%"
       }
     ]
   }
