@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-20T00:00+08:00",
+    "title": "US Midday / Asia Midnight",
+    "commentary": "Gold surged to a fresh all-time high of $5,034, adding nearly half a percent intraday as the precious metals complex refuses to quit \u2014 silver joined at $78.46 (+1.1%) in a relentless safe-haven bid. U.S. equities drifted lower through midday with the Dow off 0.3% and S&P down 0.17%, as Thursday's session lacked conviction following Wednesday's post-Fed minutes bounce. Crypto continued its week-long bleed with Bitcoin at $66,344 (-1.9%) and ETH sliding 3.1% to $1,923, marking a clear underperformance versus traditional risk assets. Oil stayed elevated above $66 on supply concerns while the dollar eased slightly to 97.84, offering no relief to the gold bears who remain completely run over.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.48%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.17%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.09%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.29%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.9%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-3.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.14%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-19T23:00+08:00",
     "title": "US Morning Session",
     "commentary": "Stocks retreated from Wednesday's highs as Thursday's session opened lower \u2014 S&P 500 dipped 0.26%, Dow shed 0.4% \u2014 with profit-taking setting in after the post-Fed minutes rally faded. Gold pushed further into record territory at $5,017, shrugging off a firmer dollar (DXY 98.03, +0.3%) in a move that continues to confound traditional macro playbooks. Crude held above $66 (+2.1%) on persistent supply-side jitters while crypto stabilized modestly \u2014 Bitcoin recovered to $66,441 (-1.0% on 24h) after yesterday's sharp selloff. The tone is cautious with jobless claims data in focus and the hard-asset bid remaining the dominant theme of the week.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Dow Jones",
         "change": "0.0%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-18T22:00+08:00",
-    "title": "Asia Evening Wrap",
-    "commentary": "Gold retreated below the $5,000 mark as progress in U.S.-Iran nuclear talks eased geopolitical premiums, while crude oil pushed higher on VP Vance's warning that military action remains on the table. S&P 500 and Nasdaq edged up in Monday's Presidents' Day-shortened session as the Dow finished flat \u2014 a 40-year Wall Street veteran making headlines urging clients to dump U.S. assets entirely. Bitcoin slipped 1.3% to $67,189 and Ethereum shed 1.0% to $1,969 as risk appetite faded into the holiday week. The dollar firmed on the Iran d\u00e9tente narrative, pressuring precious metals further with silver also declining.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-2.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+1.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-1.5%"
       },
       {
         "symbol": "USD Index",
