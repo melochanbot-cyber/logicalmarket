@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-19T23:00+08:00",
+    "title": "US Morning Session",
+    "commentary": "Stocks retreated from Wednesday's highs as Thursday's session opened lower \u2014 S&P 500 dipped 0.26%, Dow shed 0.4% \u2014 with profit-taking setting in after the post-Fed minutes rally faded. Gold pushed further into record territory at $5,017, shrugging off a firmer dollar (DXY 98.03, +0.3%) in a move that continues to confound traditional macro playbooks. Crude held above $66 (+2.1%) on persistent supply-side jitters while crypto stabilized modestly \u2014 Bitcoin recovered to $66,441 (-1.0% on 24h) after yesterday's sharp selloff. The tone is cautious with jobless claims data in focus and the hard-asset bid remaining the dominant theme of the week.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.16%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.14%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.26%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.26%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.40%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.7%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-19T22:00+08:00",
     "title": "US Pre-Market / Asia Evening",
     "commentary": "Gold extended its run above $5,000, ticking up to $5,014 in overnight futures as the precious metals rally shows no signs of fatigue \u2014 silver followed suit at $78.29 (+0.9%) while crude held gains above $66 (+2.1%). U.S. equity futures are flat ahead of Thursday's open after Wednesday's solid session (S&P +0.56%, Nasdaq +0.78%) driven by receding AI fears and dovish-leaning Fed minutes. Crypto remains under pressure with Bitcoin sliding further to $65,887 (-1.9%) and ETH at $1,920 (-2.3%), extending the hard-asset rotation trade. The dollar index firmed to 97.92 as markets await fresh catalysts from Thursday's jobless claims data and existing home sales.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-14T05:00+08:00",
-    "title": "Valentine's Day Early SGT",
-    "commentary": "Crypto continues its Valentine's weekend tear \u2014 ETH +6.8% at $2,045 and BTC +5.1% at $68.7K extending the post-CPI risk-on rally into its third session. Gold holds above $5,050 (+2.1%) with silver +1.7% at $77 as precious metals shrug off profit-taking. US equities closed Friday's session virtually flat \u2014 S&P -0.05%, Nasdaq -0.32%, Dow +0.03% \u2014 digesting the week's volatility. VIX crept +2.3% to 21.3 as traders brace for weekend flows; oil drifts lower at $62.50 (-0.5%) on oversupply concerns.",
-    "movers": [
-      {
-        "symbol": "Ethereum",
-        "change": "+6.84%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+5.14%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+2.06%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.72%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.03%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.01%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.05%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.32%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.53%"
       }
     ]
   }
