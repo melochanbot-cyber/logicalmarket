@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2026-02-20T10:00-05:00",
+    "title": "After Hours",
+    "commentary": "US markets closed. Data feed offline pending API configuration. Weekend trading in crypto and futures continues overseas.",
+    "movers": []
+  },
+  {
     "timestamp": "2026-02-20T09:01-05:00",
     "title": "After Hours",
     "commentary": "Market data feed offline. US markets closed for the day. Live commentary will resume when API connectivity is restored.",
@@ -272,49 +278,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-19T05:00+08:00",
-    "title": "Post-Close Extended Session",
-    "commentary": "The commodity complex stole the show in late U.S. trading \u2014 gold consolidated above $5,000 at $5,004 (+2.0%), silver ripped 4.9%, and crude surged 5% past $65 on escalating supply risks. Equities extended gains into the close with the Nasdaq leading at +0.78% as AI worries receded and Fed minutes confirmed a patient rate stance. Crypto continues to bleed in the opposite direction \u2014 Bitcoin down 2.2% to $66,253 and ETH off 2.7% \u2014 underperforming as institutional flows rotate into precious metals. The dollar index held firm at 97.73 (+0.6%), making gold's breakout above the psychological $5,000 level all the more impressive against a strengthening greenback.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+2.0%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+4.9%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+5.0%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.56%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.78%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.26%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.2%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.7%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.6%"
       }
     ]
   }
