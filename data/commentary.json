@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2026-02-20T14:00-05:00",
+    "title": "Weekend Session",
+    "commentary": "Saturday overnight. Equity desks dark until Monday. Crypto markets active globally. Live data feed awaiting API configuration.",
+    "movers": []
+  },
+  {
     "timestamp": "2026-02-20T13:00-05:00",
     "title": "Weekend Session",
     "commentary": "Friday trading wrapped. US indices closed mixed; crypto trading overnight. Data feed offline\u2014live prices resume when API is configured.",
@@ -120,49 +126,6 @@
       {
         "symbol": "Ethereum",
         "change": "-2.7%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.19%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-20T01:00+08:00",
-    "title": "US Afternoon Selloff",
-    "commentary": "Equities accelerated to the downside into the afternoon \u2014 S&P 500 fell 0.41%, Dow dropped 0.58% \u2014 as the early-session drift became a proper risk-off move with no single catalyst, just fading momentum after a week of mixed signals. Gold pulled back from its $5,034 intraday high but held above $5,020 (+0.23%), consolidating at nosebleed levels as bulls refuse to give ground. Crude oil remained the week's standout performer at $66.61 (+2.4%) while crypto treaded water \u2014 Bitcoin flat at $66,299 (-1.3% on 24h), ETH at $1,922 (-2.5%). The late-session weakness in equities heading into Friday could set up a cautious tone for the week's final trading day.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.23%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.32%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+2.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.41%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.37%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.58%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.5%"
       },
       {
         "symbol": "USD Index",
