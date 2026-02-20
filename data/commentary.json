@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2026-02-20T11:00-05:00",
+    "title": "Weekend Session",
+    "commentary": "US equity markets closed for the weekend. Crypto trades 24/7 while futures resume Sunday evening. Data feed offline pending API restoration.",
+    "movers": []
+  },
+  {
     "timestamp": "2026-02-20T10:00-05:00",
     "title": "After Hours",
     "commentary": "US markets closed. Data feed offline pending API configuration. Weekend trading in crypto and futures continues overseas.",
@@ -235,49 +241,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-19T22:00+08:00",
-    "title": "US Pre-Market / Asia Evening",
-    "commentary": "Gold extended its run above $5,000, ticking up to $5,014 in overnight futures as the precious metals rally shows no signs of fatigue \u2014 silver followed suit at $78.29 (+0.9%) while crude held gains above $66 (+2.1%). U.S. equity futures are flat ahead of Thursday's open after Wednesday's solid session (S&P +0.56%, Nasdaq +0.78%) driven by receding AI fears and dovish-leaning Fed minutes. Crypto remains under pressure with Bitcoin sliding further to $65,887 (-1.9%) and ETH at $1,920 (-2.3%), extending the hard-asset rotation trade. The dollar index firmed to 97.92 as markets await fresh catalysts from Thursday's jobless claims data and existing home sales.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.09%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.56%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.78%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.26%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
       }
     ]
   }
