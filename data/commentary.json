@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-20T16:00:00-05:00",
+    "title": "Friday Close",
+    "commentary": "Wall Street ended the week on a high: S&P 500 +1.9%, Nasdaq +2.2%, Dow +1.5% as SCOTUS tariff bombshell fueled a furious rally before the bell. Gold reversed losses to gain 1.1% after Trump fired back with fresh 10% global duties. Dollar retreated on the ruling while Bitcoin held steady near $67,700. Next week: Nvidia earnings, Trump's tariff retaliation, and Iran strike headlines loom large.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+1.9%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+2.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+1.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-20T15:00:00-05:00",
     "title": "Friday Close",
     "commentary": "Supreme Court stunner: Trump tariffs struck down 6-3, sending S&P 500 surging in late-session euphoria before POTUS countered with fresh 10% global levy. Q4 GDP disappointed at 1.4% vs 2.2% expected; PCE inflation sticky at 3%. Gold pared gains on ruling, dollar set for best week since October. Oil steady near $66 as White House mulls limited Iran strike.",
@@ -89,48 +132,5 @@
     "title": "Market Update",
     "commentary": "Market data temporarily unavailable due to API configuration. Dashboard will resume live updates once connectivity is restored.",
     "movers": []
-  },
-  {
-    "timestamp": "2026-02-20T03:00+08:00",
-    "title": "Thursday Close / Asia Early Morning",
-    "commentary": "U.S. equities finished Thursday's session in the red \u2014 Dow down 0.66%, S&P 500 off 0.39% \u2014 as the post-Fed bounce ran out of steam in a broad-based retreat. Gold slipped below the psychological $5,000 level to close at exactly $5,000 (-0.19%), offering the bulls a crucial test after this week's historic run. Oil continued defying gravity at $66.53 (+2.3%) on persistent supply fears while crypto staged a modest overnight recovery \u2014 Bitcoin rallied back to $66,927 (+0.9% on 24h), though Ethereum lagged at $1,937 (-0.8%). The close sets up a pivotal Friday with gold defending the $5K handle and equities searching for direction after two days of chop.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.19%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.16%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+2.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.39%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.40%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.66%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.13%"
-      }
-    ]
   }
 ]
