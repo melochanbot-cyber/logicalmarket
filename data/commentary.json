@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2026-02-20T09:01-05:00",
+    "title": "After Hours",
+    "commentary": "Market data feed offline. US markets closed for the day. Live commentary will resume when API connectivity is restored.",
+    "movers": []
+  },
+  {
     "timestamp": "2026-02-19T16:00-05:00",
     "title": "Pre-Market Update",
     "commentary": "Market data feed temporarily offline. Live market commentary will resume once API connectivity is restored. Dashboard remains operational.",
@@ -305,49 +311,6 @@
       {
         "symbol": "Ethereum",
         "change": "-2.7%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.6%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-19T04:00+08:00",
-    "title": "Overnight US Close Recap",
-    "commentary": "Wall Street closed modestly higher with Nvidia leading a tech rally \u2014 S&P 500 +0.35%, Nasdaq +0.52% \u2014 as traders digested Fed minutes showing policymakers in no rush to cut rates further. The real fireworks were in commodities: gold punched through $5,000 to close at $5,001 (+1.9%), silver surged 4.4%, and crude oil jumped 4.3% on escalating geopolitical tensions and supply concerns. Crypto went the opposite direction \u2014 Bitcoin slid 2.5% to $66,077 and ETH dropped 3.3% to $1,932 in a clear risk-rotation into hard assets. The dollar index firmed 0.6% to 97.72, adding to gold's remarkable run that now defies traditional correlations.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.9%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+4.4%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+4.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.35%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.52%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.13%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.3%"
       },
       {
         "symbol": "USD Index",
