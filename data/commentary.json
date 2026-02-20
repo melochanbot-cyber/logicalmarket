@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2026-02-20T13:00-05:00",
+    "title": "Weekend Session",
+    "commentary": "Friday trading wrapped. US indices closed mixed; crypto trading overnight. Data feed offline\u2014live prices resume when API is configured.",
+    "movers": []
+  },
+  {
     "timestamp": "2026-02-20T12:00-05:00",
     "title": "Weekend Session",
     "commentary": "Markets quiet as Wall Street sleeps. Crypto continues 24/7 trading; futures await Sunday's Asia open. Live data feed offline pending configuration.",
@@ -161,49 +167,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.19%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-20T00:00+08:00",
-    "title": "US Midday / Asia Midnight",
-    "commentary": "Gold surged to a fresh all-time high of $5,034, adding nearly half a percent intraday as the precious metals complex refuses to quit \u2014 silver joined at $78.46 (+1.1%) in a relentless safe-haven bid. U.S. equities drifted lower through midday with the Dow off 0.3% and S&P down 0.17%, as Thursday's session lacked conviction following Wednesday's post-Fed minutes bounce. Crypto continued its week-long bleed with Bitcoin at $66,344 (-1.9%) and ETH sliding 3.1% to $1,923, marking a clear underperformance versus traditional risk assets. Oil stayed elevated above $66 on supply concerns while the dollar eased slightly to 97.84, offering no relief to the gold bears who remain completely run over.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.48%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.17%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.09%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.29%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.14%"
       }
     ]
   }
