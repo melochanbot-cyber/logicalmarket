@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23T14:31:14Z",
+  "updatedAt": "2026-02-23T16:38:43Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -17,14 +17,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "4-week change: -1bps (current: 0.41%)"
+          "detail": "4-week change: -1bps (current: 0.40%)"
         },
         {
           "name": "MA Overextension",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+10.5% above 50-day MA"
+          "detail": "+11.7% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 3.35%"
+          "detail": "20-day volatility: 3.42%"
         }
       ],
       "recommendation": "High risk. Consider reducing exposure by 25-50%."
@@ -52,28 +52,28 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 20.0 (threshold: 25)"
+          "detail": "VIX at 21.4 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "10Y-2Y spread: 0.05% "
+          "detail": "10Y-2Y spread: 0.04% "
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "+5.7% vs 200-day MA"
+          "detail": "+4.7% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -3.7%"
+          "detail": "VIX 1-week change: +2.7%"
         },
         {
           "name": "Market Breadth",
@@ -94,14 +94,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 20.0"
+          "detail": "VIX at 21.4"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+4.4% vs 200-day MA"
+          "detail": "+3.3% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: +2.8%, 30d: -3.4%"
+          "detail": "60d: +2.8%, 30d: -4.4%"
         },
         {
           "name": "Volatility Spike",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "20-day vol: 1.91%"
+          "detail": "20-day vol: 1.95%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-33.0% vs 200-day MA"
+          "detail": "-33.6% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "30-day volatility: 10.82%"
+          "detail": "30-day volatility: 10.85%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -4.4%, 30d: -23.7%"
+          "detail": "60d gain: -4.4%, 30d: -24.3%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -24.3%, NDX: -0.7%"
+          "detail": "BTC: -25.0%, NDX: -1.7%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-47.0% from all-time high"
+          "detail": "-47.5% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
