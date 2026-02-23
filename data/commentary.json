@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-23T11:00:00-05:00",
+    "title": "Midday Selloff",
+    "commentary": "Tariff turmoil intensifies: Dow craters 600+ points (-1.4%), S&P down 1%, Nasdaq off 1.2% as Trump's 15% global levy sparks chaos and VIX flashes warning signals. Crypto carnage continues\u2014Bitcoin slumps to $65,800 as hedge funds dump ETF positions, Ethereum off 3%. Gold emerges as the clear winner, surging 1.7% to $5,196 while silver rips 2.5%. Dollar holds at 97.65 despite risk-off as Fed Chair Warsh's hawkish stance caps supply concerns.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.7%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-4.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-3.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-23T10:00:00-05:00",
     "title": "Morning Update",
     "commentary": "Risk-off mood deepens: Dow sheds 400 points (-0.8%), S&P and Nasdaq slip 0.4% as Trump's new 15% tariffs rattle trade desks. Bitcoin in freefall\u2014down to $66K as hedge funds flee crypto ETFs amid 2026's brutal rout. Safe havens shine: gold surges 1.5% to $5,188, silver rips 3.1%. Dollar holds firm at 97.6 as traders eye Iran-US talks and Fed Chair Warsh's hawkish balance sheet stance.",
@@ -199,12 +242,6 @@
     "timestamp": "2026-02-20T10:00-05:00",
     "title": "After Hours",
     "commentary": "US markets closed. Data feed offline pending API configuration. Weekend trading in crypto and futures continues overseas.",
-    "movers": []
-  },
-  {
-    "timestamp": "2026-02-20T09:01-05:00",
-    "title": "After Hours",
-    "commentary": "Market data feed offline. US markets closed for the day. Live commentary will resume when API connectivity is restored.",
     "movers": []
   }
 ]
