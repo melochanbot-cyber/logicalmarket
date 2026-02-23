@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-23T14:00:00-05:00",
+    "title": "Late Session",
+    "commentary": "Markets stabilize near session lows: Dow holds -1.5% at 48,890, S&P and Nasdaq both off ~1% as selling exhaustion sets in. Silver explodes 3.6%, gold pushes 2% higher to $5,211 as haven trade intensifies. Crypto finds footing\u2014Bitcoin bounces to $64,700 though still down 5.5% on the day. Oil slides deeper into red (-0.5%) on demand destruction fears. Nat gas tumbles 2% as storm premium fades.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+2.0%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+3.6%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-5.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-4.9%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-23T13:00:00-05:00",
     "title": "Afternoon Selloff",
     "commentary": "Selling pressure persists into afternoon: Dow off 1.5% near session lows, Russell 2000 small-caps crater -2.3% as tariff fallout ripples through risk assets. Crypto bloodbath deepens\u2014Bitcoin sinks to $64,500 (-5.8%), Ethereum down 5.5% as institutional exodus accelerates. Oil slides into negative territory (-0.4%) on global growth fears. Gold holds firm at $5,208 (+1.9%), silver rips 2.8% as haven flows dominate.",
@@ -310,12 +353,6 @@
     "timestamp": "2026-02-20T13:00-05:00",
     "title": "Weekend Session",
     "commentary": "Friday trading wrapped. US indices closed mixed; crypto trading overnight. Data feed offline\u2014live prices resume when API is configured.",
-    "movers": []
-  },
-  {
-    "timestamp": "2026-02-20T12:00-05:00",
-    "title": "Weekend Session",
-    "commentary": "Markets quiet as Wall Street sleeps. Crypto continues 24/7 trading; futures await Sunday's Asia open. Live data feed offline pending configuration.",
     "movers": []
   }
 ]
