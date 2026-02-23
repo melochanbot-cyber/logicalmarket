@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-23T17:00:00-05:00",
+    "title": "After Hours",
+    "commentary": "Wall Street licks wounds after brutal session: S&P closed down 1.1%, Nasdaq off 1.2%, Dow surrendered 1.3% as Trump tariff fallout continued to hammer sentiment. Precious metals had a monster day\u2014gold surged 3.3% to $5,248 while silver went parabolic with a 7.6% spike to $88.60, the safe-haven trade in full force. Crypto bleeding persists overnight: Bitcoin hovers at $64,350 (-5%), ETH down 5.2% as hedge funds accelerate their ETF exodus. Oil flat at $66.40, DXY steady at 97.7.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+3.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+7.6%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-5.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-5.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-23T16:00:00-05:00",
     "title": "Market Close",
     "commentary": "Tariff hangover persists into the close: S&P sheds 1.2% while Nasdaq drops 1.4% as Trump's 15% levy fallout continues rattling risk assets. Precious metals steal the show\u2014gold rockets 3.1% to $5,237, silver explodes 6.3% to $87.50 in a stunning haven bid. Crypto carnage unabated as Bitcoin slides 5% to $64,200, hedge fund ETF exodus accelerating. Dollar inches lower at 97.7, oil flat near $66 as trade war fears offset geopolitical premiums.",
@@ -385,11 +428,5 @@
         "change": "+0.6%"
       }
     ]
-  },
-  {
-    "timestamp": "2026-02-20T14:00-05:00",
-    "title": "Weekend Session",
-    "commentary": "Saturday overnight. Equity desks dark until Monday. Crypto markets active globally. Live data feed awaiting API configuration.",
-    "movers": []
   }
 ]
