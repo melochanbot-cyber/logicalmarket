@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-23T13:00:00-05:00",
+    "title": "Afternoon Selloff",
+    "commentary": "Selling pressure persists into afternoon: Dow off 1.5% near session lows, Russell 2000 small-caps crater -2.3% as tariff fallout ripples through risk assets. Crypto bloodbath deepens\u2014Bitcoin sinks to $64,500 (-5.8%), Ethereum down 5.5% as institutional exodus accelerates. Oil slides into negative territory (-0.4%) on global growth fears. Gold holds firm at $5,208 (+1.9%), silver rips 2.8% as haven flows dominate.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.9%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-5.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-5.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-23T12:00:00-05:00",
     "title": "Lunchtime Rout",
     "commentary": "Carnage on Wall Street: Dow plunges 800 points (-1.5%) as Trump's 15% global tariff shock triggers broad-based selling. Russell 2000 small-caps hammered -2%, S&P and Nasdaq both down over 1%. Bitcoin slides further to $65,300 as crypto exodus accelerates. Gold the lone bright spot, surging 2% to fresh highs near $5,210. Oil fades to flat as demand fears offset Iran tensions.",
@@ -273,12 +316,6 @@
     "timestamp": "2026-02-20T12:00-05:00",
     "title": "Weekend Session",
     "commentary": "Markets quiet as Wall Street sleeps. Crypto continues 24/7 trading; futures await Sunday's Asia open. Live data feed offline pending configuration.",
-    "movers": []
-  },
-  {
-    "timestamp": "2026-02-20T11:00-05:00",
-    "title": "Weekend Session",
-    "commentary": "US equity markets closed for the weekend. Crypto trades 24/7 while futures resume Sunday evening. Data feed offline pending API restoration.",
     "movers": []
   }
 ]
