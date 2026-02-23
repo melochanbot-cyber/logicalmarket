@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-23T09:00:00-05:00",
+    "title": "Monday Open",
+    "commentary": "Fresh week, fresh tariff chaos: Trump hikes global duties to 15% after SCOTUS slap-down, Dow futures sink 200 points and Bitcoin tumbles 5% to $66,150 as risk-off grips markets. Gold shines at $5,148 (+0.8%), safe-haven bid intact while silver surges 1.7%. Pharma wreck: Novo Nordisk crashes 15% as weight-loss drug trial falls flat vs Eli Lilly. DXY steady at 97.7 as traders brace for more White House salvos.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.7%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-5.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+1.9%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-20T16:00:00-05:00",
     "title": "Friday Close",
     "commentary": "Wall Street ended the week on a high: S&P 500 +1.9%, Nasdaq +2.2%, Dow +1.5% as SCOTUS tariff bombshell fueled a furious rally before the bell. Gold reversed losses to gain 1.1% after Trump fired back with fresh 10% global duties. Dollar retreated on the ruling while Bitcoin held steady near $67,700. Next week: Nvidia earnings, Trump's tariff retaliation, and Iran strike headlines loom large.",
@@ -125,12 +168,6 @@
     "timestamp": "2026-02-19T16:00-05:00",
     "title": "Pre-Market Update",
     "commentary": "Market data feed temporarily offline. Live market commentary will resume once API connectivity is restored. Dashboard remains operational.",
-    "movers": []
-  },
-  {
-    "timestamp": "2026-02-19T15:00-05:00",
-    "title": "Market Update",
-    "commentary": "Market data temporarily unavailable due to API configuration. Dashboard will resume live updates once connectivity is restored.",
     "movers": []
   }
 ]
