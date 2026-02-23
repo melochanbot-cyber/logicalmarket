@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-23T16:00:00-05:00",
+    "title": "Market Close",
+    "commentary": "Tariff hangover persists into the close: S&P sheds 1.2% while Nasdaq drops 1.4% as Trump's 15% levy fallout continues rattling risk assets. Precious metals steal the show\u2014gold rockets 3.1% to $5,237, silver explodes 6.3% to $87.50 in a stunning haven bid. Crypto carnage unabated as Bitcoin slides 5% to $64,200, hedge fund ETF exodus accelerating. Dollar inches lower at 97.7, oil flat near $66 as trade war fears offset geopolitical premiums.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+3.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+6.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-5.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-5.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-23T14:00:00-05:00",
     "title": "Late Session",
     "commentary": "Markets stabilize near session lows: Dow holds -1.5% at 48,890, S&P and Nasdaq both off ~1% as selling exhaustion sets in. Silver explodes 3.6%, gold pushes 2% higher to $5,211 as haven trade intensifies. Crypto finds footing\u2014Bitcoin bounces to $64,700 though still down 5.5% on the day. Oil slides deeper into red (-0.5%) on demand destruction fears. Nat gas tumbles 2% as storm premium fades.",
@@ -347,12 +390,6 @@
     "timestamp": "2026-02-20T14:00-05:00",
     "title": "Weekend Session",
     "commentary": "Saturday overnight. Equity desks dark until Monday. Crypto markets active globally. Live data feed awaiting API configuration.",
-    "movers": []
-  },
-  {
-    "timestamp": "2026-02-20T13:00-05:00",
-    "title": "Weekend Session",
-    "commentary": "Friday trading wrapped. US indices closed mixed; crypto trading overnight. Data feed offline\u2014live prices resume when API is configured.",
     "movers": []
   }
 ]
