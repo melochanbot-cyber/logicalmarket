@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-23T12:00:00-05:00",
+    "title": "Lunchtime Rout",
+    "commentary": "Carnage on Wall Street: Dow plunges 800 points (-1.5%) as Trump's 15% global tariff shock triggers broad-based selling. Russell 2000 small-caps hammered -2%, S&P and Nasdaq both down over 1%. Bitcoin slides further to $65,300 as crypto exodus accelerates. Gold the lone bright spot, surging 2% to fresh highs near $5,210. Oil fades to flat as demand fears offset Iran tensions.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+2.0%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.6%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-4.7%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-3.7%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-23T11:00:00-05:00",
     "title": "Midday Selloff",
     "commentary": "Tariff turmoil intensifies: Dow craters 600+ points (-1.4%), S&P down 1%, Nasdaq off 1.2% as Trump's 15% global levy sparks chaos and VIX flashes warning signals. Crypto carnage continues\u2014Bitcoin slumps to $65,800 as hedge funds dump ETF positions, Ethereum off 3%. Gold emerges as the clear winner, surging 1.7% to $5,196 while silver rips 2.5%. Dollar holds at 97.65 despite risk-off as Fed Chair Warsh's hawkish stance caps supply concerns.",
@@ -236,12 +279,6 @@
     "timestamp": "2026-02-20T11:00-05:00",
     "title": "Weekend Session",
     "commentary": "US equity markets closed for the weekend. Crypto trades 24/7 while futures resume Sunday evening. Data feed offline pending API restoration.",
-    "movers": []
-  },
-  {
-    "timestamp": "2026-02-20T10:00-05:00",
-    "title": "After Hours",
-    "commentary": "US markets closed. Data feed offline pending API configuration. Weekend trading in crypto and futures continues overseas.",
     "movers": []
   }
 ]
