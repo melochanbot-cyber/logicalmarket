@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-24T10:00:00-05:00",
+    "title": "Morning Session",
+    "commentary": "Equities bounce off Monday's tariff-driven lows: Dow climbs 0.5% to 49,024, S&P edges higher as dip-buyers emerge. Gold extends pullback (-1.4%) to $5,151 after Monday's 3% moonshot, profit-taking inevitable. Crypto stabilizes with Bitcoin finding support at $63,600 after testing sub-$63K overnight\u2014still down 6% from Friday's close. Silver holds green (+0.5%) outperforming gold as industrial demand narrative resurfaces. Dollar firms 0.2% as traders await fresh tariff salvos from the White House.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-24T09:00:00-05:00",
     "title": "Tuesday Open",
     "commentary": "Fresh selling grips markets at the Tuesday bell: Bitcoin plunges below $63K as crypto rout deepens, down 7% from Friday's levels with hedge fund ETF exodus accelerating. Gold pulls back 1.5% to $5,145 after Monday's monster 3% rally, profit-taking inevitable after the safe-haven stampede. Oil catches a bid (+0.8%) on Iran strike jitters while the dollar firms 0.2% to 97.9. Asian markets mixed overnight\u2014Nikkei +0.9%, but Hong Kong sinks 1.8% as tariff contagion spreads.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-20T16:00:00-05:00",
-    "title": "Friday Close",
-    "commentary": "Wall Street ended the week on a high: S&P 500 +1.9%, Nasdaq +2.2%, Dow +1.5% as SCOTUS tariff bombshell fueled a furious rally before the bell. Gold reversed losses to gain 1.1% after Trump fired back with fresh 10% global duties. Dollar retreated on the ruling while Bitcoin held steady near $67,700. Next week: Nvidia earnings, Trump's tariff retaliation, and Iran strike headlines loom large.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.1%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+1.9%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+2.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+1.5%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.0%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.3%"
       }
     ]
   }
