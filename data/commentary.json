@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-24T09:00:00-05:00",
+    "title": "Tuesday Open",
+    "commentary": "Fresh selling grips markets at the Tuesday bell: Bitcoin plunges below $63K as crypto rout deepens, down 7% from Friday's levels with hedge fund ETF exodus accelerating. Gold pulls back 1.5% to $5,145 after Monday's monster 3% rally, profit-taking inevitable after the safe-haven stampede. Oil catches a bid (+0.8%) on Iran strike jitters while the dollar firms 0.2% to 97.9. Asian markets mixed overnight\u2014Nikkei +0.9%, but Hong Kong sinks 1.8% as tariff contagion spreads.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-23T17:00:00-05:00",
     "title": "After Hours",
     "commentary": "Wall Street licks wounds after brutal session: S&P closed down 1.1%, Nasdaq off 1.2%, Dow surrendered 1.3% as Trump tariff fallout continued to hammer sentiment. Precious metals had a monster day\u2014gold surged 3.3% to $5,248 while silver went parabolic with a 7.6% spike to $88.60, the safe-haven trade in full force. Crypto bleeding persists overnight: Bitcoin hovers at $64,350 (-5%), ETH down 5.2% as hedge funds accelerate their ETF exodus. Oil flat at $66.40, DXY steady at 97.7.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-20T15:00:00-05:00",
-    "title": "Friday Close",
-    "commentary": "Supreme Court stunner: Trump tariffs struck down 6-3, sending S&P 500 surging in late-session euphoria before POTUS countered with fresh 10% global levy. Q4 GDP disappointed at 1.4% vs 2.2% expected; PCE inflation sticky at 3%. Gold pared gains on ruling, dollar set for best week since October. Oil steady near $66 as White House mulls limited Iran strike.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+1.8%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+1.4%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.6%"
       }
     ]
   }
