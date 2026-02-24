@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-24T15:00:00-05:00",
+    "title": "Late Afternoon",
+    "commentary": "Markets grind higher into final hour: S&P climbs 0.9% to 49,380, Nasdaq jumps 1.0% as Monday's tariff panic fully reverses. Gold extends correction (-0.7%) to $5,192 as safe-haven unwind accelerates, but silver holds gains (+1.2%) at $88.10 on resilient industrial demand. Bitcoin stabilizes at $64,480 (+0.3%) as selling pressure eases\u2014early adopter whale dumps absorbed. Oil flat at $66.12 as geopolitical premium fades. Dollar steady at 97.82 as risk appetite returns.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.0%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-24T14:00:00-05:00",
     "title": "Late Session",
     "commentary": "Bulls running strong into the close: Dow up 0.9% to 49,254, S&P gains 0.8% as risk appetite fully reverses Monday's tariff rout. Bitcoin bounces to $64,428 (+0.3%) unfazed by Putin signing law allowing Russian courts to confiscate crypto\u2014geopolitical noise shrugged off. Silver cools slightly but holds green (+0.8%) at $87.30 while gold treads water (-0.9%) at $5,178. Oil pares losses to -0.4% at $66. Dollar firm at 97.84 as equity rally dominates FX flows.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-4.9%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-23T13:00:00-05:00",
-    "title": "Afternoon Selloff",
-    "commentary": "Selling pressure persists into afternoon: Dow off 1.5% near session lows, Russell 2000 small-caps crater -2.3% as tariff fallout ripples through risk assets. Crypto bloodbath deepens\u2014Bitcoin sinks to $64,500 (-5.8%), Ethereum down 5.5% as institutional exodus accelerates. Oil slides into negative territory (-0.4%) on global growth fears. Gold holds firm at $5,208 (+1.9%), silver rips 2.8% as haven flows dominate.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.9%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-5.8%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-5.5%"
       },
       {
         "symbol": "USD Index",
