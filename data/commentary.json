@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-24T16:00:00-05:00",
+    "title": "Market Close",
+    "commentary": "Bulls close strong on Tuesday: S&P finishes up 1.0% at 49,427, Dow gains 0.9% to 49,276 as Monday's tariff rout becomes a distant memory. Gold settles back (-0.6%) to $5,198 in healthy profit-taking after 3% Monday surge, while silver outshines (+1.4%) at $88.30 on dual haven-industrial appeal. Bitcoin finds footing at $64,520 (+0.4%) as whale supply shock digests\u2014ETF flows stabilizing. Oil flat at $66.15, dollar steady at 97.83 as risk-on sentiment dominates the close.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.4%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.0%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-24T15:00:00-05:00",
     "title": "Late Afternoon",
     "commentary": "Markets grind higher into final hour: S&P climbs 0.9% to 49,380, Nasdaq jumps 1.0% as Monday's tariff panic fully reverses. Gold extends correction (-0.7%) to $5,192 as safe-haven unwind accelerates, but silver holds gains (+1.2%) at $88.10 on resilient industrial demand. Bitcoin stabilizes at $64,480 (+0.3%) as selling pressure eases\u2014early adopter whale dumps absorbed. Oil flat at $66.12 as geopolitical premium fades. Dollar steady at 97.82 as risk appetite returns.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-23T14:00:00-05:00",
-    "title": "Late Session",
-    "commentary": "Markets stabilize near session lows: Dow holds -1.5% at 48,890, S&P and Nasdaq both off ~1% as selling exhaustion sets in. Silver explodes 3.6%, gold pushes 2% higher to $5,211 as haven trade intensifies. Crypto finds footing\u2014Bitcoin bounces to $64,700 though still down 5.5% on the day. Oil slides deeper into red (-0.5%) on demand destruction fears. Nat gas tumbles 2% as storm premium fades.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+2.0%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+3.6%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-5.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-4.9%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.2%"
       }
     ]
   }
