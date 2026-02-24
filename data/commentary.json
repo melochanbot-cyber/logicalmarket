@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-24T13:00:00-05:00",
+    "title": "Afternoon Session",
+    "commentary": "Rally gains momentum into the afternoon: Dow surges 0.9% to 49,223, S&P climbs 0.8% as buyers overwhelm Monday's tariff panic. Silver continues outperforming (+1.6%) to $87.94 while gold pares losses (-0.9%) to $5,178. Bitcoin holds steady at $64,248 as ETF inflows stabilize\u2014break-even traders caught in waiting game. Oil slips 0.8% to $65.76 as demand concerns persist despite Iran tensions. Dollar flat at 97.79 as risk appetite returns.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.6%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-24T12:00:00-05:00",
     "title": "Lunchtime Session",
     "commentary": "Dip-buying continues into lunch: Dow holds 0.7% gains at 49,151, S&P climbs 0.6% as traders shake off tariff jitters. Bitcoin rebounds to $64,220 (+0.4%) with UAE's second-largest bank reportedly eyeing BTC exposure\u2014institutional interest persists despite hedge fund exodus. Gold extends correction (-1.4%) to $5,153 as safe-haven trade unwinds, but silver outperforms (+0.8%). Oil fades 0.6% to $65.93 on demand concerns. Dollar eases to 97.77 after testing highs.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-3.7%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-23T11:00:00-05:00",
-    "title": "Midday Selloff",
-    "commentary": "Tariff turmoil intensifies: Dow craters 600+ points (-1.4%), S&P down 1%, Nasdaq off 1.2% as Trump's 15% global levy sparks chaos and VIX flashes warning signals. Crypto carnage continues\u2014Bitcoin slumps to $65,800 as hedge funds dump ETF positions, Ethereum off 3%. Gold emerges as the clear winner, surging 1.7% to $5,196 while silver rips 2.5%. Dollar holds at 97.65 despite risk-off as Fed Chair Warsh's hawkish stance caps supply concerns.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.7%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.5%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-4.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.1%"
       },
       {
         "symbol": "USD Index",
