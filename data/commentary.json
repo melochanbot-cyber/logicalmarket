@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-24T14:00:00-05:00",
+    "title": "Late Session",
+    "commentary": "Bulls running strong into the close: Dow up 0.9% to 49,254, S&P gains 0.8% as risk appetite fully reverses Monday's tariff rout. Bitcoin bounces to $64,428 (+0.3%) unfazed by Putin signing law allowing Russian courts to confiscate crypto\u2014geopolitical noise shrugged off. Silver cools slightly but holds green (+0.8%) at $87.30 while gold treads water (-0.9%) at $5,178. Oil pares losses to -0.4% at $66. Dollar firm at 97.84 as equity rally dominates FX flows.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-24T13:00:00-05:00",
     "title": "Afternoon Session",
     "commentary": "Rally gains momentum into the afternoon: Dow surges 0.9% to 49,223, S&P climbs 0.8% as buyers overwhelm Monday's tariff panic. Silver continues outperforming (+1.6%) to $87.94 while gold pares losses (-0.9%) to $5,178. Bitcoin holds steady at $64,248 as ETF inflows stabilize\u2014break-even traders caught in waiting game. Oil slips 0.8% to $65.76 as demand concerns persist despite Iran tensions. Dollar flat at 97.79 as risk appetite returns.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-5.5%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-23T12:00:00-05:00",
-    "title": "Lunchtime Rout",
-    "commentary": "Carnage on Wall Street: Dow plunges 800 points (-1.5%) as Trump's 15% global tariff shock triggers broad-based selling. Russell 2000 small-caps hammered -2%, S&P and Nasdaq both down over 1%. Bitcoin slides further to $65,300 as crypto exodus accelerates. Gold the lone bright spot, surging 2% to fresh highs near $5,210. Oil fades to flat as demand fears offset Iran tensions.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+2.0%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.6%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-4.7%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.7%"
       },
       {
         "symbol": "USD Index",
