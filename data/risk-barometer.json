@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23T23:47:47Z",
+  "updatedAt": "2026-02-24T05:13:50Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -10,7 +10,7 @@
           "triggered": true,
           "points": 30,
           "maxPoints": 30,
-          "detail": "Price at 100th percentile (5yr)"
+          "detail": "Price at 99th percentile (5yr)"
         },
         {
           "name": "Real Yields Surge",
@@ -24,21 +24,21 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+12.1% above 50-day MA"
+          "detail": "+10.2% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-0.8% vs 200-MA, rising"
+          "detail": "-0.6% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 3.45%"
+          "detail": "20-day volatility: 3.46%"
         }
       ],
       "recommendation": "High risk. Consider reducing exposure by 25-50%."
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-34.5% vs 200-day MA"
+          "detail": "-35.6% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "30-day volatility: 10.90%"
+          "detail": "30-day volatility: 10.96%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -4.4%, 30d: -25.4%"
+          "detail": "60d gain: -4.4%, 30d: -26.6%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -26.0%, NDX: -1.7%"
+          "detail": "BTC: -27.2%, NDX: -1.7%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-48.2% from all-time high"
+          "detail": "-49.1% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
