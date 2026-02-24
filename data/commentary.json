@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-24T11:00:00-05:00",
+    "title": "Midday Rally",
+    "commentary": "Wall Street extends morning gains as bargain hunters pile in: Dow surges 0.7% to 49,159, S&P up 0.5% clawing back Monday's tariff losses. Silver steals the metals spotlight (+1.5%) to $87.90 while gold continues profit-taking (-1.1%) to $5,170. Bitcoin stabilizes at $63,950 after oldest 2009 whale dumps $1.24B\u2014market digesting the supply shock. Oil slips 0.6% to $65.90 as demand fears override Iran tensions. Dollar holds firm at 97.9 as traders await further tariff clarity.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-24T10:00:00-05:00",
     "title": "Morning Session",
     "commentary": "Equities bounce off Monday's tariff-driven lows: Dow climbs 0.5% to 49,024, S&P edges higher as dip-buyers emerge. Gold extends pullback (-1.4%) to $5,151 after Monday's 3% moonshot, profit-taking inevitable. Crypto stabilizes with Bitcoin finding support at $63,600 after testing sub-$63K overnight\u2014still down 6% from Friday's close. Silver holds green (+0.5%) outperforming gold as industrial demand narrative resurfaces. Dollar firms 0.2% as traders await fresh tariff salvos from the White House.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-23T09:00:00-05:00",
-    "title": "Monday Open",
-    "commentary": "Fresh week, fresh tariff chaos: Trump hikes global duties to 15% after SCOTUS slap-down, Dow futures sink 200 points and Bitcoin tumbles 5% to $66,150 as risk-off grips markets. Gold shines at $5,148 (+0.8%), safe-haven bid intact while silver surges 1.7%. Pharma wreck: Novo Nordisk crashes 15% as weight-loss drug trial falls flat vs Eli Lilly. DXY steady at 97.7 as traders brace for more White House salvos.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.7%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-5.0%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.9%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.1%"
       }
     ]
   }
