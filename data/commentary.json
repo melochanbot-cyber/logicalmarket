@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-25T11:00:00-05:00",
+    "title": "Midday Session",
+    "commentary": "Rally extends into midday: Dow jumps 0.5% to 49,623 as rate-cut hopes resurface after soft housing data. Gold surges to session highs (+0.8%) at $5,240, silver follows (+0.7%) to $88.75 as real yields dip. Crypto remains the laggard\u2014Bitcoin drops to $63,520 (-1.5%) with large exchange inflows signaling more selling pressure ahead. Oil trims gains to +0.3% at $66.35 as dollar steadies. Markets now pricing 60% chance of May Fed cut, up from 45% yesterday.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-25T10:00:00-05:00",
     "title": "Morning Session",
     "commentary": "Early buyers emerge: S&P climbs 0.3% to 49,560 as economic data shows resilient consumer spending despite tariff headwinds. Gold pushes higher (+0.5%) to $5,224 reclaiming ground after Tuesday's profit-taking\u2014haven bid persists. Bitcoin slides further to $63,850 (-1.0%) as Grayscale outflows accelerate; ETH follows at -0.8%. Silver gains traction (+0.4%) to $88.55 on industrial demand narrative. Oil holds +0.5% at $66.50 as traders eye EIA inventory data due this afternoon.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-1.0%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-24T09:00:00-05:00",
-    "title": "Tuesday Open",
-    "commentary": "Fresh selling grips markets at the Tuesday bell: Bitcoin plunges below $63K as crypto rout deepens, down 7% from Friday's levels with hedge fund ETF exodus accelerating. Gold pulls back 1.5% to $5,145 after Monday's monster 3% rally, profit-taking inevitable after the safe-haven stampede. Oil catches a bid (+0.8%) on Iran strike jitters while the dollar firms 0.2% to 97.9. Asian markets mixed overnight\u2014Nikkei +0.9%, but Hong Kong sinks 1.8% as tariff contagion spreads.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.1%"
       },
       {
         "symbol": "USD Index",
