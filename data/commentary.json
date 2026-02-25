@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-25T15:00:00-05:00",
+    "title": "Final Hour",
+    "commentary": "Crypto stages stunning reversal: Bitcoin surges 7.2% to $69,060 as shorts squeeze and ETF inflows accelerate\u2014Ethereum outpaces with 11.8% pop above $2,070. Equities hold gains into the close; Dow +0.6% at 49,480, S&P steady near 49,750. Gold consolidates at $5,220 (+0.4%), silver clings to $89 handle. Oil firm at $67 as API data looms. Risk-on vibes return to digital assets\u2014is this the bottom or a bull trap?",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+7.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+11.8%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-25T14:00:00-05:00",
     "title": "Late Afternoon",
     "commentary": "Rally broadens into final hours: S&P climbs 0.6% to 49,720 with breadth improving\u2014advancers lead decliners 3:1 on NYSE. Oil holds post-EIA gains (+1.0%) at $67.00 as traders bet on tightening supply. Gold steady (+0.5%) at $5,222, silver extends run (+1.2%) to $89.10 on copper sympathy bid. Bitcoin finds tentative floor at $62,000 (-3.8%) but volumes remain elevated\u2014no clear capitulation yet. Fed's Waller speaks at 3pm, markets on watch for rate guidance.",
@@ -375,49 +418,6 @@
       {
         "symbol": "Bitcoin",
         "change": "+0.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-24T13:00:00-05:00",
-    "title": "Afternoon Session",
-    "commentary": "Rally gains momentum into the afternoon: Dow surges 0.9% to 49,223, S&P climbs 0.8% as buyers overwhelm Monday's tariff panic. Silver continues outperforming (+1.6%) to $87.94 while gold pares losses (-0.9%) to $5,178. Bitcoin holds steady at $64,248 as ETF inflows stabilize\u2014break-even traders caught in waiting game. Oil slips 0.8% to $65.76 as demand concerns persist despite Iran tensions. Dollar flat at 97.79 as risk appetite returns.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.6%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.0%"
       },
       {
         "symbol": "Ethereum",
