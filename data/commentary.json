@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-25T12:00:00-05:00",
+    "title": "Lunchtime",
+    "commentary": "Markets hold gains into lunch: S&P up 0.5% at 49,675 as tech leads with Nvidia +2.3% on AI chip demand. Gold consolidates near highs (+0.7%) at $5,235, silver outperforms (+1.0%) at $88.95 as industrial metals catch bid. Crypto bloodbath deepens\u2014Bitcoin crashes through $63K support to $62,800 (-2.6%), ETH down 2.2% as leveraged longs get liquidated. EIA crude data due in an hour; oil steady +0.2% at $66.28. Dollar index slips 0.2% to 97.65 on rate-cut repricing.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-25T11:00:00-05:00",
     "title": "Midday Session",
     "commentary": "Rally extends into midday: Dow jumps 0.5% to 49,623 as rate-cut hopes resurface after soft housing data. Gold surges to session highs (+0.8%) at $5,240, silver follows (+0.7%) to $88.75 as real yields dip. Crypto remains the laggard\u2014Bitcoin drops to $63,520 (-1.5%) with large exchange inflows signaling more selling pressure ahead. Oil trims gains to +0.3% at $66.35 as dollar steadies. Markets now pricing 60% chance of May Fed cut, up from 45% yesterday.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-0.5%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-24T10:00:00-05:00",
-    "title": "Morning Session",
-    "commentary": "Equities bounce off Monday's tariff-driven lows: Dow climbs 0.5% to 49,024, S&P edges higher as dip-buyers emerge. Gold extends pullback (-1.4%) to $5,151 after Monday's 3% moonshot, profit-taking inevitable. Crypto stabilizes with Bitcoin finding support at $63,600 after testing sub-$63K overnight\u2014still down 6% from Friday's close. Silver holds green (+0.5%) outperforming gold as industrial demand narrative resurfaces. Dollar firms 0.2% as traders await fresh tariff salvos from the White House.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-1.0%"
       },
       {
         "symbol": "USD Index",
