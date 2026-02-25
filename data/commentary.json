@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-25T16:00:00-05:00",
+    "title": "Market Close",
+    "commentary": "Wall Street closes mixed as crypto steals the spotlight: S&P ekes out +0.4% to 49,680, Dow flat at 49,510, Nasdaq leads +0.9% on tech strength. Bitcoin extends rally to $69,200 (+7.4%), Ethereum pops 11.8% to $2,078\u2014biggest daily gains in weeks fuel speculation of renewed institutional appetite. Gold settles at $5,218 (-0.1%), silver $88.90 (-0.2%) as risk assets dominate flows. Dollar index dips 0.3% to 106.20. Crypto futures open interest surging\u2014bulls testing conviction.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+7.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+11.8%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-25T15:00:00-05:00",
     "title": "Final Hour",
     "commentary": "Crypto stages stunning reversal: Bitcoin surges 7.2% to $69,060 as shorts squeeze and ETF inflows accelerate\u2014Ethereum outpaces with 11.8% pop above $2,070. Equities hold gains into the close; Dow +0.6% at 49,480, S&P steady near 49,750. Gold consolidates at $5,220 (+0.4%), silver clings to $89 handle. Oil firm at $67 as API data looms. Risk-on vibes return to digital assets\u2014is this the bottom or a bull trap?",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "+0.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-24T14:00:00-05:00",
-    "title": "Late Session",
-    "commentary": "Bulls running strong into the close: Dow up 0.9% to 49,254, S&P gains 0.8% as risk appetite fully reverses Monday's tariff rout. Bitcoin bounces to $64,428 (+0.3%) unfazed by Putin signing law allowing Russian courts to confiscate crypto\u2014geopolitical noise shrugged off. Silver cools slightly but holds green (+0.8%) at $87.30 while gold treads water (-0.9%) at $5,178. Oil pares losses to -0.4% at $66. Dollar firm at 97.84 as equity rally dominates FX flows.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+0.1%"
       },
       {
         "symbol": "USD Index",
