@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-25T14:00:00-05:00",
+    "title": "Late Afternoon",
+    "commentary": "Rally broadens into final hours: S&P climbs 0.6% to 49,720 with breadth improving\u2014advancers lead decliners 3:1 on NYSE. Oil holds post-EIA gains (+1.0%) at $67.00 as traders bet on tightening supply. Gold steady (+0.5%) at $5,222, silver extends run (+1.2%) to $89.10 on copper sympathy bid. Bitcoin finds tentative floor at $62,000 (-3.8%) but volumes remain elevated\u2014no clear capitulation yet. Fed's Waller speaks at 3pm, markets on watch for rate guidance.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-3.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-3.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-25T13:00:00-05:00",
     "title": "Afternoon Session",
     "commentary": "Oil spikes on bullish EIA data: crude jumps 1.2% to $67.10 after surprise 4.2M barrel draw vs +1.5M expected\u2014demand narrative back in play. Equities hold steady with S&P +0.4% at 49,650 as energy sector lifts. Precious metals firm: gold +0.6% at $5,228, silver +0.9% at $88.80. Crypto capitulation continues\u2014Bitcoin plunges to $62,150 (-3.6%) as $180M in longs liquidated in past hour. Dollar flat at 97.70 as oil strength offsets risk-on flows.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "+0.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-24T12:00:00-05:00",
-    "title": "Lunchtime Session",
-    "commentary": "Dip-buying continues into lunch: Dow holds 0.7% gains at 49,151, S&P climbs 0.6% as traders shake off tariff jitters. Bitcoin rebounds to $64,220 (+0.4%) with UAE's second-largest bank reportedly eyeing BTC exposure\u2014institutional interest persists despite hedge fund exodus. Gold extends correction (-1.4%) to $5,153 as safe-haven trade unwinds, but silver outperforms (+0.8%). Oil fades 0.6% to $65.93 on demand concerns. Dollar eases to 97.77 after testing highs.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+0.3%"
       },
       {
         "symbol": "USD Index",
