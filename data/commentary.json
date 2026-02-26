@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-26T13:00:00-05:00",
+    "title": "Early Afternoon",
+    "commentary": "Markets find tentative footing after morning selloff: S&P claws back to -0.4% at 49,480, Nasdaq -0.6% as dip buyers emerge in mega-cap tech. Bitcoin bounces off session lows to $66,830 (-2.7%)\u2014bears still in control but selling pressure easing. Ethereum holds $1,989 (-4.0%), underperforming BTC ratio. Gold pulls back slightly to $5,240 (+0.4%) on profit-taking; oil flat at $66.50 (-0.8%). Bond market calm with 10Y steady at 4.05%. All eyes on GDP revision tomorrow.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.7%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-4.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-26T12:00:00-05:00",
     "title": "Midday",
     "commentary": "Risk assets roll over at midday as selling accelerates: S&P slides to -0.6% at 49,420, Nasdaq -0.9% with growth names hit hardest. Bitcoin breaks below $67K, now trading $66,630 (-2.4%)\u2014Tuesday's rally fully retraced. Ethereum fares worse at $1,984 (-2.8%), back below key $2K level. Gold shines at $5,250 (+0.6%) as rotation to safety continues; silver $89.50 (+0.5%). Oil steadies at $66.30 (-1.0%). Defensive posture ahead of tomorrow's GDP print.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-25T11:00:00-05:00",
-    "title": "Midday Session",
-    "commentary": "Rally extends into midday: Dow jumps 0.5% to 49,623 as rate-cut hopes resurface after soft housing data. Gold surges to session highs (+0.8%) at $5,240, silver follows (+0.7%) to $88.75 as real yields dip. Crypto remains the laggard\u2014Bitcoin drops to $63,520 (-1.5%) with large exchange inflows signaling more selling pressure ahead. Oil trims gains to +0.3% at $66.35 as dollar steadies. Markets now pricing 60% chance of May Fed cut, up from 45% yesterday.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.1%"
       }
     ]
   }
