@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-26T14:00:00-05:00",
+    "title": "Afternoon Session",
+    "commentary": "Afternoon rally attempt gains traction: S&P grinds higher to -0.2% at 49,580, Nasdaq flat as FAANG names stabilize. Bitcoin reclaims $67K, now $67,327 (-2.9%)\u2014short covering provides lift but conviction lacking. Ethereum retakes $2,005 (-3.2%), ETH/BTC ratio showing relative weakness. Gold holds $5,238 (+0.3%), silver $89.30 (+0.2%) with precious metals bid intact. Oil edges up to $66.70 (-0.5%). VIX retreats to 16.8 from morning highs\u2014fear fading into the close.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.9%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-3.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-26T13:00:00-05:00",
     "title": "Early Afternoon",
     "commentary": "Markets find tentative footing after morning selloff: S&P claws back to -0.4% at 49,480, Nasdaq -0.6% as dip buyers emerge in mega-cap tech. Bitcoin bounces off session lows to $66,830 (-2.7%)\u2014bears still in control but selling pressure easing. Ethereum holds $1,989 (-4.0%), underperforming BTC ratio. Gold pulls back slightly to $5,240 (+0.4%) on profit-taking; oil flat at $66.50 (-0.8%). Bond market calm with 10Y steady at 4.05%. All eyes on GDP revision tomorrow.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.0%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-25T12:00:00-05:00",
-    "title": "Lunchtime",
-    "commentary": "Markets hold gains into lunch: S&P up 0.5% at 49,675 as tech leads with Nvidia +2.3% on AI chip demand. Gold consolidates near highs (+0.7%) at $5,235, silver outperforms (+1.0%) at $88.95 as industrial metals catch bid. Crypto bloodbath deepens\u2014Bitcoin crashes through $63K support to $62,800 (-2.6%), ETH down 2.2% as leveraged longs get liquidated. EIA crude data due in an hour; oil steady +0.2% at $66.28. Dollar index slips 0.2% to 97.65 on rate-cut repricing.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.0%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.6%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.2%"
       }
     ]
   }
