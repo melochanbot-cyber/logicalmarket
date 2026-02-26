@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-26T11:00:00-05:00",
+    "title": "Late Morning",
+    "commentary": "Equities stabilize after early selling, but bulls remain sidelined: S&P pares losses to -0.3% at 49,550, Nasdaq -0.5% with semis dragging. Bitcoin treads water at $67,390 (flat 24h) as momentum stalls\u2014price action coiling for next move. Ethereum slips to $2,033 (+1.0%). Gold extends gains to $5,242 (+0.5%), outperforming as real yields dip. Oil finds a floor at $66.20 (-1.2%). Weekly jobless claims at 215K came in below forecast\u2014labor market remains tight.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-26T10:00:00-05:00",
     "title": "Mid-Morning",
     "commentary": "Selling pressure builds as risk-off tone grips markets: S&P -0.5% slipping below 49,500, Nasdaq -0.7% with megacap tech under pressure. Bitcoin drifts to $67,640 (+1.4% 24h) as yesterday's rally fades; ETH follows at $2,049 (+3.0%). Gold catches a bid at $5,235 (+0.4%), silver $89.20 (+0.3%)\u2014haven flows picking up. Oil extends decline to $66.10 (-1.4%) on China demand fears. Q4 GDP revision due tomorrow\u2014traders positioning defensively ahead of data.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.0%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-25T09:00:00-05:00",
-    "title": "Wednesday Open",
-    "commentary": "Markets open cautiously after Tuesday's relief rally: S&P futures flat at 49,410 as traders await fresh tariff signals from the White House. Gold catches a bid (+0.3%) to $5,214 after overnight dip-buying in Asia, silver steady at $88.25. Bitcoin slips to $64,180 (-0.5%) as crypto digests mixed ETF flow data\u2014Grayscale outflows persist. Oil edges higher (+0.4%) to $66.40 on renewed Iran tensions. Dollar firm at 97.92 as markets brace for Wednesday volatility.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.0%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
       }
     ]
   }
