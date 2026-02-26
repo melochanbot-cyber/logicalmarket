@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-26T15:00:00-05:00",
+    "title": "Into the Close",
+    "commentary": "Equities drift into the bell as rate concerns simmer: S&P hovers at 49,590 (-0.1%), Nasdaq flat with FAANG stuck in consolidation mode. Crypto steadies after midday volatility\u2014Bitcoin at $67,603 (-2.1% 24h), paring earlier losses as dip buyers step in. Ethereum recovers to $2,030 (-2.0%), holding the $2K psychological level. Gold firm at $5,242 (+0.3%) with haven bid intact; oil edges to $66.85 (-0.3%). GDP revision tomorrow keeps traders cautious\u2014positioning light ahead of the print.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-26T14:00:00-05:00",
     "title": "Afternoon Session",
     "commentary": "Afternoon rally attempt gains traction: S&P grinds higher to -0.2% at 49,580, Nasdaq flat as FAANG names stabilize. Bitcoin reclaims $67K, now $67,327 (-2.9%)\u2014short covering provides lift but conviction lacking. Ethereum retakes $2,005 (-3.2%), ETH/BTC ratio showing relative weakness. Gold holds $5,238 (+0.3%), silver $89.30 (+0.2%) with precious metals bid intact. Oil edges up to $66.70 (-0.5%). VIX retreats to 16.8 from morning highs\u2014fear fading into the close.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-25T13:00:00-05:00",
-    "title": "Afternoon Session",
-    "commentary": "Oil spikes on bullish EIA data: crude jumps 1.2% to $67.10 after surprise 4.2M barrel draw vs +1.5M expected\u2014demand narrative back in play. Equities hold steady with S&P +0.4% at 49,650 as energy sector lifts. Precious metals firm: gold +0.6% at $5,228, silver +0.9% at $88.80. Crypto capitulation continues\u2014Bitcoin plunges to $62,150 (-3.6%) as $180M in longs liquidated in past hour. Dollar flat at 97.70 as oil strength offsets risk-on flows.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+1.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-3.6%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.0%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.0%"
       }
     ]
   }
