@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-26T16:00:00-05:00",
+    "title": "Market Close",
+    "commentary": "Wall Street ends mixed ahead of GDP: S&P closes flat at 49,585, Dow slips 0.2% as industrials lag, Nasdaq edges +0.1% with tech finding late bids. Crypto closes the session on the back foot\u2014Bitcoin at $67,372 (-2.6%) unable to reclaim $68K, Ethereum settles at $2,026 (-2.4%). Gold holds gains at $5,245 (+0.4%), maintaining its safe-haven premium. Oil closes at $66.75 (-0.4%) with traders awaiting inventory data. All eyes on Q4 GDP revision tomorrow\u2014consensus at 3.2% but whisper numbers suggest upside risk.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-26T15:00:00-05:00",
     "title": "Into the Close",
     "commentary": "Equities drift into the bell as rate concerns simmer: S&P hovers at 49,590 (-0.1%), Nasdaq flat with FAANG stuck in consolidation mode. Crypto steadies after midday volatility\u2014Bitcoin at $67,603 (-2.1% 24h), paring earlier losses as dip buyers step in. Ethereum recovers to $2,030 (-2.0%), holding the $2K psychological level. Gold firm at $5,242 (+0.3%) with haven bid intact; oil edges to $66.85 (-0.3%). GDP revision tomorrow keeps traders cautious\u2014positioning light ahead of the print.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-25T14:00:00-05:00",
-    "title": "Late Afternoon",
-    "commentary": "Rally broadens into final hours: S&P climbs 0.6% to 49,720 with breadth improving\u2014advancers lead decliners 3:1 on NYSE. Oil holds post-EIA gains (+1.0%) at $67.00 as traders bet on tightening supply. Gold steady (+0.5%) at $5,222, silver extends run (+1.2%) to $89.10 on copper sympathy bid. Bitcoin finds tentative floor at $62,000 (-3.8%) but volumes remain elevated\u2014no clear capitulation yet. Fed's Waller speaks at 3pm, markets on watch for rate guidance.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+1.0%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-3.8%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.1%"
       }
     ]
   }
