@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T21:47:22Z",
+  "updatedAt": "2026-02-26T23:03:42Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+9.7% above 50-day MA"
+          "detail": "+9.6% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 3.39%"
+          "detail": "20-day volatility: 3.38%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-31.1% vs 200-day MA"
+          "detail": "-31.0% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,14 +150,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -1.8%, 30d: -24.4%"
+          "detail": "60d gain: -1.8%, 30d: -24.3%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -22.6%, NDX: -1.7%"
+          "detail": "BTC: -22.5%, NDX: -1.7%"
         },
         {
           "name": "Drawdown from ATH",
