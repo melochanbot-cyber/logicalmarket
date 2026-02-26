@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T23:05:39Z",
+  "updatedAt": "2026-02-26T00:02:48Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-30.5% vs 200-day MA"
+          "detail": "-30.8% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "30-day volatility: 9.97%"
+          "detail": "30-day volatility: 9.98%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -2.0%, 30d: -23.4%"
+          "detail": "60d gain: -2.0%, 30d: -23.8%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -22.3%, NDX: -0.9%"
+          "detail": "BTC: -22.7%, NDX: -0.9%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-45.3% from all-time high"
+          "detail": "-45.6% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
