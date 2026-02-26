@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-26T10:00:00-05:00",
+    "title": "Mid-Morning",
+    "commentary": "Selling pressure builds as risk-off tone grips markets: S&P -0.5% slipping below 49,500, Nasdaq -0.7% with megacap tech under pressure. Bitcoin drifts to $67,640 (+1.4% 24h) as yesterday's rally fades; ETH follows at $2,049 (+3.0%). Gold catches a bid at $5,235 (+0.4%), silver $89.20 (+0.3%)\u2014haven flows picking up. Oil extends decline to $66.10 (-1.4%) on China demand fears. Q4 GDP revision due tomorrow\u2014traders positioning defensively ahead of data.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+1.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+3.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-26T09:00:00-05:00",
     "title": "Market Open",
     "commentary": "Futures point lower as yesterday's crypto euphoria cools: S&P futures -0.3%, Nasdaq -0.4% with tech taking profits. Bitcoin retreats to $67,930 from $69K highs but holds +2.4% on 24h\u2014pullback looks healthy after 7%+ surge. Ethereum steady at $2,065 (+5.1%). Gold ticks up to $5,225 (+0.2%) as safe-haven bids return; oil slides to $66.40 (-0.9%) on demand concerns. Durable goods data at 8:30 beat expectations\u2014markets digesting. Watch for momentum shift at the open.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-0.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-24T16:00:00-05:00",
-    "title": "Market Close",
-    "commentary": "Bulls close strong on Tuesday: S&P finishes up 1.0% at 49,427, Dow gains 0.9% to 49,276 as Monday's tariff rout becomes a distant memory. Gold settles back (-0.6%) to $5,198 in healthy profit-taking after 3% Monday surge, while silver outshines (+1.4%) at $88.30 on dual haven-industrial appeal. Bitcoin finds footing at $64,520 (+0.4%) as whale supply shock digests\u2014ETF flows stabilizing. Oil flat at $66.15, dollar steady at 97.83 as risk-on sentiment dominates the close.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.4%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.0%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+1.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+1.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+0.3%"
       },
       {
         "symbol": "USD Index",
