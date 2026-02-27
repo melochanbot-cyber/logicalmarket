@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-27T10:00:00-05:00",
+    "title": "Mid-Morning",
+    "commentary": "Selling intensifies as GDP shock reverberates: S&P plunges to -1.1% at 49,040, Nasdaq -1.5% with growth stocks hit hardest\u2014NVDA and TSLA both down 3%+. Crypto carnage deepens\u2014Bitcoin slides to $65,846 (-2.7%), testing February lows; Ethereum craters to $1,943 (-5.3%) as DeFi tokens bleed out. Gold extends safe-haven rally to $5,310 (+1.2%), best day in three weeks. Oil collapses to $65.20 (-2.3%) as recession fears creep back into the narrative. Bond yields tumbling\u201410Y down 8bps to 3.97%.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.2%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-2.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.7%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-5.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.4%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-27T09:00:00-05:00",
     "title": "Market Open",
     "commentary": "Futures tumble as GDP revision disappoints: S&P opens -0.7% at 49,240, Nasdaq -1.1% with tech under pressure after Q4 GDP revised down to 2.8% vs 3.2% expected. Crypto extends losses overnight\u2014Bitcoin breaks $67K support to $66,238 (-2.5%), Ethereum slumps below $2K at $1,963 (-5.0%) in broad risk-off move. Gold surges to $5,285 (+0.8%) as haven flows accelerate; silver follows at $90.10 (+0.9%). Oil slides to $65.80 (-1.4%) on growth concerns. VIX spikes to 19.5\u2014fear returning to the tape.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-25T16:00:00-05:00",
-    "title": "Market Close",
-    "commentary": "Wall Street closes mixed as crypto steals the spotlight: S&P ekes out +0.4% to 49,680, Dow flat at 49,510, Nasdaq leads +0.9% on tech strength. Bitcoin extends rally to $69,200 (+7.4%), Ethereum pops 11.8% to $2,078\u2014biggest daily gains in weeks fuel speculation of renewed institutional appetite. Gold settles at $5,218 (-0.1%), silver $88.90 (-0.2%) as risk assets dominate flows. Dollar index dips 0.3% to 106.20. Crypto futures open interest surging\u2014bulls testing conviction.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+7.4%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+11.8%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.3%"
       }
     ]
   }
