@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-27T09:00:00-05:00",
+    "title": "Market Open",
+    "commentary": "Futures tumble as GDP revision disappoints: S&P opens -0.7% at 49,240, Nasdaq -1.1% with tech under pressure after Q4 GDP revised down to 2.8% vs 3.2% expected. Crypto extends losses overnight\u2014Bitcoin breaks $67K support to $66,238 (-2.5%), Ethereum slumps below $2K at $1,963 (-5.0%) in broad risk-off move. Gold surges to $5,285 (+0.8%) as haven flows accelerate; silver follows at $90.10 (+0.9%). Oil slides to $65.80 (-1.4%) on growth concerns. VIX spikes to 19.5\u2014fear returning to the tape.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-5.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-26T16:00:00-05:00",
     "title": "Market Close",
     "commentary": "Wall Street ends mixed ahead of GDP: S&P closes flat at 49,585, Dow slips 0.2% as industrials lag, Nasdaq edges +0.1% with tech finding late bids. Crypto closes the session on the back foot\u2014Bitcoin at $67,372 (-2.6%) unable to reclaim $68K, Ethereum settles at $2,026 (-2.4%). Gold holds gains at $5,245 (+0.4%), maintaining its safe-haven premium. Oil closes at $66.75 (-0.4%) with traders awaiting inventory data. All eyes on Q4 GDP revision tomorrow\u2014consensus at 3.2% but whisper numbers suggest upside risk.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-25T15:00:00-05:00",
-    "title": "Final Hour",
-    "commentary": "Crypto stages stunning reversal: Bitcoin surges 7.2% to $69,060 as shorts squeeze and ETF inflows accelerate\u2014Ethereum outpaces with 11.8% pop above $2,070. Equities hold gains into the close; Dow +0.6% at 49,480, S&P steady near 49,750. Gold consolidates at $5,220 (+0.4%), silver clings to $89 handle. Oil firm at $67 as API data looms. Risk-on vibes return to digital assets\u2014is this the bottom or a bull trap?",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.0%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+7.2%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+11.8%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.2%"
       }
     ]
   }
