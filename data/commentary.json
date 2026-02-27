@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-27T14:00:00-05:00",
+    "title": "Afternoon Session",
+    "commentary": "Selling pressure mounts into the final hours: S&P extends losses to -1.2% at 48,970, Nasdaq -1.5% as growth stocks crack\u2014tech breadth deteriorating. Crypto accelerates lower\u2014Bitcoin breaks through support to $65,300 (-3.0%), Ethereum slides to $1,918 (-4.3%) with leveraged positions unwinding. Gold slips to $5,245 (+0.1%) as dollar surges on hawkish rate repricing; oil drops to $65.10 (-2.3%). VIX climbs to 21.2\u2014month-end selloff gaining momentum as funds lock in losses.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-2.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-3.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-4.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.5%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-27T13:00:00-05:00",
     "title": "Early Afternoon",
     "commentary": "Markets churn sideways as traders digest hot PCE: S&P holds at -0.9% near 49,120, Nasdaq -1.2% with tech finding tentative support. Fed rate cut expectations for May now down to 15% from 40% pre-data\u2014higher for longer narrative regains traction. Crypto treads water\u2014Bitcoin steady at $65,543 (-1.9%), Ethereum consolidates at $1,925 (-3.2%). Gold eases to $5,260 (+0.3%) as dollar catches a bid on yield differentials; oil flat at $65.50 (-1.7%). Month-end rebalancing flows could add volatility into the close.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-26T12:00:00-05:00",
-    "title": "Midday",
-    "commentary": "Risk assets roll over at midday as selling accelerates: S&P slides to -0.6% at 49,420, Nasdaq -0.9% with growth names hit hardest. Bitcoin breaks below $67K, now trading $66,630 (-2.4%)\u2014Tuesday's rally fully retraced. Ethereum fares worse at $1,984 (-2.8%), back below key $2K level. Gold shines at $5,250 (+0.6%) as rotation to safety continues; silver $89.50 (+0.5%). Oil steadies at $66.30 (-1.0%). Defensive posture ahead of tomorrow's GDP print.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.4%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.8%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
       }
     ]
   }
