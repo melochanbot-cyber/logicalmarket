@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-27T11:00:00-05:00",
+    "title": "Late Morning",
+    "commentary": "Dip buyers emerge as indices find support: S&P pares losses to -0.8% at 49,180, Nasdaq claws back to -1.1% as megacap tech stabilizes. Crypto bounces off session lows\u2014Bitcoin recovers to $66,116 (-1.8%), reclaiming $66K handle; Ethereum lifts to $1,948 (-4.2%) though still below $2K. Gold holds gains at $5,295 (+0.9%) as real yields compress. Oil finds a floor at $65.50 (-1.8%). PCE inflation data due at 10:30\u2014traders watching for confirmation of disinflation trend.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-1.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-4.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-27T10:00:00-05:00",
     "title": "Mid-Morning",
     "commentary": "Selling intensifies as GDP shock reverberates: S&P plunges to -1.1% at 49,040, Nasdaq -1.5% with growth stocks hit hardest\u2014NVDA and TSLA both down 3%+. Crypto carnage deepens\u2014Bitcoin slides to $65,846 (-2.7%), testing February lows; Ethereum craters to $1,943 (-5.3%) as DeFi tokens bleed out. Gold extends safe-haven rally to $5,310 (+1.2%), best day in three weeks. Oil collapses to $65.20 (-2.3%) as recession fears creep back into the narrative. Bond yields tumbling\u201410Y down 8bps to 3.97%.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-26T09:00:00-05:00",
-    "title": "Market Open",
-    "commentary": "Futures point lower as yesterday's crypto euphoria cools: S&P futures -0.3%, Nasdaq -0.4% with tech taking profits. Bitcoin retreats to $67,930 from $69K highs but holds +2.4% on 24h\u2014pullback looks healthy after 7%+ surge. Ethereum steady at $2,065 (+5.1%). Gold ticks up to $5,225 (+0.2%) as safe-haven bids return; oil slides to $66.40 (-0.9%) on demand concerns. Durable goods data at 8:30 beat expectations\u2014markets digesting. Watch for momentum shift at the open.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.4%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+5.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
       }
     ]
   }
