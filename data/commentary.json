@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-27T17:00:00-05:00",
+    "title": "After Hours",
+    "commentary": "Markets closed for the weekend after a punishing February finale. Crypto extends losses in thin after-hours trade\u2014Bitcoin slips to $64,500 (-4.2% on day), testing January support as weekend risk-off takes hold; Ethereum drops to $1,870 (-6.1%), breaking below key $1,900 level. Futures flat with no catalyst until Monday's ISM manufacturing data. Gold holds at $5,260 in overseas trade; oil steady at $64.80. Traders lick wounds after hot PCE data crushed rate-cut hopes\u2014March volatility looking increasingly likely.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-2.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.7%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-4.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-6.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.6%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-27T16:00:00-05:00",
     "title": "Weekly Close",
     "commentary": "Wall Street wraps a brutal week in the red: S&P closes -1.4% at 48,890 for a weekly loss of 2.8%, Nasdaq -1.7% as tech capitulates on hot PCE and stagflation fears. Crypto carnage continues\u2014Bitcoin settles at $64,800 (-3.8%), its worst week since January; Ethereum craters to $1,890 (-5.1%) with DeFi liquidations mounting. Gold catches a bid to close at $5,260 (+0.4%) as safe-haven flows accelerate; oil tanks to $64.80 (-2.8%) on growth concerns. February ends on a sour note\u2014traders brace for volatility as March looms.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-2.0%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-26T14:00:00-05:00",
-    "title": "Afternoon Session",
-    "commentary": "Afternoon rally attempt gains traction: S&P grinds higher to -0.2% at 49,580, Nasdaq flat as FAANG names stabilize. Bitcoin reclaims $67K, now $67,327 (-2.9%)\u2014short covering provides lift but conviction lacking. Ethereum retakes $2,005 (-3.2%), ETH/BTC ratio showing relative weakness. Gold holds $5,238 (+0.3%), silver $89.30 (+0.2%) with precious metals bid intact. Oil edges up to $66.70 (-0.5%). VIX retreats to 16.8 from morning highs\u2014fear fading into the close.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.2%"
       },
       {
         "symbol": "USD Index",
