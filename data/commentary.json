@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-27T16:00:00-05:00",
+    "title": "Weekly Close",
+    "commentary": "Wall Street wraps a brutal week in the red: S&P closes -1.4% at 48,890 for a weekly loss of 2.8%, Nasdaq -1.7% as tech capitulates on hot PCE and stagflation fears. Crypto carnage continues\u2014Bitcoin settles at $64,800 (-3.8%), its worst week since January; Ethereum craters to $1,890 (-5.1%) with DeFi liquidations mounting. Gold catches a bid to close at $5,260 (+0.4%) as safe-haven flows accelerate; oil tanks to $64.80 (-2.8%) on growth concerns. February ends on a sour note\u2014traders brace for volatility as March looms.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-2.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.7%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-3.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-5.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.6%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-27T14:00:00-05:00",
     "title": "Afternoon Session",
     "commentary": "Selling pressure mounts into the final hours: S&P extends losses to -1.2% at 48,970, Nasdaq -1.5% as growth stocks crack\u2014tech breadth deteriorating. Crypto accelerates lower\u2014Bitcoin breaks through support to $65,300 (-3.0%), Ethereum slides to $1,918 (-4.3%) with leveraged positions unwinding. Gold slips to $5,245 (+0.1%) as dollar surges on hawkish rate repricing; oil drops to $65.10 (-2.3%). VIX climbs to 21.2\u2014month-end selloff gaining momentum as funds lock in losses.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-3.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-26T13:00:00-05:00",
-    "title": "Early Afternoon",
-    "commentary": "Markets find tentative footing after morning selloff: S&P claws back to -0.4% at 49,480, Nasdaq -0.6% as dip buyers emerge in mega-cap tech. Bitcoin bounces off session lows to $66,830 (-2.7%)\u2014bears still in control but selling pressure easing. Ethereum holds $1,989 (-4.0%), underperforming BTC ratio. Gold pulls back slightly to $5,240 (+0.4%) on profit-taking; oil flat at $66.50 (-0.8%). Bond market calm with 10Y steady at 4.05%. All eyes on GDP revision tomorrow.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.7%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-4.0%"
       },
       {
         "symbol": "USD Index",
