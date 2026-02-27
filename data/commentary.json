@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-27T13:00:00-05:00",
+    "title": "Early Afternoon",
+    "commentary": "Markets churn sideways as traders digest hot PCE: S&P holds at -0.9% near 49,120, Nasdaq -1.2% with tech finding tentative support. Fed rate cut expectations for May now down to 15% from 40% pre-data\u2014higher for longer narrative regains traction. Crypto treads water\u2014Bitcoin steady at $65,543 (-1.9%), Ethereum consolidates at $1,925 (-3.2%). Gold eases to $5,260 (+0.3%) as dollar catches a bid on yield differentials; oil flat at $65.50 (-1.7%). Month-end rebalancing flows could add volatility into the close.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-1.7%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.9%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-3.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-27T12:00:00-05:00",
     "title": "Midday",
     "commentary": "Relief rally fades as sellers regain control: S&P slips back to -1.0% at 49,090, Nasdaq -1.3% with semis leading the decline. PCE came in hot at 2.8% core vs 2.6% expected\u2014stagflation whispers growing louder. Crypto gives back morning gains\u2014Bitcoin retreats to $65,513 (-1.7%), Ethereum falls to $1,928 (-2.8%) as risk appetite evaporates. Gold pulls back slightly to $5,275 (+0.6%) on profit-taking; oil stabilizes at $65.40 (-1.9%). Two-sided tape into the afternoon\u2014conviction lacking on both sides.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-26T11:00:00-05:00",
-    "title": "Late Morning",
-    "commentary": "Equities stabilize after early selling, but bulls remain sidelined: S&P pares losses to -0.3% at 49,550, Nasdaq -0.5% with semis dragging. Bitcoin treads water at $67,390 (flat 24h) as momentum stalls\u2014price action coiling for next move. Ethereum slips to $2,033 (+1.0%). Gold extends gains to $5,242 (+0.5%), outperforming as real yields dip. Oil finds a floor at $66.20 (-1.2%). Weekly jobless claims at 215K came in below forecast\u2014labor market remains tight.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.0%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
       }
     ]
   }
