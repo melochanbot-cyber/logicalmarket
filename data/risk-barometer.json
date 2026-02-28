@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-28T04:36:04Z",
+  "updatedAt": "2026-02-28T05:58:56Z",
   "barometers": {
     "gold": {
-      "score": 60,
-      "level": "WARNING",
+      "score": 45,
+      "level": "CAUTION",
       "signals": [
         {
           "name": "COT Positioning (Proxy)",
@@ -21,10 +21,10 @@
         },
         {
           "name": "MA Overextension",
-          "triggered": true,
-          "points": 15,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 15,
-          "detail": "+11.2% above 50-day MA"
+          "detail": "+9.8% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,10 +38,10 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 3.31%"
+          "detail": "20-day volatility: 3.20%"
         }
       ],
-      "recommendation": "High risk. Consider reducing exposure by 25-50%."
+      "recommendation": "Elevated risk. Monitor closely, prepare hedges."
     },
     "sp500": {
       "score": 35,
