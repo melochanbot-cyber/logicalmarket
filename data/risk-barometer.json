@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T10:53:41Z",
+  "updatedAt": "2026-03-01T11:38:47Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-31.6% vs 200-day MA"
+          "detail": "-31.5% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -164,7 +164,7 @@
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-46.8% from all-time high"
+          "detail": "-46.7% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
