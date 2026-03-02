@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-02T16:00-05:00",
+    "title": "After Hours",
+    "commentary": "Markets give back gains into the close as Iran jitters resurface\u2014Dow settles at 48,909 (-0.2%), S&P 500 flat at 6,880, Nasdaq +0.3% at 22,745 after surrendering midday rally. Crypto remains the standout performer: Bitcoin holds $69,273 (+6.0%) with futures premium expanding, Ethereum steady at $2,039 (+6.6%) as spot ETF inflows accelerate. Oil closes at $74.50 (+3.2%) as Strait of Hormuz concerns linger; gold ends at $5,365 (+0.7%). The intraday V-shaped recovery couldn't stick\u2014bulls showed up early but sellers had the final word. Tuesday's ISM services data looms large.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+3.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+6.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+6.6%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-02T15:00-05:00",
     "title": "Market Close",
     "commentary": "Wall Street caps a wild Iran-driven session in the green\u2014S&P closes at 6,897 (+0.3%), Nasdaq +0.5%, Dow flat at 49,005 as the dip-buying playbook delivers once again. Crypto steals the show with Bitcoin surging to $68,937 (+4.6%) and Ethereum at $2,042 (+4.5%) on safe-haven-meets-risk-on flows. Oil settles at $73 after touching $79 at the open; gold holds gains at $5,370. The Khamenei strike initially triggered 600-point Dow futures selloff\u2014yet bulls bought every dip, VIX crushed back to 18. Tuesday's ISM services data now in focus as geopolitical premium fades.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.6%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-27T14:00:00-05:00",
-    "title": "Afternoon Session",
-    "commentary": "Selling pressure mounts into the final hours: S&P extends losses to -1.2% at 48,970, Nasdaq -1.5% as growth stocks crack\u2014tech breadth deteriorating. Crypto accelerates lower\u2014Bitcoin breaks through support to $65,300 (-3.0%), Ethereum slides to $1,918 (-4.3%) with leveraged positions unwinding. Gold slips to $5,245 (+0.1%) as dollar surges on hawkish rate repricing; oil drops to $65.10 (-2.3%). VIX climbs to 21.2\u2014month-end selloff gaining momentum as funds lock in losses.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-2.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-3.0%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-4.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.5%"
       }
     ]
   }
