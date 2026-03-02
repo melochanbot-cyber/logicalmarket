@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-02T14:00-05:00",
+    "title": "Late Afternoon",
+    "commentary": "Markets consolidate near session highs as the Iran relief rally matures\u2014S&P holds 6,889 (+0.2%), Nasdaq +0.5%, with buyers defending every pullback attempt. Crypto cools slightly but maintains gains: Bitcoin steady at $69,000 (+4% on day), Ethereum $2,030 (+2.5%), Solana +3.9%\u2014the \"buy the geopolitical dip\" trade fully played out. Oil continues to retreat, now at $73, down from morning's $79 panic high as Strait of Hormuz fears ease. VIX crushed back to 18.5 territory; market seemingly pricing in Iran tensions as contained. Two hours to the close\u2014bulls looking to defend gains into the bell.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+4.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+2.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-02T13:00-05:00",
     "title": "Early Afternoon",
     "commentary": "Equities grind higher into early afternoon\u2014S&P touches session high at 6,888 (+0.1% vs Friday close), completing a remarkable V-shaped recovery from the Iran-driven selloff at the open. Crypto consolidates gains with Bitcoin holding $69,000 (+4.5% on day), Ethereum steady near $2,040 (+3.3%); CMC20 index up 4.3% as the sector outperforms tradfi. Oil continues to retreat from morning panic highs, settling around $74\u2014market pricing in containment of Middle East tensions. Defensive rotation unwinds as VIX drops below 19; traders now looking ahead to Tuesday's ISM services data. The \"buy every dip\" playbook continues to work.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-27T12:00:00-05:00",
-    "title": "Midday",
-    "commentary": "Relief rally fades as sellers regain control: S&P slips back to -1.0% at 49,090, Nasdaq -1.3% with semis leading the decline. PCE came in hot at 2.8% core vs 2.6% expected\u2014stagflation whispers growing louder. Crypto gives back morning gains\u2014Bitcoin retreats to $65,513 (-1.7%), Ethereum falls to $1,928 (-2.8%) as risk appetite evaporates. Gold pulls back slightly to $5,275 (+0.6%) on profit-taking; oil stabilizes at $65.40 (-1.9%). Two-sided tape into the afternoon\u2014conviction lacking on both sides.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-1.9%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.7%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.8%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
       }
     ]
   }
