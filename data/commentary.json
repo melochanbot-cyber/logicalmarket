@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-02T12:00-05:00",
+    "title": "Afternoon Rally",
+    "commentary": "Risk-on in full swing as geopolitical fears fade into the rearview\u2014S&P pushes into green territory at 6,895 (+0.3%), Nasdaq leads with +0.6% as megacap tech catches a bid. Crypto steals the show with spot BTC ETFs attracting $787M in inflows\u2014Bitcoin punches through $69,600 (+5.1% on day), Ethereum clears $2,060 (+4.5%), Solana rips nearly 6%. Oil retreats further to $75 as Strait of Hormuz panic unwinds; gold consolidates gains near $5,360. The Iran dip now looking like a classic buy-the-news opportunity\u2014bulls firmly in control of the tape.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+4.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+5.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+4.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-02T11:00-05:00",
     "title": "Midday Reversal",
     "commentary": "The tape flips green as dip buyers overwhelm Iran fears\u2014S&P erases morning losses to trade flat at 6,870, Nasdaq turns positive as tech leads the reversal. Crypto explodes higher with Bitcoin surging past $69,000 (+3% hourly), Ethereum reclaiming $2,040 (+3.5%), and Solana ripping 4%+ as risk appetite returns in force. Defense stocks consolidate gains while airlines attempt to bounce from morning lows. Oil retreats to $77 from session highs as Strait of Hormuz concerns ease marginally; gold holds elevated at $5,380. The \"buy the dip\" crowd making their presence felt\u2014VIX dropping from morning spike.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-27T10:00:00-05:00",
-    "title": "Mid-Morning",
-    "commentary": "Selling intensifies as GDP shock reverberates: S&P plunges to -1.1% at 49,040, Nasdaq -1.5% with growth stocks hit hardest\u2014NVDA and TSLA both down 3%+. Crypto carnage deepens\u2014Bitcoin slides to $65,846 (-2.7%), testing February lows; Ethereum craters to $1,943 (-5.3%) as DeFi tokens bleed out. Gold extends safe-haven rally to $5,310 (+1.2%), best day in three weeks. Oil collapses to $65.20 (-2.3%) as recession fears creep back into the narrative. Bond yields tumbling\u201410Y down 8bps to 3.97%.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.2%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-2.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.7%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-5.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.4%"
       }
     ]
   }
