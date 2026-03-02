@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-02T10:00-05:00",
+    "title": "Morning Recovery",
+    "commentary": "Wall Street finds its footing after Iran-shock open\u2014S&P pares losses to -0.5% at 6,846, Dow -0.6%, Nasdaq -0.5% as dip buyers emerge in late-morning trade. Crypto stages a sharp rebound with Bitcoin reclaiming $67,000 (+2.6% hourly) and Ethereum pushing back toward $1,980 (+2.9% hourly) after overnight carnage. Oil holds elevated near $79 but retreats from earlier highs as initial panic subsides; gold stays bid on safe-haven flows. Treasury yields defy the risk-off playbook, with 10Y climbing back above 4%\u2014traders unconvinced Iran conflict warrants full haven rotation. Asia closed deep red (Hang Seng -2.1%, Nikkei -1.4%) but U.S. trying to shake off geopolitical overhang.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.8%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+6.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.6%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-02T09:00-05:00",
     "title": "Iran Crisis Rocks Markets",
     "commentary": "Geopolitical shock dominates Monday's tape as U.S.-Israel strikes on Iran send oil surging toward $80 and Strait of Hormuz shipping fears escalate\u2014Dow futures plunge 500 points. European stocks crater 2%+ with Stoxx 600 in full risk-off mode; Asian markets already battered with Hang Seng -2.1%, Nikkei -1.4%. Crypto takes a hit\u2014Bitcoin drops to $65,390 (-2.4%), Ethereum slides to $1,924 (-4.4%) as risk assets flee. Gold jumps on safe-haven flows while Treasury yields defy the playbook, rising despite chaos. Defense stocks soar; airlines sink. This is the March volatility traders feared.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-26T16:00:00-05:00",
-    "title": "Market Close",
-    "commentary": "Wall Street ends mixed ahead of GDP: S&P closes flat at 49,585, Dow slips 0.2% as industrials lag, Nasdaq edges +0.1% with tech finding late bids. Crypto closes the session on the back foot\u2014Bitcoin at $67,372 (-2.6%) unable to reclaim $68K, Ethereum settles at $2,026 (-2.4%). Gold holds gains at $5,245 (+0.4%), maintaining its safe-haven premium. Oil closes at $66.75 (-0.4%) with traders awaiting inventory data. All eyes on Q4 GDP revision tomorrow\u2014consensus at 3.2% but whisper numbers suggest upside risk.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.6%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
       }
     ]
   }
