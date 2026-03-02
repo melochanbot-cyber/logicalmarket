@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-02T09:00-05:00",
+    "title": "Iran Crisis Rocks Markets",
+    "commentary": "Geopolitical shock dominates Monday's tape as U.S.-Israel strikes on Iran send oil surging toward $80 and Strait of Hormuz shipping fears escalate\u2014Dow futures plunge 500 points. European stocks crater 2%+ with Stoxx 600 in full risk-off mode; Asian markets already battered with Hang Seng -2.1%, Nikkei -1.4%. Crypto takes a hit\u2014Bitcoin drops to $65,390 (-2.4%), Ethereum slides to $1,924 (-4.4%) as risk assets flee. Gold jumps on safe-haven flows while Treasury yields defy the playbook, rising despite chaos. Defense stocks soar; airlines sink. This is the March volatility traders feared.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+7.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-4.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.8%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-02-27T17:00:00-05:00",
     "title": "After Hours",
     "commentary": "Markets closed for the weekend after a punishing February finale. Crypto extends losses in thin after-hours trade\u2014Bitcoin slips to $64,500 (-4.2% on day), testing January support as weekend risk-off takes hold; Ethereum drops to $1,870 (-6.1%), breaking below key $1,900 level. Futures flat with no catalyst until Monday's ISM manufacturing data. Gold holds at $5,260 in overseas trade; oil steady at $64.80. Traders lick wounds after hot PCE data crushed rate-cut hopes\u2014March volatility looking increasingly likely.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-2.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-26T15:00:00-05:00",
-    "title": "Into the Close",
-    "commentary": "Equities drift into the bell as rate concerns simmer: S&P hovers at 49,590 (-0.1%), Nasdaq flat with FAANG stuck in consolidation mode. Crypto steadies after midday volatility\u2014Bitcoin at $67,603 (-2.1% 24h), paring earlier losses as dip buyers step in. Ethereum recovers to $2,030 (-2.0%), holding the $2K psychological level. Gold firm at $5,242 (+0.3%) with haven bid intact; oil edges to $66.85 (-0.3%). GDP revision tomorrow keeps traders cautious\u2014positioning light ahead of the print.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.0%"
       },
       {
         "symbol": "USD Index",
