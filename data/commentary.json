@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-02T15:00-05:00",
+    "title": "Market Close",
+    "commentary": "Wall Street caps a wild Iran-driven session in the green\u2014S&P closes at 6,897 (+0.3%), Nasdaq +0.5%, Dow flat at 49,005 as the dip-buying playbook delivers once again. Crypto steals the show with Bitcoin surging to $68,937 (+4.6%) and Ethereum at $2,042 (+4.5%) on safe-haven-meets-risk-on flows. Oil settles at $73 after touching $79 at the open; gold holds gains at $5,370. The Khamenei strike initially triggered 600-point Dow futures selloff\u2014yet bulls bought every dip, VIX crushed back to 18. Tuesday's ISM services data now in focus as geopolitical premium fades.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+4.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+4.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-02T14:00-05:00",
     "title": "Late Afternoon",
     "commentary": "Markets consolidate near session highs as the Iran relief rally matures\u2014S&P holds 6,889 (+0.2%), Nasdaq +0.5%, with buyers defending every pullback attempt. Crypto cools slightly but maintains gains: Bitcoin steady at $69,000 (+4% on day), Ethereum $2,030 (+2.5%), Solana +3.9%\u2014the \"buy the geopolitical dip\" trade fully played out. Oil continues to retreat, now at $73, down from morning's $79 panic high as Strait of Hormuz fears ease. VIX crushed back to 18.5 territory; market seemingly pricing in Iran tensions as contained. Two hours to the close\u2014bulls looking to defend gains into the bell.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.5%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-27T13:00:00-05:00",
-    "title": "Early Afternoon",
-    "commentary": "Markets churn sideways as traders digest hot PCE: S&P holds at -0.9% near 49,120, Nasdaq -1.2% with tech finding tentative support. Fed rate cut expectations for May now down to 15% from 40% pre-data\u2014higher for longer narrative regains traction. Crypto treads water\u2014Bitcoin steady at $65,543 (-1.9%), Ethereum consolidates at $1,925 (-3.2%). Gold eases to $5,260 (+0.3%) as dollar catches a bid on yield differentials; oil flat at $65.50 (-1.7%). Month-end rebalancing flows could add volatility into the close.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-1.7%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.3%"
       }
     ]
   }
