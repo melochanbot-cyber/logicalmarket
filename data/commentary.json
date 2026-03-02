@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-02T13:00-05:00",
+    "title": "Early Afternoon",
+    "commentary": "Equities grind higher into early afternoon\u2014S&P touches session high at 6,888 (+0.1% vs Friday close), completing a remarkable V-shaped recovery from the Iran-driven selloff at the open. Crypto consolidates gains with Bitcoin holding $69,000 (+4.5% on day), Ethereum steady near $2,040 (+3.3%); CMC20 index up 4.3% as the sector outperforms tradfi. Oil continues to retreat from morning panic highs, settling around $74\u2014market pricing in containment of Middle East tensions. Defensive rotation unwinds as VIX drops below 19; traders now looking ahead to Tuesday's ISM services data. The \"buy every dip\" playbook continues to work.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+3.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+4.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+3.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-02T12:00-05:00",
     "title": "Afternoon Rally",
     "commentary": "Risk-on in full swing as geopolitical fears fade into the rearview\u2014S&P pushes into green territory at 6,895 (+0.3%), Nasdaq leads with +0.6% as megacap tech catches a bid. Crypto steals the show with spot BTC ETFs attracting $787M in inflows\u2014Bitcoin punches through $69,600 (+5.1% on day), Ethereum clears $2,060 (+4.5%), Solana rips nearly 6%. Oil retreats further to $75 as Strait of Hormuz panic unwinds; gold consolidates gains near $5,360. The Iran dip now looking like a classic buy-the-news opportunity\u2014bulls firmly in control of the tape.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-27T11:00:00-05:00",
-    "title": "Late Morning",
-    "commentary": "Dip buyers emerge as indices find support: S&P pares losses to -0.8% at 49,180, Nasdaq claws back to -1.1% as megacap tech stabilizes. Crypto bounces off session lows\u2014Bitcoin recovers to $66,116 (-1.8%), reclaiming $66K handle; Ethereum lifts to $1,948 (-4.2%) though still below $2K. Gold holds gains at $5,295 (+0.9%) as real yields compress. Oil finds a floor at $65.50 (-1.8%). PCE inflation data due at 10:30\u2014traders watching for confirmation of disinflation trend.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-1.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.8%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-4.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.3%"
       }
     ]
   }
