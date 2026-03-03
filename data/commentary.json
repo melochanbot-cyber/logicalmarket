@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-03T09:00-05:00",
+    "title": "Market Open",
+    "commentary": "Chaos returns as Iran fears intensify\u2014Dow opens down 800 points at 48,905, S&P flat at 6,882 in wild pre-market swings, Nasdaq +0.4% as tech shows relative strength. Global carnage: Nikkei crashes -3.1%, DAX -3.7%, FTSE -2.8% as the oil shock spreads. Crude surges again toward $78 on Strait of Hormuz closure fears; gold extends to $5,420 (+1.2%) on safe-haven panic. Crypto retreats from Monday's highs\u2014Bitcoin at $66,925 (+2.3% vs 24h ago but off overnight peak), Ethereum $1,951 (+1.4%). Yesterday's dip-buying playbook may not work twice\u2014VIX spiking above 24.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.2%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+5.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.6%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+2.3%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+1.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.5%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-02T16:00-05:00",
     "title": "After Hours",
     "commentary": "Markets give back gains into the close as Iran jitters resurface\u2014Dow settles at 48,909 (-0.2%), S&P 500 flat at 6,880, Nasdaq +0.3% at 22,745 after surrendering midday rally. Crypto remains the standout performer: Bitcoin holds $69,273 (+6.0%) with futures premium expanding, Ethereum steady at $2,039 (+6.6%) as spot ETF inflows accelerate. Oil closes at $74.50 (+3.2%) as Strait of Hormuz concerns linger; gold ends at $5,365 (+0.7%). The intraday V-shaped recovery couldn't stick\u2014bulls showed up early but sellers had the final word. Tuesday's ISM services data looms large.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-6.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.6%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-27T16:00:00-05:00",
-    "title": "Weekly Close",
-    "commentary": "Wall Street wraps a brutal week in the red: S&P closes -1.4% at 48,890 for a weekly loss of 2.8%, Nasdaq -1.7% as tech capitulates on hot PCE and stagflation fears. Crypto carnage continues\u2014Bitcoin settles at $64,800 (-3.8%), its worst week since January; Ethereum craters to $1,890 (-5.1%) with DeFi liquidations mounting. Gold catches a bid to close at $5,260 (+0.4%) as safe-haven flows accelerate; oil tanks to $64.80 (-2.8%) on growth concerns. February ends on a sour note\u2014traders brace for volatility as March looms.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-2.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.7%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-3.8%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-5.1%"
       },
       {
         "symbol": "USD Index",
