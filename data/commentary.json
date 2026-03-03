@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-03T10:00-05:00",
+    "title": "Morning Selloff",
+    "commentary": "Full capitulation underway\u2014Dow craters 1,100 points to 47,789 (-2.3%), S&P 500 -2.1% at 6,737, Nasdaq -2.2% as fresh U.S. strikes on Iran spark fears of prolonged conflict. Global rout intensifies: DAX -3.8%, FTSE -3.2%, Russell 2000 -3.2% as risk assets flee for the exits. Oil surges past $82 (+8%) on Strait of Hormuz closure threats; Treasury yields spike as inflation fears reignite. Crypto joins the carnage\u2014Bitcoin slides to $66,574 (-0.7%), Ethereum $1,942 (-1.8%) as Monday's safe-haven bid evaporates. VIX explodes above 28; no dip-buyers in sight.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.8%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.4%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+8.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-2.1%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-2.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-2.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.8%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.8%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-03T09:00-05:00",
     "title": "Market Open",
     "commentary": "Chaos returns as Iran fears intensify\u2014Dow opens down 800 points at 48,905, S&P flat at 6,882 in wild pre-market swings, Nasdaq +0.4% as tech shows relative strength. Global carnage: Nikkei crashes -3.1%, DAX -3.7%, FTSE -2.8% as the oil shock spreads. Crude surges again toward $78 on Strait of Hormuz closure fears; gold extends to $5,420 (+1.2%) on safe-haven panic. Crypto retreats from Monday's highs\u2014Bitcoin at $66,925 (+2.3% vs 24h ago but off overnight peak), Ethereum $1,951 (+1.4%). Yesterday's dip-buying playbook may not work twice\u2014VIX spiking above 24.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.8%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-02-27T17:00:00-05:00",
-    "title": "After Hours",
-    "commentary": "Markets closed for the weekend after a punishing February finale. Crypto extends losses in thin after-hours trade\u2014Bitcoin slips to $64,500 (-4.2% on day), testing January support as weekend risk-off takes hold; Ethereum drops to $1,870 (-6.1%), breaking below key $1,900 level. Futures flat with no catalyst until Monday's ISM manufacturing data. Gold holds at $5,260 in overseas trade; oil steady at $64.80. Traders lick wounds after hot PCE data crushed rate-cut hopes\u2014March volatility looking increasingly likely.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-2.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.7%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-4.2%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-6.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.6%"
       }
     ]
   }
