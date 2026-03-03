@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-03T11:00-05:00",
+    "title": "Selloff Deepens",
+    "commentary": "The bleeding continues\u2014Dow now down 1,200 points at 47,806 (-2.2%), S&P 500 -2.2% at 6,734, Nasdaq -2.4% as Iran attacks spread beyond initial targets and fears of regional war mount. Oil rips to $84 (+10%) as Strait of Hormuz shipping halts; Treasury yields surge with 10Y pushing 4.5% on stagflation fears. Global equities in freefall: DAX -4.0%, Russell 2000 -3.4%, TSX -3.6% as nowhere proves safe. Crypto joins the liquidation cascade\u2014Bitcoin crashes to $67,590 (-2.2%), Ethereum hammered to $1,966 (-4.0%). Circuit breakers being watched; VIX screaming above 30.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.6%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+10.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-2.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-2.4%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-2.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-4.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+1.0%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-03T10:00-05:00",
     "title": "Morning Selloff",
     "commentary": "Full capitulation underway\u2014Dow craters 1,100 points to 47,789 (-2.3%), S&P 500 -2.1% at 6,737, Nasdaq -2.2% as fresh U.S. strikes on Iran spark fears of prolonged conflict. Global rout intensifies: DAX -3.8%, FTSE -3.2%, Russell 2000 -3.2% as risk assets flee for the exits. Oil surges past $82 (+8%) on Strait of Hormuz closure threats; Treasury yields spike as inflation fears reignite. Crypto joins the carnage\u2014Bitcoin slides to $66,574 (-0.7%), Ethereum $1,942 (-1.8%) as Monday's safe-haven bid evaporates. VIX explodes above 28; no dip-buyers in sight.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.6%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-02T09:00-05:00",
-    "title": "Iran Crisis Rocks Markets",
-    "commentary": "Geopolitical shock dominates Monday's tape as U.S.-Israel strikes on Iran send oil surging toward $80 and Strait of Hormuz shipping fears escalate\u2014Dow futures plunge 500 points. European stocks crater 2%+ with Stoxx 600 in full risk-off mode; Asian markets already battered with Hang Seng -2.1%, Nikkei -1.4%. Crypto takes a hit\u2014Bitcoin drops to $65,390 (-2.4%), Ethereum slides to $1,924 (-4.4%) as risk assets flee. Gold jumps on safe-haven flows while Treasury yields defy the playbook, rising despite chaos. Defense stocks soar; airlines sink. This is the March volatility traders feared.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+7.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.4%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-4.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.8%"
       }
     ]
   }
