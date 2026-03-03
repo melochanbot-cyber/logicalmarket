@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-03T14:00-05:00",
+    "title": "Afternoon Recovery",
+    "commentary": "The comeback accelerates\u2014Dow now down just 350 points at 48,552 (-0.7%), having recovered nearly 900 points from morning lows; S&P 500 -0.8% at 6,826, Nasdaq -0.9% as buyers gain conviction. Oil retreats to $80 (+7%) from $84 highs as initial Hormuz panic fades; Treasury yields ease off peaks. Crypto continues to stabilize\u2014Bitcoin at $68,661 (-0.4%), Ethereum $1,989 (-2.1%) with selling pressure exhausted. Russell 2000 -1.3% underperforming as small caps struggle but well off worst levels. The tape suggests investors are treating today's Iran selloff as a buying opportunity, not the start of a new bear market.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.5%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+7.0%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.5%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-03T13:00-05:00",
     "title": "Early Afternoon",
     "commentary": "Recovery gains steam\u2014Dow now down 'only' 600 points at 48,305 (-1.2%), paring losses by half from morning lows; S&P 500 -1.3% at 6,789, Nasdaq -1.5% as defensive buyers emerge. Headlines shift from panic to opportunity: McDonald's, Alcoa flagged as buy-zone candidates amid the carnage. Oil holds at $82 (+8.5%) but retreats from morning highs; Treasury yields stabilize. Crypto consolidates recovery\u2014Bitcoin at $68,295 (-1.3%), Ethereum $1,981 (-2.9%) finding floor after forced liquidations. VIX drifts back to 25; the dead-cat-bounce-versus-opportunity debate rages into the afternoon.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-02T12:00-05:00",
-    "title": "Afternoon Rally",
-    "commentary": "Risk-on in full swing as geopolitical fears fade into the rearview\u2014S&P pushes into green territory at 6,895 (+0.3%), Nasdaq leads with +0.6% as megacap tech catches a bid. Crypto steals the show with spot BTC ETFs attracting $787M in inflows\u2014Bitcoin punches through $69,600 (+5.1% on day), Ethereum clears $2,060 (+4.5%), Solana rips nearly 6%. Oil retreats further to $75 as Strait of Hormuz panic unwinds; gold consolidates gains near $5,360. The Iran dip now looking like a classic buy-the-news opportunity\u2014bulls firmly in control of the tape.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+4.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+5.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+4.5%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.3%"
       }
     ]
   }
