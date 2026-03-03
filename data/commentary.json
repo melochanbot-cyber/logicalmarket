@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-03T16:00-05:00",
+    "title": "After Hours",
+    "commentary": "Precious metals carnage deepens into the close\u2014gold craters -3.7% to $5,115, silver obliterated -6.9% to $82.76 as Monday's safe-haven panic gives way to brutal profit-taking. Equities salvaged dignity from session lows: S&P -1.2% at 6,800, Dow -0.8% at 48,500, Nasdaq -2.0% as tech underperforms. Oil holds gains at $73.84 (+3.7%) with Middle East tensions simmering; dollar strengthens +0.6% to 99. Crypto drifts lower\u2014Bitcoin -1.4% at $68,208, Ethereum pressured near $1,950 (-4.5%). The gold reversal is the story: from $5,394 high to $5,005 low, a nearly $400 intraday swing.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-3.7%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-6.9%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+3.7%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-2.0%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-4.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.6%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-03T15:00-05:00",
     "title": "Market Close",
     "commentary": "Brutal reversal in precious metals steals the close\u2014gold crashes -3.3% to $5,134 and silver hammered -5.7% as profit-taking hits safe-haven trades hard after yesterday's panic bid. Equities staged a remarkable recovery: Dow closes -0.6% at 48,603, having clawed back 1,600 points from session lows; S&P -1.2% at 6,800, Nasdaq -2.0%. Oil pares gains to +2.1% at $72.73 as Strait of Hormuz fears ease; dollar strengthens +0.7%. Bitcoin holds $68,443 (-1.0%), Ethereum weaker at $1,950 (-4.4%). The message: Iran selloff created a buying opportunity, not a bear market.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "+4.5%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-02T14:00-05:00",
-    "title": "Late Afternoon",
-    "commentary": "Markets consolidate near session highs as the Iran relief rally matures\u2014S&P holds 6,889 (+0.2%), Nasdaq +0.5%, with buyers defending every pullback attempt. Crypto cools slightly but maintains gains: Bitcoin steady at $69,000 (+4% on day), Ethereum $2,030 (+2.5%), Solana +3.9%\u2014the \"buy the geopolitical dip\" trade fully played out. Oil continues to retreat, now at $73, down from morning's $79 panic high as Strait of Hormuz fears ease. VIX crushed back to 18.5 territory; market seemingly pricing in Iran tensions as contained. Two hours to the close\u2014bulls looking to defend gains into the bell.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+2.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+4.0%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+2.5%"
       },
       {
         "symbol": "USD Index",
