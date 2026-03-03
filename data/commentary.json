@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-03T13:00-05:00",
+    "title": "Early Afternoon",
+    "commentary": "Recovery gains steam\u2014Dow now down 'only' 600 points at 48,305 (-1.2%), paring losses by half from morning lows; S&P 500 -1.3% at 6,789, Nasdaq -1.5% as defensive buyers emerge. Headlines shift from panic to opportunity: McDonald's, Alcoa flagged as buy-zone candidates amid the carnage. Oil holds at $82 (+8.5%) but retreats from morning highs; Treasury yields stabilize. Crypto consolidates recovery\u2014Bitcoin at $68,295 (-1.3%), Ethereum $1,981 (-2.9%) finding floor after forced liquidations. VIX drifts back to 25; the dead-cat-bounce-versus-opportunity debate rages into the afternoon.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.7%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+8.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.9%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.7%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-03T12:00-05:00",
     "title": "Midday Bounce",
     "commentary": "Dip buyers emerge from the wreckage\u2014Dow claws back 400 points from session lows to 48,221 (-1.4%), S&P 500 recovers to 6,789 (-1.3%), Nasdaq -1.4% as tech finds footing. The worst of the morning panic subsides but markets remain deeply red: Russell -2.4%, DAX -3.6%, oil holding at $83 (+9%). Crypto stages a partial recovery\u2014Bitcoin bounces to $68,320 (-1.9%), Ethereum $1,986 (-3.8%) off earlier lows as forced liquidations slow. Treasury yields ease from highs as some haven flows return; VIX retreats from 30+ but remains elevated at 27. The question: is this a dead cat bounce or dip-buying opportunity?",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-02T11:00-05:00",
-    "title": "Midday Reversal",
-    "commentary": "The tape flips green as dip buyers overwhelm Iran fears\u2014S&P erases morning losses to trade flat at 6,870, Nasdaq turns positive as tech leads the reversal. Crypto explodes higher with Bitcoin surging past $69,000 (+3% hourly), Ethereum reclaiming $2,040 (+3.5%), and Solana ripping 4%+ as risk appetite returns in force. Defense stocks consolidate gains while airlines attempt to bounce from morning lows. Oil retreats to $77 from session highs as Strait of Hormuz concerns ease marginally; gold holds elevated at $5,380. The \"buy the dip\" crowd making their presence felt\u2014VIX dropping from morning spike.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.6%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.4%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+5.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.9%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.5%"
       }
     ]
   }
