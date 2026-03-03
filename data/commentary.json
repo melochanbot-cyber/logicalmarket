@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-03T15:00-05:00",
+    "title": "Market Close",
+    "commentary": "Brutal reversal in precious metals steals the close\u2014gold crashes -3.3% to $5,134 and silver hammered -5.7% as profit-taking hits safe-haven trades hard after yesterday's panic bid. Equities staged a remarkable recovery: Dow closes -0.6% at 48,603, having clawed back 1,600 points from session lows; S&P -1.2% at 6,800, Nasdaq -2.0%. Oil pares gains to +2.1% at $72.73 as Strait of Hormuz fears ease; dollar strengthens +0.7%. Bitcoin holds $68,443 (-1.0%), Ethereum weaker at $1,950 (-4.4%). The message: Iran selloff created a buying opportunity, not a bear market.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-3.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-5.7%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-2.0%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-4.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.7%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-03T14:00-05:00",
     "title": "Afternoon Recovery",
     "commentary": "The comeback accelerates\u2014Dow now down just 350 points at 48,552 (-0.7%), having recovered nearly 900 points from morning lows; S&P 500 -0.8% at 6,826, Nasdaq -0.9% as buyers gain conviction. Oil retreats to $80 (+7%) from $84 highs as initial Hormuz panic fades; Treasury yields ease off peaks. Crypto continues to stabilize\u2014Bitcoin at $68,661 (-0.4%), Ethereum $1,989 (-2.1%) with selling pressure exhausted. Russell 2000 -1.3% underperforming as small caps struggle but well off worst levels. The tape suggests investors are treating today's Iran selloff as a buying opportunity, not the start of a new bear market.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-02T13:00-05:00",
-    "title": "Early Afternoon",
-    "commentary": "Equities grind higher into early afternoon\u2014S&P touches session high at 6,888 (+0.1% vs Friday close), completing a remarkable V-shaped recovery from the Iran-driven selloff at the open. Crypto consolidates gains with Bitcoin holding $69,000 (+4.5% on day), Ethereum steady near $2,040 (+3.3%); CMC20 index up 4.3% as the sector outperforms tradfi. Oil continues to retreat from morning panic highs, settling around $74\u2014market pricing in containment of Middle East tensions. Defensive rotation unwinds as VIX drops below 19; traders now looking ahead to Tuesday's ISM services data. The \"buy every dip\" playbook continues to work.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.1%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+3.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+4.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+3.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
       }
     ]
   }
