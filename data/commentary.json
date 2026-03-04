@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-04T10:00-05:00",
+    "title": "Morning Session",
+    "commentary": "Risk-on momentum builds into the morning\u2014S&P +0.2% at 6,832, Nasdaq leads +0.5% at 22,620, Dow +0.2% as the post-Iran recovery extends. Gold consolidates gains +0.8% at $5,165, silver +0.5% at $83.88 after yesterday's volatility; metals holding but not surging. Crypto the standout performer: Ethereum rips to $2,108 intraday high (+6.4%), Bitcoin +3.2% near $70,500 as risk appetite returns. Oil flat at $74.68 (+0.2%); dollar slips -0.1% to 98.93. The Iran premium continues to unwind\u2014buyers in control across asset classes.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+3.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+6.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-04T09:00-05:00",
     "title": "Market Open",
     "commentary": "Precious metals stage a furious bounce at the open\u2014gold surges +1.4% to $5,197, silver rips +2.8% to $85.78 as bargain hunters pile into yesterday's carnage. Equities flat to start: S&P 500 unchanged at 6,817, Dow flat at 48,500, Nasdaq steady at 22,517 as traders digest the Iran-driven volatility. Oil retreats -1.3% to $73.58 as Strait of Hormuz fears ease further; dollar slips -0.2% to 98.88. Crypto joins the recovery bid\u2014Bitcoin +1.9% near $69,500, Ethereum +3.5% at $2,050. The metals reversal is the story: from yesterday's $400 gold crash to today's snap-back rally.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.5%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-02T16:00-05:00",
-    "title": "After Hours",
-    "commentary": "Markets give back gains into the close as Iran jitters resurface\u2014Dow settles at 48,909 (-0.2%), S&P 500 flat at 6,880, Nasdaq +0.3% at 22,745 after surrendering midday rally. Crypto remains the standout performer: Bitcoin holds $69,273 (+6.0%) with futures premium expanding, Ethereum steady at $2,039 (+6.6%) as spot ETF inflows accelerate. Oil closes at $74.50 (+3.2%) as Strait of Hormuz concerns linger; gold ends at $5,365 (+0.7%). The intraday V-shaped recovery couldn't stick\u2014bulls showed up early but sellers had the final word. Tuesday's ISM services data looms large.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+3.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+6.0%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+6.6%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
       }
     ]
   }
