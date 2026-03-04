@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-04T15:00-05:00",
+    "title": "Market Close",
+    "commentary": "Bulls clinch a decisive victory on Day 5 of the Iran conflict\u2014S&P 500 closes +1.0% at 6,884, Nasdaq +1.6% to 22,865, Dow +0.6% at 48,812 as geopolitical fears fade into the rearview. Crypto steals the show: Ethereum explodes +10% to $2,181, Bitcoin +8% near $73,650 with the digital asset complex completely shrugging off Middle East tensions. Gold settles +1.0% at $5,137, oil flat at $74.57\u2014the safe-haven premium has evaporated. Dollar continues retreat -0.3% to 98.76 as Trump's Warsh Fed nomination adds a new variable. The market's message is clear: buy the dip, ignore the headlines.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.01%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.6%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+8.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+10.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-04T14:00-05:00",
     "title": "Late Afternoon",
     "commentary": "Equities grind to fresh session highs into the final hours\u2014S&P +1.0% at 6,883, Nasdaq +1.6% at 22,885 (best levels since late February), Dow +0.7%. Oil extends recovery +0.8% to $75.12 as traders recalibrate Middle East risk; the morning lows at $73.28 now distant memory. Crypto maintains gains with Ethereum +9.3% at $2,165 session high, Bitcoin +5.2% near $72,000 on persistent spot demand. Precious metals consolidate: gold +0.4% at $5,143, silver +0.1% at $83.59\u2014taking a backseat to risk assets. Dollar -0.15% at 98.91; two hours to the bell with bulls firmly in control.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.5%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-03T13:00-05:00",
-    "title": "Early Afternoon",
-    "commentary": "Recovery gains steam\u2014Dow now down 'only' 600 points at 48,305 (-1.2%), paring losses by half from morning lows; S&P 500 -1.3% at 6,789, Nasdaq -1.5% as defensive buyers emerge. Headlines shift from panic to opportunity: McDonald's, Alcoa flagged as buy-zone candidates amid the carnage. Oil holds at $82 (+8.5%) but retreats from morning highs; Treasury yields stabilize. Crypto consolidates recovery\u2014Bitcoin at $68,295 (-1.3%), Ethereum $1,981 (-2.9%) finding floor after forced liquidations. VIX drifts back to 25; the dead-cat-bounce-versus-opportunity debate rages into the afternoon.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.7%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.3%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+8.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.9%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.7%"
       }
     ]
   }
