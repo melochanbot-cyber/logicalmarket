@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-04T12:00-05:00",
+    "title": "Early Afternoon",
+    "commentary": "Rally consolidates near session highs heading into lunch\u2014S&P +0.9% at 6,880, Nasdaq +1.5% at 22,853, Dow +0.7% at 48,854 with bulls defending every dip. Crypto extends gains as Ethereum touches new session high at $2,162 (+9.2%), Bitcoin +4.8% near $71,500 on sustained institutional flows. Gold holds +0.7% at $5,160, silver +0.4% at $83.77; metals steady but playing second fiddle to risk assets. Oil continues retreat -0.9% to $73.89 as Iran premium fades; dollar -0.25% at 98.80. The post-Iran FOMO rally shows no signs of exhaustion.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+4.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+9.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.25%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-04T11:00-05:00",
     "title": "Midday",
     "commentary": "The bulls are stampeding\u2014Nasdaq surges +1.5% to session high 22,852, S&P +0.9% at 6,877, Dow +0.7% as risk appetite roars back post-Iran. Crypto is on fire: Ethereum explodes +8.9% to $2,158 intraday high, Bitcoin +4.5% near $71,300 on massive spot buying. Gold and silver consolidate gains (+0.5% and +0.7% respectively) but play second fiddle to the risk rally. Oil retreats -0.7% to $74 as geopolitical fears fade; dollar slips -0.25% to 98.81. The Iran panic has flipped into a full FOMO rally\u2014no fear in sight.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+1.0%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-03T10:00-05:00",
-    "title": "Morning Selloff",
-    "commentary": "Full capitulation underway\u2014Dow craters 1,100 points to 47,789 (-2.3%), S&P 500 -2.1% at 6,737, Nasdaq -2.2% as fresh U.S. strikes on Iran spark fears of prolonged conflict. Global rout intensifies: DAX -3.8%, FTSE -3.2%, Russell 2000 -3.2% as risk assets flee for the exits. Oil surges past $82 (+8%) on Strait of Hormuz closure threats; Treasury yields spike as inflation fears reignite. Crypto joins the carnage\u2014Bitcoin slides to $66,574 (-0.7%), Ethereum $1,942 (-1.8%) as Monday's safe-haven bid evaporates. VIX explodes above 28; no dip-buyers in sight.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.8%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.4%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+8.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-2.1%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-2.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-2.3%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-1.8%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.8%"
       }
     ]
   }
