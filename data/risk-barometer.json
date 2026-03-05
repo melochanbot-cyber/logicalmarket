@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T05:32:58Z",
+  "updatedAt": "2026-03-05T06:58:28Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,21 +24,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+7.3% above 50-day MA"
+          "detail": "+7.0% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+0.6% vs 200-MA, rising"
+          "detail": "+0.7% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.41%"
+          "detail": "20-day volatility: 2.40%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-24.8% vs 200-day MA"
+          "detail": "-24.5% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.85%"
+          "detail": "30-day volatility: 3.51%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -15.4%, 30d: -4.2%"
+          "detail": "60d gain: -18.2%, 30d: -0.6%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -20.7%, NDX: -3.3%"
+          "detail": "BTC: -22.7%, NDX: -3.3%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-41.9% from all-time high"
+          "detail": "-41.8% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
