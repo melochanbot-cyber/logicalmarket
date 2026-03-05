@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-05T09:00-05:00",
+    "title": "Market Open",
+    "commentary": "Yesterday's rally meets reality at the open\u2014Dow flat at 48,739, S&P unchanged at 6,869, Nasdaq flat at 22,807 as Iran peace hopes evaporate overnight. Oil spikes +3.0% to $76.93 with fresh airstrikes reigniting Hormuz supply fears; the geopolitical risk premium is back. Crypto retreats from yesterday's euphoria: Bitcoin -1.0% to $72,484, Ethereum -1.9% at $2,117 as risk-off returns. Gold catches a bid +0.5% near $5,160, dollar strengthens +0.3% to 99.1. Asia bounced overnight (Nikkei +1.9%) but US futures couldn't hold\u2014traders bracing for another volatile session.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+3.0%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.9%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-04T16:00-05:00",
     "title": "After Hours",
     "commentary": "Wall Street closes out a powerful recovery session\u2014Dow +0.5% at 48,748, S&P 500 +0.8% at 6,870, Nasdaq +1.3% at 22,809 as Iran war fatigue sets in and bulls take control. Crypto continues its tear: Bitcoin +7.3% near $73,200, Ethereum +8.9% at $2,158\u2014digital assets emerging as the unlikely winners of geopolitical chaos. Oil edges higher +0.9% to $75.26 with Hormuz fears contained; gold +1.0% at $5,135 holds gains but momentum shifts to risk assets. Dollar sinks -0.3% to 98.77 as markets digest Trump's Warsh Fed pick. Asia opens next\u2014Nikkei futures pointing lower after today's -3.6% rout.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.6%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-03T15:00-05:00",
-    "title": "Market Close",
-    "commentary": "Brutal reversal in precious metals steals the close\u2014gold crashes -3.3% to $5,134 and silver hammered -5.7% as profit-taking hits safe-haven trades hard after yesterday's panic bid. Equities staged a remarkable recovery: Dow closes -0.6% at 48,603, having clawed back 1,600 points from session lows; S&P -1.2% at 6,800, Nasdaq -2.0%. Oil pares gains to +2.1% at $72.73 as Strait of Hormuz fears ease; dollar strengthens +0.7%. Bitcoin holds $68,443 (-1.0%), Ethereum weaker at $1,950 (-4.4%). The message: Iran selloff created a buying opportunity, not a bear market.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-3.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-5.7%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-2.0%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-4.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.7%"
       }
     ]
   }
