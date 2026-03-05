@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T07:48:47Z",
+  "updatedAt": "2026-03-05T08:50:33Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -31,7 +31,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+0.6% vs 200-MA, rising"
+          "detail": "+0.8% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 21.1 (threshold: 25)"
+          "detail": "VIX at 22.1 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +8.2%"
+          "detail": "VIX 1-week change: +23.5%"
         },
         {
           "name": "Market Breadth",
@@ -94,7 +94,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 21.1"
+          "detail": "VIX at 22.1"
         },
         {
           "name": "MA Overextension",
