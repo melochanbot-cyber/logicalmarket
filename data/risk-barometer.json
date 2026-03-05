@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T14:48:12Z",
+  "updatedAt": "2026-03-05T15:37:04Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,21 +24,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+6.0% above 50-day MA"
+          "detail": "+5.3% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+0.7% vs 200-MA, rising"
+          "detail": "+0.8% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.37%"
+          "detail": "20-day volatility: 2.36%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -52,28 +52,28 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 21.9 (threshold: 25)"
+          "detail": "VIX at 22.4 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "10Y-2Y spread: 0.06% "
+          "detail": "10Y-2Y spread: 0.05% "
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "+4.1% vs 200-day MA"
+          "detail": "+3.6% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +22.2%"
+          "detail": "VIX 1-week change: +24.7%"
         },
         {
           "name": "Market Breadth",
@@ -94,14 +94,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 21.9"
+          "detail": "VIX at 22.4"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+3.2% vs 200-day MA"
+          "detail": "+2.7% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -0.5%, 30d: -2.8%"
+          "detail": "60d: -0.5%, 30d: -3.3%"
         },
         {
           "name": "Volatility Spike",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "20-day vol: 0.96%"
+          "detail": "20-day vol: 0.97%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-25.1% vs 200-day MA"
+          "detail": "-25.7% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.46%"
+          "detail": "30-day volatility: 3.42%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -18.2%, 30d: -1.4%"
+          "detail": "60d gain: -18.2%, 30d: -2.2%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -23.3%, NDX: -3.2%"
+          "detail": "BTC: -23.9%, NDX: -3.7%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-42.3% from all-time high"
+          "detail": "-42.8% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
