@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-05T14:00-05:00",
+    "title": "Late Afternoon",
+    "commentary": "$80 oil is here\u2014WTI breaches the psychological level to $81.09 (+8.6%), highest since October, as Iran escalation enters a new phase. Dow collapses 1,053 points (-2.2%) to 47,695, S&P -1.3% at 6,780, Nasdaq -1.2%\u2014yesterday's gains obliterated and then some. Russell 2000 carnage at -2.5%; small caps now deep in correction territory. Crypto no safe haven: Bitcoin -3.0% at $71,000, Ethereum -2.4% at $2,075 tracking equities tick for tick. Dollar holds +0.46% at 99.22\u2014the only winner in a sea of red. Two hours to the bell and no sign of dip-buying.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+8.6%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-2.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-3.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.46%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-05T13:00-05:00",
     "title": "Afternoon",
     "commentary": "The rout deepens\u2014Dow now down 972 points (-2.0%) at 47,776, S&P -1.3% at 6,780, Nasdaq -1.2% as the Iran oil shock reverberates through everything. Russell 2000 in free fall at -2.6%\u2014small caps utterly destroyed. Oil holds near highs at $79.57 (+6.6%), just pennies from $80; dollar +0.45% at 99.22 continues to crush risk assets. Crypto correlates with stocks for once: Bitcoin -3.3% at $70,809, Ethereum -3.1% at $2,059\u2014the 'digital gold' narrative nowhere to be found. Gold can't rally either near $5,070 (-1.3%); nothing works when the dollar is a wrecking ball.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-04T12:00-05:00",
-    "title": "Early Afternoon",
-    "commentary": "Rally consolidates near session highs heading into lunch\u2014S&P +0.9% at 6,880, Nasdaq +1.5% at 22,853, Dow +0.7% at 48,854 with bulls defending every dip. Crypto extends gains as Ethereum touches new session high at $2,162 (+9.2%), Bitcoin +4.8% near $71,500 on sustained institutional flows. Gold holds +0.7% at $5,160, silver +0.4% at $83.77; metals steady but playing second fiddle to risk assets. Oil continues retreat -0.9% to $73.89 as Iran premium fades; dollar -0.25% at 98.80. The post-Iran FOMO rally shows no signs of exhaustion.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+1.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+4.8%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+9.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.25%"
       }
     ]
   }
