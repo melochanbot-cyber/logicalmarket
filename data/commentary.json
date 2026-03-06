@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-06T14:00-05:00",
+    "title": "Late Afternoon",
+    "commentary": "Oil eases from session highs but stays elevated\u2014WTI $91.55 (+13.0%), Brent $93.47 (+9.4%) as traders catch their breath. Equities stabilizing at ugly levels: Dow -1.1% at 47,399, S&P -1.1% at 6,754, Nasdaq -1.1%. Precious metals emerging as the clear winners: gold surges to $5,162 (+1.5%), silver +2.6% at $84.44\u2014the stagflation playbook is fully deployed. Two hours to the bell and no sign of late-day capitulation or recovery. Crypto remains under pressure near lows: Bitcoin ~$68,000 (-4.5%), Ethereum ~$1,965 (-5.2%).",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.5%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.6%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+13.0%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-4.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-5.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-06T13:00-05:00",
     "title": "Afternoon",
     "commentary": "The oil shock intensifies\u2014WTI rips to $92.43 (+14.1%), Brent $94.08 (+10.2%) as Iran conflict shows no signs of abating. Natural gas joins the party +8.7% to $3.26. Equities resume their slide: Dow -1.3% at 47,329, S&P -1.3% at 6,745, Russell small caps getting massacred at -2.6%. The midday bounce has evaporated. Crypto capitulation deepens: Bitcoin -4.5% at $68,004, Ethereum -5.1% at $1,967. Gold steady at $5,140 (+1.1%), silver +2.2%\u2014the only winners in this bloodbath are energy and precious metals.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.45%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-05T12:00-05:00",
-    "title": "Early Afternoon",
-    "commentary": "Full capitulation mode\u2014Dow craters 772 points (-1.6%) to 47,976, erasing the entire week's gains as oil touches $80 for the first time since October (+6.2% at $79.32, intraday high $79.97). S&P -0.65% at 6,825, Russell 2000 crushed -1.9% with small caps in freefall. Dollar surges +0.5% to 99.23\u2014a wrecking ball for everything else; gold can't find a bid near $5,085 (-1.0%) despite peak fear. Crypto bleeding out: Bitcoin -2.5% to $71,341, Ethereum -2.1% at $2,080. This is what stagflation fears look like\u2014oil up, everything else down.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+6.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.65%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.6%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.5%"
       }
     ]
   }
