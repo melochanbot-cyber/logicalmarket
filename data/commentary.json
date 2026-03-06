@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-06T16:00-05:00",
+    "title": "Market Close",
+    "commentary": "The bell rings on the wildest week since 2020\u2014Dow closes down 500 points (-1.0%) at 47,438, S&P -0.9% at 6,762, Nasdaq -0.8% as traders flee into the weekend. Oil finishes at $88.72 (+9.5%), capping a historic +35% weekly surge\u2014the biggest gain in futures history dating back to 1983. Maersk suspending Gulf shipping routes adds to supply anxiety. Dollar locks in its steepest weekly gain in a year at 99.85 (+0.6%); gold +1.4% to $5,168 but still down on the week\u2014rare for a crisis. Crypto bleeding into the close: Bitcoin $68,138 (-4.2%), Ethereum $1,980 (-5.3%). Trump's 'unconditional surrender' rhetoric ensures weekend headlines will be anything but quiet.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.4%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+9.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-4.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-5.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.6%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-06T15:00-05:00",
     "title": "Late Session",
     "commentary": "Oil pulls back from highs as Treasury floats futures market intervention\u2014WTI retreats to $89.35 (+10.3%) from session peak of $92.43, with US also issuing waivers for Russian crude purchases. Still on track for the biggest weekly gain in futures history at +35%. Dow limps to -0.9% at 47,503, S&P -0.8% at 6,771\u2014the late-day selling pressure abating but damage done. Dollar surging to 99.8 (+0.5%) for its biggest weekly gain in a year; crypto remains in the doghouse with Bitcoin $68,137 (-3.9%), Ethereum $1,984 (-4.4%). Weekend risk is palpable\u2014no one wants to be long anything but crude heading into two days of Iran uncertainty.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.6%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-05T14:00-05:00",
-    "title": "Late Afternoon",
-    "commentary": "$80 oil is here\u2014WTI breaches the psychological level to $81.09 (+8.6%), highest since October, as Iran escalation enters a new phase. Dow collapses 1,053 points (-2.2%) to 47,695, S&P -1.3% at 6,780, Nasdaq -1.2%\u2014yesterday's gains obliterated and then some. Russell 2000 carnage at -2.5%; small caps now deep in correction territory. Crypto no safe haven: Bitcoin -3.0% at $71,000, Ethereum -2.4% at $2,075 tracking equities tick for tick. Dollar holds +0.46% at 99.22\u2014the only winner in a sea of red. Two hours to the bell and no sign of dip-buying.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+8.6%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-2.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-3.0%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-2.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.46%"
       }
     ]
   }
