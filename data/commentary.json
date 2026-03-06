@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-06T15:00-05:00",
+    "title": "Late Session",
+    "commentary": "Oil pulls back from highs as Treasury floats futures market intervention\u2014WTI retreats to $89.35 (+10.3%) from session peak of $92.43, with US also issuing waivers for Russian crude purchases. Still on track for the biggest weekly gain in futures history at +35%. Dow limps to -0.9% at 47,503, S&P -0.8% at 6,771\u2014the late-day selling pressure abating but damage done. Dollar surging to 99.8 (+0.5%) for its biggest weekly gain in a year; crypto remains in the doghouse with Bitcoin $68,137 (-3.9%), Ethereum $1,984 (-4.4%). Weekend risk is palpable\u2014no one wants to be long anything but crude heading into two days of Iran uncertainty.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+10.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-3.9%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-4.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.5%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-06T14:00-05:00",
     "title": "Late Afternoon",
     "commentary": "Oil eases from session highs but stays elevated\u2014WTI $91.55 (+13.0%), Brent $93.47 (+9.4%) as traders catch their breath. Equities stabilizing at ugly levels: Dow -1.1% at 47,399, S&P -1.1% at 6,754, Nasdaq -1.1%. Precious metals emerging as the clear winners: gold surges to $5,162 (+1.5%), silver +2.6% at $84.44\u2014the stagflation playbook is fully deployed. Two hours to the bell and no sign of late-day capitulation or recovery. Crypto remains under pressure near lows: Bitcoin ~$68,000 (-4.5%), Ethereum ~$1,965 (-5.2%).",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.46%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-05T13:00-05:00",
-    "title": "Afternoon",
-    "commentary": "The rout deepens\u2014Dow now down 972 points (-2.0%) at 47,776, S&P -1.3% at 6,780, Nasdaq -1.2% as the Iran oil shock reverberates through everything. Russell 2000 in free fall at -2.6%\u2014small caps utterly destroyed. Oil holds near highs at $79.57 (+6.6%), just pennies from $80; dollar +0.45% at 99.22 continues to crush risk assets. Crypto correlates with stocks for once: Bitcoin -3.3% at $70,809, Ethereum -3.1% at $2,059\u2014the 'digital gold' narrative nowhere to be found. Gold can't rally either near $5,070 (-1.3%); nothing works when the dollar is a wrecking ball.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+6.6%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-2.0%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-3.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.45%"
       }
     ]
   }
