@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-06T09:00-05:00",
+    "title": "Market Open",
+    "commentary": "Oil explodes to $87.24 (+7.7%) as Iran conflict enters Day 7 with fresh missile strikes across the Gulf\u2014Brent touches $90. Futures opened flat but weakness brewing after a shocking jobs report: US payrolls fell 92,000 in February, the worst drop since October. Dow 47,955 flat, S&P 6,831 unchanged, but the tape is confused\u2014bad jobs data should mean Fed cuts, but $90 oil screams inflation. Crypto bleeding: Bitcoin -2.6% to $69,333, Ethereum -3.1% at $2,027 as risk assets can't find their footing. Dollar holds firm at 99.34; gold flat near $5,088 as the safe-haven trade fractures.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+7.7%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "0.0%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-2.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-3.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.02%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-05T16:00-05:00",
     "title": "After Hours",
     "commentary": "A furious last-hour rally salvages what could have been far worse\u2014Dow closes down 800 points (-1.6%) at 47,949, recovering 300 points from session lows as oil pulls back from $81 to $79.76 (+6.8%). S&P 500 claws back to -0.6% at 6,830, Nasdaq barely red at -0.3%. The late bid suggests de-escalation hopes persist, but gold can't catch a bid near $5,078 (-1.1%) as the surging dollar (+0.3% at 99.11) dominates safe-haven flows. Crypto stabilizes after the selloff: Bitcoin $71,207 (-2%), Ethereum $2,092 (-3%) holding above session lows. The market's verdict: ugly, but not catastrophic.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "+8.9%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-04T15:00-05:00",
-    "title": "Market Close",
-    "commentary": "Bulls clinch a decisive victory on Day 5 of the Iran conflict\u2014S&P 500 closes +1.0% at 6,884, Nasdaq +1.6% to 22,865, Dow +0.6% at 48,812 as geopolitical fears fade into the rearview. Crypto steals the show: Ethereum explodes +10% to $2,181, Bitcoin +8% near $73,650 with the digital asset complex completely shrugging off Middle East tensions. Gold settles +1.0% at $5,137, oil flat at $74.57\u2014the safe-haven premium has evaporated. Dollar continues retreat -0.3% to 98.76 as Trump's Warsh Fed nomination adds a new variable. The market's message is clear: buy the dip, ignore the headlines.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.0%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.01%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+1.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+1.6%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+8.0%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+10.0%"
       },
       {
         "symbol": "USD Index",
