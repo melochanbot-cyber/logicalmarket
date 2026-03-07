@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T22:51:03Z",
+  "updatedAt": "2026-03-07T23:27:09Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -150,14 +150,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -22.2%, 30d: -4.6%"
+          "detail": "60d gain: -22.2%, 30d: -4.5%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -26.3%, NDX: -5.0%"
+          "detail": "BTC: -26.2%, NDX: -5.0%"
         },
         {
           "name": "Drawdown from ATH",
