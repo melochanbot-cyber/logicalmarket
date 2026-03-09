@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T21:51:24Z",
+  "updatedAt": "2026-03-09T22:20:04Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+6.1% above 50-day MA"
+          "detail": "+5.9% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-27.6% vs 200-day MA"
+          "detail": "-27.8% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,21 +150,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -23.6%, 30d: -1.9%"
+          "detail": "60d gain: -23.6%, 30d: -2.1%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -23.8%, NDX: -4.1%"
+          "detail": "BTC: -24.0%, NDX: -4.1%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-44.7% from all-time high"
+          "detail": "-44.9% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
