@@ -946,6 +946,360 @@
         }
 
         /* ═══════════════════════════════════════════════════
+           MELOBOT PAPER PORTFOLIO
+           ═══════════════════════════════════════════════════ */
+        .portfolio-section {
+            margin-bottom: 2rem;
+        }
+
+        .portfolio-header-card {
+            background: linear-gradient(135deg, #0d1a2d 0%, #0a1628 50%, #0d2020 100%);
+            border: 1px solid rgba(34, 211, 238, 0.2);
+            border-radius: var(--radius);
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .portfolio-header-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--cyan), var(--purple), var(--blue));
+        }
+
+        .portfolio-header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .portfolio-identity {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .portfolio-avatar {
+            width: 48px;
+            height: 48px;
+            border-radius: 12px;
+            background: linear-gradient(135deg, var(--cyan), var(--purple));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+        }
+
+        .portfolio-name {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .portfolio-subtitle {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        .portfolio-value-section {
+            text-align: right;
+        }
+
+        .portfolio-total-value {
+            font-size: 2rem;
+            font-weight: 800;
+            font-family: var(--font-mono);
+            color: var(--text-primary);
+        }
+
+        .portfolio-pnl {
+            font-size: 0.9rem;
+            font-family: var(--font-mono);
+            font-weight: 600;
+        }
+
+        .portfolio-pnl.positive { color: var(--green); }
+        .portfolio-pnl.negative { color: var(--red); }
+        .portfolio-pnl.neutral { color: var(--text-muted); }
+
+        .portfolio-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .portfolio-stat {
+            text-align: center;
+        }
+
+        .portfolio-stat-value {
+            font-size: 1.1rem;
+            font-weight: 700;
+            font-family: var(--font-mono);
+            color: var(--text-primary);
+        }
+
+        .portfolio-stat-label {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* Positions Table */
+        .positions-table {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            overflow: hidden;
+            margin-bottom: 1rem;
+        }
+
+        .positions-table-header {
+            padding: 0.75rem 1.25rem;
+            background: rgba(0, 0, 0, 0.2);
+            border-bottom: 1px solid var(--border);
+            font-weight: 600;
+            font-size: 0.85rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .position-row {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+            padding: 0.75rem 1.25rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+            align-items: center;
+            transition: var(--transition);
+        }
+
+        .position-row:hover {
+            background: var(--bg-card-hover);
+        }
+
+        .position-row:last-child {
+            border-bottom: none;
+        }
+
+        .position-asset {
+            font-weight: 600;
+        }
+
+        .position-instrument {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            font-family: var(--font-mono);
+        }
+
+        .position-value {
+            font-family: var(--font-mono);
+            font-size: 0.85rem;
+            text-align: right;
+        }
+
+        /* Trade Journal */
+        .trade-journal {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            overflow: hidden;
+        }
+
+        .trade-journal-header {
+            padding: 0.75rem 1.25rem;
+            background: rgba(0, 0, 0, 0.2);
+            border-bottom: 1px solid var(--border);
+            font-weight: 600;
+            font-size: 0.85rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .trade-journal-entry {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+            transition: var(--transition);
+        }
+
+        .trade-journal-entry:last-child {
+            border-bottom: none;
+        }
+
+        .trade-entry-summary {
+            display: grid;
+            grid-template-columns: auto 2fr 1fr 1fr 1fr;
+            padding: 1rem 1.25rem;
+            align-items: center;
+            gap: 1rem;
+            cursor: pointer;
+        }
+
+        .trade-entry-summary:hover {
+            background: var(--bg-card-hover);
+        }
+
+        .trade-entry-direction {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9rem;
+            font-weight: 700;
+        }
+
+        .trade-entry-direction.long {
+            background: var(--green-bg);
+            color: var(--green);
+        }
+
+        .trade-entry-direction.short {
+            background: var(--red-bg);
+            color: var(--red);
+        }
+
+        .trade-entry-asset {
+            font-weight: 600;
+        }
+
+        .trade-entry-instrument {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        .trade-entry-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            font-family: var(--font-mono);
+        }
+
+        .trade-entry-status {
+            font-size: 0.7rem;
+            font-weight: 600;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            text-align: center;
+        }
+
+        .trade-entry-status.open {
+            background: rgba(74, 158, 255, 0.1);
+            color: var(--blue);
+        }
+
+        .trade-entry-status.closed-win {
+            background: var(--green-bg);
+            color: var(--green);
+        }
+
+        .trade-entry-status.closed-loss {
+            background: var(--red-bg);
+            color: var(--red);
+        }
+
+        .trade-entry-pnl {
+            font-family: var(--font-mono);
+            font-weight: 600;
+            text-align: right;
+        }
+
+        .trade-entry-details {
+            display: none;
+            padding: 0 1.25rem 1.25rem;
+            background: rgba(0, 0, 0, 0.1);
+        }
+
+        .trade-journal-entry.expanded .trade-entry-details {
+            display: block;
+        }
+
+        .trade-detail-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .trade-detail-item {
+            padding: 0.75rem;
+            background: rgba(0, 0, 0, 0.15);
+            border-radius: 6px;
+        }
+
+        .trade-detail-label {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.25rem;
+        }
+
+        .trade-detail-value {
+            font-size: 0.85rem;
+            color: var(--text-primary);
+            line-height: 1.5;
+        }
+
+        .trade-rationale {
+            padding: 1rem;
+            background: rgba(74, 158, 255, 0.05);
+            border-left: 3px solid var(--blue);
+            border-radius: 0 6px 6px 0;
+            margin-top: 1rem;
+        }
+
+        .trade-rationale-title {
+            font-size: 0.7rem;
+            color: var(--blue);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        .trade-rationale-text {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        .trade-reflection {
+            padding: 1rem;
+            background: rgba(167, 139, 250, 0.05);
+            border-left: 3px solid var(--purple);
+            border-radius: 0 6px 6px 0;
+            margin-top: 0.75rem;
+        }
+
+        .trade-reflection-title {
+            font-size: 0.7rem;
+            color: var(--purple);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        @media (max-width: 768px) {
+            .portfolio-header-top { flex-direction: column; align-items: flex-start; }
+            .portfolio-value-section { text-align: left; }
+            .position-row { grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+            .trade-entry-summary { grid-template-columns: auto 1fr; }
+        }
+
+        /* ═══════════════════════════════════════════════════
            MOVERS TABLE
            ═══════════════════════════════════════════════════ */
         .two-col {
@@ -1212,6 +1566,39 @@
         </div>
         <div class="trades-grid" id="tradesGrid">
             <!-- Populated by JS -->
+        </div>
+
+        <!-- MeloBot Paper Portfolio -->
+        <div class="section-header">
+            <h2>🤖 MeloBot Paper Portfolio</h2>
+            <span class="badge">Live Tracking</span>
+        </div>
+        <div class="portfolio-section" id="portfolioSection">
+            <!-- Portfolio Header -->
+            <div class="portfolio-header-card" id="portfolioHeader">
+                <!-- Populated by JS -->
+            </div>
+
+            <!-- Current Positions -->
+            <div class="positions-table" id="positionsTable">
+                <div class="positions-table-header">
+                    <span>📊</span> Current Positions
+                </div>
+                <div id="positionsList">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+
+            <!-- Trade Journal -->
+            <div class="trade-journal" id="tradeJournal">
+                <div class="trade-journal-header">
+                    <span><span>📓</span> Trade Journal</span>
+                    <span style="font-size: 0.7rem; color: var(--text-muted);">Click to expand</span>
+                </div>
+                <div id="tradeJournalList">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
         </div>
 
         <!-- Asset Cards -->
@@ -1816,6 +2203,197 @@
     }
 
     /* ═══════════════════════════════════════════════════════════
+       MELOBOT PAPER PORTFOLIO
+       ═══════════════════════════════════════════════════════════ */
+
+    async function fetchMelobotPortfolio() {
+        try {
+            const resp = await fetch('./data/melobot-portfolio.json?t=' + Date.now(), { signal: AbortSignal.timeout(8000) });
+            if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+            return await resp.json();
+        } catch (e) {
+            console.warn('MeloBot portfolio fetch failed:', e);
+            return null;
+        }
+    }
+
+    function renderMelobotPortfolio(data) {
+        if (!data) {
+            document.getElementById('portfolioSection').style.display = 'none';
+            return;
+        }
+
+        const { meta, portfolio, trades, performance } = data;
+
+        // Render header
+        const pnlClass = portfolio.totalPnl > 0 ? 'positive' : portfolio.totalPnl < 0 ? 'negative' : 'neutral';
+        const pnlSign = portfolio.totalPnl >= 0 ? '+' : '';
+        
+        document.getElementById('portfolioHeader').innerHTML = `
+            <div class="portfolio-header-top">
+                <div class="portfolio-identity">
+                    <div class="portfolio-avatar">🤖</div>
+                    <div>
+                        <div class="portfolio-name">${escapeHtml(meta.owner)}</div>
+                        <div class="portfolio-subtitle">Paper Trading Since ${meta.started}</div>
+                    </div>
+                </div>
+                <div class="portfolio-value-section">
+                    <div class="portfolio-total-value">$${portfolio.totalValue.toLocaleString()}</div>
+                    <div class="portfolio-pnl ${pnlClass}">
+                        ${pnlSign}$${portfolio.totalPnl.toLocaleString()} (${pnlSign}${portfolio.totalPnlPct.toFixed(2)}%)
+                    </div>
+                </div>
+            </div>
+            <div class="portfolio-stats">
+                <div class="portfolio-stat">
+                    <div class="portfolio-stat-value">$${portfolio.cash.toLocaleString()}</div>
+                    <div class="portfolio-stat-label">Cash</div>
+                </div>
+                <div class="portfolio-stat">
+                    <div class="portfolio-stat-value">${portfolio.positions.length}</div>
+                    <div class="portfolio-stat-label">Positions</div>
+                </div>
+                <div class="portfolio-stat">
+                    <div class="portfolio-stat-value">${performance.totalTrades}</div>
+                    <div class="portfolio-stat-label">Total Trades</div>
+                </div>
+                <div class="portfolio-stat">
+                    <div class="portfolio-stat-value">${performance.winRate !== null ? performance.winRate.toFixed(0) + '%' : '—'}</div>
+                    <div class="portfolio-stat-label">Win Rate</div>
+                </div>
+                <div class="portfolio-stat">
+                    <div class="portfolio-stat-value">$${meta.initialCapital.toLocaleString()}</div>
+                    <div class="portfolio-stat-label">Starting Capital</div>
+                </div>
+            </div>
+        `;
+
+        // Render positions
+        const positionsList = document.getElementById('positionsList');
+        if (portfolio.positions.length === 0) {
+            positionsList.innerHTML = `
+                <div style="padding: 1.5rem; text-align: center; color: var(--text-muted);">
+                    No open positions
+                </div>
+            `;
+        } else {
+            positionsList.innerHTML = portfolio.positions.map(pos => {
+                const pnlClass = pos.unrealizedPnl > 0 ? 'positive' : pos.unrealizedPnl < 0 ? 'negative' : '';
+                const pnlColor = pos.unrealizedPnl > 0 ? 'var(--green)' : pos.unrealizedPnl < 0 ? 'var(--red)' : 'var(--text-muted)';
+                const pnlSign = pos.unrealizedPnl >= 0 ? '+' : '';
+                return `
+                    <div class="position-row">
+                        <div>
+                            <div class="position-asset">${escapeHtml(pos.asset)}</div>
+                            <div class="position-instrument">${escapeHtml(pos.instrument)}</div>
+                        </div>
+                        <div class="position-value">${pos.quantity}x</div>
+                        <div class="position-value">$${pos.entryPrice.toFixed(2)}</div>
+                        <div class="position-value">$${pos.marketValue.toLocaleString()}</div>
+                        <div class="position-value" style="color: ${pnlColor}">${pnlSign}$${pos.unrealizedPnl.toFixed(2)}</div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // Render trade journal
+        const journalList = document.getElementById('tradeJournalList');
+        if (trades.length === 0) {
+            journalList.innerHTML = `
+                <div style="padding: 1.5rem; text-align: center; color: var(--text-muted);">
+                    No trades yet
+                </div>
+            `;
+        } else {
+            journalList.innerHTML = trades.map((trade, idx) => {
+                const statusClass = trade.status === 'open' ? 'open' : 
+                    (trade.realizedPnl > 0 ? 'closed-win' : 'closed-loss');
+                const statusText = trade.status === 'open' ? 'OPEN' : 
+                    (trade.realizedPnl > 0 ? 'WIN' : 'LOSS');
+                const pnlDisplay = trade.status === 'open' ? '—' : 
+                    `${trade.realizedPnl >= 0 ? '+' : ''}$${trade.realizedPnl}`;
+                const pnlColor = trade.status === 'open' ? 'var(--text-muted)' :
+                    (trade.realizedPnl > 0 ? 'var(--green)' : 'var(--red)');
+                
+                const tradeDate = new Date(trade.timestamp).toLocaleDateString('en-US', { 
+                    month: 'short', day: 'numeric', year: 'numeric' 
+                });
+
+                return `
+                    <div class="trade-journal-entry" data-trade-id="${trade.id}">
+                        <div class="trade-entry-summary" onclick="toggleTradeDetails('${trade.id}')">
+                            <div class="trade-entry-direction ${trade.direction}">
+                                ${trade.direction === 'long' ? '📈' : '📉'}
+                            </div>
+                            <div>
+                                <div class="trade-entry-asset">${escapeHtml(trade.asset)}</div>
+                                <div class="trade-entry-instrument">${escapeHtml(trade.instrument)}</div>
+                            </div>
+                            <div class="trade-entry-date">${tradeDate}</div>
+                            <div class="trade-entry-status ${statusClass}">${statusText}</div>
+                            <div class="trade-entry-pnl" style="color: ${pnlColor}">${pnlDisplay}</div>
+                        </div>
+                        <div class="trade-entry-details">
+                            <div class="trade-detail-grid">
+                                <div class="trade-detail-item">
+                                    <div class="trade-detail-label">Entry</div>
+                                    <div class="trade-detail-value">$${trade.price.toFixed(2)} × ${trade.quantity}</div>
+                                </div>
+                                <div class="trade-detail-item">
+                                    <div class="trade-detail-label">Target</div>
+                                    <div class="trade-detail-value" style="color: var(--green)">${escapeHtml(trade.target)}</div>
+                                </div>
+                                <div class="trade-detail-item">
+                                    <div class="trade-detail-label">Stop</div>
+                                    <div class="trade-detail-value" style="color: var(--red)">${escapeHtml(trade.stop)}</div>
+                                </div>
+                                <div class="trade-detail-item">
+                                    <div class="trade-detail-label">Timeframe</div>
+                                    <div class="trade-detail-value">${escapeHtml(trade.timeframe)}</div>
+                                </div>
+                                <div class="trade-detail-item">
+                                    <div class="trade-detail-label">Strategy</div>
+                                    <div class="trade-detail-value">${escapeHtml(trade.strategy)}</div>
+                                </div>
+                                ${trade.marketContext ? `
+                                <div class="trade-detail-item">
+                                    <div class="trade-detail-label">Market Context</div>
+                                    <div class="trade-detail-value">Oil: $${trade.marketContext.oilPrice} | VIX: ${trade.marketContext.vix}</div>
+                                </div>
+                                ` : ''}
+                            </div>
+                            <div class="trade-rationale">
+                                <div class="trade-rationale-title">💭 Rationale</div>
+                                <div class="trade-rationale-text">${escapeHtml(trade.rationale)}</div>
+                            </div>
+                            ${trade.reflection ? `
+                            <div class="trade-reflection">
+                                <div class="trade-reflection-title">🔍 Reflection</div>
+                                <div class="trade-rationale-text">${escapeHtml(trade.reflection)}</div>
+                            </div>
+                            ` : ''}
+                            ${trade.lessonsLearned ? `
+                            <div class="trade-reflection" style="border-color: var(--cyan); background: rgba(34, 211, 238, 0.05);">
+                                <div class="trade-reflection-title" style="color: var(--cyan);">📚 Lessons Learned</div>
+                                <div class="trade-rationale-text">${escapeHtml(trade.lessonsLearned)}</div>
+                            </div>
+                            ` : ''}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+    }
+
+    function toggleTradeDetails(tradeId) {
+        const entry = document.querySelector(`[data-trade-id="${tradeId}"]`);
+        if (entry) {
+            entry.classList.toggle('expanded');
+        }
+    }
+
+    /* ═══════════════════════════════════════════════════════════
        HIGH CONVICTION TRADES
        ═══════════════════════════════════════════════════════════ */
 
@@ -2049,13 +2627,14 @@
         badge.style.color = 'var(--yellow)';
 
         try {
-            // Fetch assets, news, commentary, risk barometer, and trades in parallel
-            const [_, articles, commentary, barometers, tradesData] = await Promise.all([
+            // Fetch assets, news, commentary, risk barometer, trades, and MeloBot portfolio in parallel
+            const [_, articles, commentary, barometers, tradesData, melobotPortfolio] = await Promise.all([
                 fetchAllAssets(),
                 fetchNews(),
                 fetchCommentary(),
                 fetchRiskBarometer(),
                 fetchTrades(),
+                fetchMelobotPortfolio(),
             ]);
 
             // Store commentary globally for asset card rendering
@@ -2065,6 +2644,7 @@
             renderMarketOverview(commentary);
             renderRiskBarometer(barometers);
             renderTrades(tradesData);
+            renderMelobotPortfolio(melobotPortfolio);
             renderAssetCards(assetData);
             renderMovers(assetData);
             renderNews(articles);
