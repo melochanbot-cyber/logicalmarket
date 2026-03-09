@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-09T15:00-05:00",
+    "title": "Late Afternoon",
+    "commentary": "Heading into the final hour with losses contained\u2014Dow -0.8% at 47,104, a far cry from the -2.1% opening disaster. Nasdaq nearly flat at -0.08%, proving once again that tech is the cockroach that survives everything. Oil holding below $100 at $98.80, giving bulls just enough cover to defend positions. Mining stocks flashing sell signals per IBD as gold's +2.4% rally looks stretched. Traders positioning cautiously ahead of potential overnight Iran headlines\u2014nobody wants to be a hero before the close.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+2.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+3.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+10.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.08%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+3.3%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+4.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-09T14:00-05:00",
     "title": "Afternoon Session",
     "commentary": "Rally fading into the afternoon as markets give back some gains\u2014Dow settling around -1.0% at 47,022, Nasdaq slipping back to -0.25% after briefly turning green. Oil stabilizing below $100 at $98.70 but traders remain nervous about overnight headline risk from the Middle East. S&P -0.6% with the intraday bounce losing steam as institutional selling resumes. Still a remarkable recovery from the opening chaos\u2014what looked like potential panic has morphed into orderly de-risking. Bitcoin pulling back to $68,635 (+3.7%) as crypto gives up some outperformance.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-5.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-06T13:00-05:00",
-    "title": "Afternoon",
-    "commentary": "The oil shock intensifies\u2014WTI rips to $92.43 (+14.1%), Brent $94.08 (+10.2%) as Iran conflict shows no signs of abating. Natural gas joins the party +8.7% to $3.26. Equities resume their slide: Dow -1.3% at 47,329, S&P -1.3% at 6,745, Russell small caps getting massacred at -2.6%. The midday bounce has evaporated. Crypto capitulation deepens: Bitcoin -4.5% at $68,004, Ethereum -5.1% at $1,967. Gold steady at $5,140 (+1.1%), silver +2.2%\u2014the only winners in this bloodbath are energy and precious metals.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.1%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+14.1%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-4.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-5.1%"
       },
       {
         "symbol": "USD Index",
