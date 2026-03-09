@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-09T13:00-05:00",
+    "title": "Early Afternoon",
+    "commentary": "The comeback is real\u2014Nasdaq flips positive (+0.2%) as oil's retreat below $100 unleashes aggressive dip-buying. Dow cuts losses to just -0.5% at 47,252, a stunning reversal from the -2.1% opening abyss. WTI crude settling around $98.50 after touching $105 overnight\u2014G-7 reserve release coordination calming nerves. S&P -0.2% with tech leading the charge back; the Iran risk premium already fading from morning panic levels. Bears caught offside as 'buy the dip' mentality proves alive and well despite geopolitical chaos.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+2.7%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+3.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+9.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+4.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+4.7%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.5%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-09T12:00-05:00",
     "title": "Noon Update",
     "commentary": "Relief rally accelerating as oil retreats below $100\u2014Dow now -0.9% at 47,055, clawing back half its morning losses. The crude dip to $99.40 from session highs of $105 sparking a 'worst case avoided' narrative per Nomura. S&P -0.5%, Nasdaq nearly flat at -0.15% as growth names lead the bounce. Nomura strategist calling markets 'priced for absolute chaos' but predicting de-escalation\u2014dip buyers emboldened. Bitcoin consolidating gains at $68,878 (+4.1%), with crypto outperforming traditional safe havens on the session.",
@@ -379,49 +422,6 @@
       {
         "symbol": "Ethereum",
         "change": "-5.0%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-06T11:00-05:00",
-    "title": "Midday",
-    "commentary": "Buyers emerge from the wreckage\u2014Dow claws back to -1.1% at 47,442 from session lows of -1.9%, S&P recovers to -1.0% at 6,762 as dip-buyers cautiously step in. Oil holds near highs at $88.85 (+9.7%) but the bleeding has slowed; Brent backs off $91 to $90.89. Precious metals finally working: gold +1.2% at $5,145, silver +2.4% at $84.23 as safe-haven flows find a home. Crypto still underwater but off the lows: Bitcoin -3.7% at $68,570, Ethereum -5.5% at $1,978. Dollar weakens to 99.1 (-0.2%) as the jobs miss weighs; Fed cut expectations rising.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.2%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.4%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+9.7%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-3.7%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-5.5%"
       },
       {
         "symbol": "USD Index",
