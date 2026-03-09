@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-09T12:00-05:00",
+    "title": "Noon Update",
+    "commentary": "Relief rally accelerating as oil retreats below $100\u2014Dow now -0.9% at 47,055, clawing back half its morning losses. The crude dip to $99.40 from session highs of $105 sparking a 'worst case avoided' narrative per Nomura. S&P -0.5%, Nasdaq nearly flat at -0.15% as growth names lead the bounce. Nomura strategist calling markets 'priced for absolute chaos' but predicting de-escalation\u2014dip buyers emboldened. Bitcoin consolidating gains at $68,878 (+4.1%), with crypto outperforming traditional safe havens on the session.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+2.9%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+3.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+11.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.15%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+4.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+4.6%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.6%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-09T11:00-05:00",
     "title": "Midday Update",
     "commentary": "Stocks staging a tentative recovery from the opening rout\u2014Dow claws back to -1.1% at 46,987 after trading as low as -2.1%, with transport stocks bearing the brunt of oil pain. S&P -0.8%, Nasdaq -0.5% as tech proves more resilient than cyclicals. Treasury yields spiking on stagflation concerns\u201410Y pushing toward 4.8% as traders price in higher inflation without growth. Oil holding above $100 at $101.80, down from session highs of $105 amid G-7 reserve release speculation. Crypto extending its surprising rally: Bitcoin +5.1% to $69,275, leading the 'digital gold' narrative as actual gold hits $5,328 (+3.1%).",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-06T10:00-05:00",
-    "title": "Morning Session",
-    "commentary": "Carnage on Wall Street\u2014Dow craters 900 points (-1.9%) to 47,052 as oil explodes to $88.94 (+9.8%) on Trump's Iran comments and February's shocking -92,000 payrolls print. S&P -1.6% at 6,724, Nasdaq -1.4%, Russell small caps obliterated -2.3%. Brent crude breaches $91 for first time since 2022; the stagflation trade is ON. Crypto in freefall: Bitcoin -4.0% to $68,406, Ethereum -5.4% at $1,980 as risk assets capitulate. Gold finally catches a bid +0.7% at $5,121 as safe-haven flows rotate away from dollar (-0.1% at 99.24). This is what panic looks like.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+9.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.6%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-4.0%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-5.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.1%"
       }
     ]
   }
