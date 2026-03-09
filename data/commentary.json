@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-09T11:00-05:00",
+    "title": "Midday Update",
+    "commentary": "Stocks staging a tentative recovery from the opening rout\u2014Dow claws back to -1.1% at 46,987 after trading as low as -2.1%, with transport stocks bearing the brunt of oil pain. S&P -0.8%, Nasdaq -0.5% as tech proves more resilient than cyclicals. Treasury yields spiking on stagflation concerns\u201410Y pushing toward 4.8% as traders price in higher inflation without growth. Oil holding above $100 at $101.80, down from session highs of $105 amid G-7 reserve release speculation. Crypto extending its surprising rally: Bitcoin +5.1% to $69,275, leading the 'digital gold' narrative as actual gold hits $5,328 (+3.1%).",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+3.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+4.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+12.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+5.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+4.6%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.7%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-09T10:00-05:00",
     "title": "Morning Update",
     "commentary": "Markets finding a fragile floor after the opening bloodbath\u2014Dow pares losses to -1.5% at 46,803 after touching -2.1% at session lows. S&P -1.3%, Nasdaq -1.2% as dip buyers tentatively emerge on G-7 strategic reserve chatter. Oil retreating from $105 highs to $101.50 but remains up 14% on the day\u2014the Iran conflict showing no signs of de-escalation. Crypto surprisingly resilient: Bitcoin +4.6% to $69,015, Ethereum +4.3% as digital assets decouple from risk-off equity trade. Gold +2.8% to $5,312 benefiting from safe-haven flows while dollar surges 0.9% to 100.7.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-06T09:00-05:00",
-    "title": "Market Open",
-    "commentary": "Oil explodes to $87.24 (+7.7%) as Iran conflict enters Day 7 with fresh missile strikes across the Gulf\u2014Brent touches $90. Futures opened flat but weakness brewing after a shocking jobs report: US payrolls fell 92,000 in February, the worst drop since October. Dow 47,955 flat, S&P 6,831 unchanged, but the tape is confused\u2014bad jobs data should mean Fed cuts, but $90 oil screams inflation. Crypto bleeding: Bitcoin -2.6% to $69,333, Ethereum -3.1% at $2,027 as risk assets can't find their footing. Dollar holds firm at 99.34; gold flat near $5,088 as the safe-haven trade fractures.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+7.7%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "0.0%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-2.6%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.02%"
       }
     ]
   }
