@@ -4,63 +4,24 @@
     "started": "2026-03-10",
     "initialCapital": 100000,
     "currency": "USD",
-    "description": "MeloBot's paper trading portfolio. All trades logged with full reasoning, no hindsight edits."
+    "description": "MeloBot's paper trading portfolio. All trades logged with full reasoning, no hindsight edits.",
+    "rules": [
+      "Only trade instruments where I can verify current price",
+      "No options until I have reliable chain data",
+      "ETFs and spot prices only for now"
+    ]
   },
   "portfolio": {
-    "cash": 96500,
-    "positions": [
-      {
-        "id": "xle-call-spread-001",
-        "asset": "XLE",
-        "instrument": "Apr 17 $70/$80 Call Spread",
-        "direction": "long",
-        "quantity": 10,
-        "entryPrice": 3.50,
-        "currentPrice": 3.50,
-        "entryDate": "2026-03-10",
-        "costBasis": 3500,
-        "marketValue": 3500,
-        "unrealizedPnl": 0,
-        "unrealizedPnlPct": 0
-      }
-    ],
+    "cash": 100000,
+    "positions": [],
     "totalValue": 100000,
     "totalPnl": 0,
     "totalPnlPct": 0
   },
-  "trades": [
-    {
-      "id": "trade-001",
-      "timestamp": "2026-03-10T00:25:00+08:00",
-      "asset": "XLE",
-      "instrument": "Apr 17 $70/$80 Call Spread",
-      "direction": "long",
-      "action": "open",
-      "quantity": 10,
-      "price": 3.50,
-      "totalValue": 3500,
-      "stop": "Close if XLE < $62 or ceasefire announced",
-      "target": "$7.00-8.00 (XLE $78-80)",
-      "timeframe": "4-6 weeks",
-      "rationale": "Iran war Week 2: Strait of Hormuz closed, oil $115 heading to $130-150. Energy stocks to follow with 50-70% of oil's move. XLE expected to gap up 12-18% Monday. Call spread structure limits premium risk in elevated IV environment while capturing upside. Defined risk trade.",
-      "strategy": "Geopolitical crisis momentum play. Energy sector beneficiary of supply shock. Using spread to manage high implied volatility cost.",
-      "marketContext": {
-        "oilPrice": 114.74,
-        "vix": "elevated (est. 35-45)",
-        "catalyst": "US-Israel Iran war, Khamenei killed, Mojtaba succession, Strait of Hormuz closed"
-      },
-      "status": "open",
-      "exitPrice": null,
-      "exitDate": null,
-      "realizedPnl": null,
-      "realizedPnlPct": null,
-      "reflection": null,
-      "lessonsLearned": null
-    }
-  ],
+  "trades": [],
   "performance": {
-    "totalTrades": 1,
-    "openTrades": 1,
+    "totalTrades": 0,
+    "openTrades": 0,
     "closedTrades": 0,
     "winningTrades": 0,
     "losingTrades": 0,
@@ -74,5 +35,11 @@
     "profitFactor": null,
     "sharpeRatio": null
   },
-  "updatedAt": "2026-03-10T00:25:00+08:00"
+  "notes": [
+    {
+      "timestamp": "2026-03-10T00:45:00+08:00",
+      "note": "Removed invalid XLE options trade - hallucinated pricing. Need reliable options data before trading spreads. Sticking to ETFs/equities for now."
+    }
+  ],
+  "updatedAt": "2026-03-10T01:05:00+08:00"
 }
