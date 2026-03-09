@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-09T16:00-05:00",
+    "title": "Market Close",
+    "commentary": "Oil crashed back from near $120 after Trump signaled the Iran conflict could end soon, sending crude tumbling 5%+ and sparking a relief rally that pushed equities back into the green. S&P 500 closed +0.83%, Nasdaq +1.38% as risk appetite returned\u2014a stunning reversal from the morning's bloodbath. Asian markets remained battered with Tokyo's Nikkei nursing a 5.2% loss overnight. Gold eased 0.3% as safe-haven flows reversed while silver outperformed with a 2.4% gain. Crypto under pressure\u2014Bitcoin flat near $69K, Ethereum down 5%. Markets now hang on every headline from the Middle East.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-0.32%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.44%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-5.32%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.83%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.38%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.79%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-5.03%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.09%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-09T15:00-05:00",
     "title": "Late Afternoon",
     "commentary": "Heading into the final hour with losses contained\u2014Dow -0.8% at 47,104, a far cry from the -2.1% opening disaster. Nasdaq nearly flat at -0.08%, proving once again that tech is the cockroach that survives everything. Oil holding below $100 at $98.80, giving bulls just enough cover to defend positions. Mining stocks flashing sell signals per IBD as gold's +2.4% rally looks stretched. Traders positioning cautiously ahead of potential overnight Iran headlines\u2014nobody wants to be a hero before the close.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.5%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-06T14:00-05:00",
-    "title": "Late Afternoon",
-    "commentary": "Oil eases from session highs but stays elevated\u2014WTI $91.55 (+13.0%), Brent $93.47 (+9.4%) as traders catch their breath. Equities stabilizing at ugly levels: Dow -1.1% at 47,399, S&P -1.1% at 6,754, Nasdaq -1.1%. Precious metals emerging as the clear winners: gold surges to $5,162 (+1.5%), silver +2.6% at $84.44\u2014the stagflation playbook is fully deployed. Two hours to the bell and no sign of late-day capitulation or recovery. Crypto remains under pressure near lows: Bitcoin ~$68,000 (-4.5%), Ethereum ~$1,965 (-5.2%).",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.5%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.6%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+13.0%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-4.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-5.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.2%"
       }
     ]
   }
