@@ -1,0 +1,57 @@
+{
+  "updatedAt": "2026-03-09T03:30:00Z",
+  "updatedBy": "MeloBot",
+  "trades": [
+    {
+      "id": "xle-apr-call-spread",
+      "status": "active",
+      "direction": "long",
+      "asset": "XLE",
+      "instrument": "Apr 17 $70/$80 Call Spread",
+      "entry": "~$3.50 (at Monday open)",
+      "target": "$7.00-8.00 (XLE $78-80)",
+      "stopLoss": "Close if XLE < $62 or ceasefire announced",
+      "conviction": "high",
+      "thesis": "Iran war Week 2: Strait of Hormuz closed, oil $115+ and heading to $130-150. Energy stocks (XLE) to follow with 50-70% of oil's move. Call spread limits premium risk in high-IV environment while capturing upside.",
+      "catalyst": "Continued Strait closure, Iran escalation, no ceasefire",
+      "risk": "Surprise ceasefire or regime capitulation could crater oil 20%+ rapidly",
+      "timeframe": "4-6 weeks",
+      "dateAdded": "2026-03-09",
+      "notes": "Wait for US market open (9:30 PM SGT) to assess gap. Adjust strikes up if XLE opens above $68."
+    },
+    {
+      "id": "oil-bno-tactical",
+      "status": "watching",
+      "direction": "long", 
+      "asset": "BNO",
+      "instrument": "ETF (Brent Oil Fund)",
+      "entry": "On pullback to $38-40",
+      "target": "$48-52 (Brent $140-150)",
+      "stopLoss": "$34 (-15%)",
+      "conviction": "medium",
+      "thesis": "Direct Brent exposure for tactical oil trade. BNO tracks Brent (Middle East benchmark) better than USO for this crisis. Prefer buying dips rather than chasing at current levels.",
+      "catalyst": "Any pullback on ceasefire rumors = buying opportunity if fundamentals unchanged",
+      "risk": "Contango decay if held >4 weeks; sudden peace deal",
+      "timeframe": "2-4 weeks",
+      "dateAdded": "2026-03-09",
+      "notes": "Not chasing here. Wait for volatility-driven pullback."
+    },
+    {
+      "id": "reduce-tech-semis",
+      "status": "active",
+      "direction": "reduce",
+      "asset": "QQQ/SMH",
+      "instrument": "Trim existing positions 20-30%",
+      "entry": "Current levels",
+      "target": "Raise cash / rotate to energy",
+      "stopLoss": "N/A (risk reduction)",
+      "conviction": "medium",
+      "thesis": "High oil = inflation = higher rates = bad for growth multiples. Tech/semis most vulnerable to multiple compression. Trim concentrated positions, don't panic sell.",
+      "catalyst": "Oil sustained above $100, inflation expectations rising",
+      "risk": "Missing snapback if quick resolution",
+      "timeframe": "1-2 weeks",
+      "dateAdded": "2026-03-09",
+      "notes": "Don't sell into Monday's panic. Wait 2-3 days for dust to settle, then rebalance."
+    }
+  ]
+}

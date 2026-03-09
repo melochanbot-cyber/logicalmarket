@@ -717,6 +717,235 @@
         }
 
         /* ═══════════════════════════════════════════════════
+           HIGH CONVICTION TRADES
+           ═══════════════════════════════════════════════════ */
+        .trades-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .trade-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            overflow: hidden;
+            transition: var(--transition);
+            position: relative;
+        }
+
+        .trade-card:hover {
+            border-color: rgba(74, 158, 255, 0.3);
+            background: var(--bg-card-hover);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+        }
+
+        .trade-card.direction-long { border-left: 4px solid var(--green); }
+        .trade-card.direction-short { border-left: 4px solid var(--red); }
+        .trade-card.direction-reduce { border-left: 4px solid var(--yellow); }
+
+        .trade-card-header {
+            padding: 1rem 1.25rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+
+        .trade-title-section {
+            flex: 1;
+        }
+
+        .trade-asset {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .trade-direction {
+            font-size: 0.65rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+        }
+
+        .trade-direction.long {
+            background: var(--green-bg);
+            color: var(--green);
+            border: 1px solid var(--green-border);
+        }
+
+        .trade-direction.short {
+            background: var(--red-bg);
+            color: var(--red);
+            border: 1px solid var(--red-border);
+        }
+
+        .trade-direction.reduce {
+            background: rgba(255, 192, 72, 0.1);
+            color: var(--yellow);
+            border: 1px solid rgba(255, 192, 72, 0.3);
+        }
+
+        .trade-instrument {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-top: 0.25rem;
+            font-family: var(--font-mono);
+        }
+
+        .trade-badges {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 0.4rem;
+        }
+
+        .trade-conviction {
+            font-size: 0.65rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            padding: 0.25rem 0.6rem;
+            border-radius: 4px;
+        }
+
+        .trade-conviction.high {
+            background: linear-gradient(135deg, rgba(0, 212, 170, 0.15), rgba(74, 158, 255, 0.15));
+            color: var(--cyan);
+            border: 1px solid rgba(34, 211, 238, 0.3);
+        }
+
+        .trade-conviction.medium {
+            background: rgba(167, 139, 250, 0.1);
+            color: var(--purple);
+            border: 1px solid rgba(167, 139, 250, 0.3);
+        }
+
+        .trade-conviction.low {
+            background: rgba(255, 255, 255, 0.05);
+            color: var(--text-muted);
+            border: 1px solid var(--border);
+        }
+
+        .trade-status {
+            font-size: 0.65rem;
+            font-weight: 500;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+        }
+
+        .trade-status.active {
+            background: var(--green-bg);
+            color: var(--green);
+        }
+
+        .trade-status.watching {
+            background: rgba(255, 192, 72, 0.1);
+            color: var(--yellow);
+        }
+
+        .trade-status.closed {
+            background: rgba(255, 255, 255, 0.05);
+            color: var(--text-muted);
+        }
+
+        .trade-card-body {
+            padding: 1rem 1.25rem;
+        }
+
+        .trade-levels {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .trade-level {
+            text-align: center;
+            padding: 0.5rem;
+            background: rgba(0, 0, 0, 0.15);
+            border-radius: 6px;
+        }
+
+        .trade-level-label {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.25rem;
+        }
+
+        .trade-level-value {
+            font-size: 0.8rem;
+            font-family: var(--font-mono);
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .trade-level.entry .trade-level-value { color: var(--blue); }
+        .trade-level.target .trade-level-value { color: var(--green); }
+        .trade-level.stop .trade-level-value { color: var(--red); }
+
+        .trade-thesis {
+            font-size: 0.82rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: 0.75rem;
+        }
+
+        .trade-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 0.75rem;
+        }
+
+        .trade-meta-tag {
+            font-size: 0.7rem;
+            padding: 0.2rem 0.5rem;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            color: var(--text-muted);
+        }
+
+        .trade-meta-tag .label { color: var(--text-muted); }
+        .trade-meta-tag .value { color: var(--text-secondary); margin-left: 0.25rem; }
+
+        .trade-card-footer {
+            padding: 0.75rem 1.25rem;
+            background: rgba(0, 0, 0, 0.1);
+            border-top: 1px solid rgba(255, 255, 255, 0.03);
+        }
+
+        .trade-notes {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            font-style: italic;
+            display: flex;
+            align-items: flex-start;
+            gap: 0.4rem;
+        }
+
+        .trade-notes .icon { color: var(--blue); }
+
+        @media (max-width: 768px) {
+            .trades-grid { grid-template-columns: 1fr; }
+            .trade-levels { grid-template-columns: 1fr; }
+        }
+
+        /* ═══════════════════════════════════════════════════
            MOVERS TABLE
            ═══════════════════════════════════════════════════ */
         .two-col {
@@ -973,6 +1202,15 @@
             <span class="badge">Multi-Signal Analysis</span>
         </div>
         <div class="barometer-grid" id="barometerGrid">
+            <!-- Populated by JS -->
+        </div>
+
+        <!-- High Conviction Trades -->
+        <div class="section-header">
+            <h2>🎯 High Conviction Trades</h2>
+            <span class="badge">AI-Curated</span>
+        </div>
+        <div class="trades-grid" id="tradesGrid">
             <!-- Populated by JS -->
         </div>
 
@@ -1578,6 +1816,111 @@
     }
 
     /* ═══════════════════════════════════════════════════════════
+       HIGH CONVICTION TRADES
+       ═══════════════════════════════════════════════════════════ */
+
+    async function fetchTrades() {
+        try {
+            const resp = await fetch('./data/trades.json?t=' + Date.now(), { signal: AbortSignal.timeout(8000) });
+            if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+            return await resp.json();
+        } catch (e) {
+            console.warn('Trades fetch failed:', e);
+            return null;
+        }
+    }
+
+    function renderTrades(tradesData) {
+        const container = document.getElementById('tradesGrid');
+        
+        if (!tradesData || !tradesData.trades || tradesData.trades.length === 0) {
+            container.innerHTML = `
+                <div class="error-state" style="grid-column: 1 / -1;">
+                    <div class="icon">🎯</div>
+                    <p style="font-size: 0.85rem;">No active trade ideas</p>
+                    <p style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.5rem;">Check back later for new opportunities</p>
+                </div>
+            `;
+            return;
+        }
+
+        container.innerHTML = tradesData.trades.map(trade => {
+            const directionClass = trade.direction || 'long';
+            const convictionClass = trade.conviction || 'medium';
+            const statusClass = trade.status || 'active';
+
+            const directionLabel = {
+                'long': '📈 LONG',
+                'short': '📉 SHORT',
+                'reduce': '⚖️ REDUCE'
+            }[directionClass] || '📈 LONG';
+
+            return `
+                <div class="trade-card direction-${directionClass}">
+                    <div class="trade-card-header">
+                        <div class="trade-title-section">
+                            <div class="trade-asset">
+                                <span class="trade-direction ${directionClass}">${directionLabel}</span>
+                                ${escapeHtml(trade.asset)}
+                            </div>
+                            <div class="trade-instrument">${escapeHtml(trade.instrument)}</div>
+                        </div>
+                        <div class="trade-badges">
+                            <span class="trade-conviction ${convictionClass}">${convictionClass} conviction</span>
+                            <span class="trade-status ${statusClass}">${statusClass}</span>
+                        </div>
+                    </div>
+                    
+                    <div class="trade-card-body">
+                        <div class="trade-levels">
+                            <div class="trade-level entry">
+                                <div class="trade-level-label">Entry</div>
+                                <div class="trade-level-value">${escapeHtml(trade.entry)}</div>
+                            </div>
+                            <div class="trade-level target">
+                                <div class="trade-level-label">Target</div>
+                                <div class="trade-level-value">${escapeHtml(trade.target)}</div>
+                            </div>
+                            <div class="trade-level stop">
+                                <div class="trade-level-label">Stop</div>
+                                <div class="trade-level-value">${escapeHtml(trade.stopLoss)}</div>
+                            </div>
+                        </div>
+
+                        <div class="trade-thesis">${escapeHtml(trade.thesis)}</div>
+
+                        <div class="trade-meta">
+                            <div class="trade-meta-tag">
+                                <span class="label">⏱️</span>
+                                <span class="value">${escapeHtml(trade.timeframe)}</span>
+                            </div>
+                            <div class="trade-meta-tag">
+                                <span class="label">📅</span>
+                                <span class="value">${escapeHtml(trade.dateAdded)}</span>
+                            </div>
+                            ${trade.catalyst ? `
+                            <div class="trade-meta-tag">
+                                <span class="label">⚡</span>
+                                <span class="value">${escapeHtml(trade.catalyst.substring(0, 40))}${trade.catalyst.length > 40 ? '...' : ''}</span>
+                            </div>
+                            ` : ''}
+                        </div>
+                    </div>
+
+                    ${trade.notes ? `
+                    <div class="trade-card-footer">
+                        <div class="trade-notes">
+                            <span class="icon">💡</span>
+                            <span>${escapeHtml(trade.notes)}</span>
+                        </div>
+                    </div>
+                    ` : ''}
+                </div>
+            `;
+        }).join('');
+    }
+
+    /* ═══════════════════════════════════════════════════════════
        RISK BAROMETER
        ═══════════════════════════════════════════════════════════ */
 
@@ -1706,12 +2049,13 @@
         badge.style.color = 'var(--yellow)';
 
         try {
-            // Fetch assets, news, commentary, and risk barometer in parallel
-            const [_, articles, commentary, barometers] = await Promise.all([
+            // Fetch assets, news, commentary, risk barometer, and trades in parallel
+            const [_, articles, commentary, barometers, tradesData] = await Promise.all([
                 fetchAllAssets(),
                 fetchNews(),
                 fetchCommentary(),
                 fetchRiskBarometer(),
+                fetchTrades(),
             ]);
 
             // Store commentary globally for asset card rendering
@@ -1720,6 +2064,7 @@
             renderSummaryBar(assetData);
             renderMarketOverview(commentary);
             renderRiskBarometer(barometers);
+            renderTrades(tradesData);
             renderAssetCards(assetData);
             renderMovers(assetData);
             renderNews(articles);
