@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-10T14:00-04:00",
+    "title": "Afternoon Session",
+    "commentary": "Historic oil collapse accelerating\u2014WTI now down 15.5% to $80.05, the largest single-day drop since 2020, as ceasefire speculation turns into full capitulation. Equities extending gains into the close: Dow +0.8% at 48,124, S&P +0.5%, Nasdaq +0.7%\u2014the relief rally broadening. European natural gas cratering in sympathy with TTF -19.5%, signaling markets now pricing in imminent conflict resolution. Gold holding firm at +1.7% near $5,229 as physical demand stays strong despite risk-on flows. Two hours to the bell and sellers have completely abandoned energy.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.73%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.33%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-15.54%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.54%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.73%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.81%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+2.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+3.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.62%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-10T13:00-04:00",
     "title": "Early Afternoon",
     "commentary": "Oil in total meltdown\u2014WTI crashing 13% to $82.40 as ceasefire momentum becomes a rout, erasing nearly two weeks of war premium in a single session. Equities grinding higher: Dow breaks 48,000 (+0.6%), S&P +0.4%, Nasdaq +0.65% as the energy headwind flips to tailwind. Precious metals still catching flight-to-quality flows despite the de-escalation narrative: gold holds +1.7% at $5,228, silver +2.8%, platinum +3.2%. European session closed strong with DAX +2.3%, and the dollar continues sliding as risk-on dominates. This is the fastest war premium unwind since Desert Storm.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.5%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-09T12:00-05:00",
-    "title": "Noon Update",
-    "commentary": "Relief rally accelerating as oil retreats below $100\u2014Dow now -0.9% at 47,055, clawing back half its morning losses. The crude dip to $99.40 from session highs of $105 sparking a 'worst case avoided' narrative per Nomura. S&P -0.5%, Nasdaq nearly flat at -0.15% as growth names lead the bounce. Nomura strategist calling markets 'priced for absolute chaos' but predicting de-escalation\u2014dip buyers emboldened. Bitcoin consolidating gains at $68,878 (+4.1%), with crypto outperforming traditional safe havens on the session.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+2.9%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+3.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+11.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.15%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+4.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+4.6%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.6%"
       }
     ]
   }
