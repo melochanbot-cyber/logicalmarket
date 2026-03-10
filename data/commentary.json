@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-10T11:00-04:00",
+    "title": "Midday Update",
+    "commentary": "Oil in total capitulation\u2014WTI collapsing 11% to $84.22 as ceasefire momentum builds, erasing nearly all of last week's war premium in a single session. Equities finally catching bid: Dow +0.5% at 47,985, S&P +0.4%, Nasdaq +0.6% as the energy drag transforms into tailwind. European bourses ripping\u2014DAX +2.5%, FTSE +1.9% on relief. Precious metals paradoxically rallying with gold +1.4% to $5,210 and silver +2.5%\u2014the uncertainty hedge still has believers. Dollar sliding 0.6% as risk-on flows dominate.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.38%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.51%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-11.13%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.38%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.63%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.51%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+2.9%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.58%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-10T10:00-04:00",
     "title": "Morning Update",
     "commentary": "Oil in freefall\u2014WTI crashing 7.7% to $87.45 as markets fully price in Trump's Iran war 'nearly complete' messaging, with Brent mirroring the bloodbath at -7.7%. Equities struggling to find direction despite the energy relief\u2014Dow -0.5% at 47,498, S&P -0.4%\u2014as traders question whether the ceasefire optimism is premature. Precious metals catching a strong bid with gold +1.2% to $5,203 and silver +2.1% as the geopolitical uncertainty trade lives on. Dollar sliding 0.4% as safe-haven flows reverse. Bitcoin holding $70K territory as crypto shows resilience.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.9%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-09T09:00-05:00",
-    "title": "Market Open",
-    "commentary": "Chaos at the open\u2014Dow plunges 650 points (-1.4%) as oil explodes through $100 for the first time since 2022, sparking stagflation fears across trading desks. Nikkei led the carnage overnight with a 5.2% collapse; S&P and Nasdaq futures indicating similar bloodbaths. Iran conflict escalation and Strait of Hormuz threats have crude up 25%+ from Friday's close. Safe-haven flows conspicuously muted: gold +2.1% to $5,277 but Bitcoin struggling to hold $68k as risk-off dominates. G-7 emergency talks on strategic reserve releases may cap crude's upside\u2014but weekend headlines have traders bracing for worse.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+3.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+25.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+3.4%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-3.5%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.8%"
       }
     ]
   }
