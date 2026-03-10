@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-10T10:00-04:00",
+    "title": "Morning Update",
+    "commentary": "Oil in freefall\u2014WTI crashing 7.7% to $87.45 as markets fully price in Trump's Iran war 'nearly complete' messaging, with Brent mirroring the bloodbath at -7.7%. Equities struggling to find direction despite the energy relief\u2014Dow -0.5% at 47,498, S&P -0.4%\u2014as traders question whether the ceasefire optimism is premature. Precious metals catching a strong bid with gold +1.2% to $5,203 and silver +2.1% as the geopolitical uncertainty trade lives on. Dollar sliding 0.4% as safe-haven flows reverse. Bitcoin holding $70K territory as crypto shows resilience.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.24%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.05%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-7.72%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.37%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.10%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.51%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+1.39%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+2.27%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.44%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-10T09:00-04:00",
     "title": "Market Open",
     "commentary": "Oil whipsawing at the open as Hegseth promises Tuesday will be the 'most intense day of strikes' on Iran\u2014crude bouncing back toward $90 after yesterday's 5% plunge on ceasefire hopes. Futures flat as traders await clarity on whether Trump's 'war nearly complete' rhetoric holds or if escalation resumes. Asia bounced hard overnight\u2014Nikkei +2.9%, Hang Seng +2.2%\u2014while European stocks surged 2% on relief. Gold catching a bid at $5,187 (+0.9%) as geopolitical whiplash keeps safe-haven demand alive. Bitcoin rallying to $70.5K as crypto decouples from risk-off narrative.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.8%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-06T16:00-05:00",
-    "title": "Market Close",
-    "commentary": "The bell rings on the wildest week since 2020\u2014Dow closes down 500 points (-1.0%) at 47,438, S&P -0.9% at 6,762, Nasdaq -0.8% as traders flee into the weekend. Oil finishes at $88.72 (+9.5%), capping a historic +35% weekly surge\u2014the biggest gain in futures history dating back to 1983. Maersk suspending Gulf shipping routes adds to supply anxiety. Dollar locks in its steepest weekly gain in a year at 99.85 (+0.6%); gold +1.4% to $5,168 but still down on the week\u2014rare for a crisis. Crypto bleeding into the close: Bitcoin $68,138 (-4.2%), Ethereum $1,980 (-5.3%). Trump's 'unconditional surrender' rhetoric ensures weekend headlines will be anything but quiet.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.4%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+9.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-4.2%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-5.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.6%"
       }
     ]
   }
