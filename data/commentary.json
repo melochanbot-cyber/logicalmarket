@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-10T16:00-04:00",
+    "title": "Market Close",
+    "commentary": "Equities end near flat after wild session\u2014S&P eked out +0.1% and Dow closed +0.2% as oil's historic 11% plunge on ceasefire hopes overshadowed tech weakness. Bitcoin continuing its stealth rally, firmly above $70K (+1.5%) while Ethereum lags at $2,037. Dollar consolidating losses (-0.5%) as traders digest the sudden pivot in geopolitical risk premium. Energy sector hemorrhaging but defense names and consumer discretionary picking up the slack. All eyes on CPI data later this week.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.0%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-11.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+1.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.5%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-10T15:00-04:00",
     "title": "Late Session",
     "commentary": "Rally fading into the close\u2014equities giving back gains with S&P nearly flat at +0.03% and Dow trimming to +0.2% at 47,846 after touching 48,124 earlier. Oil bouncing off session lows, now -11.3% at $84.07 after plunging as deep as $80, but the damage is done\u2014this is the biggest single-day crude crash since 2020. Precious metals also retreating from highs with gold +1.0% at $5,193, silver +1.1%. Bitcoin holding $70K territory as crypto ignores the equity fade. One hour to the bell and traders locking in profits, wary of overnight headline risk.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-09T14:00-05:00",
-    "title": "Afternoon Session",
-    "commentary": "Rally fading into the afternoon as markets give back some gains\u2014Dow settling around -1.0% at 47,022, Nasdaq slipping back to -0.25% after briefly turning green. Oil stabilizing below $100 at $98.70 but traders remain nervous about overnight headline risk from the Middle East. S&P -0.6% with the intraday bounce losing steam as institutional selling resumes. Still a remarkable recovery from the opening chaos\u2014what looked like potential panic has morphed into orderly de-risking. Bitcoin pulling back to $68,635 (+3.7%) as crypto gives up some outperformance.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+2.5%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+3.3%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+10.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.25%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+3.7%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+4.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.4%"
       }
     ]
   }
