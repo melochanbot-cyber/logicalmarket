@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-10T15:00-04:00",
+    "title": "Late Session",
+    "commentary": "Rally fading into the close\u2014equities giving back gains with S&P nearly flat at +0.03% and Dow trimming to +0.2% at 47,846 after touching 48,124 earlier. Oil bouncing off session lows, now -11.3% at $84.07 after plunging as deep as $80, but the damage is done\u2014this is the biggest single-day crude crash since 2020. Precious metals also retreating from highs with gold +1.0% at $5,193, silver +1.1%. Bitcoin holding $70K territory as crypto ignores the equity fade. One hour to the bell and traders locking in profits, wary of overnight headline risk.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.03%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.09%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-11.29%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.03%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.16%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.22%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+1.58%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.55%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-10T14:00-04:00",
     "title": "Afternoon Session",
     "commentary": "Historic oil collapse accelerating\u2014WTI now down 15.5% to $80.05, the largest single-day drop since 2020, as ceasefire speculation turns into full capitulation. Equities extending gains into the close: Dow +0.8% at 48,124, S&P +0.5%, Nasdaq +0.7%\u2014the relief rally broadening. European natural gas cratering in sympathy with TTF -19.5%, signaling markets now pricing in imminent conflict resolution. Gold holding firm at +1.7% near $5,229 as physical demand stays strong despite risk-on flows. Two hours to the bell and sellers have completely abandoned energy.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.4%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-09T13:00-05:00",
-    "title": "Early Afternoon",
-    "commentary": "The comeback is real\u2014Nasdaq flips positive (+0.2%) as oil's retreat below $100 unleashes aggressive dip-buying. Dow cuts losses to just -0.5% at 47,252, a stunning reversal from the -2.1% opening abyss. WTI crude settling around $98.50 after touching $105 overnight\u2014G-7 reserve release coordination calming nerves. S&P -0.2% with tech leading the charge back; the Iran risk premium already fading from morning panic levels. Bears caught offside as 'buy the dip' mentality proves alive and well despite geopolitical chaos.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+2.7%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+3.5%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+9.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+4.2%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+4.7%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.5%"
       }
     ]
   }
