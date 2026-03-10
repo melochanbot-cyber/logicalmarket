@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-10T09:00-04:00",
+    "title": "Market Open",
+    "commentary": "Oil whipsawing at the open as Hegseth promises Tuesday will be the 'most intense day of strikes' on Iran\u2014crude bouncing back toward $90 after yesterday's 5% plunge on ceasefire hopes. Futures flat as traders await clarity on whether Trump's 'war nearly complete' rhetoric holds or if escalation resumes. Asia bounced hard overnight\u2014Nikkei +2.9%, Hang Seng +2.2%\u2014while European stocks surged 2% on relief. Gold catching a bid at $5,187 (+0.9%) as geopolitical whiplash keeps safe-haven demand alive. Bitcoin rallying to $70.5K as crypto decouples from risk-off narrative.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.92%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.72%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-5.54%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "0.00%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "0.00%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "0.00%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+2.24%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+2.87%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.48%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-09T16:00-05:00",
     "title": "Market Close",
     "commentary": "Oil crashed back from near $120 after Trump signaled the Iran conflict could end soon, sending crude tumbling 5%+ and sparking a relief rally that pushed equities back into the green. S&P 500 closed +0.83%, Nasdaq +1.38% as risk appetite returned\u2014a stunning reversal from the morning's bloodbath. Asian markets remained battered with Tokyo's Nikkei nursing a 5.2% loss overnight. Gold eased 0.3% as safe-haven flows reversed while silver outperformed with a 2.4% gain. Crypto under pressure\u2014Bitcoin flat near $69K, Ethereum down 5%. Markets now hang on every headline from the Middle East.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.6%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-06T15:00-05:00",
-    "title": "Late Session",
-    "commentary": "Oil pulls back from highs as Treasury floats futures market intervention\u2014WTI retreats to $89.35 (+10.3%) from session peak of $92.43, with US also issuing waivers for Russian crude purchases. Still on track for the biggest weekly gain in futures history at +35%. Dow limps to -0.9% at 47,503, S&P -0.8% at 6,771\u2014the late-day selling pressure abating but damage done. Dollar surging to 99.8 (+0.5%) for its biggest weekly gain in a year; crypto remains in the doghouse with Bitcoin $68,137 (-3.9%), Ethereum $1,984 (-4.4%). Weekend risk is palpable\u2014no one wants to be long anything but crude heading into two days of Iran uncertainty.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.3%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+10.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-3.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-4.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.5%"
       }
     ]
   }
