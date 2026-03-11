@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-11T14:00-04:00",
+    "title": "Afternoon Session",
+    "commentary": "Selling pressure persists into the afternoon\u2014Dow -1.0% leading losses as Middle East fears override the tame CPI print. Oil now +7.2% as crude claws back nearly two-thirds of Monday's historic plunge. Breadth worsening to 1:2 with new lows expanding to 156; defensive rotation accelerating. Bitcoin holding $70.7K, remarkably resilient given the equity carnage. Two hours to close and dip-buyers nowhere in sight.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+7.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.25%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-11T13:00-04:00",
     "title": "Early Afternoon",
     "commentary": "Iran tensions escalating, driving aggressive risk-off rotation\u2014Dow -0.9% leading declines with small caps getting hammered while Nasdaq -0.5% outperforms on Oracle's blowout AI cloud numbers. Oil now +6.5% as geopolitical risk premium roars back; energy the only green sector. Breadth still 2:1 negative with 154 new lows vs 70 new highs. Bitcoin stabilizing near $70.5K as crypto shrugs off equity weakness. FOMC speakers later may add fuel to this fire.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.58%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-10T12:00-04:00",
-    "title": "Noon Update",
-    "commentary": "The ceasefire trade is in full swing\u2014Dow +0.5% at 47,991, extending the comeback from last week's Iran war lows while oil stays crushed at -11% on the session. Precious metals refusing to let go of safety bid despite risk-on flows: gold +1.7% to $5,228, silver +2.8% ripping higher. European stocks having a field day with DAX +2.7%, FTSE +1.6% as energy costs crater. Dollar sliding 0.55% with DXY at 98.6\u2014the entire war premium unwinding in real-time. Russell 2000 +1.1% signals small-caps sniffing a 'soft landing' narrative return.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.71%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.77%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-11.05%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.41%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.62%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.52%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+3.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.55%"
       }
     ]
   }
