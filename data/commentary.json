@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-11T09:00-04:00",
+    "title": "Market Open",
+    "commentary": "Futures opening red as yesterday's oil crash aftermath stokes fresh inflation fears\u2014CPI came in-line but traders aren't buying the soft landing narrative. S&P futures -0.3%, Nasdaq -0.4% with small caps lagging badly. Bitcoin giving back gains, sliding 1.7% to $69,350 as risk-off mood spreads to crypto. Dollar firming +0.2% as safe-haven flows return. All eyes on Friday's PCE print; until then, expect choppy price action as markets digest oil's violent repricing.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.7%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-10T16:00-04:00",
     "title": "Market Close",
     "commentary": "Equities end near flat after wild session\u2014S&P eked out +0.1% and Dow closed +0.2% as oil's historic 11% plunge on ceasefire hopes overshadowed tech weakness. Bitcoin continuing its stealth rally, firmly above $70K (+1.5%) while Ethereum lags at $2,037. Dollar consolidating losses (-0.5%) as traders digest the sudden pivot in geopolitical risk premium. Energy sector hemorrhaging but defense names and consumer discretionary picking up the slack. All eyes on CPI data later this week.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.09%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-09T15:00-05:00",
-    "title": "Late Afternoon",
-    "commentary": "Heading into the final hour with losses contained\u2014Dow -0.8% at 47,104, a far cry from the -2.1% opening disaster. Nasdaq nearly flat at -0.08%, proving once again that tech is the cockroach that survives everything. Oil holding below $100 at $98.80, giving bulls just enough cover to defend positions. Mining stocks flashing sell signals per IBD as gold's +2.4% rally looks stretched. Traders positioning cautiously ahead of potential overnight Iran headlines\u2014nobody wants to be a hero before the close.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+2.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+3.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+10.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.08%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+3.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+4.0%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.3%"
       }
     ]
   }
