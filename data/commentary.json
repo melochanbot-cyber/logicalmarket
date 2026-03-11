@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-11T10:00-04:00",
+    "title": "Morning Session",
+    "commentary": "Markets trade mixed as CPI fails to clarify Fed's rate-cut timeline\u2014S&P -0.4%, Nasdaq outperforming at -0.2% as AI names catch a bid. Oil rebounding +3.2% on fresh geopolitical jitters, unwinding some of yesterday's historic crash. Bitcoin reclaiming $70K handle (+0.5%) while breadth remains ugly with decliners swamping advancers 3:2. Defensive rotation underway with utilities and staples holding green; energy whipsawing on headline risk.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+3.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-11T09:00-04:00",
     "title": "Market Open",
     "commentary": "Futures opening red as yesterday's oil crash aftermath stokes fresh inflation fears\u2014CPI came in-line but traders aren't buying the soft landing narrative. S&P futures -0.3%, Nasdaq -0.4% with small caps lagging badly. Bitcoin giving back gains, sliding 1.7% to $69,350 as risk-off mood spreads to crypto. Dollar firming +0.2% as safe-haven flows return. All eyes on Friday's PCE print; until then, expect choppy price action as markets digest oil's violent repricing.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.48%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-09T16:00-05:00",
-    "title": "Market Close",
-    "commentary": "Oil crashed back from near $120 after Trump signaled the Iran conflict could end soon, sending crude tumbling 5%+ and sparking a relief rally that pushed equities back into the green. S&P 500 closed +0.83%, Nasdaq +1.38% as risk appetite returned\u2014a stunning reversal from the morning's bloodbath. Asian markets remained battered with Tokyo's Nikkei nursing a 5.2% loss overnight. Gold eased 0.3% as safe-haven flows reversed while silver outperformed with a 2.4% gain. Crypto under pressure\u2014Bitcoin flat near $69K, Ethereum down 5%. Markets now hang on every headline from the Middle East.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.32%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.44%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-5.32%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.83%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+1.38%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.79%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-5.03%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.09%"
       }
     ]
   }
