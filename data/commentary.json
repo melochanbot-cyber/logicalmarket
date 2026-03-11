@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-11T16:00-04:00",
+    "title": "Market Close",
+    "commentary": "Wall Street closes Tuesday's session lower amid tariff uncertainty\u2014S&P -0.3%, Dow -0.7% as trade policy whiplash continues. Oil reclaiming +5.3% to $87.89 on fresh Middle East jitters, nearly reversing Monday's historic crash. Crypto decoupling from equities with BTC +0.8% at $70,622 and ETH +1.9% showing renewed strength. Silver the big loser at -3.4% as precious metals cool off; dollar firming +0.4% adding pressure. Meta's custom AI chip announcement failing to lift tech sentiment as tariff headlines dominate.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-3.4%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+5.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+1.9%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.4%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-11T15:00-04:00",
     "title": "Late Session",
     "commentary": "Stocks sliding to multi-month lows heading into the close\u2014S&P -0.9%, Dow -1.1% with financials and small caps bearing the brunt. New lows expanding to 163 as sellers maintain control; 65% of stocks now below their 50-day. Crypto catching a bid as BTC +0.9%, ETH +1.8% decouple from the equity bloodbath. Oil still +6.8% keeping energy the sole bright spot. One hour to the bell and no signs of a late-day rescue.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.55%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-10T14:00-04:00",
-    "title": "Afternoon Session",
-    "commentary": "Historic oil collapse accelerating\u2014WTI now down 15.5% to $80.05, the largest single-day drop since 2020, as ceasefire speculation turns into full capitulation. Equities extending gains into the close: Dow +0.8% at 48,124, S&P +0.5%, Nasdaq +0.7%\u2014the relief rally broadening. European natural gas cratering in sympathy with TTF -19.5%, signaling markets now pricing in imminent conflict resolution. Gold holding firm at +1.7% near $5,229 as physical demand stays strong despite risk-on flows. Two hours to the bell and sellers have completely abandoned energy.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.73%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.33%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-15.54%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.54%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.73%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.81%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.6%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+3.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.62%"
       }
     ]
   }
