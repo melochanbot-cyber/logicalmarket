@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-11T13:00-04:00",
+    "title": "Early Afternoon",
+    "commentary": "Iran tensions escalating, driving aggressive risk-off rotation\u2014Dow -0.9% leading declines with small caps getting hammered while Nasdaq -0.5% outperforms on Oracle's blowout AI cloud numbers. Oil now +6.5% as geopolitical risk premium roars back; energy the only green sector. Breadth still 2:1 negative with 154 new lows vs 70 new highs. Bitcoin stabilizing near $70.5K as crypto shrugs off equity weakness. FOMC speakers later may add fuel to this fire.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+6.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-11T12:00-04:00",
     "title": "Midday",
     "commentary": "Selling intensifying into lunch\u2014S&P now -0.6% as sticky inflation narrative lifts 10Y yields and hammers rate-sensitive sectors. Breadth ugly at 2:1 decliners; new lows outpacing highs 2-to-1. Oracle +5% on AI cloud momentum the lone bright spot in tech. Oil surging +5.8% on renewed Middle East tensions, erasing more of Monday's crash. Bitcoin slipping back below $70.3K as risk-off takes hold; gold miners crushed with HMY -12% post-earnings.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.55%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-10T11:00-04:00",
-    "title": "Midday Update",
-    "commentary": "Oil in total capitulation\u2014WTI collapsing 11% to $84.22 as ceasefire momentum builds, erasing nearly all of last week's war premium in a single session. Equities finally catching bid: Dow +0.5% at 47,985, S&P +0.4%, Nasdaq +0.6% as the energy drag transforms into tailwind. European bourses ripping\u2014DAX +2.5%, FTSE +1.9% on relief. Precious metals paradoxically rallying with gold +1.4% to $5,210 and silver +2.5%\u2014the uncertainty hedge still has believers. Dollar sliding 0.6% as risk-on flows dominate.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.38%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.51%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-11.13%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.38%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.63%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.51%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+2.9%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.58%"
       }
     ]
   }
