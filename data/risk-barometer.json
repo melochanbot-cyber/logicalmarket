@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T20:43:18Z",
+  "updatedAt": "2026-03-11T21:16:43Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.15%"
+          "detail": "20-day volatility: 2.14%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -22.3%, NDX: -2.1%"
+          "detail": "BTC: -22.4%, NDX: -2.1%"
         },
         {
           "name": "Drawdown from ATH",
