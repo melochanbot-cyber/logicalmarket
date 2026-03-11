@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-11T15:00-04:00",
+    "title": "Late Session",
+    "commentary": "Stocks sliding to multi-month lows heading into the close\u2014S&P -0.9%, Dow -1.1% with financials and small caps bearing the brunt. New lows expanding to 163 as sellers maintain control; 65% of stocks now below their 50-day. Crypto catching a bid as BTC +0.9%, ETH +1.8% decouple from the equity bloodbath. Oil still +6.8% keeping energy the sole bright spot. One hour to the bell and no signs of a late-day rescue.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+6.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+1.8%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-11T14:00-04:00",
     "title": "Afternoon Session",
     "commentary": "Selling pressure persists into the afternoon\u2014Dow -1.0% leading losses as Middle East fears override the tame CPI print. Oil now +7.2% as crude claws back nearly two-thirds of Monday's historic plunge. Breadth worsening to 1:2 with new lows expanding to 156; defensive rotation accelerating. Bitcoin holding $70.7K, remarkably resilient given the equity carnage. Two hours to close and dip-buyers nowhere in sight.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.62%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-10T13:00-04:00",
-    "title": "Early Afternoon",
-    "commentary": "Oil in total meltdown\u2014WTI crashing 13% to $82.40 as ceasefire momentum becomes a rout, erasing nearly two weeks of war premium in a single session. Equities grinding higher: Dow breaks 48,000 (+0.6%), S&P +0.4%, Nasdaq +0.65% as the energy headwind flips to tailwind. Precious metals still catching flight-to-quality flows despite the de-escalation narrative: gold holds +1.7% at $5,228, silver +2.8%, platinum +3.2%. European session closed strong with DAX +2.3%, and the dollar continues sliding as risk-on dominates. This is the fastest war premium unwind since Desert Storm.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.71%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.82%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-13.05%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.44%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.65%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.60%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+3.2%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.58%"
       }
     ]
   }
