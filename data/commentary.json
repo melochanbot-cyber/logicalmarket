@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-11T11:00-04:00",
+    "title": "Mid-Morning",
+    "commentary": "Equities stabilizing as CPI digestion continues\u2014S&P paring losses to -0.2%, breadth improving with advancers now at 45%. Tech finding footing on AI tailwinds while energy whipsaws +4% as oil rebound accelerates. Bitcoin grinding higher to $70,685 as crypto decouples from equity weakness. Gold miners getting crushed (HMY -10%) despite metal holding gains; sector rotation favoring defensives over cyclicals. Volume picking up ahead of FOMC speakers this afternoon.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+4.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.05%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-11T10:00-04:00",
     "title": "Morning Session",
     "commentary": "Markets trade mixed as CPI fails to clarify Fed's rate-cut timeline\u2014S&P -0.4%, Nasdaq outperforming at -0.2% as AI names catch a bid. Oil rebounding +3.2% on fresh geopolitical jitters, unwinding some of yesterday's historic crash. Bitcoin reclaiming $70K handle (+0.5%) while breadth remains ugly with decliners swamping advancers 3:2. Defensive rotation underway with utilities and staples holding green; energy whipsawing on headline risk.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.44%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-10T09:00-04:00",
-    "title": "Market Open",
-    "commentary": "Oil whipsawing at the open as Hegseth promises Tuesday will be the 'most intense day of strikes' on Iran\u2014crude bouncing back toward $90 after yesterday's 5% plunge on ceasefire hopes. Futures flat as traders await clarity on whether Trump's 'war nearly complete' rhetoric holds or if escalation resumes. Asia bounced hard overnight\u2014Nikkei +2.9%, Hang Seng +2.2%\u2014while European stocks surged 2% on relief. Gold catching a bid at $5,187 (+0.9%) as geopolitical whiplash keeps safe-haven demand alive. Bitcoin rallying to $70.5K as crypto decouples from risk-off narrative.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.92%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.72%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-5.54%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "0.00%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "0.00%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "0.00%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.24%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+2.87%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.48%"
       }
     ]
   }
