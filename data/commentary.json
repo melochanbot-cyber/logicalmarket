@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-11T12:00-04:00",
+    "title": "Midday",
+    "commentary": "Selling intensifying into lunch\u2014S&P now -0.6% as sticky inflation narrative lifts 10Y yields and hammers rate-sensitive sectors. Breadth ugly at 2:1 decliners; new lows outpacing highs 2-to-1. Oracle +5% on AI cloud momentum the lone bright spot in tech. Oil surging +5.8% on renewed Middle East tensions, erasing more of Monday's crash. Bitcoin slipping back below $70.3K as risk-off takes hold; gold miners crushed with HMY -12% post-earnings.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+5.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.15%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-11T11:00-04:00",
     "title": "Mid-Morning",
     "commentary": "Equities stabilizing as CPI digestion continues\u2014S&P paring losses to -0.2%, breadth improving with advancers now at 45%. Tech finding footing on AI tailwinds while energy whipsaws +4% as oil rebound accelerates. Bitcoin grinding higher to $70,685 as crypto decouples from equity weakness. Gold miners getting crushed (HMY -10%) despite metal holding gains; sector rotation favoring defensives over cyclicals. Volume picking up ahead of FOMC speakers this afternoon.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.58%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-10T10:00-04:00",
-    "title": "Morning Update",
-    "commentary": "Oil in freefall\u2014WTI crashing 7.7% to $87.45 as markets fully price in Trump's Iran war 'nearly complete' messaging, with Brent mirroring the bloodbath at -7.7%. Equities struggling to find direction despite the energy relief\u2014Dow -0.5% at 47,498, S&P -0.4%\u2014as traders question whether the ceasefire optimism is premature. Precious metals catching a strong bid with gold +1.2% to $5,203 and silver +2.1% as the geopolitical uncertainty trade lives on. Dollar sliding 0.4% as safe-haven flows reverse. Bitcoin holding $70K territory as crypto shows resilience.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.24%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.05%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-7.72%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.37%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.10%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.51%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+1.39%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+2.27%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.44%"
       }
     ]
   }
