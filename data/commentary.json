@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-12T10:00-04:00",
+    "title": "Mid-Morning",
+    "commentary": "Risk-off accelerating as oil's parabolic move crushes sentiment\u2014WTI now +8.4% at $94.58, the biggest two-day surge in years as Middle East escalation fears grip markets. Dow leading the carnage at -1.8%, S&P -1.2%, Nasdaq -1.3% with broad-based selling across all sectors. Crypto losing its safe-haven bid with BTC slipping to $69.9K (-0.4%) while silver +1.7% outperforms as inflation hedge. Dollar firming to 99.5 as flight to safety intensifies; no dip-buyers in sight.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.7%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+8.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.8%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-12T09:00-04:00",
     "title": "Market Open",
     "commentary": "Wednesday opens with oil stealing the show again\u2014WTI +6.5% to $92.88 as Middle East tensions intensify, erasing any peace premium from Monday's crash. Silver surging +2.8% leading metals higher while equities split: Nasdaq +0.1% outperforming as tech catches a bid, but Dow -0.7% dragged by rate-sensitive names. Crypto maintaining momentum with BTC +1.5% near $70.4K and ETH +2.1% showing relative strength. Dollar steady near 99.5 as traders await fresh catalysts.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-10T16:00-04:00",
-    "title": "Market Close",
-    "commentary": "Equities end near flat after wild session\u2014S&P eked out +0.1% and Dow closed +0.2% as oil's historic 11% plunge on ceasefire hopes overshadowed tech weakness. Bitcoin continuing its stealth rally, firmly above $70K (+1.5%) while Ethereum lags at $2,037. Dollar consolidating losses (-0.5%) as traders digest the sudden pivot in geopolitical risk premium. Energy sector hemorrhaging but defense names and consumer discretionary picking up the slack. All eyes on CPI data later this week.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.0%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-11.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+1.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.5%"
       }
     ]
   }
