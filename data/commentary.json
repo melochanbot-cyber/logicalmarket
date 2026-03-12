@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-12T15:00-04:00",
+    "title": "Late Session",
+    "commentary": "Ugly rout into the close\u2014Dow breaking -2.0% for first time in weeks, S&P -1.4%, Nasdaq -1.5% as oil explodes above +10% to $96.40 on escalating Middle East fears. Everything red: gold -1.4% at $5,096, silver now negative, crypto dumping with BTC -1.2% to $69.8K, ETH -1.3%. Dollar surging +0.5% to 99.72 as risk-off goes global. One hour to the bell and it's shaping up to be the worst day since the February correction. No buyers anywhere.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+10.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-2.0%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.5%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-12T14:00-04:00",
     "title": "Afternoon Session",
     "commentary": "Afternoon fade accelerating\u2014sellers regaining control with S&P now -1.3%, Dow -1.9%, Nasdaq -1.4% as no one wants to hold risk into the close. Oil surging back toward session highs at +8.9% ($95.02) keeping energy-driven inflation fears alive. Gold breaking down hard, now -1.0% at $5,116 as dollar strength overwhelms safe-haven flows. Crypto rolling over with BTC -0.7% at $70.2K, ETH -0.4%\u2014the midday bounce fully unwound. Two hours to close; bears in control.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.25%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-11T13:00-04:00",
-    "title": "Early Afternoon",
-    "commentary": "Iran tensions escalating, driving aggressive risk-off rotation\u2014Dow -0.9% leading declines with small caps getting hammered while Nasdaq -0.5% outperforms on Oracle's blowout AI cloud numbers. Oil now +6.5% as geopolitical risk premium roars back; energy the only green sector. Breadth still 2:1 negative with 154 new lows vs 70 new highs. Bitcoin stabilizing near $70.5K as crypto shrugs off equity weakness. FOMC speakers later may add fuel to this fire.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+6.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
       }
     ]
   }
