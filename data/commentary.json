@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-12T11:00-04:00",
+    "title": "Late Morning",
+    "commentary": "Full capitulation mode as oil approaches $96\u2014WTI now +9.6%, on pace for one of the biggest single-day gains in a decade. Equities in free-fall: Dow -1.8%, S&P -1.2%, Nasdaq -1.5% with breadth catastrophic at 4:1 decliners. Crypto's safe-haven narrative shattering as BTC dumps -1.6% to $69.5K, ETH -1.0%\u2014the correlation trade is back. Gold surprisingly weak at -0.4% as dollar strength (+0.4%) overwhelms inflation hedging. Fear is the only trade working today.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+9.6%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.8%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.4%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-12T10:00-04:00",
     "title": "Mid-Morning",
     "commentary": "Risk-off accelerating as oil's parabolic move crushes sentiment\u2014WTI now +8.4% at $94.58, the biggest two-day surge in years as Middle East escalation fears grip markets. Dow leading the carnage at -1.8%, S&P -1.2%, Nasdaq -1.3% with broad-based selling across all sectors. Crypto losing its safe-haven bid with BTC slipping to $69.9K (-0.4%) while silver +1.7% outperforms as inflation hedge. Dollar firming to 99.5 as flight to safety intensifies; no dip-buyers in sight.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-11T09:00-04:00",
-    "title": "Market Open",
-    "commentary": "Futures opening red as yesterday's oil crash aftermath stokes fresh inflation fears\u2014CPI came in-line but traders aren't buying the soft landing narrative. S&P futures -0.3%, Nasdaq -0.4% with small caps lagging badly. Bitcoin giving back gains, sliding 1.7% to $69,350 as risk-off mood spreads to crypto. Dollar firming +0.2% as safe-haven flows return. All eyes on Friday's PCE print; until then, expect choppy price action as markets digest oil's violent repricing.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.7%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
       }
     ]
   }
