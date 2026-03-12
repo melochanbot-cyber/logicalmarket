@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-12T14:00-04:00",
+    "title": "Afternoon Session",
+    "commentary": "Afternoon fade accelerating\u2014sellers regaining control with S&P now -1.3%, Dow -1.9%, Nasdaq -1.4% as no one wants to hold risk into the close. Oil surging back toward session highs at +8.9% ($95.02) keeping energy-driven inflation fears alive. Gold breaking down hard, now -1.0% at $5,116 as dollar strength overwhelms safe-haven flows. Crypto rolling over with BTC -0.7% at $70.2K, ETH -0.4%\u2014the midday bounce fully unwound. Two hours to close; bears in control.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.0%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+8.9%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-1.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.4%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-12T13:00-04:00",
     "title": "Early Afternoon",
     "commentary": "Markets drifting sideways at session lows\u2014S&P -1.2%, Dow -1.7%, Nasdaq -1.3% with no conviction in either direction. Oil consolidating gains near +8.3% at $94.50, holding most of the morning's surge as geopolitical risk premium stays elevated. Crypto losing momentum from midday bounce: BTC -0.3% at $70.4K, ETH flat. Gold still struggling at -0.5% as dollar strength (+0.4%) caps upside. Three hours to close; market looking for a catalyst.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-11T12:00-04:00",
-    "title": "Midday",
-    "commentary": "Selling intensifying into lunch\u2014S&P now -0.6% as sticky inflation narrative lifts 10Y yields and hammers rate-sensitive sectors. Breadth ugly at 2:1 decliners; new lows outpacing highs 2-to-1. Oracle +5% on AI cloud momentum the lone bright spot in tech. Oil surging +5.8% on renewed Middle East tensions, erasing more of Monday's crash. Bitcoin slipping back below $70.3K as risk-off takes hold; gold miners crushed with HMY -12% post-earnings.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+5.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.6%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.15%"
       }
     ]
   }
