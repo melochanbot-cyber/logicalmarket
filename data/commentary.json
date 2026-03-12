@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-12T09:00-04:00",
+    "title": "Market Open",
+    "commentary": "Wednesday opens with oil stealing the show again\u2014WTI +6.5% to $92.88 as Middle East tensions intensify, erasing any peace premium from Monday's crash. Silver surging +2.8% leading metals higher while equities split: Nasdaq +0.1% outperforming as tech catches a bid, but Dow -0.7% dragged by rate-sensitive names. Crypto maintaining momentum with BTC +1.5% near $70.4K and ETH +2.1% showing relative strength. Dollar steady near 99.5 as traders await fresh catalysts.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+2.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+6.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+1.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-11T16:00-04:00",
     "title": "Market Close",
     "commentary": "Wall Street closes Tuesday's session lower amid tariff uncertainty\u2014S&P -0.3%, Dow -0.7% as trade policy whiplash continues. Oil reclaiming +5.3% to $87.89 on fresh Middle East jitters, nearly reversing Monday's historic crash. Crypto decoupling from equities with BTC +0.8% at $70,622 and ETH +1.9% showing renewed strength. Silver the big loser at -3.4% as precious metals cool off; dollar firming +0.4% adding pressure. Meta's custom AI chip announcement failing to lift tech sentiment as tariff headlines dominate.",
@@ -383,49 +426,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.5%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-10T15:00-04:00",
-    "title": "Late Session",
-    "commentary": "Rally fading into the close\u2014equities giving back gains with S&P nearly flat at +0.03% and Dow trimming to +0.2% at 47,846 after touching 48,124 earlier. Oil bouncing off session lows, now -11.3% at $84.07 after plunging as deep as $80, but the damage is done\u2014this is the biggest single-day crude crash since 2020. Precious metals also retreating from highs with gold +1.0% at $5,193, silver +1.1%. Bitcoin holding $70K territory as crypto ignores the equity fade. One hour to the bell and traders locking in profits, wary of overnight headline risk.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+1.03%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.09%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-11.29%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.03%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.16%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.22%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+1.58%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.55%"
       }
     ]
   }
