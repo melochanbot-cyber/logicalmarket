@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-03-13T15:00-04:00",
+    "title": "Final Hour",
+    "commentary": "Markets attempt a bounce in the final hour with S&P 500 clawing back to -0.31% from session lows near -0.6%. Short-covering and weekend positioning help lift the tape, though tech remains under pressure with Apple down 1.8% and NVIDIA shedding 1.2%. Bitcoin stabilizes at $71K\u2014Bloomberg notes it's nearing zones where past bear markets have bottomed. Russell 2000 improves to -0.34% as small caps attract nibbles. Heading into the close with losses but well off the day's worst levels.",
+    "movers": [
+      {
+        "symbol": "S&P 500",
+        "change": "-0.31%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.39%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "-0.28%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.70%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+1.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.35%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-13T14:00-04:00",
     "title": "Late Afternoon",
     "commentary": "Selling accelerates into the final stretch with S&P 500 down 0.55% as fund managers square up before the weekend. NVIDIA plunges 1.4% and Apple slides 1.8% in a brutal day for megacap tech. Bitcoin surrenders earlier gains, fading from $72K to $71K as crypto correlations tick higher with equities. Russell 2000 underperforms at -0.72%, signaling broad risk aversion beyond just big tech. Gold steadies at session lows while Treasuries continue their slow bleed.",
@@ -351,49 +390,6 @@
       {
         "symbol": "Ethereum",
         "change": "-0.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.4%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-12T13:00-04:00",
-    "title": "Early Afternoon",
-    "commentary": "Markets drifting sideways at session lows\u2014S&P -1.2%, Dow -1.7%, Nasdaq -1.3% with no conviction in either direction. Oil consolidating gains near +8.3% at $94.50, holding most of the morning's surge as geopolitical risk premium stays elevated. Crypto losing momentum from midday bounce: BTC -0.3% at $70.4K, ETH flat. Gold still struggling at -0.5% as dollar strength (+0.4%) caps upside. Three hours to close; market looking for a catalyst.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+8.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.7%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+0.1%"
       },
       {
         "symbol": "USD Index",
