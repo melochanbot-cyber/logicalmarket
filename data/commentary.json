@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-03-13T10:00-04:00",
+    "title": "Morning",
+    "commentary": "Wall Street shakes off Asia's red ink with S&P 500 climbing 0.7% in early trading as dip-buyers emerge after yesterday's selloff. Crypto is stealing the show\u2014Bitcoin surging past $73K and Ethereum up 5.5% as investors increasingly view digital assets as safe-haven plays amid Middle East chaos. Gold holds firm near record highs while Treasury yields slip after a brutal GDP revision revealed the economy barely grew in Q4. Small caps outperforming with Russell 2000 up nearly 0.8%, suggesting risk appetite is returning.",
+    "movers": [
+      {
+        "symbol": "S&P 500",
+        "change": "+0.69%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.74%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.55%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+0.38%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+4.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+5.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.15%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-13T09:00-04:00",
     "title": "Pre-Market",
     "commentary": "U.S. futures edge higher as a dramatic GDP revision catches investors off guard\u2014Q4 growth slashed to near-stall levels. Asia bled red overnight with India's SENSEX diving nearly 2% as the Iran conflict weighs on emerging markets. Crypto staged a defiant rally with Bitcoin breaking $72K and Ethereum jumping 3.5%, outpacing equities even as the dollar strengthened. Treasury yields dipped on the GDP shock, but Fed rate-cut hopes remain dim with oil still complicating the inflation picture.",
@@ -375,49 +414,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-11T16:00-04:00",
-    "title": "Market Close",
-    "commentary": "Wall Street closes Tuesday's session lower amid tariff uncertainty\u2014S&P -0.3%, Dow -0.7% as trade policy whiplash continues. Oil reclaiming +5.3% to $87.89 on fresh Middle East jitters, nearly reversing Monday's historic crash. Crypto decoupling from equities with BTC +0.8% at $70,622 and ETH +1.9% showing renewed strength. Silver the big loser at -3.4% as precious metals cool off; dollar firming +0.4% adding pressure. Meta's custom AI chip announcement failing to lift tech sentiment as tariff headlines dominate.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-3.4%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+5.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.9%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.4%"
       }
     ]
   }
