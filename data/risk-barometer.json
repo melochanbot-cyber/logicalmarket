@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-13T22:25:48Z",
+  "updatedAt": "2026-03-13T22:32:00Z",
   "barometers": {
     "gold": {
-      "score": 45,
-      "level": "CAUTION",
+      "score": 30,
+      "level": "LOW",
       "signals": [
         {
           "name": "COT Positioning (Proxy)",
@@ -28,10 +28,10 @@
         },
         {
           "name": "DXY Breakout",
-          "triggered": true,
-          "points": 15,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 15,
-          "detail": "+1.2% vs 200-MA, rising"
+          "detail": "Data unavailable: HTTP Error 500: Internal Server Error"
         },
         {
           "name": "Volatility Extreme",
@@ -41,7 +41,7 @@
           "detail": "20-day volatility: 1.99%"
         }
       ],
-      "recommendation": "Elevated risk. Monitor closely, prepare hedges."
+      "recommendation": "Normal conditions. Maintain trend-following positions."
     },
     "sp500": {
       "score": 55,
@@ -157,14 +157,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -25.8%, NDX: -4.4%"
+          "detail": "BTC: -25.9%, NDX: -4.4%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-43.3% from all-time high"
+          "detail": "-43.4% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
