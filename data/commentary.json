@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-03-13T09:00-04:00",
+    "title": "Pre-Market",
+    "commentary": "U.S. futures edge higher as a dramatic GDP revision catches investors off guard\u2014Q4 growth slashed to near-stall levels. Asia bled red overnight with India's SENSEX diving nearly 2% as the Iran conflict weighs on emerging markets. Crypto staged a defiant rally with Bitcoin breaking $72K and Ethereum jumping 3.5%, outpacing equities even as the dollar strengthened. Treasury yields dipped on the GDP shock, but Fed rate-cut hopes remain dim with oil still complicating the inflation picture.",
+    "movers": [
+      {
+        "symbol": "S&P 500",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+3.2%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+3.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-12T16:00-05:00",
     "title": "Close",
     "commentary": "Global markets buckled as Iran's new Supreme Leader vowed to keep the Strait of Hormuz shut, sending oil back above $100 and the Dow tumbling 600 points. Risk-off sentiment dominated with the S&P 500 sliding 1.5% and Fed rate-cut hopes evaporating. Gold surged nearly 2% as investors fled to safety, while Bitcoin held resilient near $70K despite broad crypto selling pressure. Emergency strategic petroleum reserve releases signal this conflict could drag on for months.",
@@ -379,49 +418,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.4%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-11T15:00-04:00",
-    "title": "Late Session",
-    "commentary": "Stocks sliding to multi-month lows heading into the close\u2014S&P -0.9%, Dow -1.1% with financials and small caps bearing the brunt. New lows expanding to 163 as sellers maintain control; 65% of stocks now below their 50-day. Crypto catching a bid as BTC +0.9%, ETH +1.8% decouple from the equity bloodbath. Oil still +6.8% keeping energy the sole bright spot. One hour to the bell and no signs of a late-day rescue.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+6.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.9%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.8%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
       }
     ]
   }
