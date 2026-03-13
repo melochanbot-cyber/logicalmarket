@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-03-13T14:00-04:00",
+    "title": "Late Afternoon",
+    "commentary": "Selling accelerates into the final stretch with S&P 500 down 0.55% as fund managers square up before the weekend. NVIDIA plunges 1.4% and Apple slides 1.8% in a brutal day for megacap tech. Bitcoin surrenders earlier gains, fading from $72K to $71K as crypto correlations tick higher with equities. Russell 2000 underperforms at -0.72%, signaling broad risk aversion beyond just big tech. Gold steadies at session lows while Treasuries continue their slow bleed.",
+    "movers": [
+      {
+        "symbol": "S&P 500",
+        "change": "-0.55%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.69%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "-0.48%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.69%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+1.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.38%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-13T13:00-04:00",
     "title": "Afternoon",
     "commentary": "Markets find a floor at midday lows but show no conviction for a rebound\u2014S&P 500 down 0.44% as traders hunker down before the weekend. Apple leads the decline at -1.7% while NVIDIA shed 1.1% as the tech wreck extends into a second day. Gold bounces slightly off lows but still down 0.7% as the dollar bid keeps pressure on commodities. Bitcoin stabilizes near $72K, continuing its relative resilience versus equities. Treasury yields inch up as bond selling persists.",
@@ -355,49 +394,6 @@
       {
         "symbol": "Ethereum",
         "change": "+0.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.4%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-12T12:00-04:00",
-    "title": "Midday",
-    "commentary": "Modest stabilization into lunch but damage is done\u2014S&P -1.1%, Dow -1.8% with oil pulling back slightly to +8.5% at $94.63 after touching $96 earlier. Crypto staging a remarkable intraday reversal: BTC clawing back to flat at $70.3K after morning's -1.6% plunge, ETH +1.0% showing surprising resilience. Gold failing as a hedge at -0.7% while silver +0.4% outperforms. Dollar maintaining strength near 99.6 as markets remain in risk-off mode; four hours to close and no signs of a real bounce.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+8.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.1%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.8%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.0%"
       },
       {
         "symbol": "USD Index",
