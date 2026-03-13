@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-03-13T12:00-04:00",
+    "title": "Lunch",
+    "commentary": "Selling pressure intensifies into the lunch hour with S&P 500 now down 0.4% as the morning bounce completely unravels. Apple drops 1.4% and NVIDIA slides over 1% as tech bears take control ahead of the weekend. Even safe havens are getting hit\u2014gold tumbles 1% and bonds sell off alongside equities in a classic de-risking pattern. Bitcoin retreats to $71.8K but still outperforming traditional assets. The dollar's relentless bid continues squeezing risk assets across the board.",
+    "movers": [
+      {
+        "symbol": "S&P 500",
+        "change": "-0.39%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.49%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "-0.32%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-1.01%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+1.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+2.6%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.35%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-13T11:00-04:00",
     "title": "Midday",
     "commentary": "Morning optimism fades as S&P 500 trims gains to just 0.1%, with tech and growth names giving back early advances. Palantir tumbles 2.7% leading a broader AI trade unwind while Apple slips 0.8% on profit-taking. Bitcoin retreats from session highs above $73K but holds $72.5K\u2014crypto still outperforming equities on the day. Gold also pulls back 0.75% as the dollar firms, suggesting some safe-haven unwinding. Investors appear hesitant ahead of the weekend with geopolitical uncertainty lingering.",
@@ -367,49 +406,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.4%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-12T10:00-04:00",
-    "title": "Mid-Morning",
-    "commentary": "Risk-off accelerating as oil's parabolic move crushes sentiment\u2014WTI now +8.4% at $94.58, the biggest two-day surge in years as Middle East escalation fears grip markets. Dow leading the carnage at -1.8%, S&P -1.2%, Nasdaq -1.3% with broad-based selling across all sectors. Crypto losing its safe-haven bid with BTC slipping to $69.9K (-0.4%) while silver +1.7% outperforms as inflation hedge. Dollar firming to 99.5 as flight to safety intensifies; no dip-buyers in sight.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+1.7%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+8.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.8%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.3%"
       }
     ]
   }
