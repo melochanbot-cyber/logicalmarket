@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-03-14T04:00+08:00",
+    "title": "Asia Session",
+    "commentary": "Asia-Pacific markets tumble as investors brace for a prolonged Middle East conflict\u2014Nikkei and KOSPI both deep in the red. Oil holds near $100 as Strait of Hormuz fears persist; Bessent announces US will allow temporary purchases of stranded Russian crude to stabilize energy markets. Gold rallies as safe-haven flows intensify while defense stocks remain in focus. The specter of 1970s-style stagflation looms large with the Iran war now expected to drag on for months.",
+    "movers": [
+      {
+        "symbol": "Nikkei",
+        "change": "-2.1%"
+      },
+      {
+        "symbol": "KOSPI",
+        "change": "-1.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+1.2%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "USD/INR",
+        "change": "+0.6%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-13T15:00-04:00",
     "title": "Final Hour",
     "commentary": "Markets attempt a bounce in the final hour with S&P 500 clawing back to -0.31% from session lows near -0.6%. Short-covering and weekend positioning help lift the tape, though tech remains under pressure with Apple down 1.8% and NVIDIA shedding 1.2%. Bitcoin stabilizes at $71K\u2014Bloomberg notes it's nearing zones where past bear markets have bottomed. Russell 2000 improves to -0.34% as small caps attract nibbles. Heading into the close with losses but well off the day's worst levels.",
@@ -351,49 +390,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.5%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-12T14:00-04:00",
-    "title": "Afternoon Session",
-    "commentary": "Afternoon fade accelerating\u2014sellers regaining control with S&P now -1.3%, Dow -1.9%, Nasdaq -1.4% as no one wants to hold risk into the close. Oil surging back toward session highs at +8.9% ($95.02) keeping energy-driven inflation fears alive. Gold breaking down hard, now -1.0% at $5,116 as dollar strength overwhelms safe-haven flows. Crypto rolling over with BTC -0.7% at $70.2K, ETH -0.4%\u2014the midday bounce fully unwound. Two hours to close; bears in control.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.0%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+8.9%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.4%"
       }
     ]
   }
