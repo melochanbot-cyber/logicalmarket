@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-03-13T13:00-04:00",
+    "title": "Afternoon",
+    "commentary": "Markets find a floor at midday lows but show no conviction for a rebound\u2014S&P 500 down 0.44% as traders hunker down before the weekend. Apple leads the decline at -1.7% while NVIDIA shed 1.1% as the tech wreck extends into a second day. Gold bounces slightly off lows but still down 0.7% as the dollar bid keeps pressure on commodities. Bitcoin stabilizes near $72K, continuing its relative resilience versus equities. Treasury yields inch up as bond selling persists.",
+    "movers": [
+      {
+        "symbol": "S&P 500",
+        "change": "-0.44%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.59%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "-0.38%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.69%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+2.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+3.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.32%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-13T12:00-04:00",
     "title": "Lunch",
     "commentary": "Selling pressure intensifies into the lunch hour with S&P 500 now down 0.4% as the morning bounce completely unravels. Apple drops 1.4% and NVIDIA slides over 1% as tech bears take control ahead of the weekend. Even safe havens are getting hit\u2014gold tumbles 1% and bonds sell off alongside equities in a classic de-risking pattern. Bitcoin retreats to $71.8K but still outperforming traditional assets. The dollar's relentless bid continues squeezing risk assets across the board.",
@@ -359,49 +398,6 @@
       {
         "symbol": "Ethereum",
         "change": "+1.0%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.4%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-12T11:00-04:00",
-    "title": "Late Morning",
-    "commentary": "Full capitulation mode as oil approaches $96\u2014WTI now +9.6%, on pace for one of the biggest single-day gains in a decade. Equities in free-fall: Dow -1.8%, S&P -1.2%, Nasdaq -1.5% with breadth catastrophic at 4:1 decliners. Crypto's safe-haven narrative shattering as BTC dumps -1.6% to $69.5K, ETH -1.0%\u2014the correlation trade is back. Gold surprisingly weak at -0.4% as dollar strength (+0.4%) overwhelms inflation hedging. Fear is the only trade working today.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+9.6%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-1.8%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.6%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-1.0%"
       },
       {
         "symbol": "USD Index",
