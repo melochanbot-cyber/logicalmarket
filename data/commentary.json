@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-03-13T11:00-04:00",
+    "title": "Midday",
+    "commentary": "Morning optimism fades as S&P 500 trims gains to just 0.1%, with tech and growth names giving back early advances. Palantir tumbles 2.7% leading a broader AI trade unwind while Apple slips 0.8% on profit-taking. Bitcoin retreats from session highs above $73K but holds $72.5K\u2014crypto still outperforming equities on the day. Gold also pulls back 0.75% as the dollar firms, suggesting some safe-haven unwinding. Investors appear hesitant ahead of the weekend with geopolitical uncertainty lingering.",
+    "movers": [
+      {
+        "symbol": "S&P 500",
+        "change": "+0.12%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.19%"
+      },
+      {
+        "symbol": "Dow",
+        "change": "+0.08%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.75%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+2.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+3.6%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.25%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-13T10:00-04:00",
     "title": "Morning",
     "commentary": "Wall Street shakes off Asia's red ink with S&P 500 climbing 0.7% in early trading as dip-buyers emerge after yesterday's selloff. Crypto is stealing the show\u2014Bitcoin surging past $73K and Ethereum up 5.5% as investors increasingly view digital assets as safe-haven plays amid Middle East chaos. Gold holds firm near record highs while Treasury yields slip after a brutal GDP revision revealed the economy barely grew in Q4. Small caps outperforming with Russell 2000 up nearly 0.8%, suggesting risk appetite is returning.",
@@ -371,49 +410,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-12T09:00-04:00",
-    "title": "Market Open",
-    "commentary": "Wednesday opens with oil stealing the show again\u2014WTI +6.5% to $92.88 as Middle East tensions intensify, erasing any peace premium from Monday's crash. Silver surging +2.8% leading metals higher while equities split: Nasdaq +0.1% outperforming as tech catches a bid, but Dow -0.7% dragged by rate-sensitive names. Crypto maintaining momentum with BTC +1.5% near $70.4K and ETH +2.1% showing relative strength. Dollar steady near 99.5 as traders await fresh catalysts.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+2.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+6.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+1.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
       }
     ]
   }
