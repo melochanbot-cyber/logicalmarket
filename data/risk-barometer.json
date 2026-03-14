@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T06:53:54Z",
+  "updatedAt": "2026-03-14T07:37:27Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -150,7 +150,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -20.3%, 30d: +2.6%"
+          "detail": "60d gain: -20.3%, 30d: +2.7%"
         },
         {
           "name": "Risk-Off Correlation",
@@ -164,7 +164,7 @@
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-43.4% from all-time high"
+          "detail": "-43.3% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
