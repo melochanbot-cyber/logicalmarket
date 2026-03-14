@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T11:28:00Z",
+  "updatedAt": "2026-03-14T11:49:23Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -143,7 +143,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 2.88%"
+          "detail": "30-day volatility: 2.89%"
         },
         {
           "name": "Momentum Exhaustion",
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -27.1%, NDX: -2.6%"
+          "detail": "BTC: -27.0%, NDX: -2.6%"
         },
         {
           "name": "Drawdown from ATH",
