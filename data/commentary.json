@@ -1,5 +1,66 @@
 [
   {
+    "timestamp": "2026-03-16T19:00:00Z",
+    "title": "Evening Update - Volatility Spike in Commodities",
+    "commentary": "Crude oil climbs 2.3% on OPEC+ production discipline, while gold retreats 0.8% as bond yields rise. Tech sectors show divergence: mega-caps consolidate near 52-week highs while AI upstarts face profit-taking. Bitcoin holds above $92k amid renewed institutional interest; USD strength pressures precious metals lower.",
+    "movers": [
+      {
+        "symbol": "Crude Oil",
+        "price": "$87.42",
+        "change": "+2.3%",
+        "direction": "\u2191"
+      },
+      {
+        "symbol": "Gold",
+        "price": "$2,145/oz",
+        "change": "-0.8%",
+        "direction": "\u2193"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "5,847",
+        "change": "+0.4%",
+        "direction": "\u2191"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "18,934",
+        "change": "-0.2%",
+        "direction": "\u2193"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "45,832",
+        "change": "+0.7%",
+        "direction": "\u2191"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "$92,840",
+        "change": "+1.8%",
+        "direction": "\u2191"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "$3,284",
+        "change": "-0.4%",
+        "direction": "\u2193"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "106.45",
+        "change": "+0.3%",
+        "direction": "\u2191"
+      },
+      {
+        "symbol": "Silver",
+        "price": "$28.95/oz",
+        "change": "-1.2%",
+        "direction": "\u2193"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-16T14:00:00-04:00",
     "title": "Asia Session Start",
     "commentary": "Overnight Asian markets digest Monday's strong US equity bounce and oil pullback as geopolitical tensions ease on Hormuz reassurance. Bitcoin maintains strength near $74K (+2.9% on day) while Ethereum surges (+9.7%), signaling renewed appetite for risk assets after last week's volatility. Equities poised to extend gains with energy stocks cooling on oil's retreat toward $95, though inflation concerns linger with Fed decision looming midweek. Gold holds near $5,020 as investors balance growth recovery against persistent macro uncertainty.",
@@ -367,45 +428,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.38%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-13T13:00-04:00",
-    "title": "Afternoon",
-    "commentary": "Markets find a floor at midday lows but show no conviction for a rebound\u2014S&P 500 down 0.44% as traders hunker down before the weekend. Apple leads the decline at -1.7% while NVIDIA shed 1.1% as the tech wreck extends into a second day. Gold bounces slightly off lows but still down 0.7% as the dollar bid keeps pressure on commodities. Bitcoin stabilizes near $72K, continuing its relative resilience versus equities. Treasury yields inch up as bond selling persists.",
-    "movers": [
-      {
-        "symbol": "S&P 500",
-        "change": "-0.44%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.59%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-0.38%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.69%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.0%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+3.1%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.32%"
       }
     ]
   }
