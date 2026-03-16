@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-16T12:00-04:00",
+    "title": "Mid-Day Market Close",
+    "commentary": "Equities fade into the close as tech leadership wavers amid persistent rate-cut hesitation. S&P 500 drifts -0.3%, Nasdaq -0.6% on rotation from mega-cap AI to cyclicals. Gold +1.2%, oil -1.8% reflect mixed macro signals. Bitcoin steadies near $62.5k as Fed speakers fuel volatility. Bond volatility creeping higher on resilient inflation data.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+1.2%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-1.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-16T11:00-04:00",
     "title": "Late Morning",
     "commentary": "Markets grind sideways in late-morning trade with S&P 500 hovering near flat as last week's relief rally stalls. Tech consolidates gains with NVIDIA off 0.3% and Apple treading water near unchanged. Oil stabilizes around $92 after Monday's sharp pullback from Hormuz tensions easing, while gold holds firm at $5,020 as investors balance risk-on sentiment against lingering geopolitical concerns. Bitcoin trades choppy near $74.5K as crypto's recent outperformance attracts profit-taking. Volume light ahead of Wednesday's Fed decision.",
@@ -359,45 +402,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.25%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-13T10:00-04:00",
-    "title": "Morning",
-    "commentary": "Wall Street shakes off Asia's red ink with S&P 500 climbing 0.7% in early trading as dip-buyers emerge after yesterday's selloff. Crypto is stealing the show\u2014Bitcoin surging past $73K and Ethereum up 5.5% as investors increasingly view digital assets as safe-haven plays amid Middle East chaos. Gold holds firm near record highs while Treasury yields slip after a brutal GDP revision revealed the economy barely grew in Q4. Small caps outperforming with Russell 2000 up nearly 0.8%, suggesting risk appetite is returning.",
-    "movers": [
-      {
-        "symbol": "S&P 500",
-        "change": "+0.69%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.74%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.55%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+0.38%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+4.2%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+5.5%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.15%"
       }
     ]
   }
