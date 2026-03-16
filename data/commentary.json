@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-03-16T14:00:00-04:00",
+    "title": "Asia Session Start",
+    "commentary": "Overnight Asian markets digest Monday's strong US equity bounce and oil pullback as geopolitical tensions ease on Hormuz reassurance. Bitcoin maintains strength near $74K (+2.9% on day) while Ethereum surges (+9.7%), signaling renewed appetite for risk assets after last week's volatility. Equities poised to extend gains with energy stocks cooling on oil's retreat toward $95, though inflation concerns linger with Fed decision looming midweek. Gold holds near $5,020 as investors balance growth recovery against persistent macro uncertainty.",
+    "movers": [
+      {
+        "symbol": "Bitcoin",
+        "change": "+2.93%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+9.67%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-4.85%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.28%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.68%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.12%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.89%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.15%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-16T13:00-04:00",
     "title": "Market Close",
     "commentary": "Equity markets bounce sharply into the close as Treasury yields compress and oil retreats to $95 on Bessent's Hormuz reassurance. Dow rallies +400 points (0.9%) while S&P 500 recovers +0.7% after early morning pressure tied to geopolitical tensions. Tech leadership emerges with Nasdaq +1.1% as safe-haven flows reverse and investors rotate back into growth. Gold softens -0.3% amid risk-on sentiment, Bitcoin holds near $73K, while crypto's resilience signals growing conviction that the oil shock may be temporary. Momentum shifts decisively bullish heading into the Fed's Wednesday decision.",
@@ -367,45 +406,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.32%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-13T12:00-04:00",
-    "title": "Lunch",
-    "commentary": "Selling pressure intensifies into the lunch hour with S&P 500 now down 0.4% as the morning bounce completely unravels. Apple drops 1.4% and NVIDIA slides over 1% as tech bears take control ahead of the weekend. Even safe havens are getting hit\u2014gold tumbles 1% and bonds sell off alongside equities in a classic de-risking pattern. Bitcoin retreats to $71.8K but still outperforming traditional assets. The dollar's relentless bid continues squeezing risk assets across the board.",
-    "movers": [
-      {
-        "symbol": "S&P 500",
-        "change": "-0.39%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.49%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-0.32%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-1.01%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+1.8%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+2.6%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.35%"
       }
     ]
   }
