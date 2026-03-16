@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-16T09:00-04:00",
+    "title": "Market Open",
+    "commentary": "Wall Street kicks off the week with relief as oil retreats to $95 after Bessent confirms US allowing Iranian tankers through Hormuz. Dow futures jumped 350 points overnight on hopes the shipping chokepoint impasse may ease, while crypto continues its defiant run with Bitcoin back above $73K. Gold holds steady near $5,000 but silver lags\u2014investors rotating back into risk after last week's brutal selloff. All eyes on the Fed this week with the oil-driven inflation spike complicating the rate outlook.",
+    "movers": [
+      {
+        "symbol": "S&P 500",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.93%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.75%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.05%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "-0.46%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-3.57%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+1.47%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+1.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-14T04:00+08:00",
     "title": "Asia Session",
     "commentary": "Asia-Pacific markets tumble as investors brace for a prolonged Middle East conflict\u2014Nikkei and KOSPI both deep in the red. Oil holds near $100 as Strait of Hormuz fears persist; Bessent announces US will allow temporary purchases of stranded Russian crude to stabilize energy markets. Gold rallies as safe-haven flows intensify while defense stocks remain in focus. The specter of 1970s-style stagflation looms large with the Iran war now expected to drag on for months.",
@@ -347,49 +390,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-12T15:00-04:00",
-    "title": "Late Session",
-    "commentary": "Ugly rout into the close\u2014Dow breaking -2.0% for first time in weeks, S&P -1.4%, Nasdaq -1.5% as oil explodes above +10% to $96.40 on escalating Middle East fears. Everything red: gold -1.4% at $5,096, silver now negative, crypto dumping with BTC -1.2% to $69.8K, ETH -1.3%. Dollar surging +0.5% to 99.72 as risk-off goes global. One hour to the bell and it's shaping up to be the worst day since the February correction. No buyers anywhere.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+10.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "-2.0%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.5%"
       }
     ]
   }
