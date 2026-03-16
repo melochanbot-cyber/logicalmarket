@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-16T13:00-04:00",
+    "title": "Market Close",
+    "commentary": "Equity markets bounce sharply into the close as Treasury yields compress and oil retreats to $95 on Bessent's Hormuz reassurance. Dow rallies +400 points (0.9%) while S&P 500 recovers +0.7% after early morning pressure tied to geopolitical tensions. Tech leadership emerges with Nasdaq +1.1% as safe-haven flows reverse and investors rotate back into growth. Gold softens -0.3% amid risk-on sentiment, Bitcoin holds near $73K, while crypto's resilience signals growing conviction that the oil shock may be temporary. Momentum shifts decisively bullish heading into the Fed's Wednesday decision.",
+    "movers": [
+      {
+        "symbol": "S&P 500",
+        "change": "+0.68%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+1.12%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.89%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.28%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.15%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-4.85%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+1.95%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+2.40%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.15%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-16T12:00-04:00",
     "title": "Mid-Day Market Close",
     "commentary": "Equities fade into the close as tech leadership wavers amid persistent rate-cut hesitation. S&P 500 drifts -0.3%, Nasdaq -0.6% on rotation from mega-cap AI to cyclicals. Gold +1.2%, oil -1.8% reflect mixed macro signals. Bitcoin steadies near $62.5k as Fed speakers fuel volatility. Bond volatility creeping higher on resilient inflation data.",
@@ -363,45 +406,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.35%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-13T11:00-04:00",
-    "title": "Midday",
-    "commentary": "Morning optimism fades as S&P 500 trims gains to just 0.1%, with tech and growth names giving back early advances. Palantir tumbles 2.7% leading a broader AI trade unwind while Apple slips 0.8% on profit-taking. Bitcoin retreats from session highs above $73K but holds $72.5K\u2014crypto still outperforming equities on the day. Gold also pulls back 0.75% as the dollar firms, suggesting some safe-haven unwinding. Investors appear hesitant ahead of the weekend with geopolitical uncertainty lingering.",
-    "movers": [
-      {
-        "symbol": "S&P 500",
-        "change": "+0.12%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.19%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.08%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.75%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.8%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+3.6%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.25%"
       }
     ]
   }
