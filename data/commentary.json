@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-16T11:00-04:00",
+    "title": "Late Morning",
+    "commentary": "Markets grind sideways in late-morning trade with S&P 500 hovering near flat as last week's relief rally stalls. Tech consolidates gains with NVIDIA off 0.3% and Apple treading water near unchanged. Oil stabilizes around $92 after Monday's sharp pullback from Hormuz tensions easing, while gold holds firm at $5,020 as investors balance risk-on sentiment against lingering geopolitical concerns. Bitcoin trades choppy near $74.5K as crypto's recent outperformance attracts profit-taking. Volume light ahead of Wednesday's Fed decision.",
+    "movers": [
+      {
+        "symbol": "S&P 500",
+        "change": "+0.08%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.12%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.05%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.20%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.35%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.85%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-0.45%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "+0.22%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.15%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-16T10:00-04:00",
     "title": "Morning Rally",
     "commentary": "Bulls charge out of the gate with Dow surging 575 points as oil craters to $93\u2014down over 5% intraday\u2014on Bessent's Hormuz reassurance. Tech leading the charge with NVIDIA and Meta rallying, pushing Nasdaq up 1.4% while small caps outperform via Russell 2000's 1.6% gain. Crypto catches the risk-on bid with Ethereum popping nearly 5% and Bitcoin breaking $74K. Gold holds steady at $5,030 as investors rotate from safety plays back into equities.",
@@ -355,45 +398,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.15%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-13T09:00-04:00",
-    "title": "Pre-Market",
-    "commentary": "U.S. futures edge higher as a dramatic GDP revision catches investors off guard\u2014Q4 growth slashed to near-stall levels. Asia bled red overnight with India's SENSEX diving nearly 2% as the Iran conflict weighs on emerging markets. Crypto staged a defiant rally with Bitcoin breaking $72K and Ethereum jumping 3.5%, outpacing equities even as the dollar strengthened. Treasury yields dipped on the GDP shock, but Fed rate-cut hopes remain dim with oil still complicating the inflation picture.",
-    "movers": [
-      {
-        "symbol": "S&P 500",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+3.2%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+3.5%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.2%"
       }
     ]
   }
