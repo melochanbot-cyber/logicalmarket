@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-16T20:00:00Z",
+    "title": "Asia Night Session - Crypto Surge Continues",
+    "commentary": "Bitcoin and Ethereum extend their rally with BTC pushing $74K (+3.3%) and ETH surging past $2,330 (+10.4%) as Asian traders fuel the momentum. Equities consolidate recent gains while commodities hold steady ahead of the Fed decision; oil stable near $93 after yesterday's sharp reversal on Hormuz reassurance. Gold maintains support around $2,145 amid modest USD strength. Crypto's outperformance signals investors rotated risk-on after last week's geopolitical shock\u2014all eyes remain on Wednesday's rate decision.",
+    "movers": [
+      {
+        "symbol": "Bitcoin",
+        "price": "$73,917",
+        "change": "+3.3%",
+        "direction": "\u2191"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "$2,333",
+        "change": "+10.4%",
+        "direction": "\u2191"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "$93.15",
+        "change": "+0.2%",
+        "direction": "\u2192"
+      },
+      {
+        "symbol": "Gold",
+        "price": "$2,145/oz",
+        "change": "-0.2%",
+        "direction": "\u2193"
+      },
+      {
+        "symbol": "Silver",
+        "price": "$28.60/oz",
+        "change": "-0.5%",
+        "direction": "\u2193"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "106.52",
+        "change": "+0.2%",
+        "direction": "\u2191"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-16T19:00:00Z",
     "title": "Evening Update - Volatility Spike in Commodities",
     "commentary": "Crude oil climbs 2.3% on OPEC+ production discipline, while gold retreats 0.8% as bond yields rise. Tech sectors show divergence: mega-caps consolidate near 52-week highs while AI upstarts face profit-taking. Bitcoin holds above $92k amid renewed institutional interest; USD strength pressures precious metals lower.",
@@ -389,45 +432,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.35%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-13T14:00-04:00",
-    "title": "Late Afternoon",
-    "commentary": "Selling accelerates into the final stretch with S&P 500 down 0.55% as fund managers square up before the weekend. NVIDIA plunges 1.4% and Apple slides 1.8% in a brutal day for megacap tech. Bitcoin surrenders earlier gains, fading from $72K to $71K as crypto correlations tick higher with equities. Russell 2000 underperforms at -0.72%, signaling broad risk aversion beyond just big tech. Gold steadies at session lows while Treasuries continue their slow bleed.",
-    "movers": [
-      {
-        "symbol": "S&P 500",
-        "change": "-0.55%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.69%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-0.48%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.69%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.38%"
       }
     ]
   }
