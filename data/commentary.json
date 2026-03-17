@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-18T00:00:00+08:00",
+    "title": "Asia Midnight Session - Pre-Fed Consolidation",
+    "commentary": "Asian markets grind sideways as traders await the Fed decision looming hours away. Bitcoin consolidates recent gains above $73.5K on institutional demand, while equities hold steady ahead of rate clarity. Oil stable near $93 with supply reassurances intact; gold anchors at $2,145 amid equilibrium between growth recovery and macro caution. Crypto's relative resilience signals conviction the geopolitical shock is contained\u2014all bets on Wednesday's verdict.",
+    "movers": [
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "+0.05%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.35%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.15%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-17T23:00:19.773009+08:00",
     "title": "Evening Update",
     "commentary": "Markets consolidate as Fed signals steady stance. Gold edges up on geopolitical uncertainty; equities pause after recent strength. Tech outperformance continues amid AI optimism, while oil steadies near $85. Crypto choppy but above key support levels.",
@@ -409,49 +452,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-16T09:00-04:00",
-    "title": "Market Open",
-    "commentary": "Wall Street kicks off the week with relief as oil retreats to $95 after Bessent confirms US allowing Iranian tankers through Hormuz. Dow futures jumped 350 points overnight on hopes the shipping chokepoint impasse may ease, while crypto continues its defiant run with Bitcoin back above $73K. Gold holds steady near $5,000 but silver lags\u2014investors rotating back into risk after last week's brutal selloff. All eyes on the Fed this week with the oil-driven inflation spike complicating the rate outlook.",
-    "movers": [
-      {
-        "symbol": "S&P 500",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.93%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+0.75%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.05%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "-0.46%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-3.57%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+1.47%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.1%"
       }
     ]
   }
