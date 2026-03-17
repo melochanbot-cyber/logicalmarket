@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-17T17:00Z",
+    "title": "Market Close",
+    "commentary": "Tech leadership continues post-hours, crypto outpacing traditional assets. Precious metals soften on dollar strength; crude ticks higher. Equity indices show mixed signals with Nasdaq outperforming. All eyes on upcoming macro data.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "2048",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "24.30",
+        "change": "-1.2%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "78.45",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "5847",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "18392",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "42156",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "92340",
+        "change": "+1.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "3285",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "103.82",
+        "change": "+0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-18T00:00:00+08:00",
     "title": "Asia Midnight Session - Pre-Fed Consolidation",
     "commentary": "Asian markets grind sideways as traders await the Fed decision looming hours away. Bitcoin consolidates recent gains above $73.5K on institutional demand, while equities hold steady ahead of rate clarity. Oil stable near $93 with supply reassurances intact; gold anchors at $2,145 amid equilibrium between growth recovery and macro caution. Crypto's relative resilience signals conviction the geopolitical shock is contained\u2014all bets on Wednesday's verdict.",
@@ -409,49 +461,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.15%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-16T10:00-04:00",
-    "title": "Morning Rally",
-    "commentary": "Bulls charge out of the gate with Dow surging 575 points as oil craters to $93\u2014down over 5% intraday\u2014on Bessent's Hormuz reassurance. Tech leading the charge with NVIDIA and Meta rallying, pushing Nasdaq up 1.4% while small caps outperform via Russell 2000's 1.6% gain. Crypto catches the risk-on bid with Ethereum popping nearly 5% and Bitcoin breaking $74K. Gold holds steady at $5,030 as investors rotate from safety plays back into equities.",
-    "movers": [
-      {
-        "symbol": "S&P 500",
-        "change": "+1.27%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+1.39%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "change": "+1.23%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+0.15%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.86%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-5.45%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+1.72%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+4.69%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "-0.2%"
       }
     ]
   }
