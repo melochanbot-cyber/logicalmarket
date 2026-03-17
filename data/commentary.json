@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-03-17T23:00:19.773009+08:00",
+    "title": "Evening Update",
+    "commentary": "Markets consolidate as Fed signals steady stance. Gold edges up on geopolitical uncertainty; equities pause after recent strength. Tech outperformance continues amid AI optimism, while oil steadies near $85. Crypto choppy but above key support levels.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+1.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "change": "-2.1%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-17T21:00:00+08:00",
     "title": "Asia Evening Session - Fed Focus Builds",
     "commentary": "Asian equities consolidate ahead of Wednesday's Fed decision with regional indices mixed as investors parse conflicting signals on rate trajectory. Bitcoin holds above $73K amid renewed institutional positioning, while gold steadies near $2,145 as geopolitical premium persists post-Hormuz reassurance. Oil anchors around $93 as OPEC discipline offsets easing Middle East tensions; silver drifts lower reflecting risk-on rotation. Macro focus narrows to Fed speakers and inflation data this week\u2014any hawkish surprise could unwind crypto's recent outperformance.",
@@ -409,45 +452,6 @@
       {
         "symbol": "USD Index",
         "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-14T04:00+08:00",
-    "title": "Asia Session",
-    "commentary": "Asia-Pacific markets tumble as investors brace for a prolonged Middle East conflict\u2014Nikkei and KOSPI both deep in the red. Oil holds near $100 as Strait of Hormuz fears persist; Bessent announces US will allow temporary purchases of stranded Russian crude to stabilize energy markets. Gold rallies as safe-haven flows intensify while defense stocks remain in focus. The specter of 1970s-style stagflation looms large with the Iran war now expected to drag on for months.",
-    "movers": [
-      {
-        "symbol": "Nikkei",
-        "change": "-2.1%"
-      },
-      {
-        "symbol": "KOSPI",
-        "change": "-1.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+1.2%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "USD/INR",
-        "change": "+0.6%"
       }
     ]
   }
