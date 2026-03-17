@@ -1,53 +1,53 @@
 [
   {
-    "timestamp": "2026-03-17T14:00:00-05:00",
-    "title": "Market Close Commentary",
-    "commentary": "Tech sentiment buoys equities amid measured Fed expectations; precious metals climb on geopolitical tensions; crypto gains on institutional adoption narrative. Oil softens on demand concerns. Safe-haven flows support gold, pressuring USD Index.",
+    "timestamp": "2026-03-18T04:00:00+08:00",
+    "title": "Early Morning Commentary",
+    "commentary": "Equities edge higher on mixed economic signals; Fed speakers this week set tone for rate path. Commodities mixed: oil rallies on geopolitical tensions while precious metals consolidate. Crypto gains momentum as inflation expectations moderate. Tech remains resilient despite macro crosscurrents.",
     "movers": [
       {
         "symbol": "Gold",
-        "price": "$2,045/oz",
+        "price": "2085.50",
         "change": "+0.8%"
       },
       {
         "symbol": "Silver",
-        "price": "$24.10/oz",
-        "change": "+1.2%"
+        "price": "24.35",
+        "change": "-1.2%"
       },
       {
         "symbol": "Oil (WTI)",
-        "price": "$82.50/bbl",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "5,425.33",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "17,820.50",
-        "change": "+0.6%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "40,180.25",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "$97,450",
+        "price": "78.45",
         "change": "+2.1%"
       },
       {
+        "symbol": "S&P 500",
+        "price": "5847.25",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "18234.50",
+        "change": "+0.7%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "41892.75",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "67340",
+        "change": "+1.5%"
+      },
+      {
         "symbol": "Ethereum",
-        "price": "$3,820",
-        "change": "+1.8%"
+        "price": "3542.80",
+        "change": "+2.3%"
       },
       {
         "symbol": "USD Index",
-        "price": "104.25",
-        "change": "-0.2%"
+        "price": "104.28",
+        "change": "+0.4%"
       }
     ]
   },
