@@ -1,5 +1,60 @@
 [
   {
+    "timestamp": "2026-03-17T21:00:00+08:00",
+    "title": "Asia Evening Session - Fed Focus Builds",
+    "commentary": "Asian equities consolidate ahead of Wednesday's Fed decision with regional indices mixed as investors parse conflicting signals on rate trajectory. Bitcoin holds above $73K amid renewed institutional positioning, while gold steadies near $2,145 as geopolitical premium persists post-Hormuz reassurance. Oil anchors around $93 as OPEC discipline offsets easing Middle East tensions; silver drifts lower reflecting risk-on rotation. Macro focus narrows to Fed speakers and inflation data this week\u2014any hawkish surprise could unwind crypto's recent outperformance.",
+    "movers": [
+      {
+        "symbol": "Bitcoin",
+        "price": "$73,550",
+        "change": "-0.5%",
+        "direction": "\u2193"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "$2,310",
+        "change": "-0.9%",
+        "direction": "\u2193"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "$93.22",
+        "change": "+0.1%",
+        "direction": "\u2192"
+      },
+      {
+        "symbol": "Gold",
+        "price": "$2,145/oz",
+        "change": "-0.05%",
+        "direction": "\u2192"
+      },
+      {
+        "symbol": "Silver",
+        "price": "$28.42/oz",
+        "change": "-0.6%",
+        "direction": "\u2193"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "106.58",
+        "change": "+0.1%",
+        "direction": "\u2191"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "5,842",
+        "change": "-0.09%",
+        "direction": "\u2193"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "18,901",
+        "change": "-0.18%",
+        "direction": "\u2193"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-16T20:00:00Z",
     "title": "Asia Night Session - Crypto Surge Continues",
     "commentary": "Bitcoin and Ethereum extend their rally with BTC pushing $74K (+3.3%) and ETH surging past $2,330 (+10.4%) as Asian traders fuel the momentum. Equities consolidate recent gains while commodities hold steady ahead of the Fed decision; oil stable near $93 after yesterday's sharp reversal on Hormuz reassurance. Gold maintains support around $2,145 amid modest USD strength. Crypto's outperformance signals investors rotated risk-on after last week's geopolitical shock\u2014all eyes remain on Wednesday's rate decision.",
@@ -393,45 +448,6 @@
       {
         "symbol": "USD/INR",
         "change": "+0.6%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-13T15:00-04:00",
-    "title": "Final Hour",
-    "commentary": "Markets attempt a bounce in the final hour with S&P 500 clawing back to -0.31% from session lows near -0.6%. Short-covering and weekend positioning help lift the tape, though tech remains under pressure with Apple down 1.8% and NVIDIA shedding 1.2%. Bitcoin stabilizes at $71K\u2014Bloomberg notes it's nearing zones where past bear markets have bottomed. Russell 2000 improves to -0.34% as small caps attract nibbles. Heading into the close with losses but well off the day's worst levels.",
-    "movers": [
-      {
-        "symbol": "S&P 500",
-        "change": "-0.31%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "-0.39%"
-      },
-      {
-        "symbol": "Dow",
-        "change": "-0.28%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.70%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Ethereum",
-        "change": "+1.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "+0.35%"
       }
     ]
   }
