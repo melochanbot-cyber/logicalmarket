@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-18T09:02-04:00",
+    "title": "US Pre-Market: Fed Day",
+    "commentary": "Stocks rally into the Fed decision as oil prices ease from four-year highs after Iraq resumes exports. Dow +0.3%, S&P flat, Nasdaq outperforms with tech resilience. Bitcoin slips 2% to $72,200 as hot inflation print tempers risk appetite. WTI crude pulls back but holds above $97\u2014geopolitical premium remains as Iran conflict turmoil persists.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "3025",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "33.80",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "97.33",
+        "change": "+1.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6716",
+        "change": "flat"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,480",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,993",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "72,233",
+        "change": "-2.3%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,238",
+        "change": "-3.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "103.5",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-18T04:00:00+08:00",
     "title": "Early Morning Commentary",
     "commentary": "Equities edge higher on mixed economic signals; Fed speakers this week set tone for rate path. Commodities mixed: oil rallies on geopolitical tensions while precious metals consolidate. Crypto gains momentum as inflation expectations moderate. Tech remains resilient despite macro crosscurrents.",
