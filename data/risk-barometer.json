@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-18T21:34:43Z",
+  "updatedAt": "2026-03-18T22:01:53Z",
   "barometers": {
     "gold": {
-      "score": 45,
-      "level": "CAUTION",
+      "score": 30,
+      "level": "LOW",
       "signals": [
         {
           "name": "COT Positioning (Proxy)",
@@ -28,10 +28,10 @@
         },
         {
           "name": "DXY Breakout",
-          "triggered": true,
-          "points": 15,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 15,
-          "detail": "+1.9% vs 200-MA, rising"
+          "detail": "Data unavailable: HTTP Error 500: Internal Server Error"
         },
         {
           "name": "Volatility Extreme",
@@ -41,7 +41,7 @@
           "detail": "20-day volatility: 2.13%"
         }
       ],
-      "recommendation": "Elevated risk. Monitor closely, prepare hedges."
+      "recommendation": "Normal conditions. Maintain trend-following positions."
     },
     "sp500": {
       "score": 55,
