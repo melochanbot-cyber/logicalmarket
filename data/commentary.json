@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-18T20:00-04:00",
+    "title": "Asia Open: Dow Hits 2026 Low, Asia Shrugs It Off",
+    "commentary": "Wall Street caps brutal Fed Day with Dow crashing 771 points to new 2026 low\u2014inflation fears eclipse Fed's rate hold as Powell flags 'elevated uncertainty.' Oil rips back to $108 on Iran escalation; crypto carnage continues with BTC -4.6%, ETH -5.9%. Asia opens green despite the bloodbath: Nikkei surges 2.9%, Hang Seng +0.6% as investors bet Powell's dovish undertones outweigh near-term pain.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,850",
+        "change": "-3.0%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "76.40",
+        "change": "-4.4%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "108.00",
+        "change": "+8.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,560",
+        "change": "-1.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "24,425",
+        "change": "-1.4%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,221",
+        "change": "-1.6%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "71,072",
+        "change": "-4.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,185",
+        "change": "-5.9%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.90",
+        "change": "+0.4%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-18T15:00-04:00",
     "title": "After-Hours: Powell Press Conference Fallout",
     "commentary": "Markets extend losses in after-hours as Powell acknowledges 'economic shocks' from Iran conflict\u2014Dow ends down 600 points, S&P -0.6%. Crypto dumps accelerate with BTC -4.9% at $71,026, ETH cratering -6.5% to $2,179 as risk-off deepens. Asia opens green defying Wall St. weakness: Nikkei +2.9%, Hang Seng +0.6%. Oil retreats from $104 highs but Iran premium persists.",
