@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-18T10:00-04:00",
+    "title": "Fed Day Midday: Risk-Off Accelerates",
+    "commentary": "Precious metals crater as traders dump safe-haven longs ahead of Fed decision\u2014gold plunges 2.7% to $4,870, silver down 3.6%. Oil bucks the trend, surging 2.7% to $98.77 on persistent Iran supply fears with Kpler warning of $150 if conflict extends. Equities drift lower with Dow -0.4%, awaiting Powell's hawkish-or-hold call. Crypto bleeds alongside risk assets, BTC -1.9%, ETH -3.9%.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,871",
+        "change": "-2.74%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "77.08",
+        "change": "-3.55%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "98.77",
+        "change": "+2.66%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,697",
+        "change": "-0.28%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,438",
+        "change": "-0.18%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,814",
+        "change": "-0.38%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "72,146",
+        "change": "-1.92%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,235",
+        "change": "-3.87%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.80",
+        "change": "+0.23%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-18T09:02-04:00",
     "title": "US Pre-Market: Fed Day",
     "commentary": "Stocks rally into the Fed decision as oil prices ease from four-year highs after Iraq resumes exports. Dow +0.3%, S&P flat, Nasdaq outperforms with tech resilience. Bitcoin slips 2% to $72,200 as hot inflation print tempers risk appetite. WTI crude pulls back but holds above $97\u2014geopolitical premium remains as Iran conflict turmoil persists.",
