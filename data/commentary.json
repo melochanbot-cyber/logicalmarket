@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-18T14:00-04:00",
+    "title": "Post-Close: Fed Holds, Markets Digest",
+    "commentary": "Stocks close near session lows with Dow -0.9%, Nasdaq -0.5% as hot PPI data overshadows Fed hold. Oil breaches $104\u2014four-year highs\u2014on Iran escalation and Strait of Hormuz fears. Crypto dumps hard: BTC -3.1% to $71,639, ETH sub-$2,205 as risk-off contagion spreads. Asia futures green: Nikkei +2.9%, HSI +0.6% shrug off Wall St. weakness for now.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,867",
+        "change": "-2.8%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "76.81",
+        "change": "-3.9%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "104.20",
+        "change": "+4.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,672",
+        "change": "-0.7%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,361",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,576",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "71,639",
+        "change": "-3.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,205",
+        "change": "-3.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.82",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-18T12:00-04:00",
     "title": "Fed Day Close: Risk Rout Deepens Pre-Decision",
     "commentary": "Wall Street bleeds into Fed decision with Dow -1.0%, S&P -0.6% as hot PPI data and Iran oil fears collide. Gold crashes -2.8% to $4,867 in brutal deleveraging while silver plunges -3.9%. Oil holds gains near $98 (+2.1%) as Trump's Jones Act waiver fails to cool supply fears. Crypto carnage continues\u2014BTC -3.3%, ETH -5.6%\u2014as risk assets face dual headwinds of sticky inflation and geopolitical turmoil.",
