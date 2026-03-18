@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-18T15:00-04:00",
+    "title": "After-Hours: Powell Press Conference Fallout",
+    "commentary": "Markets extend losses in after-hours as Powell acknowledges 'economic shocks' from Iran conflict\u2014Dow ends down 600 points, S&P -0.6%. Crypto dumps accelerate with BTC -4.9% at $71,026, ETH cratering -6.5% to $2,179 as risk-off deepens. Asia opens green defying Wall St. weakness: Nikkei +2.9%, Hang Seng +0.6%. Oil retreats from $104 highs but Iran premium persists.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,850",
+        "change": "-3.1%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "76.40",
+        "change": "-4.4%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "97.50",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,643",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,214",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,330",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "71,026",
+        "change": "-4.9%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,179",
+        "change": "-6.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.85",
+        "change": "+0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-18T14:00-04:00",
     "title": "Post-Close: Fed Holds, Markets Digest",
     "commentary": "Stocks close near session lows with Dow -0.9%, Nasdaq -0.5% as hot PPI data overshadows Fed hold. Oil breaches $104\u2014four-year highs\u2014on Iran escalation and Strait of Hormuz fears. Crypto dumps hard: BTC -3.1% to $71,639, ETH sub-$2,205 as risk-off contagion spreads. Asia futures green: Nikkei +2.9%, HSI +0.6% shrug off Wall St. weakness for now.",
