@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-18T11:00-04:00",
+    "title": "Fed Day Afternoon: Oil Tests $100, Risk Dumps",
+    "commentary": "WTI crude flirts with $100 (+3.2%) after Iran reports attacks on key oil and gas fields\u2014'black swan' moment for energy as strategists warn of 20% equity downside risk. Precious metals hammered in flight from leveraged longs: gold -2.8% to $4,869, silver crashes -4.2%. Equities extend losses with Dow -0.8% as Coca-Cola and P&G drag. Crypto capitulates alongside risk assets, BTC plunging 4.7% below $72K.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,869",
+        "change": "-2.77%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "76.59",
+        "change": "-4.17%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "99.26",
+        "change": "+3.17%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,679",
+        "change": "-0.55%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,361",
+        "change": "-0.53%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,617",
+        "change": "-0.80%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "71,148",
+        "change": "-4.67%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,200",
+        "change": "-5.50%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.79",
+        "change": "+0.21%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-18T10:00-04:00",
     "title": "Fed Day Midday: Risk-Off Accelerates",
     "commentary": "Precious metals crater as traders dump safe-haven longs ahead of Fed decision\u2014gold plunges 2.7% to $4,870, silver down 3.6%. Oil bucks the trend, surging 2.7% to $98.77 on persistent Iran supply fears with Kpler warning of $150 if conflict extends. Equities drift lower with Dow -0.4%, awaiting Powell's hawkish-or-hold call. Crypto bleeds alongside risk assets, BTC -1.9%, ETH -3.9%.",
