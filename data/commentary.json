@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-03-20T03:00+08:00",
+    "title": "Asian Session Update",
+    "commentary": "Markets trading mixed in Asian session as investors digest recent economic data. Tech stocks showing resilience while commodities consolidate near recent highs. Crypto markets finding support after recent volatility.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+1.2%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "-0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-20T01:00+08:00",
     "title": "After Hours Update",
     "commentary": "Markets wrapped Wednesday's session in mixed fashion as tech led gains while commodities cooled. Fed policy signals continue to anchor expectations with traders pricing steady rates through mid-year. Gold retreated from recent highs on dollar strength while crude oil consolidated near $75 amid OPEC+ production uncertainty.",
@@ -438,58 +473,6 @@
       {
         "symbol": "USD Index",
         "price": "99.78",
-        "change": "+0.21%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-18T11:00-04:00",
-    "title": "Fed Day Afternoon: Oil Tests $100, Risk Dumps",
-    "commentary": "WTI crude flirts with $100 (+3.2%) after Iran reports attacks on key oil and gas fields\u2014'black swan' moment for energy as strategists warn of 20% equity downside risk. Precious metals hammered in flight from leveraged longs: gold -2.8% to $4,869, silver crashes -4.2%. Equities extend losses with Dow -0.8% as Coca-Cola and P&G drag. Crypto capitulates alongside risk assets, BTC plunging 4.7% below $72K.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,869",
-        "change": "-2.77%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "76.59",
-        "change": "-4.17%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "99.26",
-        "change": "+3.17%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,679",
-        "change": "-0.55%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "22,361",
-        "change": "-0.53%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,617",
-        "change": "-0.80%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "71,148",
-        "change": "-4.67%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,200",
-        "change": "-5.50%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.79",
         "change": "+0.21%"
       }
     ]
