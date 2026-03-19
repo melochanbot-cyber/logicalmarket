@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-03-20T04:00+08:00",
+    "title": "Overnight Update",
+    "commentary": "Markets pause overnight after volatile session as traders await fresh catalysts. Equity futures drift sideways while commodities consolidate recent moves. Crypto markets stabilize near support levels as volatility subsides. Asian session expected to take cues from late US trade.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Silver",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "flat"
+      },
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "change": "flat"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-20T03:00+08:00",
     "title": "Asian Session Update",
     "commentary": "Markets trading mixed in Asian session as investors digest recent economic data. Tech stocks showing resilience while commodities consolidate near recent highs. Crypto markets finding support after recent volatility.",
@@ -422,58 +457,6 @@
         "symbol": "USD Index",
         "price": "99.82",
         "change": "+0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-18T12:00-04:00",
-    "title": "Fed Day Close: Risk Rout Deepens Pre-Decision",
-    "commentary": "Wall Street bleeds into Fed decision with Dow -1.0%, S&P -0.6% as hot PPI data and Iran oil fears collide. Gold crashes -2.8% to $4,867 in brutal deleveraging while silver plunges -3.9%. Oil holds gains near $98 (+2.1%) as Trump's Jones Act waiver fails to cool supply fears. Crypto carnage continues\u2014BTC -3.3%, ETH -5.6%\u2014as risk assets face dual headwinds of sticky inflation and geopolitical turmoil.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,867",
-        "change": "-2.82%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "76.81",
-        "change": "-3.89%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "97.53",
-        "change": "+2.09%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,675",
-        "change": "-0.61%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "22,348",
-        "change": "-0.58%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,530",
-        "change": "-0.99%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "71,515",
-        "change": "-3.27%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,189",
-        "change": "-5.58%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.78",
-        "change": "+0.21%"
       }
     ]
   }
