@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-19T09:00-04:00",
+    "title": "US Open: Oil Spikes to $119, Market Rout Extends",
+    "commentary": "Brent briefly breaches $119 after Iranian strikes hit Qatar LNG facilities\u2014commodity strategists revive $150 oil warnings as energy war escalates. Dow futures tumble 300 points extending post-Fed carnage; S&P 6,625 marks fifth straight session of losses. BTC drops to $69,270 (-2.8%) but outperforms equities as gold/silver sell-off accelerates on margin liquidation. Micron plunges 5% despite beat\u2014AI capex concerns overshadow blockbuster guide.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,780",
+        "change": "-3.5%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "74.50",
+        "change": "-5.2%"
+      },
+      {
+        "symbol": "Oil (Brent)",
+        "price": "119.00",
+        "change": "+9.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,625",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,152",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,225",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "69,270",
+        "change": "-2.8%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,133",
+        "change": "-2.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "100.20",
+        "change": "+0.3%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-18T20:00-04:00",
     "title": "Asia Open: Dow Hits 2026 Low, Asia Shrugs It Off",
     "commentary": "Wall Street caps brutal Fed Day with Dow crashing 771 points to new 2026 low\u2014inflation fears eclipse Fed's rate hold as Powell flags 'elevated uncertainty.' Oil rips back to $108 on Iran escalation; crypto carnage continues with BTC -4.6%, ETH -5.9%. Asia opens green despite the bloodbath: Nikkei surges 2.9%, Hang Seng +0.6% as investors bet Powell's dovish undertones outweigh near-term pain.",
