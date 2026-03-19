@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-19T12:02-04:00",
+    "title": "Close: Precious Metals Bloodbath Caps Brutal Week",
+    "commentary": "Gold crashes 6.4% to $4,585 in worst single-day rout since 2013 as margin liquidations cascade\u2014silver implodes nearly 10% amid flight from leveraged commodity longs. Oil holds at $100.56 (+4.4%) as Iran conflict intensifies; WTI briefly tagged $119 intraday after Qatar LNG facility strikes. Equities end red with Dow -0.7%, S&P -0.5% as Fed signals no 2026 cuts. Crypto bleeds alongside risk: BTC -2.8% at $69,414, Extreme Fear at 23.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,585",
+        "change": "-6.35%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "69.87",
+        "change": "-9.95%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "100.56",
+        "change": "+4.40%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,591",
+        "change": "-0.51%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,014",
+        "change": "-0.63%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "45,893",
+        "change": "-0.72%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "69,414",
+        "change": "-2.84%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,119",
+        "change": "-3.15%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.65",
+        "change": "-0.10%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-19T11:00-04:00",
     "title": "Late Session: Selloff Deepens, BTC Breaks $70K Support",
     "commentary": "Equities extend losses into late session with Dow -0.8%, S&P -0.6% as oil spike to $97 keeps pressure on risk assets\u2014Micron's post-earnings plunge adds to tech malaise. Precious metals carnage continues: gold at $4,597 (-2.8%), silver in freefall at $69.90 (-13%) as margin liquidation cascades. Bitcoin breaks critical $70K support, trading at $69,453 as Iran conflict escalation and fading rate-cut hopes hammer crypto sentiment.",
@@ -464,58 +516,6 @@
         "symbol": "USD Index",
         "price": "99.80",
         "change": "+0.23%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-18T09:02-04:00",
-    "title": "US Pre-Market: Fed Day",
-    "commentary": "Stocks rally into the Fed decision as oil prices ease from four-year highs after Iraq resumes exports. Dow +0.3%, S&P flat, Nasdaq outperforms with tech resilience. Bitcoin slips 2% to $72,200 as hot inflation print tempers risk appetite. WTI crude pulls back but holds above $97\u2014geopolitical premium remains as Iran conflict turmoil persists.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "3025",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "33.80",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "97.33",
-        "change": "+1.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6716",
-        "change": "flat"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "22,480",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,993",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "72,233",
-        "change": "-2.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,238",
-        "change": "-3.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "103.5",
-        "change": "-0.2%"
       }
     ]
   }
