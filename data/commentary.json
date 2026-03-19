@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-19T11:00-04:00",
+    "title": "Late Session: Selloff Deepens, BTC Breaks $70K Support",
+    "commentary": "Equities extend losses into late session with Dow -0.8%, S&P -0.6% as oil spike to $97 keeps pressure on risk assets\u2014Micron's post-earnings plunge adds to tech malaise. Precious metals carnage continues: gold at $4,597 (-2.8%), silver in freefall at $69.90 (-13%) as margin liquidation cascades. Bitcoin breaks critical $70K support, trading at $69,453 as Iran conflict escalation and fading rate-cut hopes hammer crypto sentiment.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,597",
+        "change": "-2.80%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "69.90",
+        "change": "-13.14%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "96.67",
+        "change": "+3.00%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,588",
+        "change": "-0.56%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,009",
+        "change": "-0.65%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "45,864",
+        "change": "-0.78%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "69,453",
+        "change": "-0.70%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,125",
+        "change": "-0.65%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.65",
+        "change": "-0.06%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-19T10:00-04:00",
     "title": "Midday Meltdown: Precious Metals Crater on Margin Calls",
     "commentary": "Gold plunges nearly 7% to $4,561 in worst single-day drop since 2013 as margin liquidations cascade through commodity markets\u2014silver follows with 12.4% crash to $68. Equities extend post-Fed losses with Dow -0.5%, S&P -0.6% as oil volatility and Powell's inflation warnings keep buyers sidelined. Dollar weakens to 99.7 as safe-haven flows shift to cash. BTC outperforms risk assets at $69,940, holding above key support while TradFi deleverages.",
@@ -464,58 +516,6 @@
         "symbol": "USD Index",
         "price": "103.5",
         "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-18T04:00:00+08:00",
-    "title": "Early Morning Commentary",
-    "commentary": "Equities edge higher on mixed economic signals; Fed speakers this week set tone for rate path. Commodities mixed: oil rallies on geopolitical tensions while precious metals consolidate. Crypto gains momentum as inflation expectations moderate. Tech remains resilient despite macro crosscurrents.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "2085.50",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "24.35",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "78.45",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "5847.25",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "18234.50",
-        "change": "+0.7%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "41892.75",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "67340",
-        "change": "+1.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "3542.80",
-        "change": "+2.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "104.28",
-        "change": "+0.4%"
       }
     ]
   }
