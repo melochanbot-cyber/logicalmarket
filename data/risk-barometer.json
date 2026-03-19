@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-18T23:33:44Z",
+  "updatedAt": "2026-03-19T02:37:00Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,21 +24,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-2.2% above 50-day MA"
+          "detail": "-2.0% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+1.9% vs 200-MA, rising"
+          "detail": "+1.6% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.10%"
+          "detail": "20-day volatility: 2.19%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -73,14 +73,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +0.6%"
+          "detail": "VIX 1-week change: +3.5%"
         },
         {
           "name": "Market Breadth",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: +1.4%"
+          "detail": "NDX-SPX divergence: +0.2%"
         }
       ],
       "recommendation": "High risk environment. Reduce equity exposure."
@@ -101,7 +101,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "-0.3% vs 200-day MA"
+          "detail": "-0.4% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -1.7%, 30d: -3.3%"
+          "detail": "60d: -3.8%, 30d: -1.7%"
         },
         {
           "name": "Volatility Spike",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "20-day vol: 1.16%"
+          "detail": "20-day vol: 1.25%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -23.9%, NDX: -5.0%"
+          "detail": "BTC: -23.9%, NDX: -5.4%"
         },
         {
           "name": "Drawdown from ATH",
