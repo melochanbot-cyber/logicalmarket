@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-03-20T01:00+08:00",
+    "title": "After Hours Update",
+    "commentary": "Markets wrapped Wednesday's session in mixed fashion as tech led gains while commodities cooled. Fed policy signals continue to anchor expectations with traders pricing steady rates through mid-year. Gold retreated from recent highs on dollar strength while crude oil consolidated near $75 amid OPEC+ production uncertainty.",
+    "movers": [
+      {
+        "symbol": "Nasdaq",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Gold",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "+2.1%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "-0.4%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-19T12:02-04:00",
     "title": "Close: Precious Metals Bloodbath Caps Brutal Week",
     "commentary": "Gold crashes 6.4% to $4,585 in worst single-day rout since 2013 as margin liquidations cascade\u2014silver implodes nearly 10% amid flight from leveraged commodity longs. Oil holds at $100.56 (+4.4%) as Iran conflict intensifies; WTI briefly tagged $119 intraday after Qatar LNG facility strikes. Equities end red with Dow -0.7%, S&P -0.5% as Fed signals no 2026 cuts. Crypto bleeds alongside risk: BTC -2.8% at $69,414, Extreme Fear at 23.",
@@ -464,58 +491,6 @@
         "symbol": "USD Index",
         "price": "99.79",
         "change": "+0.21%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-18T10:00-04:00",
-    "title": "Fed Day Midday: Risk-Off Accelerates",
-    "commentary": "Precious metals crater as traders dump safe-haven longs ahead of Fed decision\u2014gold plunges 2.7% to $4,870, silver down 3.6%. Oil bucks the trend, surging 2.7% to $98.77 on persistent Iran supply fears with Kpler warning of $150 if conflict extends. Equities drift lower with Dow -0.4%, awaiting Powell's hawkish-or-hold call. Crypto bleeds alongside risk assets, BTC -1.9%, ETH -3.9%.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,871",
-        "change": "-2.74%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "77.08",
-        "change": "-3.55%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "98.77",
-        "change": "+2.66%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,697",
-        "change": "-0.28%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "22,438",
-        "change": "-0.18%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,814",
-        "change": "-0.38%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "72,146",
-        "change": "-1.92%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,235",
-        "change": "-3.87%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.80",
-        "change": "+0.23%"
       }
     ]
   }
