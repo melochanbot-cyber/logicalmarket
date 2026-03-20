@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-20T13:00-04:00",
+    "title": "End of Week: Dow Posts Longest Weekly Slide Since 2023",
+    "commentary": "Wall Street closes out the worst week since October 2023 as Middle East escalation and sticky inflation keep risk appetite crushed\u2014Dow settles at 45,839 after a 750-point tumble earlier this week. Nikkei crashed 3.4% overnight, Hong Kong -0.9% as geopolitical shockwaves ripple globally. BTC holds firm at $69,846, outperforming equities with flight-to-hard-assets narrative gaining traction. Super Micro's fraud-driven implosion (-26% intraday) caps a brutal tech week.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,570",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "69.45",
+        "change": "-2.5%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "96.80",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,528",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,854",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "45,839",
+        "change": "-0.1%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "69,846",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,139",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.75",
+        "change": "+0.1%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-20T12:00-04:00",
     "title": "Weekend Wrap: Dow's Worst Weekly Streak Since 2023",
     "commentary": "Wall Street limps into the weekend with Dow notching its longest losing streak since October 2023\u2014down 0.5% to 45,809 as Middle East turmoil and sticky inflation keep bulls sidelined. Super Micro's 26% implosion on fraud allegations caps a brutal week for tech; Nasdaq sheds another 1%. Oil consolidates near $97 as geopolitical risk premium persists; gold holds $4,570 after this week's historic 6% single-day plunge. BTC flat at $69,800, proving more resilient than equities amid the risk-off rout.",
@@ -405,58 +457,6 @@
         "symbol": "USD Index",
         "price": "99.65",
         "change": "-0.06%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-19T10:00-04:00",
-    "title": "Midday Meltdown: Precious Metals Crater on Margin Calls",
-    "commentary": "Gold plunges nearly 7% to $4,561 in worst single-day drop since 2013 as margin liquidations cascade through commodity markets\u2014silver follows with 12.4% crash to $68. Equities extend post-Fed losses with Dow -0.5%, S&P -0.6% as oil volatility and Powell's inflation warnings keep buyers sidelined. Dollar weakens to 99.7 as safe-haven flows shift to cash. BTC outperforms risk assets at $69,940, holding above key support while TradFi deleverages.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,561",
-        "change": "-6.84%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "67.96",
-        "change": "-12.42%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "97.48",
-        "change": "+1.20%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,583",
-        "change": "-0.63%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "22,004",
-        "change": "-0.67%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,005",
-        "change": "-0.52%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "69,940",
-        "change": "+0.97%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,139",
-        "change": "+0.28%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.71",
-        "change": "-0.38%"
       }
     ]
   }
