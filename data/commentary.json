@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-20T11:00-04:00",
+    "title": "Close: Gold Recoils, Equities End Week Lower",
+    "commentary": "Gold surrenders earlier gains, sliding to $4,570 (-0.8%) as profit-taking hits after week's wild swings\u2014Super Micro -28% post-indictment caps ugly week for tech. S&P closes at 6,554 (-0.8%), Nasdaq -1.1% with Dow off 0.6%; quad witching expiry adds to chop. Oil firms to $96.67 (+1.2%) as geopolitical premium persists; BTC holds $69,783 flat on the day, shrugging off equity weakness. Dollar climbs to 99.71 as week ends risk-off.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,570",
+        "change": "-0.77%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "69.45",
+        "change": "-2.48%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "96.67",
+        "change": "+1.17%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,554",
+        "change": "-0.79%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,842",
+        "change": "-1.12%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "45,765",
+        "change": "-0.56%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "69,783",
+        "change": "-0.20%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,131",
+        "change": "-0.33%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.71",
+        "change": "+0.48%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-20T10:00-04:00",
     "title": "Late Morning: Tech Bleeds, Super Micro Cratered",
     "commentary": "Tech leads the selloff with Nasdaq -1.2% as Super Micro crashes 27% after co-founder indictment\u2014Iran war uncertainty keeps a lid on risk appetite despite Fed Waller dovish signals. Gold surges to fresh highs at $4,646 (+0.9%) as safe-haven bid returns; oil holds firm at $95.83 near triple-digit territory. BTC flat at $69,909 as crypto decouples from equity weakness; 10Y yields jump 5bp to 4.33% on stubborn inflation data.",
@@ -405,58 +457,6 @@
         "symbol": "USD Index",
         "price": "100.20",
         "change": "+0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-18T20:00-04:00",
-    "title": "Asia Open: Dow Hits 2026 Low, Asia Shrugs It Off",
-    "commentary": "Wall Street caps brutal Fed Day with Dow crashing 771 points to new 2026 low\u2014inflation fears eclipse Fed's rate hold as Powell flags 'elevated uncertainty.' Oil rips back to $108 on Iran escalation; crypto carnage continues with BTC -4.6%, ETH -5.9%. Asia opens green despite the bloodbath: Nikkei surges 2.9%, Hang Seng +0.6% as investors bet Powell's dovish undertones outweigh near-term pain.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,850",
-        "change": "-3.0%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "76.40",
-        "change": "-4.4%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "108.00",
-        "change": "+8.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,560",
-        "change": "-1.5%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "24,425",
-        "change": "-1.4%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,221",
-        "change": "-1.6%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "71,072",
-        "change": "-4.6%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,185",
-        "change": "-5.9%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.90",
-        "change": "+0.4%"
       }
     ]
   }
