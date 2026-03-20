@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-20T16:00-04:00",
+    "title": "Weekend Futures: Gold Hammered, Oil Surges on Iran Escalation",
+    "commentary": "Gold crashes 3.3% to $4,497 as profit-taking accelerates after week's war premium fade\u2014silver plummets 6.6% in sympathy. Oil spikes 2% to $97.44 as Iran tensions flare again; WTI eyes $100 resistance. Equities close ugly: S&P -1.5%, Nasdaq -1.75% cap worst weekly rout since October '23. BTC +0.3% at $70,161 proves resilient hard-asset bid while everything else burns. Dollar grinds higher at 99.59 as global risk-off deepens.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,497",
+        "change": "-3.29%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "67.99",
+        "change": "-6.60%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "97.44",
+        "change": "+1.98%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,508",
+        "change": "-1.49%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "23,929",
+        "change": "-1.75%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "45,651",
+        "change": "-0.80%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "70,161",
+        "change": "+0.34%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,132",
+        "change": "-0.31%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.59",
+        "change": "+0.36%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-20T15:00-04:00",
     "title": "After Hours: Rate Hike Odds Spike, Stocks Sink",
     "commentary": "Wall Street closes in the red as traders now price >50% odds of a Fed rate HIKE\u2014a stunning reversal from cut expectations just weeks ago. Nasdaq -1.6% leads losses, Dow -0.6% as Honeywell and Boeing drag. Oil surges past $98 (+2.7%) on Iran war escalation; gold stabilizes at $4,578 after week's historic plunge. BTC holds $69,800, decoupling from equity bloodbath as hard-asset narrative gains traction. UK gilts in freefall with yields at 17-year highs\u2014contagion watch is on.",
@@ -430,33 +482,6 @@
       {
         "symbol": "USD Index",
         "change": "-0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-20T01:00+08:00",
-    "title": "After Hours Update",
-    "commentary": "Markets wrapped Wednesday's session in mixed fashion as tech led gains while commodities cooled. Fed policy signals continue to anchor expectations with traders pricing steady rates through mid-year. Gold retreated from recent highs on dollar strength while crude oil consolidated near $75 amid OPEC+ production uncertainty.",
-    "movers": [
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "Gold",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.4%"
       }
     ]
   }
