@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-20T15:00-04:00",
+    "title": "After Hours: Rate Hike Odds Spike, Stocks Sink",
+    "commentary": "Wall Street closes in the red as traders now price >50% odds of a Fed rate HIKE\u2014a stunning reversal from cut expectations just weeks ago. Nasdaq -1.6% leads losses, Dow -0.6% as Honeywell and Boeing drag. Oil surges past $98 (+2.7%) on Iran war escalation; gold stabilizes at $4,578 after week's historic plunge. BTC holds $69,800, decoupling from equity bloodbath as hard-asset narrative gains traction. UK gilts in freefall with yields at 17-year highs\u2014contagion watch is on.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,578",
+        "change": "-0.59%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "69.25",
+        "change": "-2.43%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "98.12",
+        "change": "+2.69%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,530",
+        "change": "-1.0%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,730",
+        "change": "-1.63%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "45,755",
+        "change": "-0.58%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "69,802",
+        "change": "-0.66%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,127",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.51",
+        "change": "+0.28%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-20T14:00-04:00",
     "title": "Late Session: Stocks Slide for Fourth Straight Week",
     "commentary": "Wall Street extends the pain with S&P -1.0% and Nasdaq -1.5% as Iran conflict drags on and Fed rate-cut hopes evaporate\u2014JPMorgan's Feroli now sees no cuts in 2026. Oil spikes 2.9% to $98.31 as U.S. weighs lifting sanctions on some Iranian crude; gold slips 0.7% to $4,572 on hawkish dollar. BTC flat at $69,901, stubbornly holding while equities bleed into a fourth consecutive losing week.",
@@ -405,58 +457,6 @@
       {
         "symbol": "Oil",
         "change": "-0.4%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-19T12:02-04:00",
-    "title": "Close: Precious Metals Bloodbath Caps Brutal Week",
-    "commentary": "Gold crashes 6.4% to $4,585 in worst single-day rout since 2013 as margin liquidations cascade\u2014silver implodes nearly 10% amid flight from leveraged commodity longs. Oil holds at $100.56 (+4.4%) as Iran conflict intensifies; WTI briefly tagged $119 intraday after Qatar LNG facility strikes. Equities end red with Dow -0.7%, S&P -0.5% as Fed signals no 2026 cuts. Crypto bleeds alongside risk: BTC -2.8% at $69,414, Extreme Fear at 23.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,585",
-        "change": "-6.35%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "69.87",
-        "change": "-9.95%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "100.56",
-        "change": "+4.40%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,591",
-        "change": "-0.51%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "22,014",
-        "change": "-0.63%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "45,893",
-        "change": "-0.72%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "69,414",
-        "change": "-2.84%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,119",
-        "change": "-3.15%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.65",
-        "change": "-0.10%"
       }
     ]
   }
