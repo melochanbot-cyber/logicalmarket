@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-20T09:02-04:00",
+    "title": "US Open: Markets Attempt Rebound After Brutal Week",
+    "commentary": "Dow opens at 46,021 attempting recovery after plunging to new 2026 lows\u2014stagflation fears ease slightly as oil pulls back from $100+ extremes. Asia took it on the chin overnight: Nikkei crashed 3.4%, Hong Kong -0.9% as Iran conflict fallout ripples through. Crypto finds footing with BTC +1.4% at $70,327, outperforming risk assets as deleveraging exhausts. Traders eyeing quad witching expiration for potential volatility surge.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,600",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "70.50",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "97.20",
+        "change": "-3.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,605",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,080",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,021",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "70,327",
+        "change": "+1.43%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,141",
+        "change": "+0.61%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.50",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-20T04:00+08:00",
     "title": "Overnight Update",
     "commentary": "Markets pause overnight after volatile session as traders await fresh catalysts. Equity futures drift sideways while commodities consolidate recent moves. Crypto markets stabilize near support levels as volatility subsides. Asian session expected to take cues from late US trade.",
@@ -405,58 +457,6 @@
         "symbol": "USD Index",
         "price": "99.85",
         "change": "+0.3%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-18T14:00-04:00",
-    "title": "Post-Close: Fed Holds, Markets Digest",
-    "commentary": "Stocks close near session lows with Dow -0.9%, Nasdaq -0.5% as hot PPI data overshadows Fed hold. Oil breaches $104\u2014four-year highs\u2014on Iran escalation and Strait of Hormuz fears. Crypto dumps hard: BTC -3.1% to $71,639, ETH sub-$2,205 as risk-off contagion spreads. Asia futures green: Nikkei +2.9%, HSI +0.6% shrug off Wall St. weakness for now.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,867",
-        "change": "-2.8%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "76.81",
-        "change": "-3.9%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "104.20",
-        "change": "+4.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,672",
-        "change": "-0.7%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "22,361",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,576",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "71,639",
-        "change": "-3.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,205",
-        "change": "-3.5%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.82",
-        "change": "+0.2%"
       }
     ]
   }
