@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T04:16:51Z",
+  "updatedAt": "2026-03-21T05:27:22Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-9.3% above 50-day MA"
+          "detail": "-7.7% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 4.52%"
+          "detail": "20-day volatility: 4.32%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
