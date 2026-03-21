@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T07:09:08Z",
+  "updatedAt": "2026-03-21T07:53:15Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -150,7 +150,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -23.1%, 30d: +4.1%"
+          "detail": "60d gain: -23.1%, 30d: +4.0%"
         },
         {
           "name": "Risk-Off Correlation",
