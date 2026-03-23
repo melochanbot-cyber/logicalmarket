@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23T14:38:01Z",
+  "updatedAt": "2026-03-23T14:57:09Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-9.1% above 50-day MA"
+          "detail": "-9.5% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 4.49%"
+          "detail": "20-day volatility: 4.54%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 24.0 (threshold: 25)"
+          "detail": "VIX at 24.6 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -66,14 +66,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "+0.1% vs 200-day MA"
+          "detail": "+0.2% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -11.9%"
+          "detail": "VIX 1-week change: -9.6%"
         },
         {
           "name": "Market Breadth",
@@ -94,7 +94,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 24.0"
+          "detail": "VIX at 24.6"
         },
         {
           "name": "MA Overextension",
@@ -150,14 +150,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -22.8%, 30d: +5.3%"
+          "detail": "60d gain: -22.8%, 30d: +5.2%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -20.4%, NDX: -6.4%"
+          "detail": "BTC: -20.5%, NDX: -6.3%"
         },
         {
           "name": "Drawdown from ATH",
