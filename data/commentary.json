@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-23T10:00-04:00",
+    "title": "US Morning: Risk-On Surge as Trump-Iran Talks Signal De-escalation",
+    "commentary": "Dow explodes 900+ points (+2%) after Trump tells CNBC 'productive' Iran talks are underway, triggering the sharpest intraday rally in months. Oil collapses 9.6% to $88.76 as Trump pauses strikes on Iranian energy infrastructure for five days\u2014biggest single-day crude drop since 2022. Safe-haven unwind accelerates: gold dumps 2.9% to $4,445, silver -1% to $69. Crypto catches the risk-on bid with BTC/ETH climbing alongside equities. Traders now pricing de-escalation, but 48-hour Hormuz ultimatum still looms.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,445",
+        "change": "-2.85%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "68.99",
+        "change": "-0.97%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "88.76",
+        "change": "-9.64%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,626",
+        "change": "+1.84%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,103",
+        "change": "+2.10%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,494",
+        "change": "+2.01%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "72,500",
+        "change": "+2.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,210",
+        "change": "+3.3%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.20",
+        "change": "-0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-23T09:01-04:00",
     "title": "US Pre-Market: Futures Surge on Iran Diplomacy Breakthrough",
     "commentary": "Dow futures explode +1,000 points after Trump announces \"productive\" talks with Iran, postponing military strike\u2014biggest pre-market jump in months erases Friday's war-panic selloff. Asia closes bloodied (Nikkei -3.5%, HSI -3.5%) before the diplomatic pivot; BTC rebounds 4.2% to $70,719 as risk appetite returns. Gold extends nine-session slide as safe-haven unwind accelerates; oil pulls back from crisis highs. Volatility remains elevated as traders await confirmation of de-escalation.",
@@ -464,41 +516,6 @@
         "symbol": "USD Index",
         "price": "99.50",
         "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-20T04:00+08:00",
-    "title": "Overnight Update",
-    "commentary": "Markets pause overnight after volatile session as traders await fresh catalysts. Equity futures drift sideways while commodities consolidate recent moves. Crypto markets stabilize near support levels as volatility subsides. Asian session expected to take cues from late US trade.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Silver",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "flat"
-      },
-      {
-        "symbol": "Nasdaq",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "change": "flat"
       }
     ]
   }
