@@ -1,5 +1,62 @@
 [
   {
+    "timestamp": "2026-03-23T19:00-04:00",
+    "title": "Overnight Futures: Oil Collapses as Iran De-escalation Continues",
+    "commentary": "WTI craters 11% to $87.30, Brent -12% to $98.60 as Trump's five-day strike pause continues to defuse supply fears\u2014biggest multi-day crude unwind since 2020. Gold slips 0.9% to $4,448 as safe-haven premium bleeds out; crypto rides lingering risk-on momentum with BTC +3.6% at $71,050, ETH +4.8% at $2,169. Fed's Goolsbee warns on inflation in 'fraught but intense' climate\u2014markets watching whether de-escalation holds or Iran ultimatum reignites volatility.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,448",
+        "change": "-0.9%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "69.50",
+        "change": "flat"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "87.30",
+        "change": "-11.1%"
+      },
+      {
+        "symbol": "Oil (Brent)",
+        "price": "98.60",
+        "change": "-12.1%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,605",
+        "change": "flat (futures)"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,993",
+        "change": "flat (futures)"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,400",
+        "change": "flat (futures)"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "71,050",
+        "change": "+3.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,169",
+        "change": "+4.8%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.24",
+        "change": "flat"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-23T16:00-04:00",
     "title": "US Close: Wall Street Caps Historic Rally, Iran Breakthrough Lifts Sentiment",
     "commentary": "S&P 500 closes at 6,605, up 1.5% in one of the sharpest single-day reversals this year as Trump-Iran diplomacy halts military escalation. Dow finishes +900 points at 46,416, Nasdaq +1.9% to 21,993. Oil craters 9% to $89.30 as strike pause defuses supply fears\u2014biggest drop since 2022. Gold unwind continues with spot down 3.4% to $4,418; crypto rides risk-on wave with BTC at $71,100. Week ahead: All eyes on Iran's 48-hour ultimatum response. Fed speak resumes Tuesday.",
@@ -464,58 +521,6 @@
         "symbol": "USD Index",
         "price": "99.71",
         "change": "+0.48%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-20T10:00-04:00",
-    "title": "Late Morning: Tech Bleeds, Super Micro Cratered",
-    "commentary": "Tech leads the selloff with Nasdaq -1.2% as Super Micro crashes 27% after co-founder indictment\u2014Iran war uncertainty keeps a lid on risk appetite despite Fed Waller dovish signals. Gold surges to fresh highs at $4,646 (+0.9%) as safe-haven bid returns; oil holds firm at $95.83 near triple-digit territory. BTC flat at $69,909 as crypto decouples from equity weakness; 10Y yields jump 5bp to 4.33% on stubborn inflation data.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,646",
-        "change": "+0.89%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "71.21",
-        "change": "-0.01%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "95.83",
-        "change": "+0.29%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,556",
-        "change": "-0.77%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "21,819",
-        "change": "-1.23%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "45,876",
-        "change": "-0.32%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "69,909",
-        "change": "-0.08%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,126",
-        "change": "-0.54%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.57",
-        "change": "+0.34%"
       }
     ]
   }
