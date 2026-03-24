@@ -1,5 +1,28 @@
 [
   {
+    "timestamp": "2026-03-24T16:00-04:00",
+    "title": "Market Update",
+    "commentary": "Markets trading in mixed fashion as investors digest overnight developments. Risk assets showing resilience despite macro uncertainties. Key levels being tested across equity indices while commodities consolidate recent moves.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "change": "+0.3%"
+      },
+      {
+        "symbol": "S&P 500",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "Oil",
+        "change": "+0.5%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-24T15:00-04:00",
     "title": "Asia Late Session: Markets Consolidate After Midday Volatility",
     "commentary": "Asian trading winds down with modest losses as oil's midday surge fades\u2014Nikkei -0.3%, HSI -0.6% after earlier Iran-driven swings. WTI stabilizes near $91 as traders digest the ceasefire pause timeline; Brent holds $102. Gold drifts at $4,425 as safe-haven flows pause; crypto quiet with BTC at $70K, ETH $2,135. European open will test whether Tuesday's defensive rotation holds or tech weakness spreads. Iran's 48-hour response window remains the single variable driving all asset class correlations.",
@@ -489,58 +512,6 @@
         "symbol": "USD Index",
         "price": "99.40",
         "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-20T16:00-04:00",
-    "title": "Weekend Futures: Gold Hammered, Oil Surges on Iran Escalation",
-    "commentary": "Gold crashes 3.3% to $4,497 as profit-taking accelerates after week's war premium fade\u2014silver plummets 6.6% in sympathy. Oil spikes 2% to $97.44 as Iran tensions flare again; WTI eyes $100 resistance. Equities close ugly: S&P -1.5%, Nasdaq -1.75% cap worst weekly rout since October '23. BTC +0.3% at $70,161 proves resilient hard-asset bid while everything else burns. Dollar grinds higher at 99.59 as global risk-off deepens.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,497",
-        "change": "-3.29%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "67.99",
-        "change": "-6.60%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "97.44",
-        "change": "+1.98%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,508",
-        "change": "-1.49%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "23,929",
-        "change": "-1.75%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "45,651",
-        "change": "-0.80%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "70,161",
-        "change": "+0.34%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,132",
-        "change": "-0.31%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.59",
-        "change": "+0.36%"
       }
     ]
   }
