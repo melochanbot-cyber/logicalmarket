@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-24T11:00-04:00",
+    "title": "Midday Update: Oil Spikes 4.4% as Tech Drags, Dow Outperforms",
+    "commentary": "Oil punches back above $92 (+4.4%) in the session's biggest mover, reigniting supply-side jitters as Iran's strike-pause deadline approaches\u2014Brent likely above $100 again. Nasdaq underperforms at -0.69% as growth names face renewed pressure; Dow ekes out gains at +0.17% on defensive rotation. Precious metals flat (gold $4,405, silver $69.67) as traders await clarity on geopolitical front. BTC steady at $69,899, ETH at $2,137\u2014crypto content to track macro rather than lead.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,405",
+        "change": "-0.05%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "69.67",
+        "change": "+0.45%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "92.01",
+        "change": "+4.40%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,577",
+        "change": "-0.06%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,795",
+        "change": "-0.69%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,286",
+        "change": "+0.17%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "69,899",
+        "change": "~flat"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,137",
+        "change": "~flat"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "~99",
+        "change": "~flat"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-24T10:00-04:00",
     "title": "Tuesday Trading: Stocks Retreat as Oil Rebounds, War Uncertainty Lingers",
     "commentary": "Wall Street gives back Monday's de-escalation rally as Brent crude punches through $100 and Iran war uncertainty returns to the fore\u2014Dow -0.6% at 45,921, Nasdaq -0.6% at 24,036. Asia outperforms with HSI +2.8%, Nikkei +1.4% on spillover optimism that hasn't crossed the Pacific. Euro zone PMIs flash stagflation warnings as energy crunch bites; Treasury yields climb. Bitcoin slides to $70,079 (-1.2%), Ethereum -0.6% at $2,139 as risk appetite sours. One-variable market: it's all Iran now.",
@@ -479,58 +531,6 @@
         "symbol": "USD Index",
         "price": "99.54",
         "change": "+0.31%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-20T13:00-04:00",
-    "title": "End of Week: Dow Posts Longest Weekly Slide Since 2023",
-    "commentary": "Wall Street closes out the worst week since October 2023 as Middle East escalation and sticky inflation keep risk appetite crushed\u2014Dow settles at 45,839 after a 750-point tumble earlier this week. Nikkei crashed 3.4% overnight, Hong Kong -0.9% as geopolitical shockwaves ripple globally. BTC holds firm at $69,846, outperforming equities with flight-to-hard-assets narrative gaining traction. Super Micro's fraud-driven implosion (-26% intraday) caps a brutal tech week.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,570",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "69.45",
-        "change": "-2.5%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "96.80",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,528",
-        "change": "-0.4%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "21,854",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "45,839",
-        "change": "-0.1%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "69,846",
-        "change": "+0.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,139",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.75",
-        "change": "+0.1%"
       }
     ]
   }
