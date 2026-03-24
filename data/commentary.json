@@ -1,5 +1,62 @@
 [
   {
+    "timestamp": "2026-03-24T10:00-04:00",
+    "title": "Tuesday Trading: Stocks Retreat as Oil Rebounds, War Uncertainty Lingers",
+    "commentary": "Wall Street gives back Monday's de-escalation rally as Brent crude punches through $100 and Iran war uncertainty returns to the fore\u2014Dow -0.6% at 45,921, Nasdaq -0.6% at 24,036. Asia outperforms with HSI +2.8%, Nikkei +1.4% on spillover optimism that hasn't crossed the Pacific. Euro zone PMIs flash stagflation warnings as energy crunch bites; Treasury yields climb. Bitcoin slides to $70,079 (-1.2%), Ethereum -0.6% at $2,139 as risk appetite sours. One-variable market: it's all Iran now.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,420",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "69.30",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "92.50",
+        "change": "+4.2%"
+      },
+      {
+        "symbol": "Oil (Brent)",
+        "price": "100.20",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,092",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "24,036",
+        "change": "-0.63%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "45,921",
+        "change": "-0.62%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "70,079",
+        "change": "-1.17%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,139",
+        "change": "-0.63%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.30",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-23T20:00-04:00",
     "title": "Asia-Pacific Open: De-escalation Rally Extends into New Week",
     "commentary": "Risk-on momentum carries into Asia session as Trump-Iran ceasefire talks hold\u2014S&P futures steady at 6,590 (+1.3% from Monday close) while oil extends two-day collapse with WTI at $88.78, down 35% from crisis highs. Gold continues safe-haven unwind at $4,399 (-2%), capping its steepest weekly correction since 2013. Crypto catches the tailwind: BTC +3.7% at $70,682, ETH +4.4% at $2,154 as risk appetite returns. Dollar weakens to 99.12 on improved sentiment; all eyes on whether Iran's 48-hour response deadline passes without incident.",
@@ -474,58 +531,6 @@
         "symbol": "USD Index",
         "price": "99.75",
         "change": "+0.1%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-20T12:00-04:00",
-    "title": "Weekend Wrap: Dow's Worst Weekly Streak Since 2023",
-    "commentary": "Wall Street limps into the weekend with Dow notching its longest losing streak since October 2023\u2014down 0.5% to 45,809 as Middle East turmoil and sticky inflation keep bulls sidelined. Super Micro's 26% implosion on fraud allegations caps a brutal week for tech; Nasdaq sheds another 1%. Oil consolidates near $97 as geopolitical risk premium persists; gold holds $4,570 after this week's historic 6% single-day plunge. BTC flat at $69,800, proving more resilient than equities amid the risk-off rout.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,570",
-        "change": "-0.77%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "69.45",
-        "change": "-2.48%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "96.80",
-        "change": "+0.15%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,554",
-        "change": "-0.79%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "21,854",
-        "change": "-1.07%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "45,809",
-        "change": "-0.46%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "69,798",
-        "change": "-0.16%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,130",
-        "change": "-0.05%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.75",
-        "change": "+0.04%"
       }
     ]
   }
