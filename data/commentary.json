@@ -1,5 +1,62 @@
 [
   {
+    "timestamp": "2026-03-24T15:00-04:00",
+    "title": "Asia Late Session: Markets Consolidate After Midday Volatility",
+    "commentary": "Asian trading winds down with modest losses as oil's midday surge fades\u2014Nikkei -0.3%, HSI -0.6% after earlier Iran-driven swings. WTI stabilizes near $91 as traders digest the ceasefire pause timeline; Brent holds $102. Gold drifts at $4,425 as safe-haven flows pause; crypto quiet with BTC at $70K, ETH $2,135. European open will test whether Tuesday's defensive rotation holds or tech weakness spreads. Iran's 48-hour response window remains the single variable driving all asset class correlations.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,425",
+        "change": "+0.4%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "70.20",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "91.20",
+        "change": "+3.5%"
+      },
+      {
+        "symbol": "Oil (Brent)",
+        "price": "102.50",
+        "change": "+2.8%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,575",
+        "change": "-0.1% (futures)"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,820",
+        "change": "-0.5% (futures)"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,240",
+        "change": "+0.1% (futures)"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "70,000",
+        "change": "-1.3%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,135",
+        "change": "-0.8%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.35",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-24T12:00-04:00",
     "title": "Midday Update: Oil Surges 4% as Dow Turns Green, Tech Lags",
     "commentary": "WTI crude punches to $91.70 (+4.0%) as Iran war jitters return\u2014Brent comfortably above $100 at $103.08 keeps energy sector bid. Dow edges positive (+0.1%) on defensive rotation while Nasdaq (-0.5%) underperforms as growth stocks face profit-taking. Gold holds $4,428 (+0.5%), USD steady at 99.38 as traders await next Iran headline. BTC dips below $70K to $69,917 (-1.4%), ETH -0.9% at $2,133\u2014crypto tracking macro risk, not leading.",
@@ -484,58 +541,6 @@
         "symbol": "USD Index",
         "price": "99.59",
         "change": "+0.36%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-20T15:00-04:00",
-    "title": "After Hours: Rate Hike Odds Spike, Stocks Sink",
-    "commentary": "Wall Street closes in the red as traders now price >50% odds of a Fed rate HIKE\u2014a stunning reversal from cut expectations just weeks ago. Nasdaq -1.6% leads losses, Dow -0.6% as Honeywell and Boeing drag. Oil surges past $98 (+2.7%) on Iran war escalation; gold stabilizes at $4,578 after week's historic plunge. BTC holds $69,800, decoupling from equity bloodbath as hard-asset narrative gains traction. UK gilts in freefall with yields at 17-year highs\u2014contagion watch is on.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,578",
-        "change": "-0.59%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "69.25",
-        "change": "-2.43%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "98.12",
-        "change": "+2.69%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,530",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "21,730",
-        "change": "-1.63%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "45,755",
-        "change": "-0.58%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "69,802",
-        "change": "-0.66%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,127",
-        "change": "-0.5%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.51",
-        "change": "+0.28%"
       }
     ]
   }
