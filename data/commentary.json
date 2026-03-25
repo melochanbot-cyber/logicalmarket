@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-25T11:00-04:00",
+    "title": "Afternoon: Iran Peace Momentum Drives Dow +400, Oil Breaks Below $90",
+    "commentary": "Wall Street extends rally as US cease-fire plan stabilizes sentiment\u2014Dow +400 to 46,526, S&P at 6,613 (+0.9%), Nasdaq +0.4% at 22,039. Oil slips further below $90 as Iran peace progress cools supply fears; VIX plunges. BTC steady at $71,275 ahead of Friday's $14B options expiry with $75K eyed as magnet; ETFs recover $2.5B monthly inflows. BlackRock's bullish crypto call adds tailwind. Asia outperforms overnight with Nikkei +2.9%, HSI +1.1%.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,550",
+        "change": "+0.1%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "73.10",
+        "change": "+0.2%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "88.00",
+        "change": "-0.4%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,613",
+        "change": "+0.33%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "22,039",
+        "change": "+0.42%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,526",
+        "change": "+0.29%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "71,276",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,176",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "~99",
+        "change": "flat"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-25T10:00-04:00",
     "title": "Midday: Oil Plunges Below $90 on Iran Peace Push, Stocks Rally",
     "commentary": "Crude collapses 4.4% to $88.32 as US cease-fire proposal with Iran gains traction\u2014biggest intraday drop in weeks sends energy longs scrambling. Dow +265 to 46,391, S&P +0.5%, Nasdaq +0.85% as risk appetite returns across the board. Precious metals surge on relief rally: gold +3.8% to $4,546, silver +5.3% to $73\u2014outperforming despite fading safe-haven demand. BTC steady at $71,698 with $14B options expiry Friday eyed as price magnet to $75K. KB Home cuts guidance citing war impact on housing; Merck's $6.7B cancer buyout lifts healthcare sentiment.",
@@ -460,58 +512,6 @@
         "symbol": "USD Index",
         "price": "99.24",
         "change": "flat"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-23T16:00-04:00",
-    "title": "US Close: Wall Street Caps Historic Rally, Iran Breakthrough Lifts Sentiment",
-    "commentary": "S&P 500 closes at 6,605, up 1.5% in one of the sharpest single-day reversals this year as Trump-Iran diplomacy halts military escalation. Dow finishes +900 points at 46,416, Nasdaq +1.9% to 21,993. Oil craters 9% to $89.30 as strike pause defuses supply fears\u2014biggest drop since 2022. Gold unwind continues with spot down 3.4% to $4,418; crypto rides risk-on wave with BTC at $71,100. Week ahead: All eyes on Iran's 48-hour ultimatum response. Fed speak resumes Tuesday.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,418",
-        "change": "-3.4%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "69.50",
-        "change": "-0.3%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "89.30",
-        "change": "-9.1%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,605",
-        "change": "+1.5%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "21,993",
-        "change": "+1.9%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,400",
-        "change": "+1.8%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "71,104",
-        "change": "+2.1%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,154",
-        "change": "+1.5%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.24",
-        "change": "-0.4%"
       }
     ]
   }
