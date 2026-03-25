@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-25T10:00-04:00",
+    "title": "Midday: Oil Plunges Below $90 on Iran Peace Push, Stocks Rally",
+    "commentary": "Crude collapses 4.4% to $88.32 as US cease-fire proposal with Iran gains traction\u2014biggest intraday drop in weeks sends energy longs scrambling. Dow +265 to 46,391, S&P +0.5%, Nasdaq +0.85% as risk appetite returns across the board. Precious metals surge on relief rally: gold +3.8% to $4,546, silver +5.3% to $73\u2014outperforming despite fading safe-haven demand. BTC steady at $71,698 with $14B options expiry Friday eyed as price magnet to $75K. KB Home cuts guidance citing war impact on housing; Merck's $6.7B cancer buyout lifts healthcare sentiment.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,546",
+        "change": "+3.78%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "72.98",
+        "change": "+5.31%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "88.32",
+        "change": "-4.37%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,591",
+        "change": "+0.53%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,946",
+        "change": "+0.85%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,391",
+        "change": "+0.58%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "71,698",
+        "change": "+0.9%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,188",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "~99",
+        "change": "flat"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-25T09:01-04:00",
     "title": "US Pre-Market: Oil Plunges 6% on Iran Peace Push, Stocks Set for Rally",
     "commentary": "Crude nosedives 6%+ to $86.80 as US sends Iran a 15-point peace proposal\u2014biggest de-escalation signal yet sparks risk-on rotation across all asset classes. Dow futures point to 500+ gain, S&P/Nasdaq set for gap-up as energy-driven inflation fears ease temporarily. Gold and silver catch bid (+1.6%, +2.2%) on relief rally despite softening safe-haven demand. BTC +1.7% to $71,714, ETH +1.4% to $2,186\u2014crypto tracking equities higher. All eyes on Tehran's response; Fed's Barr warns rates may stay elevated on sticky inflation.",
@@ -460,58 +512,6 @@
         "symbol": "USD Index",
         "price": "99.24",
         "change": "-0.4%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-23T10:00-04:00",
-    "title": "US Morning: Risk-On Surge as Trump-Iran Talks Signal De-escalation",
-    "commentary": "Dow explodes 900+ points (+2%) after Trump tells CNBC 'productive' Iran talks are underway, triggering the sharpest intraday rally in months. Oil collapses 9.6% to $88.76 as Trump pauses strikes on Iranian energy infrastructure for five days\u2014biggest single-day crude drop since 2022. Safe-haven unwind accelerates: gold dumps 2.9% to $4,445, silver -1% to $69. Crypto catches the risk-on bid with BTC/ETH climbing alongside equities. Traders now pricing de-escalation, but 48-hour Hormuz ultimatum still looms.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,445",
-        "change": "-2.85%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "68.99",
-        "change": "-0.97%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "88.76",
-        "change": "-9.64%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,626",
-        "change": "+1.84%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "22,103",
-        "change": "+2.10%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,494",
-        "change": "+2.01%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "72,500",
-        "change": "+2.5%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,210",
-        "change": "+3.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.20",
-        "change": "-0.2%"
       }
     ]
   }
