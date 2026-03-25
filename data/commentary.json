@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-25T14:00-04:00",
+    "title": "US Close: Dow +200 as Oil Sinks 8%, Risk Rallies on Iran Peace Hopes",
+    "commentary": "Wall Street closes mixed as US-Iran peace negotiations dominate\u2014Dow edges +0.5% to 46,476 while tech drags with Nasdaq -0.8% on profit-taking after multi-day rally. Oil crashes 8% to $90.27 as supply fears evaporate on ceasefire progress, sending energy stocks lower but lifting consumer sentiment. Crypto continues its steady climb: BTC +3% to $70,734 ahead of Friday's massive $14B options expiry with $75K as the magnet; ETH +4% to $2,162 outperforms on spot ETF hopes. Silver's +5% surge stands out as the precious metals complex catches institutional rotation out of energy.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,555",
+        "change": "-0.33%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "72.78",
+        "change": "+4.92%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "90.27",
+        "change": "-8.19%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,604",
+        "change": "-0.31%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,973",
+        "change": "-0.81%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,476",
+        "change": "+0.54%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "70,734",
+        "change": "+2.94%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,162",
+        "change": "+4.09%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.48",
+        "change": "-0.17%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-25T13:00-04:00",
     "title": "Afternoon: Dow +750 as Iran Peace Plan Sparks Broad Rally, Oil Below $91",
     "commentary": "Wall Street extends gains as US-Iran peace plan fuels risk-on rotation\u2014Dow +750 to 46,472 (+0.75%), S&P at 6,610 (+0.81%), Nasdaq-100 at 24,216 (+0.9%) as all sectors ex-energy rally. Oil drops 2.4% to $90.13 on fading supply fears, with Brent -3% at $101.34. Precious metals catch strong bid: gold +1.8% to $4,555, silver +2.1% to $72.68 on relief rally. BTC steady at $71,282 ahead of Friday's $14B options expiry with $75K as magnet; ETH +0.9% at $2,175. Tech leads with ARM +15% on chipmaking plans, AMD/Intel +5% on price hikes.",
@@ -445,63 +497,6 @@
         "symbol": "USD Index",
         "price": "~99",
         "change": "~flat"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-24T10:00-04:00",
-    "title": "Tuesday Trading: Stocks Retreat as Oil Rebounds, War Uncertainty Lingers",
-    "commentary": "Wall Street gives back Monday's de-escalation rally as Brent crude punches through $100 and Iran war uncertainty returns to the fore\u2014Dow -0.6% at 45,921, Nasdaq -0.6% at 24,036. Asia outperforms with HSI +2.8%, Nikkei +1.4% on spillover optimism that hasn't crossed the Pacific. Euro zone PMIs flash stagflation warnings as energy crunch bites; Treasury yields climb. Bitcoin slides to $70,079 (-1.2%), Ethereum -0.6% at $2,139 as risk appetite sours. One-variable market: it's all Iran now.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,420",
-        "change": "+0.5%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "69.30",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "92.50",
-        "change": "+4.2%"
-      },
-      {
-        "symbol": "Oil (Brent)",
-        "price": "100.20",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,092",
-        "change": "-0.6%"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "24,036",
-        "change": "-0.63%"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "45,921",
-        "change": "-0.62%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "70,079",
-        "change": "-1.17%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,139",
-        "change": "-0.63%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.30",
-        "change": "+0.2%"
       }
     ]
   }
