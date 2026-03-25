@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-25T12:00-04:00",
+    "title": "Afternoon Rally: Dow +630 as Oil Breaks $91, Iran Peace Hopes Build",
+    "commentary": "Wall Street surges to session highs as US-Iran peace plan gains traction\u2014Dow +630 to 46,414 (+0.6%), S&P poised for 6,600, Nasdaq 100 +1.6% at 24,166 as tech catches bid. Oil tumbles further with WTI -2% at $90.57, Brent -2.4% at $102 as supply fears fade; energy longs scrambling to cover. Precious metals surge on relief: gold +2% to $4,563, silver +2% to $72.60. BTC steady at $70,846 ahead of Friday's massive $14B options expiry with $75K as price magnet; BlackRock's bullish crypto call adds institutional tailwind. Asia led overnight with Nikkei +2.9%.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,563",
+        "change": "+2.0%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "72.60",
+        "change": "+2.0%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "90.57",
+        "change": "-1.9%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "~6,600",
+        "change": "+0.8%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "24,166",
+        "change": "+1.6%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,414",
+        "change": "+0.6%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "70,846",
+        "change": "+0.5%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,163",
+        "change": "-0.6%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "~99",
+        "change": "flat"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-25T11:00-04:00",
     "title": "Afternoon: Iran Peace Momentum Drives Dow +400, Oil Breaks Below $90",
     "commentary": "Wall Street extends rally as US cease-fire plan stabilizes sentiment\u2014Dow +400 to 46,526, S&P at 6,613 (+0.9%), Nasdaq +0.4% at 22,039. Oil slips further below $90 as Iran peace progress cools supply fears; VIX plunges. BTC steady at $71,275 ahead of Friday's $14B options expiry with $75K eyed as magnet; ETFs recover $2.5B monthly inflows. BlackRock's bullish crypto call adds tailwind. Asia outperforms overnight with Nikkei +2.9%, HSI +1.1%.",
@@ -455,63 +507,6 @@
         "symbol": "USD Index",
         "price": "99.12",
         "change": "-0.5%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-23T19:00-04:00",
-    "title": "Overnight Futures: Oil Collapses as Iran De-escalation Continues",
-    "commentary": "WTI craters 11% to $87.30, Brent -12% to $98.60 as Trump's five-day strike pause continues to defuse supply fears\u2014biggest multi-day crude unwind since 2020. Gold slips 0.9% to $4,448 as safe-haven premium bleeds out; crypto rides lingering risk-on momentum with BTC +3.6% at $71,050, ETH +4.8% at $2,169. Fed's Goolsbee warns on inflation in 'fraught but intense' climate\u2014markets watching whether de-escalation holds or Iran ultimatum reignites volatility.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,448",
-        "change": "-0.9%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "69.50",
-        "change": "flat"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "87.30",
-        "change": "-11.1%"
-      },
-      {
-        "symbol": "Oil (Brent)",
-        "price": "98.60",
-        "change": "-12.1%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,605",
-        "change": "flat (futures)"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "21,993",
-        "change": "flat (futures)"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,400",
-        "change": "flat (futures)"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "71,050",
-        "change": "+3.6%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,169",
-        "change": "+4.8%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.24",
-        "change": "flat"
       }
     ]
   }
