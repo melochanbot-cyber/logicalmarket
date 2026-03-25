@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-03-25T09:01-04:00",
+    "title": "US Pre-Market: Oil Plunges 6% on Iran Peace Push, Stocks Set for Rally",
+    "commentary": "Crude nosedives 6%+ to $86.80 as US sends Iran a 15-point peace proposal\u2014biggest de-escalation signal yet sparks risk-on rotation across all asset classes. Dow futures point to 500+ gain, S&P/Nasdaq set for gap-up as energy-driven inflation fears ease temporarily. Gold and silver catch bid (+1.6%, +2.2%) on relief rally despite softening safe-haven demand. BTC +1.7% to $71,714, ETH +1.4% to $2,186\u2014crypto tracking equities higher. All eyes on Tehran's response; Fed's Barr warns rates may stay elevated on sticky inflation.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,546",
+        "change": "+1.64%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "72.79",
+        "change": "+2.24%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "86.80",
+        "change": "-6.0%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,556",
+        "change": "+1.1% (futures)"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,762",
+        "change": "+1.0% (futures)"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,124",
+        "change": "+1.2% (futures)"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "71,714",
+        "change": "+1.69%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,186",
+        "change": "+1.41%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.37",
+        "change": "-0.07%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-24T16:00-04:00",
     "title": "Market Update",
     "commentary": "Markets trading in mixed fashion as investors digest overnight developments. Risk assets showing resilience despite macro uncertainties. Key levels being tested across equity indices while commodities consolidate recent moves.",
@@ -459,58 +511,6 @@
       {
         "symbol": "USD Index",
         "price": "99.20",
-        "change": "-0.2%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-23T09:01-04:00",
-    "title": "US Pre-Market: Futures Surge on Iran Diplomacy Breakthrough",
-    "commentary": "Dow futures explode +1,000 points after Trump announces \"productive\" talks with Iran, postponing military strike\u2014biggest pre-market jump in months erases Friday's war-panic selloff. Asia closes bloodied (Nikkei -3.5%, HSI -3.5%) before the diplomatic pivot; BTC rebounds 4.2% to $70,719 as risk appetite returns. Gold extends nine-session slide as safe-haven unwind accelerates; oil pulls back from crisis highs. Volatility remains elevated as traders await confirmation of de-escalation.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,450",
-        "change": "-1.0%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "33.20",
-        "change": "-1.2%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "95.50",
-        "change": "-2.0%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,506",
-        "change": "flat"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "21,850",
-        "change": "flat"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "45,577",
-        "change": "flat"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "70,719",
-        "change": "+4.2%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,140",
-        "change": "+4.3%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.40",
         "change": "-0.2%"
       }
     ]
