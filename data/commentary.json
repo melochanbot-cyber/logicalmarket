@@ -1,5 +1,62 @@
 [
   {
+    "timestamp": "2026-03-26T10:00-04:00",
+    "title": "US Morning: Dow -0.3% as Ceasefire Doubts Mount, Oil Tops $100",
+    "commentary": "Risk-off deepens as Iran peace talks stall\u2014Dow slides 200 points to 46,506 with Barron's warning of fresh selling pressure on ceasefire doubts. Oil breaches the psychological $100 mark as conflict enters week four; Brent at $107 keeps inflation fears elevated. Precious metals remain under pressure with gold at $4,425 (-1.8%), silver crushed at $67.37 (-5.3%) as 'dash to cash' accelerates per MarketWatch. Asian session bled red: Hang Seng -1.9%, Shanghai -1.1%, Nikkei -0.3%; only India's Sensex bucked the trend at +1.6%. BTC hovers at $69,400 with Friday's $14B options expiry looming.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,425",
+        "change": "-1.8%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "67.37",
+        "change": "-5.3%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "94.34",
+        "change": "+4.5%"
+      },
+      {
+        "symbol": "Oil (Brent)",
+        "price": "107.80",
+        "change": "+5.5%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,559",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,820",
+        "change": "-0.5%"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,506",
+        "change": "-0.3%"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "69,400",
+        "change": "-2.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,073",
+        "change": "-4.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.83",
+        "change": "+0.2%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-26T13:00+00:00",
     "title": "Asia/Europe Session: Oil Surges 5%+ as Iran Peace Hopes Fade, Gold Hammered",
     "commentary": "Risk-off returns with a vengeance as Trump warns Iran negotiators to \"get serious\"\u2014WTI +4.5% to $94.34, Brent +5.5% to $107.80 reversing last week's peace-driven collapse. Precious metals take a brutal hit: gold -1.8% to $4,425, silver crushed -5.3% to $67.37 as safe-haven rotation unwinds into dollar strength (DXY +0.2% to 99.83). BTC slips to $69,400 ahead of Friday's $14B options expiry with $75K fading as realistic target. Dow futures point 400 lower; war entering second month with ceasefire seeming increasingly distant.",
@@ -479,29 +536,6 @@
         "symbol": "USD Index",
         "price": "99.37",
         "change": "-0.07%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-24T16:00-04:00",
-    "title": "Market Update",
-    "commentary": "Markets trading in mixed fashion as investors digest overnight developments. Risk assets showing resilience despite macro uncertainties. Key levels being tested across equity indices while commodities consolidate recent moves.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "change": "+0.3%"
-      },
-      {
-        "symbol": "S&P 500",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Bitcoin",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "Oil",
-        "change": "+0.5%"
       }
     ]
   }
