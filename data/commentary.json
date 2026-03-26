@@ -1,5 +1,62 @@
 [
   {
+    "timestamp": "2026-03-26T13:00+00:00",
+    "title": "Asia/Europe Session: Oil Surges 5%+ as Iran Peace Hopes Fade, Gold Hammered",
+    "commentary": "Risk-off returns with a vengeance as Trump warns Iran negotiators to \"get serious\"\u2014WTI +4.5% to $94.34, Brent +5.5% to $107.80 reversing last week's peace-driven collapse. Precious metals take a brutal hit: gold -1.8% to $4,425, silver crushed -5.3% to $67.37 as safe-haven rotation unwinds into dollar strength (DXY +0.2% to 99.83). BTC slips to $69,400 ahead of Friday's $14B options expiry with $75K fading as realistic target. Dow futures point 400 lower; war entering second month with ceasefire seeming increasingly distant.",
+    "movers": [
+      {
+        "symbol": "Gold",
+        "price": "4,424.90",
+        "change": "-1.78%"
+      },
+      {
+        "symbol": "Silver",
+        "price": "67.37",
+        "change": "-5.29%"
+      },
+      {
+        "symbol": "Oil (WTI)",
+        "price": "94.34",
+        "change": "+4.45%"
+      },
+      {
+        "symbol": "Oil (Brent)",
+        "price": "107.80",
+        "change": "+5.45%"
+      },
+      {
+        "symbol": "S&P 500",
+        "price": "6,591.90",
+        "change": "flat (prev close)"
+      },
+      {
+        "symbol": "Nasdaq",
+        "price": "21,929.83",
+        "change": "flat (prev close)"
+      },
+      {
+        "symbol": "Dow Jones",
+        "price": "46,429.49",
+        "change": "-400 (futures)"
+      },
+      {
+        "symbol": "Bitcoin",
+        "price": "69,400",
+        "change": "-2.0%"
+      },
+      {
+        "symbol": "Ethereum",
+        "price": "2,073",
+        "change": "-4.4%"
+      },
+      {
+        "symbol": "USD Index",
+        "price": "99.83",
+        "change": "+0.23%"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-03-25T20:00+00:00",
     "title": "US Close: Dow +300 as Oil Drops, Iran Peace Hopes Sustain Rally",
     "commentary": "Wall Street closes near highs as Iran diplomacy continues to calm nerves\u2014Dow +0.7% to 46,429, S&P +0.5% to 6,592, Nasdaq +0.8% to 21,930 in broad-based advance. Oil extends slide with WTI -1.4% at $91.10, Brent -1.5% at $103 despite Iran reportedly rejecting ceasefire terms; market sees talks continuing. Gold catches strong safe-haven rotation at $4,531 (+1.3%), silver +1.1% at $71.87. BTC holds $70,839 with $14B options expiry Friday keeping $75K as gravitational target; ETH steady at $2,168. Asian futures point higher as Nikkei +2.9% leads the overnight risk-on tone.",
@@ -445,63 +502,6 @@
       {
         "symbol": "Oil",
         "change": "+0.5%"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-03-24T15:00-04:00",
-    "title": "Asia Late Session: Markets Consolidate After Midday Volatility",
-    "commentary": "Asian trading winds down with modest losses as oil's midday surge fades\u2014Nikkei -0.3%, HSI -0.6% after earlier Iran-driven swings. WTI stabilizes near $91 as traders digest the ceasefire pause timeline; Brent holds $102. Gold drifts at $4,425 as safe-haven flows pause; crypto quiet with BTC at $70K, ETH $2,135. European open will test whether Tuesday's defensive rotation holds or tech weakness spreads. Iran's 48-hour response window remains the single variable driving all asset class correlations.",
-    "movers": [
-      {
-        "symbol": "Gold",
-        "price": "4,425",
-        "change": "+0.4%"
-      },
-      {
-        "symbol": "Silver",
-        "price": "70.20",
-        "change": "+0.2%"
-      },
-      {
-        "symbol": "Oil (WTI)",
-        "price": "91.20",
-        "change": "+3.5%"
-      },
-      {
-        "symbol": "Oil (Brent)",
-        "price": "102.50",
-        "change": "+2.8%"
-      },
-      {
-        "symbol": "S&P 500",
-        "price": "6,575",
-        "change": "-0.1% (futures)"
-      },
-      {
-        "symbol": "Nasdaq",
-        "price": "21,820",
-        "change": "-0.5% (futures)"
-      },
-      {
-        "symbol": "Dow Jones",
-        "price": "46,240",
-        "change": "+0.1% (futures)"
-      },
-      {
-        "symbol": "Bitcoin",
-        "price": "70,000",
-        "change": "-1.3%"
-      },
-      {
-        "symbol": "Ethereum",
-        "price": "2,135",
-        "change": "-0.8%"
-      },
-      {
-        "symbol": "USD Index",
-        "price": "99.35",
-        "change": "+0.2%"
       }
     ]
   }
