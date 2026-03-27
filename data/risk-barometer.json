@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T12:03:49Z",
+  "updatedAt": "2026-03-27T13:49:35Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -17,28 +17,28 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "4-week change: +4bps (current: 0.44%)"
+          "detail": "4-week change: +4bps (current: 0.45%)"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-9.9% above 50-day MA"
+          "detail": "-9.8% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+1.7% vs 200-MA, rising"
+          "detail": "+1.6% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 6.53%"
+          "detail": "20-day volatility: 6.52%"
         }
       ],
       "recommendation": "High risk. Consider reducing exposure by 25-50%."
@@ -52,7 +52,7 @@
           "triggered": true,
           "points": 30,
           "maxPoints": 30,
-          "detail": "VIX at 29.3 (threshold: 25)"
+          "detail": "VIX at 30.1 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -66,21 +66,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "-2.4% vs 200-day MA"
+          "detail": "-2.8% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +21.8%"
+          "detail": "VIX 1-week change: +25.0%"
         },
         {
           "name": "Market Breadth",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: -0.4%"
+          "detail": "NDX-SPX divergence: -0.5%"
         }
       ],
       "recommendation": "High risk environment. Reduce equity exposure."
@@ -94,14 +94,14 @@
           "triggered": true,
           "points": 30,
           "maxPoints": 30,
-          "detail": "VIX at 29.3"
+          "detail": "VIX at 30.1"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "-4.0% vs 200-day MA"
+          "detail": "-4.7% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -3.5%, 30d: -5.3%"
+          "detail": "60d: -3.0%, 30d: -5.7%"
         },
         {
           "name": "Volatility Spike",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "20-day vol: 1.85%"
+          "detail": "20-day vol: 2.09%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-27.1% vs 200-day MA"
+          "detail": "-27.4% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.38%"
+          "detail": "30-day volatility: 3.39%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -23.2%, 30d: -1.1%"
+          "detail": "60d gain: -23.2%, 30d: -1.4%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -25.1%, NDX: -8.6%"
+          "detail": "BTC: -25.4%, NDX: -8.5%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-46.5% from all-time high"
+          "detail": "-46.7% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
