@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T22:33:52Z",
+  "updatedAt": "2026-04-01T22:41:28Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-3.0% above 50-day MA"
+          "detail": "-2.9% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 6.21%"
+          "detail": "20-day volatility: 6.20%"
         }
       ],
       "recommendation": "High risk. Consider reducing exposure by 25-50%."
@@ -164,7 +164,7 @@
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-45.4% from all-time high"
+          "detail": "-45.3% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
