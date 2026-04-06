@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T21:48:38Z",
+  "updatedAt": "2026-04-06T22:21:16Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -24,21 +24,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-5.2% above 50-day MA"
+          "detail": "-4.9% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+1.5% vs 200-MA, rising"
+          "detail": "+1.6% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 5.92%"
+          "detail": "20-day volatility: 5.91%"
         }
       ],
       "recommendation": "High risk. Consider reducing exposure by 25-50%."
