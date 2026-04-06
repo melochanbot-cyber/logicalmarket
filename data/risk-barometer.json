@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T20:22:16Z",
+  "updatedAt": "2026-04-06T21:01:30Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -24,14 +24,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-5.1% above 50-day MA"
+          "detail": "-5.2% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+1.6% vs 200-MA, rising"
+          "detail": "+1.5% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -11.8%"
+          "detail": "VIX 1-week change: -11.9%"
         },
         {
           "name": "Market Breadth",
@@ -150,7 +150,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -27.8%, 30d: +5.8%"
+          "detail": "60d gain: -27.8%, 30d: +5.9%"
         },
         {
           "name": "Risk-Off Correlation",
