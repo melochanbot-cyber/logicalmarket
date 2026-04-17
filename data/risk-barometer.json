@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T23:44:14Z",
+  "updatedAt": "2026-04-17T02:54:08Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -31,14 +31,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-0.3% vs 200-MA, falling"
+          "detail": "-0.2% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 3.15%"
+          "detail": "20-day volatility: 3.21%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-13.8% vs 200-day MA"
+          "detail": "-14.3% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.90%"
+          "detail": "30-day volatility: 3.86%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -25.1%, 30d: +5.4%"
+          "detail": "60d gain: -25.1%, 30d: +4.8%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +9.1%, NDX: +3.8%"
+          "detail": "BTC: +8.5%, NDX: +3.8%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-39.8% from all-time high"
+          "detail": "-40.1% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
