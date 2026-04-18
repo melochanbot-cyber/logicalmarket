@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T13:21:43Z",
+  "updatedAt": "2026-04-18T14:11:46Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -143,14 +143,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 4.56%"
+          "detail": "30-day volatility: 4.55%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -23.8%, 30d: +8.1%"
+          "detail": "60d gain: -23.8%, 30d: +8.0%"
         },
         {
           "name": "Risk-Off Correlation",
