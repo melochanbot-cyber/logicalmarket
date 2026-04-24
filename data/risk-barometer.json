@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T17:14:31Z",
+  "updatedAt": "2026-04-24T18:02:31Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-2.5% above 50-day MA"
+          "detail": "-2.7% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -66,14 +66,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "+6.7% vs 200-day MA"
+          "detail": "+6.8% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +4.0%"
+          "detail": "VIX 1-week change: +4.1%"
         },
         {
           "name": "Market Breadth",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -6.7%, 30d: +12.2%"
+          "detail": "60d: -6.7%, 30d: +12.3%"
         },
         {
           "name": "Volatility Spike",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "20-day vol: 5.64%"
+          "detail": "20-day vol: 5.65%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +21.3%, NDX: +4.7%"
+          "detail": "BTC: +21.3%, NDX: +4.8%"
         },
         {
           "name": "Drawdown from ATH",
