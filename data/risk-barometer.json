@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T09:04:34Z",
+  "updatedAt": "2026-04-27T11:22:38Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -31,7 +31,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-0.3% vs 200-MA, rising"
+          "detail": "-0.2% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 19.1 (threshold: 25)"
+          "detail": "VIX at 19.0 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +9.2%"
+          "detail": "VIX 1-week change: +8.4%"
         },
         {
           "name": "Market Breadth",
@@ -94,7 +94,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 19.1"
+          "detail": "VIX at 19.0"
         },
         {
           "name": "MA Overextension",
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +18.1%, NDX: +4.9%"
+          "detail": "BTC: +18.2%, NDX: +4.9%"
         },
         {
           "name": "Drawdown from ATH",
