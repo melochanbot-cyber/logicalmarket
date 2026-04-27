@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T17:12:32Z",
+  "updatedAt": "2026-04-27T18:42:39Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-3.6% above 50-day MA"
+          "detail": "-3.4% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 18.6 (threshold: 25)"
+          "detail": "VIX at 18.5 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -66,14 +66,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "+6.8% vs 200-day MA"
+          "detail": "+6.9% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +6.2%"
+          "detail": "VIX 1-week change: +6.1%"
         },
         {
           "name": "Market Breadth",
@@ -94,14 +94,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 18.6"
+          "detail": "VIX at 18.5"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+9.8% vs 200-day MA"
+          "detail": "+9.9% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,7 +115,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -4.6%, 30d: +11.0%"
+          "detail": "60d: -4.6%, 30d: +11.2%"
         },
         {
           "name": "Volatility Spike",
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +16.4%, NDX: +5.9%"
+          "detail": "BTC: +16.5%, NDX: +6.0%"
         },
         {
           "name": "Drawdown from ATH",
