@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T22:36:45Z",
+  "updatedAt": "2026-04-29T22:59:07Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.66%"
+          "detail": "20-day volatility: 1.65%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
