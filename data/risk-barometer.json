@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T18:22:36Z",
+  "updatedAt": "2026-04-30T19:55:19Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -31,7 +31,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-0.4% vs 200-MA, falling"
+          "detail": "-0.5% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 17.3 (threshold: 25)"
+          "detail": "VIX at 17.0 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -66,21 +66,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "+7.1% vs 200-day MA"
+          "detail": "+7.3% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -8.7%"
+          "detail": "VIX 1-week change: -9.9%"
         },
         {
           "name": "Market Breadth",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: +10.6%"
+          "detail": "NDX-SPX divergence: +10.5%"
         }
       ],
       "recommendation": "Normal market conditions. Continue systematic strategies."
@@ -94,14 +94,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 17.3"
+          "detail": "VIX at 17.0"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+9.6% vs 200-day MA"
+          "detail": "+9.7% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,7 +115,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -3.6%, 30d: +12.6%"
+          "detail": "60d: -3.6%, 30d: +12.7%"
         },
         {
           "name": "Volatility Spike",
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +11.1%, NDX: +8.6%"
+          "detail": "BTC: +11.0%, NDX: +8.7%"
         },
         {
           "name": "Drawdown from ATH",
