@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T22:49:15Z",
+  "updatedAt": "2026-05-02T23:50:09Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-6.1% vs 200-day MA"
+          "detail": "-6.2% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
