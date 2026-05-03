@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T09:48:51Z",
+  "updatedAt": "2026-05-03T10:56:40Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -136,28 +136,28 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-6.2% vs 200-day MA"
+          "detail": "-6.3% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 4.27%"
+          "detail": "30-day volatility: 4.26%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -11.0%, 30d: +16.7%"
+          "detail": "60d gain: -11.0%, 30d: +16.5%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +10.8%, NDX: +11.4%"
+          "detail": "BTC: +10.7%, NDX: +11.4%"
         },
         {
           "name": "Drawdown from ATH",
