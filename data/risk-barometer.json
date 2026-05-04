@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T15:30:36Z",
+  "updatedAt": "2026-05-04T16:02:31Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -24,21 +24,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-5.7% above 50-day MA"
+          "detail": "-6.1% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-0.2% vs 200-MA, falling"
+          "detail": "-0.1% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.94%"
+          "detail": "20-day volatility: 1.98%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 17.7 (threshold: 25)"
+          "detail": "VIX at 18.4 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -66,21 +66,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "+7.0% vs 200-day MA"
+          "detail": "+6.8% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -5.6%"
+          "detail": "VIX 1-week change: -1.8%"
         },
         {
           "name": "Market Breadth",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: +4.4%"
+          "detail": "NDX-SPX divergence: +4.3%"
         }
       ],
       "recommendation": "Normal market conditions. Continue systematic strategies."
@@ -94,14 +94,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 17.7"
+          "detail": "VIX at 18.4"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+10.2% vs 200-day MA"
+          "detail": "+9.9% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -4.7%, 30d: +14.2%"
+          "detail": "60d: -4.7%, 30d: +13.9%"
         },
         {
           "name": "Volatility Spike",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "20-day vol: 3.77%"
+          "detail": "20-day vol: 3.76%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-4.6% vs 200-day MA"
+          "detail": "-4.3% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.96%"
+          "detail": "30-day volatility: 3.98%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -5.5%, 30d: +15.6%"
+          "detail": "60d gain: -5.5%, 30d: +16.0%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +17.0%, NDX: +8.8%"
+          "detail": "BTC: +17.4%, NDX: +8.5%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-36.1% from all-time high"
+          "detail": "-35.9% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
