@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T20:40:53Z",
+  "updatedAt": "2026-05-08T21:41:53Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-1.1% above 50-day MA"
+          "detail": "-1.2% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
