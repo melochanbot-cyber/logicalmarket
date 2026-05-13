@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T01:23:27Z",
+  "updatedAt": "2026-05-13T05:11:38Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -17,14 +17,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "4-week change: +2bps (current: 0.45%)"
+          "detail": "4-week change: +1bps (current: 0.45%)"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-0.8% above 50-day MA"
+          "detail": "-0.9% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.93%"
+          "detail": "20-day volatility: 1.85%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
@@ -108,7 +108,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "4-week yield change: +2bps"
+          "detail": "4-week yield change: +1bps"
         },
         {
           "name": "Momentum Reversal",
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-1.7% vs 200-day MA"
+          "detail": "-1.6% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,14 +150,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +12.5%, 30d: +8.8%"
+          "detail": "60d gain: +12.5%, 30d: +8.9%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +13.8%, NDX: +15.5%"
+          "detail": "BTC: +13.9%, NDX: +15.5%"
         },
         {
           "name": "Drawdown from ATH",
