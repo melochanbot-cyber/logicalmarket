@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T22:57:49Z",
+  "updatedAt": "2026-05-16T00:00:12Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +7.0%, NDX: +14.6%"
+          "detail": "BTC: +6.9%, NDX: +14.6%"
         },
         {
           "name": "Drawdown from ATH",
