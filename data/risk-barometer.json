@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T04:50:22Z",
+  "updatedAt": "2026-05-18T08:46:51Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,21 +24,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-3.7% above 50-day MA"
+          "detail": "-3.5% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+0.8% vs 200-MA, rising"
+          "detail": "+0.6% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.54%"
+          "detail": "20-day volatility: 1.52%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 18.4 (threshold: 25)"
+          "detail": "VIX at 18.9 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +7.9%"
+          "detail": "VIX 1-week change: +9.9%"
         },
         {
           "name": "Market Breadth",
@@ -94,7 +94,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 18.4"
+          "detail": "VIX at 18.9"
         },
         {
           "name": "MA Overextension",
@@ -136,28 +136,28 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-5.7% vs 200-day MA"
+          "detail": "-5.5% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 2.64%"
+          "detail": "30-day volatility: 2.57%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +12.2%, 30d: +1.6%"
+          "detail": "60d gain: +11.2%, 30d: +4.2%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +10.0%, NDX: +14.6%"
+          "detail": "BTC: +9.1%, NDX: +14.6%"
         },
         {
           "name": "Drawdown from ATH",
