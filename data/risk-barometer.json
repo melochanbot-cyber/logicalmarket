@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T16:50:01Z",
+  "updatedAt": "2026-05-19T18:29:35Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -17,14 +17,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "4-week change: +3bps (current: 0.47%)"
+          "detail": "4-week change: +3bps (current: 0.46%)"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-4.1% above 50-day MA"
+          "detail": "-4.3% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.64%"
+          "detail": "20-day volatility: 1.66%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -66,21 +66,21 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "+8.6% vs 200-day MA"
+          "detail": "+8.7% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -2.9%"
+          "detail": "VIX 1-week change: -2.6%"
         },
         {
           "name": "Market Breadth",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: -2.5%"
+          "detail": "NDX-SPX divergence: -2.4%"
         }
       ],
       "recommendation": "Elevated risk. Consider tightening stops."
@@ -101,7 +101,7 @@
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "+12.6% vs 200-day MA"
+          "detail": "+12.9% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -1.0%, 30d: +14.5%"
+          "detail": "60d: -1.0%, 30d: +14.7%"
         },
         {
           "name": "Volatility Spike",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "20-day vol: 2.79%"
+          "detail": "20-day vol: 2.80%"
         }
       ],
       "recommendation": "Elevated risk. Monitor rate-sensitive positions."
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +11.6%, NDX: +13.3%"
+          "detail": "BTC: +11.7%, NDX: +13.6%"
         },
         {
           "name": "Drawdown from ATH",
