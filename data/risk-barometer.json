@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T19:33:45Z",
+  "updatedAt": "2026-05-26T21:16:44Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-3.3% above 50-day MA"
+          "detail": "-3.2% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.70%"
+          "detail": "20-day volatility: 1.69%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
@@ -66,7 +66,7 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "+10.3% vs 200-day MA"
+          "detail": "+10.4% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
@@ -80,7 +80,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: -0.9%"
+          "detail": "NDX-SPX divergence: -0.8%"
         }
       ],
       "recommendation": "Elevated risk. Consider tightening stops."
@@ -101,7 +101,7 @@
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "+15.2% vs 200-day MA"
+          "detail": "+15.3% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: +3.9%, 30d: +12.6%"
+          "detail": "60d: +3.9%, 30d: +12.8%"
         },
         {
           "name": "Volatility Spike",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "20-day vol: 2.49%"
+          "detail": "20-day vol: 2.50%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +14.3%, NDX: +17.0%"
+          "detail": "BTC: +14.4%, NDX: +17.2%"
         },
         {
           "name": "Drawdown from ATH",
