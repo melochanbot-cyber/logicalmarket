@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T09:32:35Z",
+  "updatedAt": "2026-05-31T11:41:45Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -136,14 +136,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-7.1% vs 200-day MA"
+          "detail": "-7.2% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.34%"
+          "detail": "30-day volatility: 3.35%"
         },
         {
           "name": "Momentum Exhaustion",
