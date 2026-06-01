@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T19:07:30Z",
+  "updatedAt": "2026-06-01T19:20:25Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.93%"
+          "detail": "20-day volatility: 1.94%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -66,7 +66,7 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "+11.4% vs 200-day MA"
+          "detail": "+11.3% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
@@ -101,7 +101,7 @@
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "+17.0% vs 200-day MA"
+          "detail": "+16.9% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -150,7 +150,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +8.0%, 30d: -9.1%"
+          "detail": "60d gain: +8.0%, 30d: -9.2%"
         },
         {
           "name": "Risk-Off Correlation",
