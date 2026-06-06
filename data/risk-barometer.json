@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T10:55:33Z",
+  "updatedAt": "2026-06-06T12:07:54Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -128,46 +128,46 @@
       "recommendation": "Normal conditions for growth/tech."
     },
     "bitcoin": {
-      "score": 35,
-      "level": "CAUTION",
+      "score": 10,
+      "level": "LOW",
       "signals": [
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-23.1% vs 200-day MA"
+          "detail": "-22.4% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
-          "triggered": true,
-          "points": 25,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 8.04%"
+          "detail": "30-day volatility: 7.98%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +17.2%, 30d: -24.6%"
+          "detail": "60d gain: +17.2%, 30d: -24.0%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -15.0%, NDX: +15.2%"
+          "detail": "BTC: -14.3%, NDX: +15.2%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-51.5% from all-time high"
+          "detail": "-51.1% from all-time high"
         }
       ],
-      "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
+      "recommendation": "Normal crypto conditions. Maintain positions."
     }
   }
 }
