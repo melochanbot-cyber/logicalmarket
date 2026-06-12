@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-11T23:26:14Z",
+  "updatedAt": "2026-06-12T01:57:56Z",
   "barometers": {
     "gold": {
-      "score": 45,
-      "level": "CAUTION",
+      "score": 60,
+      "level": "WARNING",
       "signals": [
         {
           "name": "COT Positioning (Proxy)",
@@ -24,24 +24,24 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-7.7% above 50-day MA"
+          "detail": "-8.5% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+1.1% vs 200-MA, rising"
+          "detail": "+1.2% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
-          "triggered": false,
-          "points": 0,
+          "triggered": true,
+          "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.99%"
+          "detail": "20-day volatility: 3.06%"
         }
       ],
-      "recommendation": "Elevated risk. Monitor closely, prepare hedges."
+      "recommendation": "High risk. Consider reducing exposure by 25-50%."
     },
     "sp500": {
       "score": 35,
@@ -164,7 +164,7 @@
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-49.2% from all-time high"
+          "detail": "-49.3% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
