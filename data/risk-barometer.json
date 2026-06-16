@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T21:27:30Z",
+  "updatedAt": "2026-06-16T23:05:54Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-4.9% above 50-day MA"
+          "detail": "-4.8% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-15.2% vs 200-day MA"
+          "detail": "-15.1% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,21 +150,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +10.1%, 30d: -14.7%"
+          "detail": "60d gain: +10.1%, 30d: -14.6%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -13.3%, NDX: +20.2%"
+          "detail": "BTC: -13.2%, NDX: +20.2%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-47.4% from all-time high"
+          "detail": "-47.3% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
