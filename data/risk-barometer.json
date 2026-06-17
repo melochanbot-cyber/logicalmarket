@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T16:12:41Z",
+  "updatedAt": "2026-06-17T16:54:47Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-4.0% above 50-day MA"
+          "detail": "-4.2% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -66,14 +66,14 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "+9.0% vs 200-day MA"
+          "detail": "+8.9% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -15.4%"
+          "detail": "VIX 1-week change: -15.3%"
         },
         {
           "name": "Market Breadth",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: +18.7%, 30d: +2.1%"
+          "detail": "60d: +18.7%, 30d: +2.0%"
         },
         {
           "name": "Volatility Spike",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "20-day vol: 2.04%"
+          "detail": "20-day vol: 2.05%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-14.9% vs 200-day MA"
+          "detail": "-14.8% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,21 +150,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +8.8%, 30d: -14.4%"
+          "detail": "60d gain: +8.8%, 30d: -14.2%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -11.0%, NDX: +21.2%"
+          "detail": "BTC: -10.8%, NDX: +21.2%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-47.3% from all-time high"
+          "detail": "-47.2% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
