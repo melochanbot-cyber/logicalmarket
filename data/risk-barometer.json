@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T20:09:01Z",
+  "updatedAt": "2026-06-19T21:33:41Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -136,14 +136,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-18.3% vs 200-day MA"
+          "detail": "-18.2% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "30-day volatility: 8.86%"
+          "detail": "30-day volatility: 8.85%"
         },
         {
           "name": "Momentum Exhaustion",
@@ -164,7 +164,7 @@
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-49.5% from all-time high"
+          "detail": "-49.4% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
