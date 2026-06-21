@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T13:09:24Z",
+  "updatedAt": "2026-06-21T15:26:51Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-16.5% vs 200-day MA"
+          "detail": "-16.4% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,7 +150,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +8.7%, 30d: -16.4%"
+          "detail": "60d gain: +8.7%, 30d: -16.3%"
         },
         {
           "name": "Risk-Off Correlation",
