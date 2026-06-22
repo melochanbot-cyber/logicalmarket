@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T22:56:40Z",
+  "updatedAt": "2026-06-22T23:22:24Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-7.5% above 50-day MA"
+          "detail": "-7.4% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-16.5% vs 200-day MA"
+          "detail": "-16.6% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
