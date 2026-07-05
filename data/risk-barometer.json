@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T22:59:49Z",
+  "updatedAt": "2026-07-05T00:09:49Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -13,11 +13,11 @@
           "detail": "Price at 88th percentile (5yr)"
         },
         {
-          "name": "Real Yields",
+          "name": "Real Yields Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "Data unavailable: Insufficient yield data"
+          "detail": "4-week change: -3bps (current: 0.44%)"
         },
         {
           "name": "MA Overextension",
@@ -59,7 +59,7 @@
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "10Y-2Y spread: 0.08% "
+          "detail": "10Y-2Y spread: 0.07% "
         },
         {
           "name": "MA Overextension",
@@ -108,7 +108,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "4-week yield change: +0bps"
+          "detail": "4-week yield change: -3bps"
         },
         {
           "name": "Momentum Reversal",
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-15.6% vs 200-day MA"
+          "detail": "-15.8% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,21 +150,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -11.5%, 30d: +3.6%"
+          "detail": "60d gain: -11.5%, 30d: +3.4%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -22.5%, NDX: +14.1%"
+          "detail": "BTC: -22.6%, NDX: +14.1%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-49.4% from all-time high"
+          "detail": "-49.5% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
