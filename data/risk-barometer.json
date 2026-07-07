@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T05:41:19Z",
+  "updatedAt": "2026-07-07T09:48:26Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-6.1% above 50-day MA"
+          "detail": "-6.0% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 15.6 (threshold: 25)"
+          "detail": "VIX at 15.9 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -17.6%"
+          "detail": "VIX 1-week change: -13.7%"
         },
         {
           "name": "Market Breadth",
@@ -94,7 +94,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 15.6"
+          "detail": "VIX at 15.9"
         },
         {
           "name": "MA Overextension",
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-15.4% vs 200-day MA"
+          "detail": "-15.1% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.19%"
+          "detail": "30-day volatility: 3.21%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -11.1%, 30d: -0.2%"
+          "detail": "60d gain: -12.1%, 30d: +0.2%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -21.3%, NDX: +14.5%"
+          "detail": "BTC: -21.6%, NDX: +14.5%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-49.4% from all-time high"
+          "detail": "-49.3% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
