@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T21:47:39Z",
+  "updatedAt": "2026-07-09T22:58:22Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -164,7 +164,7 @@
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-49.3% from all-time high"
+          "detail": "-49.4% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
