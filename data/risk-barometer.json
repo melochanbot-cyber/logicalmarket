@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T23:10:42Z",
+  "updatedAt": "2026-07-09T01:09:42Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -24,14 +24,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-7.0% above 50-day MA"
+          "detail": "-7.1% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+2.2% vs 200-MA, falling"
+          "detail": "+2.1% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-16.3% vs 200-day MA"
+          "detail": "-16.2% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,7 +150,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -15.5%, 30d: +1.0%"
+          "detail": "60d gain: -15.5%, 30d: +1.1%"
         },
         {
           "name": "Risk-Off Correlation",
