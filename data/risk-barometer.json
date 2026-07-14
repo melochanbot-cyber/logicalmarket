@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T18:54:05Z",
+  "updatedAt": "2026-07-14T20:09:35Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-6.9% above 50-day MA"
+          "detail": "-6.6% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.68%"
+          "detail": "20-day volatility: 2.66%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -66,21 +66,21 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "+8.3% vs 200-day MA"
+          "detail": "+8.2% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +5.2%"
+          "detail": "VIX 1-week change: +5.4%"
         },
         {
           "name": "Market Breadth",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: -1.3%"
+          "detail": "NDX-SPX divergence: -1.4%"
         }
       ],
       "recommendation": "Elevated risk. Consider tightening stops."
@@ -101,7 +101,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+9.7% vs 200-day MA"
+          "detail": "+9.6% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,7 +115,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "60d: +10.7%, 30d: -3.5%"
+          "detail": "60d: +10.7%, 30d: -3.6%"
         },
         {
           "name": "Volatility Spike",
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-12.4% vs 200-day MA"
+          "detail": "-12.5% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,14 +150,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -11.8%, 30d: -2.7%"
+          "detail": "60d gain: -11.8%, 30d: -2.8%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -17.4%, NDX: +6.9%"
+          "detail": "BTC: -17.5%, NDX: +6.7%"
         },
         {
           "name": "Drawdown from ATH",
