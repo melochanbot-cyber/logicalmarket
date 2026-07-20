@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-20T17:22:46Z",
+  "updatedAt": "2026-07-20T19:11:58Z",
   "barometers": {
     "gold": {
-      "score": 45,
-      "level": "CAUTION",
+      "score": 30,
+      "level": "LOW",
       "signals": [
         {
           "name": "COT Positioning (Proxy)",
@@ -24,14 +24,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-6.7% above 50-day MA"
+          "detail": "-6.8% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
-          "triggered": true,
-          "points": 15,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 15,
-          "detail": "+2.0% vs 200-MA, rising"
+          "detail": "+1.9% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
@@ -41,7 +41,7 @@
           "detail": "20-day volatility: 1.47%"
         }
       ],
-      "recommendation": "Elevated risk. Monitor closely, prepare hedges."
+      "recommendation": "Normal conditions. Maintain trend-following positions."
     },
     "sp500": {
       "score": 35,
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 18.1 (threshold: 25)"
+          "detail": "VIX at 18.3 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -66,14 +66,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "+6.8% vs 200-day MA"
+          "detail": "+6.6% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +20.2%"
+          "detail": "VIX 1-week change: +21.9%"
         },
         {
           "name": "Market Breadth",
@@ -94,14 +94,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 18.1"
+          "detail": "VIX at 18.3"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+7.3% vs 200-day MA"
+          "detail": "+7.0% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: +5.2%, 30d: -0.3%"
+          "detail": "60d: +5.2%, 30d: -0.6%"
         },
         {
           "name": "Volatility Spike",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "20-day vol: 1.19%"
+          "detail": "20-day vol: 1.21%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-10.3% vs 200-day MA"
+          "detail": "-10.7% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.06%"
+          "detail": "30-day volatility: 3.04%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -19.1%, 30d: +3.5%"
+          "detail": "60d gain: -19.1%, 30d: +3.0%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -13.3%, NDX: +4.9%"
+          "detail": "BTC: -13.7%, NDX: +4.6%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-47.5% from all-time high"
+          "detail": "-47.8% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
