@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-20T20:41:28Z",
+  "updatedAt": "2026-07-20T21:48:52Z",
   "barometers": {
     "gold": {
-      "score": 30,
-      "level": "LOW",
+      "score": 45,
+      "level": "CAUTION",
       "signals": [
         {
           "name": "COT Positioning (Proxy)",
@@ -28,10 +28,10 @@
         },
         {
           "name": "DXY Breakout",
-          "triggered": false,
-          "points": 0,
+          "triggered": true,
+          "points": 15,
           "maxPoints": 15,
-          "detail": "+2.0% vs 200-MA, falling"
+          "detail": "+2.0% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
@@ -41,7 +41,7 @@
           "detail": "20-day volatility: 1.47%"
         }
       ],
-      "recommendation": "Normal conditions. Maintain trend-following positions."
+      "recommendation": "Elevated risk. Monitor closely, prepare hedges."
     },
     "sp500": {
       "score": 35,
@@ -143,7 +143,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.04%"
+          "detail": "30-day volatility: 3.05%"
         },
         {
           "name": "Momentum Exhaustion",
