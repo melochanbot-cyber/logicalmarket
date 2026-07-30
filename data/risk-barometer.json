@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T22:40:53Z",
+  "updatedAt": "2026-07-30T23:10:28Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-1.1% above 50-day MA"
+          "detail": "-1.0% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.35%"
+          "detail": "20-day volatility: 1.36%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
