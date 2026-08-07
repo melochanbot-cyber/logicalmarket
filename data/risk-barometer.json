@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:22:24Z",
+  "updatedAt": "2026-08-07T12:09:20Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.42%"
+          "detail": "20-day volatility: 2.41%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -10.9%"
+          "detail": "VIX 1-week change: -11.2%"
         },
         {
           "name": "Market Breadth",
