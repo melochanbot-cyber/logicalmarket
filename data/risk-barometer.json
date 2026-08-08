@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:32:04Z",
+  "updatedAt": "2026-08-08T23:31:32Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -150,21 +150,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -21.5%, 30d: +1.3%"
+          "detail": "60d gain: -21.5%, 30d: +1.2%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +5.7%, NDX: +1.1%"
+          "detail": "BTC: +5.6%, NDX: +1.1%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-47.9% from all-time high"
+          "detail": "-48.0% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
