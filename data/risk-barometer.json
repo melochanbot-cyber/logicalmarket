@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T04:59:39Z",
+  "updatedAt": "2026-08-08T05:51:04Z",
   "barometers": {
     "gold": {
       "score": 30,
@@ -59,7 +59,7 @@
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "10Y-2Y spread: 0.10% "
+          "detail": "10Y-2Y spread: 0.09% "
         },
         {
           "name": "MA Overextension",
