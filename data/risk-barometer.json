@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T23:37:25Z",
+  "updatedAt": "2026-08-11T01:57:31Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,21 +24,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+6.9% above 50-day MA"
+          "detail": "+7.6% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
-          "triggered": true,
-          "points": 15,
-          "maxPoints": 15,
-          "detail": "+0.6% vs 200-MA, rising"
-        },
-        {
-          "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.96%"
+          "detail": "+0.6% vs 200-MA, falling"
+        },
+        {
+          "name": "Volatility Extreme",
+          "triggered": true,
+          "points": 15,
+          "maxPoints": 15,
+          "detail": "20-day volatility: 3.32%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-8.7% vs 200-day MA"
+          "detail": "-8.6% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,21 +150,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -19.6%, 30d: +0.2%"
+          "detail": "60d gain: -19.6%, 30d: +0.4%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +0.5%, NDX: -0.1%"
+          "detail": "BTC: +0.7%, NDX: -0.1%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-48.8% from all-time high"
+          "detail": "-48.7% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
