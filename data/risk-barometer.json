@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T22:43:35Z",
+  "updatedAt": "2026-08-12T23:44:56Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -13,18 +13,18 @@
           "detail": "Price at 91th percentile (5yr)"
         },
         {
-          "name": "Real Yields Surge",
+          "name": "Real Yields",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "4-week change: +2bps (current: 0.47%)"
+          "detail": "Data unavailable: Insufficient yield data"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+7.1% above 50-day MA"
+          "detail": "+7.3% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 3.49%"
+          "detail": "20-day volatility: 3.51%"
         }
       ],
       "recommendation": "High risk. Consider reducing exposure by 25-50%."
@@ -101,7 +101,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+10.1% vs 200-day MA"
+          "detail": "+10.3% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -0.2%, 30d: +2.1%"
+          "detail": "60d: -4.2%, 30d: +5.1%"
         },
         {
           "name": "Volatility Spike",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "20-day vol: 2.68%"
+          "detail": "20-day vol: 2.70%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
