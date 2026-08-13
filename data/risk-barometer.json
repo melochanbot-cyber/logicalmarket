@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T23:44:56Z",
+  "updatedAt": "2026-08-13T02:12:23Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -13,11 +13,11 @@
           "detail": "Price at 91th percentile (5yr)"
         },
         {
-          "name": "Real Yields",
+          "name": "Real Yields Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "Data unavailable: Insufficient yield data"
+          "detail": "4-week change: +2bps (current: 0.47%)"
         },
         {
           "name": "MA Overextension",
@@ -101,7 +101,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+10.3% vs 200-day MA"
+          "detail": "+10.1% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -4.2%, 30d: +5.1%"
+          "detail": "60d: -0.2%, 30d: +2.1%"
         },
         {
           "name": "Volatility Spike",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "20-day vol: 2.70%"
+          "detail": "20-day vol: 2.68%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-9.2% vs 200-day MA"
+          "detail": "-9.1% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,14 +150,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -17.8%, 30d: -2.5%"
+          "detail": "60d gain: -17.8%, 30d: -2.4%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -3.6%, NDX: +1.9%"
+          "detail": "BTC: -3.5%, NDX: +1.9%"
         },
         {
           "name": "Drawdown from ATH",
