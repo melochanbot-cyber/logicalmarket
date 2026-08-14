@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:42:25Z",
+  "updatedAt": "2026-08-14T21:03:27Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -13,11 +13,11 @@
           "detail": "Price at 92th percentile (5yr)"
         },
         {
-          "name": "Real Yields",
+          "name": "Real Yields Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "Data unavailable: Insufficient yield data"
+          "detail": "4-week change: +1bps (current: 0.47%)"
         },
         {
           "name": "MA Overextension",
@@ -108,7 +108,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "4-week yield change: +0bps"
+          "detail": "4-week yield change: +1bps"
         },
         {
           "name": "Momentum Reversal",
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -4.2%, NDX: +1.7%"
+          "detail": "BTC: -4.2%, NDX: +1.9%"
         },
         {
           "name": "Drawdown from ATH",
