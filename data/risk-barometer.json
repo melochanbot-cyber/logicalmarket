@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T23:48:39Z",
+  "updatedAt": "2026-08-15T01:23:14Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -31,7 +31,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+0.4% vs 200-MA, falling"
+          "detail": "+0.5% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
@@ -66,7 +66,7 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "+10.0% vs 200-day MA"
+          "detail": "+10.2% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
@@ -80,7 +80,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: -1.5%"
+          "detail": "NDX-SPX divergence: -2.1%"
         }
       ],
       "recommendation": "Elevated risk. Consider tightening stops."
@@ -108,7 +108,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "4-week yield change: +1bps"
+          "detail": "4-week yield change: +0bps"
         },
         {
           "name": "Momentum Reversal",
