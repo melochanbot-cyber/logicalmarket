@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:53:32Z",
+  "updatedAt": "2026-08-16T10:25:50Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -157,14 +157,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +0.1%, NDX: +1.7%"
+          "detail": "BTC: +0.0%, NDX: +1.7%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-49.5% from all-time high"
+          "detail": "-49.6% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
