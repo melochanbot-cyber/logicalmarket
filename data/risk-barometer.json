@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:53:51Z",
+  "updatedAt": "2026-08-16T06:43:15Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -66,7 +66,7 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "+10.2% vs 200-day MA"
+          "detail": "+10.0% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
@@ -80,7 +80,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: -2.1%"
+          "detail": "NDX-SPX divergence: -1.5%"
         }
       ],
       "recommendation": "Elevated risk. Consider tightening stops."
