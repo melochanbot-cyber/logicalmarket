@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:45:58Z",
+  "updatedAt": "2026-08-16T01:34:18Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-9.1% vs 200-day MA"
+          "detail": "-9.2% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -2.1%, NDX: +1.7%"
+          "detail": "BTC: -2.2%, NDX: +1.7%"
         },
         {
           "name": "Drawdown from ATH",
