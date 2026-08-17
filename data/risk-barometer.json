@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T16:48:26Z",
+  "updatedAt": "2026-08-17T17:13:19Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 15.0 (threshold: 25)"
+          "detail": "VIX at 15.2 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -73,14 +73,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +0.8%"
+          "detail": "VIX 1-week change: +1.9%"
         },
         {
           "name": "Market Breadth",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: +1.2%"
+          "detail": "NDX-SPX divergence: +1.1%"
         }
       ],
       "recommendation": "Elevated risk. Consider tightening stops."
@@ -94,14 +94,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 15.0"
+          "detail": "VIX at 15.2"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+10.4% vs 200-day MA"
+          "detail": "+10.3% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,7 +115,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -1.8%, 30d: +3.5%"
+          "detail": "60d: -1.8%, 30d: +3.4%"
         },
         {
           "name": "Volatility Spike",
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "-7.4% vs 200-day MA"
+          "detail": "-7.5% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,14 +150,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -16.5%, 30d: -1.0%"
+          "detail": "60d gain: -16.5%, 30d: -1.1%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +0.8%, NDX: +1.6%"
+          "detail": "BTC: +0.7%, NDX: +1.5%"
         },
         {
           "name": "Drawdown from ATH",
