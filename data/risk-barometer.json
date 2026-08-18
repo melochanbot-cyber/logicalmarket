@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:02:31Z",
+  "updatedAt": "2026-08-18T21:33:56Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -13,25 +13,25 @@
           "detail": "Price at 92th percentile (5yr)"
         },
         {
-          "name": "Real Yields",
+          "name": "Real Yields Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "Data unavailable: Insufficient yield data"
+          "detail": "4-week change: +1bps (current: 0.47%)"
         },
         {
           "name": "MA Overextension",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+5.5% above 50-day MA"
+          "detail": "+5.6% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+0.5% vs 200-MA, falling"
+          "detail": "+0.4% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
@@ -164,7 +164,7 @@
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-48.3% from all-time high"
+          "detail": "-48.2% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
