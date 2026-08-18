@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T23:24:27Z",
+  "updatedAt": "2026-08-18T23:48:09Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+5.5% above 50-day MA"
+          "detail": "+5.4% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 3.66%"
+          "detail": "20-day volatility: 3.65%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -66,7 +66,7 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "+8.7% vs 200-day MA"
+          "detail": "+8.6% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
@@ -164,7 +164,7 @@
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-48.2% from all-time high"
+          "detail": "-48.1% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
