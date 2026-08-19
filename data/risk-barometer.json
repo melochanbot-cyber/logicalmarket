@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T04:39:42Z",
+  "updatedAt": "2026-08-19T05:32:52Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,21 +24,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+5.9% above 50-day MA"
+          "detail": "+5.7% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+0.4% vs 200-MA, falling"
+          "detail": "+0.3% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 3.74%"
+          "detail": "20-day volatility: 3.73%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -66,21 +66,21 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "+9.6% vs 200-day MA"
+          "detail": "+8.6% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +2.5%"
+          "detail": "VIX 1-week change: -1.7%"
         },
         {
           "name": "Market Breadth",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: +1.0%"
+          "detail": "NDX-SPX divergence: +1.7%"
         }
       ],
       "recommendation": "Elevated risk. Consider tightening stops."
@@ -101,28 +101,28 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+10.3% vs 200-day MA"
+          "detail": "+8.6% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "4-week yield change: +0bps"
+          "detail": "4-week yield change: +1bps"
         },
         {
           "name": "Momentum Reversal",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -0.2%, 30d: +2.3%"
+          "detail": "60d: -1.8%, 30d: +1.6%"
         },
         {
           "name": "Volatility Spike",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "20-day vol: 2.97%"
+          "detail": "20-day vol: 2.99%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -153,11 +153,11 @@
           "detail": "60d gain: -15.9%, 30d: -1.4%"
         },
         {
-          "name": "Correlation",
+          "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "Data unavailable: Insufficient data"
+          "detail": "BTC: +0.1%, NDX: -0.2%"
         },
         {
           "name": "Drawdown from ATH",
