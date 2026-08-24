@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T10:39:12Z",
+  "updatedAt": "2026-08-24T11:30:57Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -24,7 +24,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+12.2% above 50-day MA"
+          "detail": "+12.3% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 15.9 (threshold: 25)"
+          "detail": "VIX at 16.0 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +11.7%"
+          "detail": "VIX 1-week change: +12.3%"
         },
         {
           "name": "Market Breadth",
@@ -94,7 +94,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 15.9"
+          "detail": "VIX at 16.0"
         },
         {
           "name": "MA Overextension",
@@ -143,14 +143,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 7.58%"
+          "detail": "30-day volatility: 7.57%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -12.1%, 30d: +19.2%"
+          "detail": "60d gain: -12.1%, 30d: +19.1%"
         },
         {
           "name": "Risk-Off Correlation",
