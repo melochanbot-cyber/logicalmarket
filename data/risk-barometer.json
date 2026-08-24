@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:29:01Z",
+  "updatedAt": "2026-08-24T22:55:43Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -38,7 +38,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "20-day volatility: 4.68%"
+          "detail": "20-day volatility: 4.69%"
         }
       ],
       "recommendation": "High risk. Consider reducing exposure by 25-50%."
