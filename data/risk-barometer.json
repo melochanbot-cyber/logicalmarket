@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T09:11:56Z",
+  "updatedAt": "2026-08-26T10:05:54Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -24,7 +24,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+11.5% above 50-day MA"
+          "detail": "+11.4% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+14.0% vs 200-day MA"
+          "detail": "+13.2% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "30-day volatility: 8.87%"
+          "detail": "30-day volatility: 8.83%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -12.9%, 30d: +23.4%"
+          "detail": "60d gain: -12.9%, 30d: +22.6%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +32.4%, NDX: -3.5%"
+          "detail": "BTC: +31.6%, NDX: -3.5%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-36.8% from all-time high"
+          "detail": "-37.2% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
