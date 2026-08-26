@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T11:56:35Z",
+  "updatedAt": "2026-08-26T13:05:10Z",
   "barometers": {
     "gold": {
       "score": 60,
@@ -17,7 +17,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "4-week change: +1bps (current: 0.46%)"
+          "detail": "4-week change: +1bps (current: 0.47%)"
         },
         {
           "name": "MA Overextension",
@@ -31,7 +31,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-0.2% vs 200-MA, falling"
+          "detail": "-0.1% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
@@ -59,7 +59,7 @@
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "10Y-2Y spread: 0.09% "
+          "detail": "10Y-2Y spread: 0.10% "
         },
         {
           "name": "MA Overextension",
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: -0.9%"
+          "detail": "VIX 1-week change: -1.1%"
         },
         {
           "name": "Market Breadth",
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+13.5% vs 200-day MA"
+          "detail": "+13.0% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": true,
           "points": 25,
           "maxPoints": 25,
-          "detail": "30-day volatility: 8.84%"
+          "detail": "30-day volatility: 8.81%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: -12.9%, 30d: +23.0%"
+          "detail": "60d gain: -12.9%, 30d: +22.4%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +31.9%, NDX: -3.5%"
+          "detail": "BTC: +31.3%, NDX: -3.5%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-37.0% from all-time high"
+          "detail": "-37.3% from all-time high"
         }
       ],
       "recommendation": "Elevated risk. Consider taking profits on leveraged positions."
