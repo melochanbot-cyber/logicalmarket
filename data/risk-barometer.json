@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:32:07Z",
+  "updatedAt": "2026-09-16T00:02:39Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.63%"
+          "detail": "20-day volatility: 2.64%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+7.6% vs 200-day MA"
+          "detail": "+7.5% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -164,7 +164,7 @@
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-39.4% from all-time high"
+          "detail": "-39.5% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
