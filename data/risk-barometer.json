@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T20:24:07Z",
+  "updatedAt": "2026-09-29T00:28:07Z",
   "barometers": {
     "gold": {
       "score": 45,
@@ -24,21 +24,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-4.7% above 50-day MA"
+          "detail": "-4.8% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+2.0% vs 200-MA, rising"
+          "detail": "+2.1% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.87%"
+          "detail": "20-day volatility: 1.89%"
         }
       ],
       "recommendation": "Elevated risk. Monitor closely, prepare hedges."
