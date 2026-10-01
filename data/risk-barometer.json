@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T19:18:36Z",
+  "updatedAt": "2026-10-01T23:15:15Z",
   "barometers": {
     "gold": {
       "score": 15,
@@ -31,7 +31,7 @@
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+2.9% vs 200-MA, rising"
+          "detail": "+2.8% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
@@ -66,7 +66,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "+6.3% vs 200-day MA"
+          "detail": "+6.2% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
@@ -80,7 +80,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "NDX-SPX divergence: +2.7%"
+          "detail": "NDX-SPX divergence: +2.2%"
         }
       ],
       "recommendation": "Normal market conditions. Continue systematic strategies."
@@ -101,7 +101,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+9.0% vs 200-day MA"
+          "detail": "+8.8% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: -0.5%, 30d: +3.3%"
+          "detail": "60d: -0.5%, 30d: +3.1%"
         },
         {
           "name": "Volatility Spike",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "20-day vol: 1.46%"
+          "detail": "20-day vol: 1.45%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+18.8% vs 200-day MA"
+          "detail": "+18.7% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,21 +150,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +22.5%, 30d: +9.6%"
+          "detail": "60d gain: +22.5%, 30d: +9.5%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +33.5%, NDX: +2.7%"
+          "detail": "BTC: +33.4%, NDX: +2.5%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-32.1% from all-time high"
+          "detail": "-32.2% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
