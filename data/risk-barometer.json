@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T00:59:23Z",
+  "updatedAt": "2026-10-03T06:22:07Z",
   "barometers": {
     "gold": {
       "score": 15,
@@ -10,7 +10,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "Price at 85th percentile (5yr)"
+          "detail": "Price at 84th percentile (5yr)"
         },
         {
           "name": "Real Yields Surge",
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-4.5% above 50-day MA"
+          "detail": "-4.7% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.35%"
+          "detail": "20-day volatility: 2.37%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
@@ -150,7 +150,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +27.9%, 30d: +4.1%"
+          "detail": "60d gain: +27.9%, 30d: +4.2%"
         },
         {
           "name": "Risk-Off Correlation",
@@ -164,7 +164,7 @@
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-32.2% from all-time high"
+          "detail": "-32.1% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
