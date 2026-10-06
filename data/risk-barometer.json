@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T01:48:59Z",
+  "updatedAt": "2026-10-06T02:06:54Z",
   "barometers": {
     "gold": {
       "score": 15,
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-4.7% above 50-day MA"
+          "detail": "-4.8% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.40%"
+          "detail": "20-day volatility: 2.46%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+19.7% vs 200-day MA"
+          "detail": "+19.5% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 4.47%"
+          "detail": "30-day volatility: 4.46%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +29.1%, 30d: +6.7%"
+          "detail": "60d gain: +29.1%, 30d: +6.5%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +32.1%, NDX: +6.2%"
+          "detail": "BTC: +31.9%, NDX: +6.2%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-31.3% from all-time high"
+          "detail": "-31.4% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
