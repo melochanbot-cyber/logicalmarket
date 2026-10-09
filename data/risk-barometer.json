@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T23:58:00Z",
+  "updatedAt": "2026-10-09T01:49:47Z",
   "barometers": {
     "gold": {
-      "score": 45,
-      "level": "CAUTION",
+      "score": 30,
+      "level": "LOW",
       "signals": [
         {
           "name": "COT Positioning (Proxy)",
@@ -24,24 +24,24 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-4.8% above 50-day MA"
+          "detail": "-4.1% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
-          "triggered": true,
-          "points": 15,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 15,
-          "detail": "+2.8% vs 200-MA, rising"
+          "detail": "+2.7% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.41%"
+          "detail": "20-day volatility: 2.38%"
         }
       ],
-      "recommendation": "Elevated risk. Monitor closely, prepare hedges."
+      "recommendation": "Normal conditions. Maintain trend-following positions."
     },
     "sp500": {
       "score": 25,
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+13.7% vs 200-day MA"
+          "detail": "+14.1% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,21 +150,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +22.7%, 30d: +4.3%"
+          "detail": "60d gain: +22.7%, 30d: +4.6%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +27.7%, NDX: +5.1%"
+          "detail": "BTC: +28.1%, NDX: +5.1%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": true,
           "points": 10,
           "maxPoints": 10,
-          "detail": "-33.8% from all-time high"
+          "detail": "-32.7% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
