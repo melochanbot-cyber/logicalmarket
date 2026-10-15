@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-15T21:18:05Z",
+  "updatedAt": "2026-10-15T23:42:52Z",
   "barometers": {
     "gold": {
-      "score": 30,
+      "score": 0,
       "level": "LOW",
       "signals": [
         {
           "name": "COT Positioning (Proxy)",
-          "triggered": true,
-          "points": 30,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 30,
-          "detail": "Price at 86th percentile (5yr)"
+          "detail": "Price at 85th percentile (5yr)"
         },
         {
           "name": "Real Yields Surge",
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-4.2% above 50-day MA"
+          "detail": "-4.4% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 2.16%"
+          "detail": "20-day volatility: 2.17%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+13.5% vs 200-day MA"
+          "detail": "+13.6% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -157,7 +157,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +27.2%, NDX: +6.3%"
+          "detail": "BTC: +27.3%, NDX: +6.3%"
         },
         {
           "name": "Drawdown from ATH",
