@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T17:05:25Z",
+  "updatedAt": "2026-10-19T19:40:42Z",
   "barometers": {
     "gold": {
       "score": 0,
@@ -10,7 +10,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "Price at 84th percentile (5yr)"
+          "detail": "Price at 85th percentile (5yr)"
         },
         {
           "name": "Real Yields Surge",
@@ -24,7 +24,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-4.8% above 50-day MA"
+          "detail": "-4.7% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
@@ -66,7 +66,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "+5.8% vs 200-day MA"
+          "detail": "+5.9% vs 200-day MA"
         },
         {
           "name": "Hedging Surge",
@@ -101,7 +101,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "+6.2% vs 200-day MA"
+          "detail": "+6.3% vs 200-day MA"
         },
         {
           "name": "Rate Surge",
@@ -115,14 +115,14 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "60d: +6.0%, 30d: +0.2%"
+          "detail": "60d: +6.0%, 30d: +0.3%"
         },
         {
           "name": "Volatility Spike",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "20-day vol: 1.36%"
+          "detail": "20-day vol: 1.35%"
         }
       ],
       "recommendation": "Normal conditions for growth/tech."
@@ -143,21 +143,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 1.92%"
+          "detail": "30-day volatility: 1.93%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": false,
           "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +22.8%, 30d: +1.0%"
+          "detail": "60d gain: +22.8%, 30d: +0.9%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +4.6%, NDX: +6.2%"
+          "detail": "BTC: +4.6%, NDX: +6.3%"
         },
         {
           "name": "Drawdown from ATH",
