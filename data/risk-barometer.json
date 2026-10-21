@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T00:26:09Z",
+  "updatedAt": "2026-10-21T05:10:57Z",
   "barometers": {
     "gold": {
       "score": 0,
@@ -10,7 +10,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "Price at 84th percentile (5yr)"
+          "detail": "Price at 83th percentile (5yr)"
         },
         {
           "name": "Real Yields Surge",
@@ -38,7 +38,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.38%"
+          "detail": "20-day volatility: 1.20%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+14.4% vs 200-day MA"
+          "detail": "+14.0% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,21 +150,21 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "60d gain: +33.1%, 30d: -4.0%"
+          "detail": "60d gain: +33.1%, 30d: -4.4%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: +7.8%, NDX: +6.2%"
+          "detail": "BTC: +7.5%, NDX: +6.2%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "-27.4% from all-time high"
+          "detail": "-27.6% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
