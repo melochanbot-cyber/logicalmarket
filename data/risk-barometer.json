@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:48:37Z",
+  "updatedAt": "2026-11-01T00:47:54Z",
   "barometers": {
     "gold": {
       "score": 15,
@@ -128,7 +128,7 @@
       "recommendation": "Normal conditions for growth/tech."
     },
     "bitcoin": {
-      "score": 30,
+      "score": 20,
       "level": "LOW",
       "signals": [
         {
@@ -136,7 +136,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+5.9% vs 200-day MA"
+          "detail": "+6.0% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
@@ -150,7 +150,7 @@
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "60d gain: +33.1%, 30d: -8.4%"
+          "detail": "60d gain: +33.1%, 30d: -8.3%"
         },
         {
           "name": "Risk-Off Correlation",
@@ -161,8 +161,8 @@
         },
         {
           "name": "Drawdown from ATH",
-          "triggered": true,
-          "points": 10,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 10,
           "detail": "-30.0% from all-time high"
         }
