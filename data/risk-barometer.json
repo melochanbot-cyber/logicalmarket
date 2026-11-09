@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T01:30:08Z",
+  "updatedAt": "2026-11-09T08:36:52Z",
   "barometers": {
     "gold": {
       "score": 15,
@@ -24,35 +24,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-2.5% above 50-day MA"
+          "detail": "-2.8% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": true,
           "points": 15,
           "maxPoints": 15,
-          "detail": "+2.4% vs 200-MA, rising"
+          "detail": "+2.2% vs 200-MA, rising"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.96%"
+          "detail": "20-day volatility: 1.95%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
     },
     "sp500": {
-      "score": 80,
-      "level": "DANGER",
+      "score": 35,
+      "level": "CAUTION",
       "signals": [
         {
           "name": "VIX Elevated",
-          "triggered": true,
-          "points": 30,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 25.6 (threshold: 25)"
+          "detail": "VIX at 24.8 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -70,10 +70,10 @@
         },
         {
           "name": "Hedging Surge",
-          "triggered": true,
-          "points": 15,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +49.1%"
+          "detail": "VIX 1-week change: +27.4%"
         },
         {
           "name": "Market Breadth",
@@ -83,18 +83,18 @@
           "detail": "NDX-SPX divergence: -6.8%"
         }
       ],
-      "recommendation": "Extreme risk. Consider significant hedging."
+      "recommendation": "Elevated risk. Consider tightening stops."
     },
     "nasdaq": {
-      "score": 40,
-      "level": "CAUTION",
+      "score": 10,
+      "level": "LOW",
       "signals": [
         {
           "name": "VIX Elevated",
-          "triggered": true,
-          "points": 30,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 25.6"
+          "detail": "VIX at 24.8"
         },
         {
           "name": "MA Overextension",
@@ -125,10 +125,10 @@
           "detail": "20-day vol: 3.01%"
         }
       ],
-      "recommendation": "Elevated risk. Monitor rate-sensitive positions."
+      "recommendation": "Normal conditions for growth/tech."
     },
     "bitcoin": {
-      "score": 20,
+      "score": 30,
       "level": "LOW",
       "signals": [
         {
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+2.0% vs 200-day MA"
+          "detail": "+1.4% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.33%"
+          "detail": "30-day volatility: 3.53%"
         },
         {
           "name": "Momentum Exhaustion",
           "triggered": true,
           "points": 20,
           "maxPoints": 20,
-          "detail": "60d gain: +30.5%, 30d: -10.0%"
+          "detail": "60d gain: +32.0%, 30d: -11.4%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -2.5%, NDX: -8.0%"
+          "detail": "BTC: -3.9%, NDX: -8.0%"
         },
         {
           "name": "Drawdown from ATH",
-          "triggered": false,
-          "points": 0,
+          "triggered": true,
+          "points": 10,
           "maxPoints": 10,
-          "detail": "-29.6% from all-time high"
+          "detail": "-30.0% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
