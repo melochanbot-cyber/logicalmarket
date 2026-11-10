@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:59:03Z",
+  "updatedAt": "2026-11-10T12:28:07Z",
   "barometers": {
     "gold": {
       "score": 0,
@@ -10,7 +10,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "Price at 84th percentile (5yr)"
+          "detail": "Price at 82th percentile (5yr)"
         },
         {
           "name": "Real Yields Surge",
@@ -24,21 +24,21 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "-2.2% above 50-day MA"
+          "detail": "-3.1% above 50-day MA"
         },
         {
           "name": "DXY Breakout",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "+1.9% vs 200-MA, falling"
+          "detail": "+2.0% vs 200-MA, falling"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "20-day volatility: 1.89%"
+          "detail": "20-day volatility: 1.87%"
         }
       ],
       "recommendation": "Normal conditions. Maintain trend-following positions."
@@ -52,7 +52,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 19.9 (threshold: 25)"
+          "detail": "VIX at 20.1 (threshold: 25)"
         },
         {
           "name": "Yield Curve",
@@ -73,7 +73,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "VIX 1-week change: +2.6%"
+          "detail": "VIX 1-week change: -5.2%"
         },
         {
           "name": "Market Breadth",
@@ -94,7 +94,7 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "VIX at 19.9"
+          "detail": "VIX at 20.1"
         },
         {
           "name": "MA Overextension",
@@ -128,7 +128,7 @@
       "recommendation": "Normal conditions for growth/tech."
     },
     "bitcoin": {
-      "score": 20,
+      "score": 0,
       "level": "LOW",
       "signals": [
         {
@@ -136,35 +136,35 @@
           "triggered": false,
           "points": 0,
           "maxPoints": 30,
-          "detail": "+1.8% vs 200-day MA"
+          "detail": "+1.4% vs 200-day MA"
         },
         {
           "name": "Volatility Extreme",
           "triggered": false,
           "points": 0,
           "maxPoints": 25,
-          "detail": "30-day volatility: 3.51%"
+          "detail": "30-day volatility: 3.56%"
         },
         {
           "name": "Momentum Exhaustion",
-          "triggered": true,
-          "points": 20,
+          "triggered": false,
+          "points": 0,
           "maxPoints": 20,
-          "detail": "60d gain: +32.0%, 30d: -11.0%"
+          "detail": "60d gain: +29.0%, 30d: -9.3%"
         },
         {
           "name": "Risk-Off Correlation",
           "triggered": false,
           "points": 0,
           "maxPoints": 15,
-          "detail": "BTC: -3.5%, NDX: -5.2%"
+          "detail": "BTC: -4.0%, NDX: -5.2%"
         },
         {
           "name": "Drawdown from ATH",
           "triggered": false,
           "points": 0,
           "maxPoints": 10,
-          "detail": "-29.8% from all-time high"
+          "detail": "-30.0% from all-time high"
         }
       ],
       "recommendation": "Normal crypto conditions. Maintain positions."
